@@ -1,0 +1,1741 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scenarios>
+	<scenario author="permanent666" filename="Asslt Bloody Omaha QB.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=1541</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Mark Ezra" filename="Asslt Large City QB-233.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Asslt Large City QB-234.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Asslt Large Forest (bocage) QB-120.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Asslt Large Forest (bocage) QB-253.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Asslt Large Forest (water) QB-145.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Asslt Large Forest (water) QB-211.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Asslt Large Forest (water) QB-214.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Asslt large Forest QB-146.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Asslt Large Forest QB-148.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Asslt Large Hills (water-damage) QB-024.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Asslt Large Hills QB-034.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Asslt Large Hills QB-121.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Asslt Large Hills QB-208.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Asslt Large Hills QB-209.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Asslt Large Hills QB-219.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Asslt Large Hills QB-252.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Asslt Large Hills QB-263.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Asslt large Open QB-015.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Asslt Large Open QB-032.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Asslt Large Open QB-041.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Asslt Large Open QB-060.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Asslt Large Open QB-062.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Asslt Large Open QB-096.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Asslt Large Open QB-122.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Asslt Large Open QB-125.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Asslt Large Open QB-207.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Asslt Large Open QB-210.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Asslt Large Rough (bocage) QB-020.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Asslt Large Rough (bocage) QB-023.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Asslt Large Rough (bocage) QB-080.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Asslt Large Rough (bocage) QB-109.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Asslt Large Rough (bocage) QB-127.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Asslt Large Rough (bocage) QB-212.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Asslt Large Rough (bocage-water) QB-025.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Asslt Large Rough (bocage-water-damage) QB-131.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Asslt Large Rough QB-028.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Asslt Large Town (bocage-water) QB-248.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Asslt Large Town (water) QB-273.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Asslt Large Town (water) QB-274.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Asslt Large Town QB-206.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Asslt Large Town QB-213.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Asslt Large Town QB-218.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Asslt Large Town QB-254.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Asslt Large Village (bocage) QB-075.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Asslt Large Village (bocage) QB-077.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Asslt Large Village (water) QB-259.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Asslt Large Village QB-094.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Asslt Med City (damage) QB-114.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Asslt Med City (damage) QB-157.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Asslt Med City (damage) QB-229.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Asslt Med City (water) QB-046.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Asslt Med City (water) QB-052.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Asslt Med City (water-damage) QB-113.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Asslt Med City QB-004.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Asslt Med City QB-048.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Asslt Med City QB-223.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Asslt Med Forest (water) QB-026.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Asslt Med Forest (water) QB-107.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Asslt Med Forest QB-090.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Asslt Med Forest QB-149.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Asslt Med Hills (water) QB-246.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Asslt Med Hills (water) QB-272.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Asslt Med Hills (water) QB-288.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Asslt Med Hills QB-005.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Asslt Med Hills QB-017.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Asslt Med Hills QB-035.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Asslt Med Hills QB-043.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Asslt Med Hills QB-055.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Asslt Med Hills QB-138.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Asslt Med Hills QB-155.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Asslt Med Hills QB-260.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Asslt Med Hills QB-284.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Asslt Med Open (bocage) QB-066.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Asslt Med Open QB-061.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Asslt Med Open QB-240.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Asslt Med Open QB-247.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Asslt Med Rough (bocage) QB-003.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Asslt Med Rough (bocage) QB-018.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Asslt Med Rough (bocage) QB-103.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Asslt Med Rough (bocage) QB-244.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Asslt Med Rough (bocage) QB-249.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Asslt Med Rough (bocage) QB-251.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Asslt Med Rough QB-295.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Asslt Med Town (damage) QB-115.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Asslt Med Town (water) QB-012.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Asslt Med Town (water) QB-101.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Asslt Med Town QB-009.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Asslt Med Village (bocage) QB-095.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Asslt Med Village (bocage) QB-144.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Asslt Med Village (water) QB-076.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Asslt Med Village (water) QB-079.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Asslt Med Village QB-006.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Asslt Med Village QB-011.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Asslt Med Village QB-059.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Asslt Med Village QB-064.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Asslt Med Village QB-105.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Asslt Med Village QB-202.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Asslt Med Village QB-205.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Asslt Med Village QB-286.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Asslt Small City QB-047.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Asslt Small City QB-110.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Asslt Small City QB-230.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Asslt Small Forest (water) QB-256.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Asslt Small Forest QB-087.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Asslt Small Forest QB-088.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Asslt Small Forest QB-089.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Asslt Small Forest QB-102.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Asslt Small Forest QB-265.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Asslt Small Forest QB-280.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Asslt Small Hills (water) QB-044.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Asslt Small Hills QG-269.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Asslt Small Open (bocage) QB-029.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Asslt Small Open (bocage) QB-068.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Asslt Small Open (bocage) QB-222.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Asslt Small Open (bocage) QB-241.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Asslt Small Open (water) QB-296.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Asslt Small Open QB-239.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Asslt Small Open QB-282.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Asslt Small Rough (bocage) QB-027.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Asslt Small Rough (bocage) QB-050.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Asslt Small Rough (bocage) QB-053.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Asslt Small Rough (bocage) QB-081.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Asslt Small Rough (bocage-water) QB-031.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Asslt Small Rough (water) QB-224.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Asslt Small Rough (water) QB-276.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Asslt Small Town QB-013.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Asslt Small Town QB-056.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Asslt Small Town QB-130.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Asslt Small Town QB-237.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Asslt Small Town QB-290.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Asslt Small Village (bocage) QB-037.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Asslt Small Village (bocage) QB-070.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Asslt Small Village (bocage) QB-071.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Asslt Small Village (bocage) QB-261.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Asslt Small Village (water) QB-235.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Asslt Small Village QB-267.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Asslt Small Village QB-278.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Asslt Small Village QB-293.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Attk Large City QB-233.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Attk Large City QB-234.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Attk Large Forest (bocage) QB-120.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Attk Large Forest (bocage) QB-253.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Attk Large Forest (water) QB-145.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Attk Large Forest (water) QB-211.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Attk Large Forest (water) QB-214.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Attk Large Forest QB-146.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Attk Large Forest QB-148.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Attk Large Hills (water-damage) QB-024.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Attk Large Hills QB-034.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Attk Large Hills QB-121.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Attk Large Hills QB-208.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Attk Large Hills QB-209.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Attk Large Hills QB-219.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Attk Large Hills QB-252.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Attk Large Hills QB-263.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Attk Large Open QB-015.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Attk Large Open QB-032.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Attk Large Open QB-041.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Attk Large Open QB-060.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Attk Large Open QB-062.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Attk Large Open QB-096.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Attk Large Open QB-122.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Attk Large Open QB-125.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Attk Large Open QB-207.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Attk Large Open QB-210.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Attk Large Rough (bocage) QB-020.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Attk Large Rough (bocage) QB-023.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Attk Large Rough (bocage) QB-080.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Attk Large Rough (bocage) QB-109.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Attk Large Rough (bocage) QB-127.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Attk Large Rough (bocage) QB-212.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Attk Large Rough (bocage-water) QB-025.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Attk Large Rough (bocage-water-damage) QB-131.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Attk Large Rough QB-028.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Attk Large Town (bocage-water) QB-248.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Attk Large Town (water) QB-273.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Attk Large Town (water) QB-274.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Attk Large Town QB-206.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Attk Large Town QB-213.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Attk Large Town QB-218.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Attk Large Town QB-254.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Attk Large Village (bocage) QB-075.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Attk Large Village (bocage) QB-077.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Attk Large Village (water) QB-259.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Attk Large Village QB-094.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Attk Med City (damage) QB-114.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Attk Med City (damage) QB-157.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Attk Med City (damage) QB-229.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Attk Med City (water) QB-046.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Attk Med City (water) QB-052.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Attk Med City (water-damage) QB-113.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Attk Med City QB-004.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Attk Med City QB-048.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Attk Med City QB-223.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Attk Med Forest (water) QB-026.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Attk Med Forest (water) QB-107.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Attk Med Forest QB-090.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Attk Med Forest QB-149.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Attk Med Hills (water) QB-246.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Attk Med Hills (water) QB-272.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Attk Med Hills (water) QB-288.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Attk Med Hills QB-005.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Attk Med Hills QB-017.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Attk Med Hills QB-035.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Attk Med Hills QB-043.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Attk Med Hills QB-055.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Attk Med Hills QB-138.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Attk Med Hills QB-155.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Attk Med Hills QB-260.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Attk Med Hills QB-284.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Attk Med Open (bocage) QB-066.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Attk Med Open QB-061.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Attk Med Open QB-240.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Attk Med Open QB-247.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Attk Med Rough (bocage) QB-003.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Attk Med Rough (bocage) QB-018.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Attk Med Rough (bocage) QB-103.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Attk Med Rough (bocage) QB-244.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Attk Med Rough (bocage) QB-249.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Attk Med Rough (bocage) QB-251.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Attk Med Rough QB-295.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Attk Med Town (damage) QB-115.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Attk Med Town (water) QB-012.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Attk Med Town (water) QB-101.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Attk Med Town QB-009.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Attk Med Village (bocage) QB-095.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Attk Med Village (bocage) QB-144.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Attk Med Village (water) QB-076.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Attk Med Village (water) QB-079.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Attk Med Village QB-006.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Attk Med Village QB-011.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Attk Med Village QB-059.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Attk Med Village QB-064.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Attk Med Village QB-105.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Attk Med Village QB-202.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Attk Med Village QB-205.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Attk Med Village QB-286.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Attk Small City QB-047.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Attk Small City QB-110.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Attk Small City QB-230.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Attk Small Forest (water) QB-256.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Attk Small Forest QB-087.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Attk Small Forest QB-088.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Attk Small Forest QB-089.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Attk Small Forest QB-102.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Attk Small Forest QB-265.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Attk Small Forest QB-280.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Attk Small Hills (water) QB-044.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Attk Small Hills QB-269.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Attk Small Open (bocage) QB-029.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Attk Small Open (bocage) QB-068.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Attk Small Open (bocage) QB-222.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Attk Small Open (bocage) QB-241.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Attk Small Open (water) QB-296.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Attk Small Open QB-239.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Attk Small Open QB-282.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Attk Small Rough (bocage) QB-027.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Attk Small Rough (bocage) QB-050.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Attk Small Rough (bocage) QB-053.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Attk Small Rough (bocage) QB-081.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Attk Small Rough (bocage-water) QB-031.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Attk Small Rough (water) QB-224.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Attk Small Rough (water) QB-276.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Attk Small Town QB-013.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Attk Small Town QB-056.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Attk Small Town QB-130.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Attk Small Town QB-237.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Attk Small Town QB-290.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Attk Small Village (bocage) QB-037.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Attk Small Village (bocage) QB-070.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Attk Small Village (bocage) QB-071.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Attk Small Village (bocage) QB-261.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Attk Small Village (water) QB-235.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Attk Small Village QB-267.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Attk Small Village QB-278.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Attk Small Village QB-293.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="BP1 Haccourt Assault 400.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="BP1 Haccourt Attack 400.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="BP1 Haccourt Probe 400.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="BP1 Loenhout Assault.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="BP1 Loenhout Attack.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="BP1 Loenhout Probe.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="BP1 Richebourg Assault.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="BP1 Richebourg Attack.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="BP1 Richebourg Probe.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="BP1 Richelle Assault.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="BP1 Richelle Attack.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="BP1 Richelle Probe.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="BP1 The Copse Assault.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="BP1 The Copse Attack.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="BP1 The Copse Probe.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Hill 112.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Hills-Town-River Assault 400.btt" stock="y" >
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/combat-mission-battle-for-normandy/cm-battles-for-normandy-add-ons-maps/cmbn-repository-map-collection-2/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/CMBN-MAP-COLLECTION-2.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Mark Ezra" filename="Hills-Town-River Attack 400.btt" stock="y" >
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/combat-mission-battle-for-normandy/cm-battles-for-normandy-add-ons-maps/cmbn-repository-map-collection-2/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/CMBN-MAP-COLLECTION-2.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Mark Ezra" filename="Hills-Town-River Meet 400.btt" stock="y" >
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/combat-mission-battle-for-normandy/cm-battles-for-normandy-add-ons-maps/cmbn-repository-map-collection-2/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/CMBN-MAP-COLLECTION-2.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Mark Ezra" filename="Hills-Town-River Meet 400Clean.btt" stock="y" >
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/combat-mission-battle-for-normandy/cm-battles-for-normandy-add-ons-maps/cmbn-repository-map-collection-2/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/CMBN-MAP-COLLECTION-2.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Mark Ezra" filename="Hills-Town-River Probe 400.btt" stock="y" >
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/combat-mission-battle-for-normandy/cm-battles-for-normandy-add-ons-maps/cmbn-repository-map-collection-2/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/CMBN-MAP-COLLECTION-2.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Mark Ezra" filename="Holland Arnhem Bridge Med Assault 058.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Holland Arnhem Bridge Med Attack 058.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Holland Arnhem Bridge Med Probe 058.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Holland Arnhem Bridge Meet 007.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Holland Arnhem City Assault 002.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Holland Arnhem City Attack 002.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Holland Arnhem City Probe 002.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Holland Arnhem Landing Zone L Meet 008.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Holland Assault Med Town sdp001.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Holland Assault Med Town sdp002.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Holland Assault Med Town sdp003.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Holland Assault Med Village sdp004.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Holland Attack Med Town sdp001.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Holland Attack Med Town sdp002.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Holland Attack Med Town sdp003.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Holland Attack Med Village sdp004.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Holland City Small Meet 072.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Holland City Tiny Meet 031.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Holland City-damage Large Assault 073.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Holland City-damage Large Attack 073.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Holland City-damage Large Meet 074.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Holland City-damage Large Probe 073.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Holland City-damage Tiny Assault 005.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Holland City-Damage Tiny Assault 032.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Holland City-damage Tiny Attack 005.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Holland City-Damage Tiny Attack 032.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Holland City-damage Tiny Probe 005.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Holland City-Damage Tiny Probe 032.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Holland Elst Assault 019.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Holland Elst Attack 019.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Holland Elst Meet 020.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Holland Elst Probe 019.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Holland Elst Town Assault 021.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Holland Elst Town Attack 021.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Holland Elst Town Probe 021.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Holland Forest Large Assault 029.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Holland Forest Large Attack 029.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Holland Forest Large Probe 029.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Holland Forest Med Meet 056.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Holland Forest Meet 004.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Holland Forest Small Assault 079.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Holland Forest Small Attack 079.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Holland Forest Small Meet 080.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Holland Forest Small Probe 079.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Holland Forest Tiny Meet 060.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Holland Forest-Bridge Med Meet 055.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Holland Forest-Farm Med Assault 046.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Holland Forest-Farm Med Attack 046.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Holland Forest-Farm Med Probe 046.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Holland Forest-Heavy Small Assault 087.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Holland Forest-Heavy Small Attack 087.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Holland Forest-Heavy Small Meet 086.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Holland Forest-Heavy Small Probe 087.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Holland Forest-Open Large Assault 003.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Holland Forest-Open Large Attack 003.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Holland Forest-Open Large Probe 003.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Holland Hell's Highway Huge Assault 075.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Holland Hell's Highway Huge Attack 075.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Holland Hell's Highway Huge Probe 075.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Holland Heumen Bridge Med Assault 036.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Holland Heumen Bridge Med Attack 036.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Holland Heumen Bridge Med Probe 036.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Holland Hills Med Assault 078.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Holland Hills Med Attack 078.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Holland Hills Med Probe 078.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Holland Hills-forest Med Assault 023.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Holland Hills-forest Med Attack 023.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Holland Hills-forest Med Probe 023.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Holland Hills-forest Meet 024.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Holland Nijmegan Rail Bridge-River Assault 034.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Holland Nijmegan Rail Bridge-River Attack 034.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Holland Nijmegan Rail Bridge-River Probe 034.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Holland Nijmegen Bridge Assault 012.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Holland Nijmegen Bridge Attack 012.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Holland Nijmegen Bridge Crossing Meet 011.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Holland Nijmegen Bridge Probe 012.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Holland Oosterbeek City Assault 015.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Holland Oosterbeek City Attack 015.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Holland Oosterbeek City Meet 016.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Holland Oosterbeek City Probe 015.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Holland Oosterhout Assault 090.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Holland Oosterhout Attack 090.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Holland Oosterhout Probe 090.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Holland Open Large Meet 089.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Holland Open Med Assault 033.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Holland Open Med Assault 095.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Holland Open Med Attack 033.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Holland Open Med Attack 095.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Holland Open Med Meet 035.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Holland Open Med Meet 061.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Holland Open Med Probe 033.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Holland Open Med Probe 095.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Holland Open Small Meet 051.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Holland Open Tiny Assault 030.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Holland Open Tiny Attack 030.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Holland Open Tiny Probe 030.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Holland Open-Bridge Med Assault 065.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Holland Open-Bridge Med Attack 065.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Holland Open-Bridge Med Probe 065.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Holland Open-Bridge Tiny Meet 037.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Holland Open-Farm Large Assault 054.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Holland Open-Farm Large Attack 054.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Holland Open-Farm Large Probe 054.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Holland Open-Farm Med Meet 071.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Holland Open-Farm Small Assault 085.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Holland Open-Farm Small Attack 085.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Holland Open-Farm Small Probe 085.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Holland Open-farm Small-Tiny Assault 001.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Holland Open-farm Small-Tiny Attack 001.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Holland Open-Farm Small-Tiny Meet 010.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Holland Open-farm Small-Tiny Probe 001.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Holland Open-Farm Tiny Assault 045.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Holland Open-Farm Tiny Attack 045.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Holland Open-Farm Tiny Probe 045.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Holland Open-Koevering Large Assault 047.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Holland Open-Koevering Large Attack 047.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Holland Open-Koevering Large Probe 047.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Holland Open-Rail Station Tiny Assault 069.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Holland Open-Rail Station Tiny Attack 069.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Holland Open-Rail Station Tiny Probe 069.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Holland Probe Med Town sdp001.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Holland Probe Med Town sdp002.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Holland Probe Med Town sdp003.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Holland Probe Med Village sdp004.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Holland Rough Small Assault 062.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Holland Rough Small Attack 062.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Holland Rough Small Probe 062.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Holland Rough-Farm Med Meet 041.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Holland Rough-Farm Med Meet 059.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Holland Rough-farm Small-Tiny Assault 013.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Holland Rough-farm Small-Tiny Attack 013.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Holland Rough-farm Small-Tiny Probe 013.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Holland Rough-Town Large Meet 038.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Holland Son River Bridge Meet 009.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Holland Town Large Assault 048.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Holland Town Large Assault 068.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Holland Town Large Assault 088.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Holland Town Large Attack 048.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Holland Town Large Attack 068.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Holland Town Large Attack 088.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Holland Town Large Meet 049.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Holland Town Large Probe 048.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Holland Town Large Probe 068.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Holland Town Large Probe 088.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Holland Town Med Assault 017.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Holland Town Med Attack 017.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Holland Town Med Meet 028.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Holland Town Med Probe 017.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Holland Town Small Assault 050.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Holland Town Small Attack 050.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Holland Town Small Probe 050.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Holland Town Small-Tiny Meet 022.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Holland Town Tiny Assault 083.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Holland Town Tiny Attack 083.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Holland Town Tiny Meet 014.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Holland Town Tiny Meet 018.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Holland Town Tiny Probe 083.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Holland Town-Bridge Med Assault 042.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Holland Town-Bridge Med Assault 053.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Holland Town-Bridge Med Attack 042.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Holland Town-Bridge Med Attack 053.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Holland Town-Bridge Med Probe 042.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Holland Town-Bridge Med Probe 053.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Holland Town-Bridges Small Meet 052.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Holland Town-Damage Small Meet 063.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Holland Town-Damage Tiny Assault 064.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Holland Town-Damage Tiny Attack 064.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Holland Town-Damage Tiny Probe 064.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Holland Town-Rough Med Assault 067.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Holland Town-Rough Med Attack 067.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Holland Town-Rough Med Probe 067.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Holland Village Med Assault 040.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Holland Village Med Assault 057.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Holland Village Med Assault 076.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Holland Village Med Attack 040.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Holland Village Med Attack 057.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Holland Village Med Attack 076.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Holland Village Med Meet 026.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Holland Village Med Meet 077.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Holland Village Med Probe 040.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Holland Village Med Probe 057.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Holland Village Med Probe 076.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Holland Village Small Assault 025.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Holland Village Small Attack 025.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Holland Village Small Meet 039.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Holland Village Small Probe 025.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Holland Village-Bridge Tiny Assault 081.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Holland Village-Bridge Tiny Attack 081.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Holland Village-Bridge Tiny Meet 082.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Holland Village-Bridge Tiny Probe 081.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Holland Village-Damaged Tiny Assault 084.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Holland Village-Damaged Tiny Attack 084.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Holland Village-Damaged Tiny Probe 084.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Holland Village-farm Med Assault 006.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Holland Village-Farm Med Assault 043.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Holland Village-farm Med Attack 006.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Holland Village-Farm Med Attack 043.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Holland Village-Farm Med Meet 044.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Holland Village-farm Med Probe 006.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Holland Village-Farm Med Probe 043.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Holland Village-Forest Med Assault 066.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Holland Village-Forest Med Attack 066.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Holland Village-Forest Med Probe 066.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Holland Village-Rough Meet 027.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Holland Village-Rough Tiny Meet 070.btt" stock="y" />
+	<scenario author="" filename="LJF-AT-Tiny-Bocage-02.btt" />
+	<scenario author="Mark Ezra" filename="Meet Large City QB-232.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Meet Large Forest (water) QB-045.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Meet Large Forest (water) QB-30.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Meet Large Forest QB-033.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Meet Large Forest QB-098.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Meet Large Forest QB-139.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Meet Large Forest QB-147.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Meet Large Forest QB-215.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Meet Large Hills QB-010.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Meet Large Hills QB-036.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Meet Large Hills QB-038.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Meet Large Hills QB-055.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Meet Large Hills QB-108.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Meet Large Hills QB-112.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Meet Large Hills QB-133.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Meet Large Hills QB-142.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Meet Large Hills QB-220.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Meet Large Open (bocage) QB-129.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Meet Large Open (water) QB-258.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Meet Large Open QB-014.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Meet Large Open QB-039.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Meet Large Open QB-042.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Meet Large Open QB-063.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Meet Large Open QB-095.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Meet Large Open QB-123.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Meet Large Open QB-124.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Meet Large Open QB-216.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Meet Large Rough (bocage) QB-022.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Meet Large Rough (bocage) QB-200.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Meet Large Rough (bocage-water) QB-021.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Meet Large Rough (water) QB-040.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Meet Large Town QB-217.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Meet Large Village (bocage) QB-078.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Meet Large Village (bocage) QB-086.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Meet Large Village (water) QB-137.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Meet Large Village QB-058.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Meet Large Village QB-097.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Meet Large Village QB-099.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Meet Large Village QB-136.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Meet Med City QB-016.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Meet Med City QB-049.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Meet Med City QB-126.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Meet Med City QB-140.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Meet Med Forest (bocage) QB-152.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Meet Med Forest (water) QB-257.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Meet Med Forest QB-128.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Meet Med Forest QB-135.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Meet Med Forest QB-153.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Meet Med Hills (bocage) QB-111.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Meet Med Hills QB-134.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Meet Med Hills QB-204.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Meet Med Hills QB-221.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Meet Med Hills QB-245.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Meet Med Open (bocage) QB-141.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Meet Med Open QB-093.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Meet Med Open QB-150.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Meet Med Open QB-155.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Meet Med Open QB-201.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Meet Med Open QB-255.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Meet Med Rough (bocage) QB-019.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Meet Med Rough (bocage) QB-152.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Meet Med Rough (water) QB-283.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Meet Med Rough (water) QB-289.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Meet Med Rough QB-067.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Meet Med Rough QB-294.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Meet Med Town QB-054.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Meet Med Town QB-057.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Meet Med Town QB-156.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Meet Med Town QB-291.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Meet Med Village (bocage) QB-065.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Meet Med Village QB-002.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Meet Med Village QB-203.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Meet Small City (damage) QB-228.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Meet Small City QB-116.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Meet Small City QB-225.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Meet Small City QB-231.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Meet Small Forest (bocage) QB-104.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Meet Small Forest QB-008.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Meet Small Forest QB-100.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Meet Small Forest QB-262.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Meet Small Forest QB-266.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Meet Small Forest QB-279.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Meet Small Hills (bocage) QB-156.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Meet Small Hills (water) QB-227.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Meet Small Hills (water) QB-271.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Meet Small Hills QB-001.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Meet Small Hills QB-132.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Meet Small Open (bocage) QB-083.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Meet Small Open (bocage) QB-242.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Meet Small Open (bocage)-069.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Meet Small Open QB-073.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Meet Small Open QB-084.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Meet Small Open QB-113.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Meet Small Open QB-238.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Meet Small Open QB-264.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Meet Small Open QB-270.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Meet Small Open QB-281.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Meet Small Open QB-292.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Meet Small Rough (bocage) QB-072.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Meet Small Rough (water) QB-275.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Meet Small Rough QB-226.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Meet Small Town (damage) QB-250.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Meet Small Town QB-236.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Meet Small Village (water)  QB-082.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Meet Small Village (water) QB-243.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Meet Small Village QB-085.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Meet Small Village QB-268.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Meet Small Village QB-277.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Meet Small Village QB-287.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Multi Forest-Rural-Hills Meet 004.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Multi Large Forest-Town-Water Assault 001.btt" stock="y" >
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/combat-mission-battle-for-normandy/cm-battles-for-normandy-add-ons-maps/cmbn-repository-map-collection-3/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/CMBN-MAP-COLLECTION-3.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Mark Ezra" filename="Multi Large Forest-Town-Water Attack 001.btt" stock="y" >
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/combat-mission-battle-for-normandy/cm-battles-for-normandy-add-ons-maps/cmbn-repository-map-collection-3/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/CMBN-MAP-COLLECTION-3.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Mark Ezra" filename="Multi Large Forest-Town-Water Probe 001.btt" stock="y" >
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/combat-mission-battle-for-normandy/cm-battles-for-normandy-add-ons-maps/cmbn-repository-map-collection-3/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/CMBN-MAP-COLLECTION-3.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Mark Ezra" filename="Multi Large Hills-Water-Town Assault 002.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Multi Large Hills-Water-Town Attack 002.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Multi Large Hills-Water-Town Meet 003.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Multi Large Hills-Water-Town Probe 002.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Probe Large City QB-233.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Probe Large City QB-234.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Probe Large Forest (bocage) QB-120.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Probe Large Forest (bocage) QB-253.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Probe Large Forest (water) QB-145.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Probe Large Forest (water) QB-211.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Probe Large Forest (water) QB-214.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Probe Large Forest QB-146.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Probe Large Forest QB-148.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Probe Large Hills (water-damage) QB-024.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Probe Large Hills QB-034.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Probe Large Hills QB-121.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Probe Large Hills QB-208.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Probe Large Hills QB-209.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Probe Large Hills QB-219.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Probe Large Hills QB-252.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Probe Large Hills QB-263.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Probe Large Open QB-015.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Probe Large Open QB-032.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Probe Large Open QB-041.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Probe Large Open QB-060.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Probe Large Open QB-062.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Probe Large Open QB-096.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Probe Large Open QB-122.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Probe Large Open QB-125.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Probe Large Open QB-207.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Probe Large Open QB-210.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Probe Large Rough (boacge) QB-212.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Probe Large Rough (bocage) QB-020.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Probe Large Rough (bocage) QB-023.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Probe Large Rough (bocage) QB-080.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Probe Large Rough (bocage) QB-109.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Probe large Rough (bocage) QB-127.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Probe Large Rough (bocage-water) QB-025.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Probe Large Rough (bocage-water-damage) QB-131.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Probe Large Rough QB-028.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Probe Large Town (bocage-water) QB-248.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Probe Large Town (water) QB-273.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Probe Large Town (water) QB-274.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Probe Large Town QB-206.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Probe Large Town QB-213.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Probe Large Town QB-218.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Probe Large Town QB-254.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Probe Large Village (bocage) QB-075.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Probe large Village (bocage) QB-077.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Probe Large Village (water) QB-259.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Probe Large Village QB-094.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Probe Med City (damage) QB-114.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Probe Med City (damage) QB-157.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Probe Med City (damage) QB-229.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Probe Med City (water) QB-046.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Probe Med City (water) QB-052.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Probe Med City (water-damage) QB-113.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Probe Med City QB-004.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Probe Med City QB-048.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Probe Med City QB-223.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Probe Med City-(damage) QB-114.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Probe Med Forest (water) QB-026.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Probe Med Forest (water) QB-107.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Probe Med Forest QB-090.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Probe Med Forest QB-149.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Probe Med Hills (water) QB-246.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Probe Med Hills (water) QB-272.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Probe Med Hills (water) QB-288.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Probe Med Hills QB-005.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Probe Med Hills QB-017.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Probe Med Hills QB-035.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Probe Med Hills QB-043.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Probe Med Hills QB-055.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Probe Med Hills QB-138.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Probe Med Hills QB-155.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Probe Med Hills QB-260.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Probe Med Hills QB-284.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Probe Med Open (bocage) QB-066.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Probe Med Open QB-061.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Probe Med Open QB-240.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Probe Med Open QB-247.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Probe Med Rough (bocage) QB-003.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Probe Med Rough (bocage) QB-018.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Probe Med Rough (bocage) QB-103.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Probe Med Rough (bocage) QB-244.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Probe Med Rough (bocage) QB-249.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Probe Med Rough (bocage) QB-251.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Probe Med Rough QB-295.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Probe Med Town (damage) QB-115.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Probe Med Town (water) QB-012.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Probe Med Town (water) QB-101.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Probe Med Town QB-009.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Probe Med Village (bocage) QB-095.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Probe Med Village (bocage) QB-144.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Probe Med Village (water) QB-076.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Probe Med Village (water) QB-079.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Probe Med Village QB-006.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Probe Med Village QB-011.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Probe Med Village QB-059.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Probe Med Village QB-064.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Probe Med Village QB-105.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Probe Med Village QB-202.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Probe Med Village QB-205.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Probe Med Village QB-286.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Probe Small City QB-047.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Probe Small City QB-110.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Probe Small City QB-230.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Probe Small Forest (water) QB-256.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Probe Small Forest QB-087.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Probe Small Forest QB-088.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Probe Small Forest QB-089.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Probe Small Forest QB-102.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Probe Small Forest QB-265.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Probe Small Forest QB-280.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Probe Small Hills (water) QB-044.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Probe Small Hills QB-269.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Probe Small Open (bocage) QB-029.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Probe Small Open (bocage) QB-068.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Probe Small Open (bocage) QB-222.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Probe Small Open (bocage) QB-241.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Probe Small Open (water) QB-296.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Probe Small Open QB-239.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Probe Small Open QB-282.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Probe Small Rough (bocage) QB-027.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Probe Small Rough (bocage) QB-050.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Probe Small Rough (bocage) QB-053.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Probe Small Rough (bocage) QB-081.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Probe Small Rough (bocage-water) QB-031.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Probe Small Rough (rough) QB-050.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Probe Small Rough (water) QB-224.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Probe Small Rough (water) QB-276.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Probe Small Town QB-013.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Probe Small Town QB-056.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Probe Small Town QB-130.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Probe Small Town QB-237.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Probe Small Town QB-290.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Probe Small Village (bocage) QB-037.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Probe Small Village (bocage) QB-070.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Probe Small Village (bocage) QB-071.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Probe Small Village (bocage) QB-261.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Probe Small Village (water) QB-235.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Probe Small Village QB-267.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Probe Small Village QB-278.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Probe Small Village QB-293.btt" stock="y" />
+	<scenario author="Michael Dorosh" filename="TWC - Asslt Large Dutch Town (Oorderen).btt" />
+	<scenario author="Michael Dorosh" filename="TWC Semper Paratus.btt" />
+	<scenario author="LJFHutch" filename="Attk bocage small 01.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/combat-mission-battle-for-normandy/cm-battles-for-normandy-add-ons-maps/cmbn-repository-map-collection-1/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/CMBN-MAP-COLLECTION-1.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="LJFHutch" filename="Attk bocage small 02.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/combat-mission-battle-for-normandy/cm-battles-for-normandy-add-ons-maps/cmbn-repository-map-collection-1/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/CMBN-MAP-COLLECTION-1.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="LJFHutch" filename="LJF-AS-Large-Bocage-01.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/combat-mission-battle-for-normandy/cm-battles-for-normandy-add-ons-maps/cmbn-repository-map-collection-1/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/CMBN-MAP-COLLECTION-1.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="LJFHutch" filename="LJF-AS-Large-Mix.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/combat-mission-battle-for-normandy/cm-battles-for-normandy-add-ons-maps/cmbn-repository-map-collection-1/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/CMBN-MAP-COLLECTION-1.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="LJFHutch" filename="LJF-AS-Large-Open-01.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/combat-mission-battle-for-normandy/cm-battles-for-normandy-add-ons-maps/cmbn-repository-map-collection-1/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/CMBN-MAP-COLLECTION-1.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="LJFHutch" filename="LJF-AS-Medium-Hill.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/combat-mission-battle-for-normandy/cm-battles-for-normandy-add-ons-maps/cmbn-repository-map-collection-1/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/CMBN-MAP-COLLECTION-1.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="LJFHutch" filename="LJF-AS-Medium-Open_Town-01.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/combat-mission-battle-for-normandy/cm-battles-for-normandy-add-ons-maps/cmbn-repository-map-collection-1/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/CMBN-MAP-COLLECTION-1.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="LJFHutch" filename="LJF-AS-Small-Bocage-01.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/combat-mission-battle-for-normandy/cm-battles-for-normandy-add-ons-maps/cmbn-repository-map-collection-1/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/CMBN-MAP-COLLECTION-1.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="LJFHutch" filename="LJF-AS-Small-Hill-01.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/combat-mission-battle-for-normandy/cm-battles-for-normandy-add-ons-maps/cmbn-repository-map-collection-1/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/CMBN-MAP-COLLECTION-1.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="LJFHutch" filename="LJF-AS-Small-Mix.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/combat-mission-battle-for-normandy/cm-battles-for-normandy-add-ons-maps/cmbn-repository-map-collection-1/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/CMBN-MAP-COLLECTION-1.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="LJFHutch" filename="LJF-AS-Small-Town.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/combat-mission-battle-for-normandy/cm-battles-for-normandy-add-ons-maps/cmbn-repository-map-collection-1/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/CMBN-MAP-COLLECTION-1.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="LJFHutch" filename="LJF-AS-Tiny-Bocage-02.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/combat-mission-battle-for-normandy/cm-battles-for-normandy-add-ons-maps/cmbn-repository-map-collection-1/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/CMBN-MAP-COLLECTION-1.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="LJFHutch" filename="LJF-AS-Tiny-Bocage-03.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/combat-mission-battle-for-normandy/cm-battles-for-normandy-add-ons-maps/cmbn-repository-map-collection-1/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/CMBN-MAP-COLLECTION-1.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="LJFHutch" filename="LJF-AS-Tiny-Bocage.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/combat-mission-battle-for-normandy/cm-battles-for-normandy-add-ons-maps/cmbn-repository-map-collection-1/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/CMBN-MAP-COLLECTION-1.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="LJFHutch" filename="LJF-AS-Tiny-Hill.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/combat-mission-battle-for-normandy/cm-battles-for-normandy-add-ons-maps/cmbn-repository-map-collection-1/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/CMBN-MAP-COLLECTION-1.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="LJFHutch" filename="LJF-AS-Tiny-Open-01.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/combat-mission-battle-for-normandy/cm-battles-for-normandy-add-ons-maps/cmbn-repository-map-collection-1/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/CMBN-MAP-COLLECTION-1.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="LJFHutch" filename="LJF-AT-Large-Open_Hill.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/combat-mission-battle-for-normandy/cm-battles-for-normandy-add-ons-maps/cmbn-repository-map-collection-1/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/CMBN-MAP-COLLECTION-1.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="LJFHutch" filename="LJF-AT-Medium-Broken_Forest.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/combat-mission-battle-for-normandy/cm-battles-for-normandy-add-ons-maps/cmbn-repository-map-collection-1/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/CMBN-MAP-COLLECTION-1.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="LJFHutch" filename="LJF-AT-Medium-Open-01.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/combat-mission-battle-for-normandy/cm-battles-for-normandy-add-ons-maps/cmbn-repository-map-collection-1/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/CMBN-MAP-COLLECTION-1.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="LJFHutch" filename="LJF-AT-Small-Open.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/combat-mission-battle-for-normandy/cm-battles-for-normandy-add-ons-maps/cmbn-repository-map-collection-1/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/CMBN-MAP-COLLECTION-1.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="LJFHutch" filename="LJF-AT-Tiny-Bocage-01.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/combat-mission-battle-for-normandy/cm-battles-for-normandy-add-ons-maps/cmbn-repository-map-collection-1/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/CMBN-MAP-COLLECTION-1.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="LJFHutch" filename="LJF-AT-Tiny-Bocage-02.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/combat-mission-battle-for-normandy/cm-battles-for-normandy-add-ons-maps/cmbn-repository-map-collection-1/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/CMBN-MAP-COLLECTION-1.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="LJFHutch" filename="LJF-AT-Tiny-Forest-01.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/combat-mission-battle-for-normandy/cm-battles-for-normandy-add-ons-maps/cmbn-repository-map-collection-1/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/CMBN-MAP-COLLECTION-1.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="LJFHutch" filename="LJF-AT-Tiny-Forest-02.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/combat-mission-battle-for-normandy/cm-battles-for-normandy-add-ons-maps/cmbn-repository-map-collection-1/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/CMBN-MAP-COLLECTION-1.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="LJFHutch" filename="LJF-AT-Tiny-Hill-01.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/combat-mission-battle-for-normandy/cm-battles-for-normandy-add-ons-maps/cmbn-repository-map-collection-1/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/CMBN-MAP-COLLECTION-1.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="LJFHutch" filename="LJF-ME-Large-Broken_Forest-02.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/combat-mission-battle-for-normandy/cm-battles-for-normandy-add-ons-maps/cmbn-repository-map-collection-1/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/CMBN-MAP-COLLECTION-1.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="LJFHutch" filename="LJF-ME-Large-Broken_Forest-02[No-Ob].btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/combat-mission-battle-for-normandy/cm-battles-for-normandy-add-ons-maps/cmbn-repository-map-collection-1/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/CMBN-MAP-COLLECTION-1.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="LJFHutch" filename="LJF-ME-Large-Broken_Forest.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/combat-mission-battle-for-normandy/cm-battles-for-normandy-add-ons-maps/cmbn-repository-map-collection-1/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/CMBN-MAP-COLLECTION-1.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="LJFHutch" filename="LJF-ME-Large-Broken_Forest[No-Ob].btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/combat-mission-battle-for-normandy/cm-battles-for-normandy-add-ons-maps/cmbn-repository-map-collection-1/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/CMBN-MAP-COLLECTION-1.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="LJFHutch" filename="LJF-ME-Large-Mix-01.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/combat-mission-battle-for-normandy/cm-battles-for-normandy-add-ons-maps/cmbn-repository-map-collection-1/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/CMBN-MAP-COLLECTION-1.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="LJFHutch" filename="LJF-ME-Large-Mix-01[No-Ob].btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/combat-mission-battle-for-normandy/cm-battles-for-normandy-add-ons-maps/cmbn-repository-map-collection-1/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/CMBN-MAP-COLLECTION-1.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="LJFHutch" filename="LJF-ME-Large-Open.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/combat-mission-battle-for-normandy/cm-battles-for-normandy-add-ons-maps/cmbn-repository-map-collection-1/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/CMBN-MAP-COLLECTION-1.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="LJFHutch" filename="LJF-ME-Large-Open[No-Ob].btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/combat-mission-battle-for-normandy/cm-battles-for-normandy-add-ons-maps/cmbn-repository-map-collection-1/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/CMBN-MAP-COLLECTION-1.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="LJFHutch" filename="LJF-ME-Medium-Bocage-01.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/combat-mission-battle-for-normandy/cm-battles-for-normandy-add-ons-maps/cmbn-repository-map-collection-1/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/CMBN-MAP-COLLECTION-1.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="LJFHutch" filename="LJF-ME-Medium-Bocage-01[No-Ob].btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/combat-mission-battle-for-normandy/cm-battles-for-normandy-add-ons-maps/cmbn-repository-map-collection-1/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/CMBN-MAP-COLLECTION-1.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="LJFHutch" filename="LJF-ME-Medium-Broken_Forest.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/combat-mission-battle-for-normandy/cm-battles-for-normandy-add-ons-maps/cmbn-repository-map-collection-1/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/CMBN-MAP-COLLECTION-1.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="LJFHutch" filename="LJF-ME-Medium-City.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/combat-mission-battle-for-normandy/cm-battles-for-normandy-add-ons-maps/cmbn-repository-map-collection-1/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/CMBN-MAP-COLLECTION-1.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="LJFHutch" filename="LJF-ME-Medium-City[No-Ob].btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/combat-mission-battle-for-normandy/cm-battles-for-normandy-add-ons-maps/cmbn-repository-map-collection-1/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/CMBN-MAP-COLLECTION-1.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="LJFHutch" filename="LJF-ME-Medium-Hill.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/combat-mission-battle-for-normandy/cm-battles-for-normandy-add-ons-maps/cmbn-repository-map-collection-1/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/CMBN-MAP-COLLECTION-1.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="LJFHutch" filename="LJF-ME-Medium-Hill[No-Ob].btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/combat-mission-battle-for-normandy/cm-battles-for-normandy-add-ons-maps/cmbn-repository-map-collection-1/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/CMBN-MAP-COLLECTION-1.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="LJFHutch" filename="LJF-ME-Medium-Open.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/combat-mission-battle-for-normandy/cm-battles-for-normandy-add-ons-maps/cmbn-repository-map-collection-1/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/CMBN-MAP-COLLECTION-1.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="LJFHutch" filename="LJF-ME-Medium-Open[No-Ob].btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/combat-mission-battle-for-normandy/cm-battles-for-normandy-add-ons-maps/cmbn-repository-map-collection-1/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/CMBN-MAP-COLLECTION-1.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="LJFHutch" filename="LJF-ME-Small-Bocage-02.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/combat-mission-battle-for-normandy/cm-battles-for-normandy-add-ons-maps/cmbn-repository-map-collection-1/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/CMBN-MAP-COLLECTION-1.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="LJFHutch" filename="LJF-ME-Small-Bocage-02[No-Ob].btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/combat-mission-battle-for-normandy/cm-battles-for-normandy-add-ons-maps/cmbn-repository-map-collection-1/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/CMBN-MAP-COLLECTION-1.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="LJFHutch" filename="LJF-ME-Small-Bocage-03.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/combat-mission-battle-for-normandy/cm-battles-for-normandy-add-ons-maps/cmbn-repository-map-collection-1/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/CMBN-MAP-COLLECTION-1.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="LJFHutch" filename="LJF-ME-Small-Bocage-03[No-Ob].btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/combat-mission-battle-for-normandy/cm-battles-for-normandy-add-ons-maps/cmbn-repository-map-collection-1/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/CMBN-MAP-COLLECTION-1.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="LJFHutch" filename="LJF-ME-Small-Bocage-04.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/combat-mission-battle-for-normandy/cm-battles-for-normandy-add-ons-maps/cmbn-repository-map-collection-1/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/CMBN-MAP-COLLECTION-1.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="LJFHutch" filename="LJF-ME-Small-Bocage-04[No-Ob].btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/combat-mission-battle-for-normandy/cm-battles-for-normandy-add-ons-maps/cmbn-repository-map-collection-1/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/CMBN-MAP-COLLECTION-1.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="LJFHutch" filename="LJF-ME-Small-Bocage-05.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/combat-mission-battle-for-normandy/cm-battles-for-normandy-add-ons-maps/cmbn-repository-map-collection-1/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/CMBN-MAP-COLLECTION-1.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="LJFHutch" filename="LJF-ME-Small-Bocage-05[No-Ob].btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/combat-mission-battle-for-normandy/cm-battles-for-normandy-add-ons-maps/cmbn-repository-map-collection-1/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/CMBN-MAP-COLLECTION-1.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="LJFHutch" filename="LJF-ME-Small-Bocage.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/combat-mission-battle-for-normandy/cm-battles-for-normandy-add-ons-maps/cmbn-repository-map-collection-1/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/CMBN-MAP-COLLECTION-1.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="LJFHutch" filename="LJF-ME-Small-Bocage[No-Ob].btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/combat-mission-battle-for-normandy/cm-battles-for-normandy-add-ons-maps/cmbn-repository-map-collection-1/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/CMBN-MAP-COLLECTION-1.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="LJFHutch" filename="LJF-ME-Small-Hill.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/combat-mission-battle-for-normandy/cm-battles-for-normandy-add-ons-maps/cmbn-repository-map-collection-1/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/CMBN-MAP-COLLECTION-1.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="LJFHutch" filename="LJF-ME-Small-Open-02.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/combat-mission-battle-for-normandy/cm-battles-for-normandy-add-ons-maps/cmbn-repository-map-collection-1/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/CMBN-MAP-COLLECTION-1.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="LJFHutch" filename="LJF-ME-Small-Open-02[No-Ob].btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/combat-mission-battle-for-normandy/cm-battles-for-normandy-add-ons-maps/cmbn-repository-map-collection-1/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/CMBN-MAP-COLLECTION-1.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="LJFHutch" filename="LJF-ME-Small-Open-04.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/combat-mission-battle-for-normandy/cm-battles-for-normandy-add-ons-maps/cmbn-repository-map-collection-1/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/CMBN-MAP-COLLECTION-1.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="LJFHutch" filename="LJF-ME-Small-Open-04[No-Ob].btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/combat-mission-battle-for-normandy/cm-battles-for-normandy-add-ons-maps/cmbn-repository-map-collection-1/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/CMBN-MAP-COLLECTION-1.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="LJFHutch" filename="LJF-ME-Small-Open.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/combat-mission-battle-for-normandy/cm-battles-for-normandy-add-ons-maps/cmbn-repository-map-collection-1/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/CMBN-MAP-COLLECTION-1.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="LJFHutch" filename="LJF-ME-Small-Open[No-Ob].btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/combat-mission-battle-for-normandy/cm-battles-for-normandy-add-ons-maps/cmbn-repository-map-collection-1/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/CMBN-MAP-COLLECTION-1.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="LJFHutch" filename="LJF-ME-Tiny-Bocage-01.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/combat-mission-battle-for-normandy/cm-battles-for-normandy-add-ons-maps/cmbn-repository-map-collection-1/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/CMBN-MAP-COLLECTION-1.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="LJFHutch" filename="LJF-ME-Tiny-Bocage-01[No-Ob].btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/combat-mission-battle-for-normandy/cm-battles-for-normandy-add-ons-maps/cmbn-repository-map-collection-1/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/CMBN-MAP-COLLECTION-1.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="LJFHutch" filename="LJF-ME-Tiny-Bocage-02.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/combat-mission-battle-for-normandy/cm-battles-for-normandy-add-ons-maps/cmbn-repository-map-collection-1/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/CMBN-MAP-COLLECTION-1.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="LJFHutch" filename="LJF-ME-Tiny-Bocage-02[No-Ob].btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/combat-mission-battle-for-normandy/cm-battles-for-normandy-add-ons-maps/cmbn-repository-map-collection-1/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/CMBN-MAP-COLLECTION-1.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="LJFHutch" filename="LJF-ME-Tiny-Bocage-03.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/combat-mission-battle-for-normandy/cm-battles-for-normandy-add-ons-maps/cmbn-repository-map-collection-1/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/CMBN-MAP-COLLECTION-1.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="LJFHutch" filename="LJF-ME-Tiny-Bocage-03[No-Ob].btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/combat-mission-battle-for-normandy/cm-battles-for-normandy-add-ons-maps/cmbn-repository-map-collection-1/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/CMBN-MAP-COLLECTION-1.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="LJFHutch" filename="LJF-ME-Tiny-Bocage-04.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/combat-mission-battle-for-normandy/cm-battles-for-normandy-add-ons-maps/cmbn-repository-map-collection-1/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/CMBN-MAP-COLLECTION-1.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="LJFHutch" filename="LJF-ME-Tiny-Bocage-04[No-Ob].btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/combat-mission-battle-for-normandy/cm-battles-for-normandy-add-ons-maps/cmbn-repository-map-collection-1/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/CMBN-MAP-COLLECTION-1.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="LJFHutch" filename="LJF-ME-Tiny-Bocage-05.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/combat-mission-battle-for-normandy/cm-battles-for-normandy-add-ons-maps/cmbn-repository-map-collection-1/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/CMBN-MAP-COLLECTION-1.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="LJFHutch" filename="LJF-ME-Tiny-Bocage-05[No-Ob].btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/combat-mission-battle-for-normandy/cm-battles-for-normandy-add-ons-maps/cmbn-repository-map-collection-1/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/CMBN-MAP-COLLECTION-1.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="LJFHutch" filename="LJF-ME-Tiny-Bocage-06.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/combat-mission-battle-for-normandy/cm-battles-for-normandy-add-ons-maps/cmbn-repository-map-collection-1/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/CMBN-MAP-COLLECTION-1.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="LJFHutch" filename="LJF-ME-Tiny-Bocage-06[No-Ob].btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/combat-mission-battle-for-normandy/cm-battles-for-normandy-add-ons-maps/cmbn-repository-map-collection-1/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/CMBN-MAP-COLLECTION-1.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="LJFHutch" filename="LJF-ME-Tiny-Bocage-07.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/combat-mission-battle-for-normandy/cm-battles-for-normandy-add-ons-maps/cmbn-repository-map-collection-1/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/CMBN-MAP-COLLECTION-1.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="LJFHutch" filename="LJF-ME-Tiny-Bocage-07[No-Ob].btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/combat-mission-battle-for-normandy/cm-battles-for-normandy-add-ons-maps/cmbn-repository-map-collection-1/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/CMBN-MAP-COLLECTION-1.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="LJFHutch" filename="LJF-ME-Tiny-Bocage-08.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/combat-mission-battle-for-normandy/cm-battles-for-normandy-add-ons-maps/cmbn-repository-map-collection-1/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/CMBN-MAP-COLLECTION-1.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="LJFHutch" filename="LJF-ME-Tiny-Bocage-08[No-Ob].btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/combat-mission-battle-for-normandy/cm-battles-for-normandy-add-ons-maps/cmbn-repository-map-collection-1/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/CMBN-MAP-COLLECTION-1.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="LJFHutch" filename="LJF-ME-Tiny-Bocage-09.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/combat-mission-battle-for-normandy/cm-battles-for-normandy-add-ons-maps/cmbn-repository-map-collection-1/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/CMBN-MAP-COLLECTION-1.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="LJFHutch" filename="LJF-ME-Tiny-Bocage-09[No-Ob].btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/combat-mission-battle-for-normandy/cm-battles-for-normandy-add-ons-maps/cmbn-repository-map-collection-1/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/CMBN-MAP-COLLECTION-1.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="LJFHutch" filename="LJF-ME-Tiny-Broken_Forest-02.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/combat-mission-battle-for-normandy/cm-battles-for-normandy-add-ons-maps/cmbn-repository-map-collection-1/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/CMBN-MAP-COLLECTION-1.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="LJFHutch" filename="LJF-ME-Tiny-Broken_Forest-02[No-Ob].btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/combat-mission-battle-for-normandy/cm-battles-for-normandy-add-ons-maps/cmbn-repository-map-collection-1/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/CMBN-MAP-COLLECTION-1.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="LJFHutch" filename="LJF-ME-Tiny-Broken_Forest-03.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/combat-mission-battle-for-normandy/cm-battles-for-normandy-add-ons-maps/cmbn-repository-map-collection-1/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/CMBN-MAP-COLLECTION-1.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="LJFHutch" filename="LJF-ME-Tiny-Broken_Forest-03[No-Ob].btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/combat-mission-battle-for-normandy/cm-battles-for-normandy-add-ons-maps/cmbn-repository-map-collection-1/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/CMBN-MAP-COLLECTION-1.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="LJFHutch" filename="LJF-ME-Tiny-Broken_Forest.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/combat-mission-battle-for-normandy/cm-battles-for-normandy-add-ons-maps/cmbn-repository-map-collection-1/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/CMBN-MAP-COLLECTION-1.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="LJFHutch" filename="LJF-ME-Tiny-Broken_Forest[No-Ob].btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/combat-mission-battle-for-normandy/cm-battles-for-normandy-add-ons-maps/cmbn-repository-map-collection-1/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/CMBN-MAP-COLLECTION-1.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="LJFHutch" filename="LJF-ME-Tiny-Hills-01.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/combat-mission-battle-for-normandy/cm-battles-for-normandy-add-ons-maps/cmbn-repository-map-collection-1/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/CMBN-MAP-COLLECTION-1.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="LJFHutch" filename="LJF-ME-Tiny-Hills-01[No-Ob].btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/combat-mission-battle-for-normandy/cm-battles-for-normandy-add-ons-maps/cmbn-repository-map-collection-1/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/CMBN-MAP-COLLECTION-1.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="LJFHutch" filename="LJF-ME-Tiny-Open-02.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/combat-mission-battle-for-normandy/cm-battles-for-normandy-add-ons-maps/cmbn-repository-map-collection-1/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/CMBN-MAP-COLLECTION-1.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="LJFHutch" filename="LJF-ME-Tiny-Open-02[No-Ob].btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/combat-mission-battle-for-normandy/cm-battles-for-normandy-add-ons-maps/cmbn-repository-map-collection-1/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/CMBN-MAP-COLLECTION-1.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="LJFHutch" filename="LJF-ME-Tiny-Open-03.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/combat-mission-battle-for-normandy/cm-battles-for-normandy-add-ons-maps/cmbn-repository-map-collection-1/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/CMBN-MAP-COLLECTION-1.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="LJFHutch" filename="LJF-ME-Tiny-Open-03[No-Ob].btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/combat-mission-battle-for-normandy/cm-battles-for-normandy-add-ons-maps/cmbn-repository-map-collection-1/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/CMBN-MAP-COLLECTION-1.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="LJFHutch" filename="LJF-ME-Tiny-Open.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/combat-mission-battle-for-normandy/cm-battles-for-normandy-add-ons-maps/cmbn-repository-map-collection-1/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/CMBN-MAP-COLLECTION-1.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="LJFHutch" filename="LJF-ME-Tiny-Open[No-Ob].btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/combat-mission-battle-for-normandy/cm-battles-for-normandy-add-ons-maps/cmbn-repository-map-collection-1/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/CMBN-MAP-COLLECTION-1.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="AliBaba" filename="AcropolisME.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/combat-mission-battle-for-normandy/cm-battles-for-normandy-add-ons-maps/cmbn-repository-map-collection-2/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/CMBN-MAP-COLLECTION-2.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="permanent666" filename="Asslt Bloody Omaha QB.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/combat-mission-battle-for-normandy/cm-battles-for-normandy-add-ons-maps/cmbn-repository-map-collection-2/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/CMBN-MAP-COLLECTION-2.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="benpark" filename="Asslt Med Village (Bocage) La Goucherie.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/combat-mission-battle-for-normandy/cm-battles-for-normandy-add-ons-maps/cmbn-repository-map-collection-2/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/CMBN-MAP-COLLECTION-2.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="deepstuff" filename="Hedgerows QB map.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/combat-mission-battle-for-normandy/cm-battles-for-normandy-add-ons-maps/cmbn-repository-map-collection-2/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/CMBN-MAP-COLLECTION-2.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="deepstuff" filename="Hedgerows QB map variation 1 US left.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/combat-mission-battle-for-normandy/cm-battles-for-normandy-add-ons-maps/cmbn-repository-map-collection-2/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/CMBN-MAP-COLLECTION-2.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="deepstuff" filename="Hedgerows QB map variation 2 US right.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/combat-mission-battle-for-normandy/cm-battles-for-normandy-add-ons-maps/cmbn-repository-map-collection-2/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/CMBN-MAP-COLLECTION-2.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="deepstuff" filename="Hedgerows QB map variation 3 US top right.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/combat-mission-battle-for-normandy/cm-battles-for-normandy-add-ons-maps/cmbn-repository-map-collection-2/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/CMBN-MAP-COLLECTION-2.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="deepstuff" filename="Hedgerows QB map variation 4 US bottom right.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/combat-mission-battle-for-normandy/cm-battles-for-normandy-add-ons-maps/cmbn-repository-map-collection-2/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/CMBN-MAP-COLLECTION-2.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="deepstuff" filename="Hedgerows QB map variation 5 US bottom left.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/combat-mission-battle-for-normandy/cm-battles-for-normandy-add-ons-maps/cmbn-repository-map-collection-2/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/CMBN-MAP-COLLECTION-2.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="deepstuff" filename="Hedgerows QB map variation 6 US top left.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/combat-mission-battle-for-normandy/cm-battles-for-normandy-add-ons-maps/cmbn-repository-map-collection-2/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/CMBN-MAP-COLLECTION-2.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="deepstuff" filename="Hedgerows QB map variation 7 US top and bottom.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/combat-mission-battle-for-normandy/cm-battles-for-normandy-add-ons-maps/cmbn-repository-map-collection-2/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/CMBN-MAP-COLLECTION-2.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="deepstuff" filename="Hedgerows QB map variation 8 US left and right.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/combat-mission-battle-for-normandy/cm-battles-for-normandy-add-ons-maps/cmbn-repository-map-collection-2/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/CMBN-MAP-COLLECTION-2.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Henniak" filename="HK-Minotaurus Bridge attck.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/combat-mission-battle-for-normandy/cm-battles-for-normandy-add-ons-maps/cmbn-repository-map-collection-2/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/CMBN-MAP-COLLECTION-2.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Henniak" filename="HK-Notre Dame d'Aeffe Meet.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/combat-mission-battle-for-normandy/cm-battles-for-normandy-add-ons-maps/cmbn-repository-map-collection-2/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/CMBN-MAP-COLLECTION-2.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Henniak" filename="HK-Orantant meet .btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/combat-mission-battle-for-normandy/cm-battles-for-normandy-add-ons-maps/cmbn-repository-map-collection-2/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/CMBN-MAP-COLLECTION-2.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Henniak" filename="HK-Sint Aeffenbeek meet.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/combat-mission-battle-for-normandy/cm-battles-for-normandy-add-ons-maps/cmbn-repository-map-collection-2/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/CMBN-MAP-COLLECTION-2.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="benpark" filename="Meet Med Village (Bocage) La Goucherie.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/combat-mission-battle-for-normandy/cm-battles-for-normandy-add-ons-maps/cmbn-repository-map-collection-2/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/CMBN-MAP-COLLECTION-2.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Vin (vinnart)" filename="ME-Med- Death's Head II (hills).btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/combat-mission-battle-for-normandy/cm-battles-for-normandy-add-ons-maps/cmbn-repository-map-collection-2/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/CMBN-MAP-COLLECTION-2.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Mark Ezra" filename="Multi Forest-Rural-Hills Meet 004.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/combat-mission-battle-for-normandy/cm-battles-for-normandy-add-ons-maps/cmbn-repository-map-collection-2/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/CMBN-MAP-COLLECTION-2.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Mark Ezra" filename="Multi Large Hills-Water-Town Assault 002.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/combat-mission-battle-for-normandy/cm-battles-for-normandy-add-ons-maps/cmbn-repository-map-collection-2/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/CMBN-MAP-COLLECTION-2.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Mark Ezra" filename="Multi Large Hills-Water-Town Attack 002.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/combat-mission-battle-for-normandy/cm-battles-for-normandy-add-ons-maps/cmbn-repository-map-collection-2/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/CMBN-MAP-COLLECTION-2.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Mark Ezra" filename="Multi Large Hills-Water-Town Meet 003.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/combat-mission-battle-for-normandy/cm-battles-for-normandy-add-ons-maps/cmbn-repository-map-collection-2/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/CMBN-MAP-COLLECTION-2.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Mark Ezra" filename="Multi Large Hills-Water-Town Probe 002.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/combat-mission-battle-for-normandy/cm-battles-for-normandy-add-ons-maps/cmbn-repository-map-collection-2/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/CMBN-MAP-COLLECTION-2.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Henniak" filename="HK-Notre Dame d'Aeffe.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/combat-mission-battle-for-normandy/cm-battles-for-normandy-add-ons-maps/cmbn-repository-map-collection-3/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/CMBN-MAP-COLLECTION-3.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="George MC" filename="Huge rolling hills and village map.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/combat-mission-battle-for-normandy/cm-battles-for-normandy-add-ons-maps/cmbn-repository-map-collection-3/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/CMBN-MAP-COLLECTION-3.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Mark Ezra" filename="Last Defense V3QB asslt.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/combat-mission-battle-for-normandy/cm-battles-for-normandy-add-ons-maps/cmbn-repository-map-collection-3/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/CMBN-MAP-COLLECTION-3.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Mark Ezra" filename="Last Defense V3QB attk.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/combat-mission-battle-for-normandy/cm-battles-for-normandy-add-ons-maps/cmbn-repository-map-collection-3/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/CMBN-MAP-COLLECTION-3.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Mark Ezra" filename="Last Defense V3QB probe.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/combat-mission-battle-for-normandy/cm-battles-for-normandy-add-ons-maps/cmbn-repository-map-collection-3/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/CMBN-MAP-COLLECTION-3.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Mark Ezra" filename="La Ville De Nobocage.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/combat-mission-battle-for-normandy/cm-battles-for-normandy-add-ons-maps/cmbn-repository-map-collection-3/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/CMBN-MAP-COLLECTION-3.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="RepsolCBR" filename="Lingevres - Tilly Sur Seulles road (battledamage).btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/combat-mission-battle-for-normandy/cm-battles-for-normandy-add-ons-maps/cmbn-repository-map-collection-3/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/CMBN-MAP-COLLECTION-3.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="RepsolCBR" filename="Lingevres - Tilly Sur Seulles road.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/combat-mission-battle-for-normandy/cm-battles-for-normandy-add-ons-maps/cmbn-repository-map-collection-3/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/CMBN-MAP-COLLECTION-3.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Pete Wenman" filename="Maltot full map.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/combat-mission-battle-for-normandy/cm-battles-for-normandy-add-ons-maps/cmbn-repository-map-collection-3/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/CMBN-MAP-COLLECTION-3.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="information unavilable" filename="MANG- VILLERS-BOCAGE DESTRUIDO V1.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/combat-mission-battle-for-normandy/cm-battles-for-normandy-add-ons-maps/cmbn-repository-map-collection-3/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/CMBN-MAP-COLLECTION-3.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Matthieu Morales" filename="M_M A hamlet by the river (512x354).btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/combat-mission-battle-for-normandy/cm-battles-for-normandy-add-ons-maps/cmbn-repository-map-collection-3/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/CMBN-MAP-COLLECTION-3.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Matthieu Morales" filename="M_M Badger Hamlet.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/combat-mission-battle-for-normandy/cm-battles-for-normandy-add-ons-maps/cmbn-repository-map-collection-3/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/CMBN-MAP-COLLECTION-3.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Matthieu Morales" filename="M_M Destroyed Station (320x320).btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/combat-mission-battle-for-normandy/cm-battles-for-normandy-add-ons-maps/cmbn-repository-map-collection-3/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/CMBN-MAP-COLLECTION-3.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Matthieu Morales" filename="M_M Destroyed Station.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/combat-mission-battle-for-normandy/cm-battles-for-normandy-add-ons-maps/cmbn-repository-map-collection-3/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/CMBN-MAP-COLLECTION-3.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Matthieu Morales" filename="M_M Fictional Map 1 (1312x1008).btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/combat-mission-battle-for-normandy/cm-battles-for-normandy-add-ons-maps/cmbn-repository-map-collection-3/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/CMBN-MAP-COLLECTION-3.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Matthieu Morales" filename="M_M Fictional Map 1.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/combat-mission-battle-for-normandy/cm-battles-for-normandy-add-ons-maps/cmbn-repository-map-collection-3/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/CMBN-MAP-COLLECTION-3.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Matthieu Morales" filename="M_M Le Houmont (320x320).btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/combat-mission-battle-for-normandy/cm-battles-for-normandy-add-ons-maps/cmbn-repository-map-collection-3/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/CMBN-MAP-COLLECTION-3.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Matthieu Morales" filename="M_M Le Pas-Fini.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/combat-mission-battle-for-normandy/cm-battles-for-normandy-add-ons-maps/cmbn-repository-map-collection-3/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/CMBN-MAP-COLLECTION-3.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Matthieu Morales" filename="M_M Montesquieu.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/combat-mission-battle-for-normandy/cm-battles-for-normandy-add-ons-maps/cmbn-repository-map-collection-3/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/CMBN-MAP-COLLECTION-3.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Matthieu Morales" filename="M_M Scarcigny (320x320).btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/combat-mission-battle-for-normandy/cm-battles-for-normandy-add-ons-maps/cmbn-repository-map-collection-3/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/CMBN-MAP-COLLECTION-3.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Matthieu Morales" filename="M_M Scarcigny.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/combat-mission-battle-for-normandy/cm-battles-for-normandy-add-ons-maps/cmbn-repository-map-collection-3/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/CMBN-MAP-COLLECTION-3.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Matthieu Morales" filename="M_M St Amand.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/combat-mission-battle-for-normandy/cm-battles-for-normandy-add-ons-maps/cmbn-repository-map-collection-3/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/CMBN-MAP-COLLECTION-3.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Matthieu Morales" filename="M_M St Sauveur (784x512).btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/combat-mission-battle-for-normandy/cm-battles-for-normandy-add-ons-maps/cmbn-repository-map-collection-3/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/CMBN-MAP-COLLECTION-3.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Matthieu Morales" filename="M_M Suburbs Bocage (320x320).btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/combat-mission-battle-for-normandy/cm-battles-for-normandy-add-ons-maps/cmbn-repository-map-collection-3/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/CMBN-MAP-COLLECTION-3.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Matthieu Morales" filename="M_M Two Farms (656x304).btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/combat-mission-battle-for-normandy/cm-battles-for-normandy-add-ons-maps/cmbn-repository-map-collection-3/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/CMBN-MAP-COLLECTION-3.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Matthieu Morales" filename="M_M Two Farms.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/combat-mission-battle-for-normandy/cm-battles-for-normandy-add-ons-maps/cmbn-repository-map-collection-3/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/CMBN-MAP-COLLECTION-3.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Uzi" filename="Norman D Bridges ME.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/combat-mission-battle-for-normandy/cm-battles-for-normandy-add-ons-maps/cmbn-repository-map-collection-3/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/CMBN-MAP-COLLECTION-3.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Uzi" filename="Norman D Maison En Bessin A Attack.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/combat-mission-battle-for-normandy/cm-battles-for-normandy-add-ons-maps/cmbn-repository-map-collection-3/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/CMBN-MAP-COLLECTION-3.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Reaper28" filename="POW Raid.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/combat-mission-battle-for-normandy/cm-battles-for-normandy-add-ons-maps/cmbn-repository-map-collection-3/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/CMBN-MAP-COLLECTION-3.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Steve Burke" filename="Schmidt.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/combat-mission-battle-for-normandy/cm-battles-for-normandy-add-ons-maps/cmbn-repository-map-collection-3/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/CMBN-MAP-COLLECTION-3.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Skogtroll" filename="ST Near Tracy-Bocage.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/combat-mission-battle-for-normandy/cm-battles-for-normandy-add-ons-maps/cmbn-repository-map-collection-3/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/CMBN-MAP-COLLECTION-3.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Michael Dorosh" filename="TWC - Asslt Small Town (Combe).btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/combat-mission-battle-for-normandy/cm-battles-for-normandy-add-ons-maps/cmbn-repository-map-collection-3/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/CMBN-MAP-COLLECTION-3.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Michael Dorosh" filename="TWC - Attack Small Village (Staddle).btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/combat-mission-battle-for-normandy/cm-battles-for-normandy-add-ons-maps/cmbn-repository-map-collection-3/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/CMBN-MAP-COLLECTION-3.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Michael Dorosh" filename="TWC - Meet Large Town (Bree) Allied vs AI.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/combat-mission-battle-for-normandy/cm-battles-for-normandy-add-ons-maps/cmbn-repository-map-collection-3/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/CMBN-MAP-COLLECTION-3.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Michael Dorosh" filename="TWC - Meet Large Town (Bree) Axis vs AI.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/combat-mission-battle-for-normandy/cm-battles-for-normandy-add-ons-maps/cmbn-repository-map-collection-3/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/CMBN-MAP-COLLECTION-3.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Michael Dorosh" filename="TWC - Meet Large Town (Bree) - H2H.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/combat-mission-battle-for-normandy/cm-battles-for-normandy-add-ons-maps/cmbn-repository-map-collection-3/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/CMBN-MAP-COLLECTION-3.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Umlaut" filename="Two bridges.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/combat-mission-battle-for-normandy/cm-battles-for-normandy-add-ons-maps/cmbn-repository-map-collection-3/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/CMBN-MAP-COLLECTION-3.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Steve Burke" filename="Urban Setting.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/combat-mission-battle-for-normandy/cm-battles-for-normandy-add-ons-maps/cmbn-repository-map-collection-3/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/CMBN-MAP-COLLECTION-3.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Tarkus" filename="Tarkus_Large_Meet_Farmland_001.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/combat-mission-battle-for-normandy/cm-battles-for-normandy-add-ons-maps/map-meeting-engagement-large-farmland/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/Tarkus_Large_Meet_Farmland_001.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Wlls" filename="A WS Redo NorMons QB Probe 2.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/uncategorized/cmbn-h2h-quick-battle/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/wp-content/uploads/2018/11/A-WS-Redo-NorMons-QB-Probe-2.btt_.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	
+<!-- 	<scenario author="" filename=""> -->
+<!-- 		<urls_list> -->
+<!-- 			<infourl who="Scenario Depot"></infourl> -->
+<!-- 			<downloadurl who="Scenario Depot">http://</downloadurl> -->
+<!-- 		</urls_list> -->
+<!-- 	</scenario> -->
+</scenarios>

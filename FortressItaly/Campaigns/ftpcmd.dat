@@ -1,0 +1,68 @@
+mkdir "/combatmission.lesliesoftware.com/FortressItaly/Campaigns/Bizerte - Basic Training scenarios"
+cd "/combatmission.lesliesoftware.com/FortressItaly/Campaigns/Bizerte - Basic Training scenarios"
+binary
+mkdir "/combatmission.lesliesoftware.com/FortressItaly/Campaigns/campaignpics"
+cd "/combatmission.lesliesoftware.com/FortressItaly/Campaigns/campaignpics"
+binary
+mput "campaignpics/*.bmp"
+mkdir "/combatmission.lesliesoftware.com/FortressItaly/Campaigns/Conrath's Counterattack scenarios"
+cd "/combatmission.lesliesoftware.com/FortressItaly/Campaigns/Conrath's Counterattack scenarios"
+binary
+mkdir "/combatmission.lesliesoftware.com/FortressItaly/Campaigns/GL Foiling Fustian scenarios"
+cd "/combatmission.lesliesoftware.com/FortressItaly/Campaigns/GL Foiling Fustian scenarios"
+binary
+mkdir "/combatmission.lesliesoftware.com/FortressItaly/Campaigns/GL Monte Cassino scenarios"
+cd "/combatmission.lesliesoftware.com/FortressItaly/Campaigns/GL Monte Cassino scenarios"
+binary
+mkdir "/combatmission.lesliesoftware.com/FortressItaly/Campaigns/GL Raging Buffalo scenarios"
+cd "/combatmission.lesliesoftware.com/FortressItaly/Campaigns/GL Raging Buffalo scenarios"
+binary
+mkdir "/combatmission.lesliesoftware.com/FortressItaly/Campaigns/GL The Corridor scenarios"
+cd "/combatmission.lesliesoftware.com/FortressItaly/Campaigns/GL The Corridor scenarios"
+binary
+mkdir "/combatmission.lesliesoftware.com/FortressItaly/Campaigns/Invasion at Gela - Advanced Training scenarios"
+cd "/combatmission.lesliesoftware.com/FortressItaly/Campaigns/Invasion at Gela - Advanced Training scenarios"
+binary
+mkdir "/combatmission.lesliesoftware.com/FortressItaly/Campaigns/The Fleeting Moment scenarios"
+cd "/combatmission.lesliesoftware.com/FortressItaly/Campaigns/The Fleeting Moment scenarios"
+binary
+mkdir "/combatmission.lesliesoftware.com/FortressItaly/Campaigns/Troina scenarios"
+cd "/combatmission.lesliesoftware.com/FortressItaly/Campaigns/Troina scenarios"
+binary
+mkdir "/combatmission.lesliesoftware.com/FortressItaly/Campaigns/TWC Black Devils of Anzio 1 scenarios"
+cd "/combatmission.lesliesoftware.com/FortressItaly/Campaigns/TWC Black Devils of Anzio 1 scenarios"
+binary
+mkdir "/combatmission.lesliesoftware.com/FortressItaly/Campaigns/Bizerte - Basic Training scenarios"
+cd "/combatmission.lesliesoftware.com/FortressItaly/Campaigns/Bizerte - Basic Training scenarios"
+binary
+mkdir "/combatmission.lesliesoftware.com/FortressItaly/Campaigns/campaignpics"
+cd "/combatmission.lesliesoftware.com/FortressItaly/Campaigns/campaignpics"
+binary
+mput "campaignpics/*.bmp"
+mkdir "/combatmission.lesliesoftware.com/FortressItaly/Campaigns/Conrath's Counterattack scenarios"
+cd "/combatmission.lesliesoftware.com/FortressItaly/Campaigns/Conrath's Counterattack scenarios"
+binary
+mkdir "/combatmission.lesliesoftware.com/FortressItaly/Campaigns/GL Foiling Fustian scenarios"
+cd "/combatmission.lesliesoftware.com/FortressItaly/Campaigns/GL Foiling Fustian scenarios"
+binary
+mkdir "/combatmission.lesliesoftware.com/FortressItaly/Campaigns/GL Monte Cassino scenarios"
+cd "/combatmission.lesliesoftware.com/FortressItaly/Campaigns/GL Monte Cassino scenarios"
+binary
+mkdir "/combatmission.lesliesoftware.com/FortressItaly/Campaigns/GL Raging Buffalo scenarios"
+cd "/combatmission.lesliesoftware.com/FortressItaly/Campaigns/GL Raging Buffalo scenarios"
+binary
+mkdir "/combatmission.lesliesoftware.com/FortressItaly/Campaigns/GL The Corridor scenarios"
+cd "/combatmission.lesliesoftware.com/FortressItaly/Campaigns/GL The Corridor scenarios"
+binary
+mkdir "/combatmission.lesliesoftware.com/FortressItaly/Campaigns/Invasion at Gela - Advanced Training scenarios"
+cd "/combatmission.lesliesoftware.com/FortressItaly/Campaigns/Invasion at Gela - Advanced Training scenarios"
+binary
+mkdir "/combatmission.lesliesoftware.com/FortressItaly/Campaigns/The Fleeting Moment scenarios"
+cd "/combatmission.lesliesoftware.com/FortressItaly/Campaigns/The Fleeting Moment scenarios"
+binary
+mkdir "/combatmission.lesliesoftware.com/FortressItaly/Campaigns/Troina scenarios"
+cd "/combatmission.lesliesoftware.com/FortressItaly/Campaigns/Troina scenarios"
+binary
+mkdir "/combatmission.lesliesoftware.com/FortressItaly/Campaigns/TWC Black Devils of Anzio 1 scenarios"
+cd "/combatmission.lesliesoftware.com/FortressItaly/Campaigns/TWC Black Devils of Anzio 1 scenarios"
+binary

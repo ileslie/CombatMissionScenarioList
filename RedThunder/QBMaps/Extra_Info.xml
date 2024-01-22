@@ -1,0 +1,432 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scenarios>
+	<scenario author="Mark Ezra" filename="Angriff Assault 083.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Angriff Attack 083.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Angriff Probe 083.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Attack! Assault 084.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Attack! Attack 084.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Attack! Probe 084.btt" stock="y" />
+	<scenario author="Jeff Shaffer" filename="Bessarabian Nights with Hills setup 1.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3304</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Jeff Shaffer" filename="Bessarabian Nights with Hills setup 2.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3304</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Jeff Shaffer" filename="Bessarabian Nights with Hills setup 3.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3304</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Jeff Shaffer" filename="Bessarabian Nights with Hills setup 4.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3304</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Jeff Shaffer" filename="Bessarabian Nights with Hills setup 5.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3304</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Jeff Shaffer" filename="Bessarabian Nights with Hills setup 6.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3304</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Jeff Shaffer" filename="Bessarabian Nights with Hills setup 7.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3304</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Jeff Shaffer" filename="Bessarabian Nights with Hills setup 8.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3304</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Mark Ezra" filename="City Assault 047.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="City Assault 063.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="City Attack 047.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="City Attack 063.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="City Meet 048.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="City Meet 064.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="City Meet 082.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="City Probe 047.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="City Probe 063.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="City-Water Assault 081.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="City-Water Attack 081.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="City-Water Probe 081.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="City-Water-Rough Assault 053.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="City-Water-Rough Attack 053.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="City-Water-Rough Meet 054.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="City-Water-Rough Probe 053.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Forest-Marsh Assault 029.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Forest-Marsh Attack 029.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Forest-Marsh Meet 030.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Forest-Marsh Probe 029.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Forest-Rural Assault 042.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Forest-Rural Attack 042.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Forest-Rural Meet 041.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Forest-Rural Probe 042.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Forest-Water Meet 028.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Hill-Water-Village Assault 078.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Hill-Water-Village Attack 078.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Hill-Water-Village Probe 078.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Hills-Forest-Valley Road Assault 002.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Hills-Forest-Valley Road Attack 002.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Hills-Forest-Valley Road Probe 002.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Hills-Light Forest Road Rail Assault 003.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Hills-Light Forest Road Rail Attack 003.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Hills-Light Forest Road Rail Probe 003.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Hills-Rural Meet 034.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Hills-Water Assault 037.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Hills-Water Attack 037.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Hills-Water Probe 037.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Huge Open-Rural Assault 031.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Huge Open-Rural Attack 031.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Huge Open-Rural Meet 032.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Huge Open-Rural Probe 031.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Huge Rough-Water Meeting 027.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Huge Rough-Water-Town Assault 026.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Huge Rough-Water-Town Attack 026.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Huge Rough-Water-Town Probe 026.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Light Forest-Farmland Assault 001.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Light Forest-Farmland Attack 001.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Light Forest-Farmland Probe 001.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Open Farmland Meet 005.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Open Farmland-Forest Assault 006.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Open Farmland-Forest Attack 006.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Open Farmland-Forest Probe 006.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Open-Rough Assault 025.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Open-Rough Assault 035.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Open-Rough Attack 025.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Open-Rough Attack 035.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Open-Rough Meet 036.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Open-Rough Meet 061.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Open-Rough Probe 025.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Open-Rough Probe 035.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Rough-Marsh-Forest Assault 013.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Rough-Marsh-Forest Attack 013.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Rough-Marsh-Forest Probe 013.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Rough-Open Assault 062.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Rough-Open Attack 062.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Rough-Open Probe 062.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Rough-Swamp-Forest Assault 004.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Rough-Swamp-Forest Attack 004.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Rough-Swamp-Forest Probe 004.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Rough-Village Meet 077.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Rough-Water Meet 044.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Rough-Water-Forest Assault 073.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Rough-Water-Forest Assault 075.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Rough-Water-Forest Attack 073.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Rough-Water-Forest Attack 075.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Rough-Water-Forest Meet 074.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Rough-Water-Forest Meet 076.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Rough-Water-Forest Probe 073.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Rough-Water-Forest Probe 075.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Rough-Water-Village Assault 009.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Rough-Water-Village Assault 043.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Rough-Water-Village Attack 009.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Rough-Water-Village Attack 043.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Rough-Water-Village Meeting 010.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Rough-Water-Village Probe 009.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Rough-Water-Village Probe 043.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Small City Assault 045.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Small City Attack 045.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Small City Meet 046.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Small City Probe 045.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Small City-Water Assault 051.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Small City-Water Attack 051.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Small City-Water Meet 052.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Small City-Water Probe 051.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Small Forest-Village Assault 021.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Small Forest-Village Attack 021.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Small Forest-Village Meet 022.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Small Forest-Village Probe 021.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Small Hills-Forest Assault 023.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Small Hills-Forest Attack 023.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Small Hills-Forest Probe 023.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Small Hills-Forest-Village Meet 024.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Small Open-Rough Assault 050.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Small Open-Rough Attack 050.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Small Open-Rough Meet 049.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Small Open-Rough Probe 050.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Small Town-Forest Assault 017.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Small Town-Forest Attack 017.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Small Town-Forest Meeting 018.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Small Town-Forest Probe 017.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Small Village Assault 019.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Small Village Attack 019.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Small Village Meet 015.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Small Village Probe 019.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Small Village-Forest Assault 016.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Small Village-Forest Assault 033.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Small Village-Forest Attack 016.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Small Village-Forest Attack 033.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Small Village-Forest Probe 016.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Small Village-Forest Probe 033.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Small Village-Open 020.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Town-Forest Assault 038.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Town-Forest Assault 040.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Town-Forest Attack 038.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Town-Forest Attack 040.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Town-Forest Meet 039.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Town-Forest Probe 038.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Town-Forest Probe 040.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Town-Hills Assault 065.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Town-Hills Assault 069.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Town-Hills Attack 065.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Town-Hills Attack 069.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Town-Hills Meet 066.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Town-Hills Meet 070.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Town-Hills Meet 080.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Town-Hills Probe 065.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Town-Hills Probe 069.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Town-Rough-Forest Assault 014.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Town-Rough-Forest Attack 014.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Town-Rough-Forest Probe 014.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Town-Water Assault 079.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Town-Water Attack 079.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Town-Water Probe 079.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Village Assault 059.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Village Attack 059.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Village Meet 060.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Village Probe 059.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Village-Forest Assault 007.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Village-Forest Assault 057.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Village-Forest Attack 007.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Village-Forest Attack 057.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Village-Forest Meet 056.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Village-Forest Meet 058.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Village-Forest Meeting 008.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Village-Forest Meeting 012.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Village-Forest Probe 007.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Village-Forest Probe 057.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Village-Hills Assault 067.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Village-Hills Attack 067.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Village-Hills Meet 068.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Village-Hills Probe 067.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Village-Hills-Forest Assault 071.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Village-Hills-Forest Attack 071.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Village-Hills-Forest Meet 072.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Village-Hills-Forest Probe 071.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Village-Rough-Forest Assault 011.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Village-Rough-Forest Assault 055.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Village-Rough-Forest Attack 011.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Village-Rough-Forest Attack 055.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Village-Rough-Forest Probe 011.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="Village-Rough-Forest Probe 055.btt" stock="y" />
+	<scenario author="Jeff Shaffer" filename="Panzer Crossroads map Ger L.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons/panzer-crossroads-qb-map/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/Panzer-Crossroads-Maps.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Jeff Shaffer" filename="Panzer Crossroads map Ger N.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons/panzer-crossroads-qb-map/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/Panzer-Crossroads-Maps.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Jeff Shaffer" filename="Panzer Crossroads map Ger R.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons/panzer-crossroads-qb-map/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/Panzer-Crossroads-Maps.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Jeff Shaffer" filename="Panzer Crossroads map Ger S.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons/panzer-crossroads-qb-map/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/Panzer-Crossroads-Maps.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Jeff Shaffer" filename="Panzer crossroads map with hills Ger L.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons/panzer-crossroads-qb-map/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/Panzer-Crossroads-Maps.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Jeff Shaffer" filename="Panzer crossroads map with hills Ger N.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons/panzer-crossroads-qb-map/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/Panzer-Crossroads-Maps.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Jeff Shaffer" filename="Panzer crossroads map with hills Ger R.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons/panzer-crossroads-qb-map/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/Panzer-Crossroads-Maps.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Jeff Shaffer" filename="Panzer crossroads map with hills Ger S.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons/panzer-crossroads-qb-map/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/Panzer-Crossroads-Maps.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Michael Dorosh" filename="TWC QB Meeting Engagement - Kamienka.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons/twc-qb-meeting-engagement-kamienka/</infourl>
+			<downloadurl who="Scenario Depot">http://http://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons/twc-qb-meeting-engagement-kamienka/</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Michael Dorosh" filename="TWC QB  Meeting (Chance Encounter).btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons/twc-qb-meeting-chance-encounter/</infourl>
+			<downloadurl who="Scenario Depot">http://http://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons/twc-qb-meeting-chance-encounter/</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Michael Dorosh" filename="TWC QB Hills Meeting (Hill 621).btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons/twc-qb-map-hills-meeting-hill-621/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/TWC-QB-Hills-Meeting-Hill-621.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Michael Dorosh" filename="TWC QB Forest Meeting (Cracking the Egg).btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons/twc-qb-forest-meeting-cracking-the-egg/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/TWC-QB-Forest-Meeting-Cracking-the-Egg.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Jeff Shaffer" filename="Fat Lipki QB map variation 1 Ger L-R.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/fat-lipki-qb-map-final-version-with-better-ai/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/Fat-Lipki-QB-maps.zip</downloadurl>
+			<downloadurl>http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=finishdown&amp;id=3227</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Jeff Shaffer" filename="Fat Lipki QB map variation 2 Ger R-L.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/fat-lipki-qb-map-final-version-with-better-ai/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/Fat-Lipki-QB-maps.zip</downloadurl>
+			<downloadurl>http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=finishdown&amp;id=3227</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Jeff Shaffer" filename="Fat Lipki QB map variation 3 Ger SE-NW.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/fat-lipki-qb-map-final-version-with-better-ai/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/Fat-Lipki-QB-maps.zip</downloadurl>
+			<downloadurl>http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=finishdown&amp;id=3227</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Jeff Shaffer" filename="Fat Lipki QB map variation 4 Ger NW-SE.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/fat-lipki-qb-map-final-version-with-better-ai/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/Fat-Lipki-QB-maps.zip</downloadurl>
+			<downloadurl>http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=finishdown&amp;id=3227</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Jeff Shaffer" filename="Fat Lipki QB map variation 5 Ger NE-SW.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/fat-lipki-qb-map-final-version-with-better-ai/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/Fat-Lipki-QB-maps.zip</downloadurl>
+			<downloadurl>http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=finishdown&amp;id=3227</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Jeff Shaffer" filename="Fat Lipki QB map variation 6 Ger SW-NE.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/fat-lipki-qb-map-final-version-with-better-ai/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/Fat-Lipki-QB-maps.zip</downloadurl>
+			<downloadurl>http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=finishdown&amp;id=3227</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Jeff Shaffer" filename="Fat Lipki QB map.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/fat-lipki-qb-map-final-version-with-better-ai/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/Fat-Lipki-QB-maps.zip</downloadurl>
+			<downloadurl>http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=finishdown&amp;id=3227</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Jeff Shaffer" filename="Bessarabian Nights Setup 1.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/bessarabian-nights-qb-map/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/Bessarabian-Nights-QB-maps.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Jeff Shaffer" filename="Bessarabian Nights Setup 2.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/bessarabian-nights-qb-map/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/Bessarabian-Nights-QB-maps.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Jeff Shaffer" filename="Bessarabian Nights Setup 3.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/bessarabian-nights-qb-map/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/Bessarabian-Nights-QB-maps.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Jeff Shaffer" filename="Bessarabian Nights Setup 4 Russian Ambush.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/bessarabian-nights-qb-map/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/Bessarabian-Nights-QB-maps.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Jeff Shaffer" filename="Bessarabian Nights Setup 5.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/bessarabian-nights-qb-map/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/Bessarabian-Nights-QB-maps.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Jeff Shaffer" filename="Bessarabian Nights Setup 6.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/bessarabian-nights-qb-map/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/Bessarabian-Nights-QB-maps.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Jeff Shaffer" filename="Bessarabian Nights Setup 7.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/bessarabian-nights-qb-map/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/Bessarabian-Nights-QB-maps.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Jeff Shaffer" filename="Bessarabian Nights Setup 8.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/bessarabian-nights-qb-map/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/Bessarabian-Nights-QB-maps.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Kevin Kinscherf" filename="AI Mod Allied Small Village Attack 019.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3475</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Kevin Kinscherf" filename="AI Mod German Small Village Attack 019.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3475</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Kevin Kinscherf" filename="AI Mod Light Forest-Farmland Probe 001.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3475</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Kevin Kinscherf" filename="AI Mod Open Farmland Meet 00500.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3475</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Kevin Kinscherf" filename="AI Mod Small City Assault 045.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3475</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Kevin Kinscherf" filename="AI Mod Small City Probe 045.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3475</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Michael Dorosh" filename="TWC QB Meeting Engagement (Magnuszew Bridgehead).btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3465</downloadurl>
+		</urls_list>
+	</scenario>
+	
+<!-- 	<scenario author="" filename=""> -->
+<!-- 		<urls_list> -->
+<!-- 			<infourl who="Scenario Depot"></infourl> -->
+<!-- 			<downloadurl who="Scenario Depot">http://</downloadurl> -->
+<!-- 		</urls_list> -->
+<!-- 	</scenario> -->
+</scenarios>

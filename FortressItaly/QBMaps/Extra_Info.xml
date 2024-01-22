@@ -1,0 +1,473 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scenarios>
+	<scenario author="Mark Ezra" filename="001Asslt Med Town (steep hills) 001.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="002Asslt Large Town 002.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="003Attk Med Town 003.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="004Attk Med Agricultural 004.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="005Attk Large Town 005.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="006Attk Med Mountainous 006.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="007Asslt Med Rough (steep hills) 007.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="008Attk Med Town 008.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="009Meet Large Town 009.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="010Asslt Med Agricultural 010.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="011Attk Med Agricultural 011.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="012Asslt Med Open 012.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="013Attk Med Agricultural 013.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="014Attk Med Town 014.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="015Attk Large Town 015.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="016Attk Large Town 016.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="017Attk Med Agricultural 017.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="018Meet Large Rough 018.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="019Attk Med Open 019.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="020Attk Med Town 020.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="022Asslt Med Agricultural 022.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="023Attk Med Agricultural 023.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="024Attk Huge Open 024.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="027Attk Large Town (steep hills) 027.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="029Attk Med Town 029.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="033Asslt Med Town 033.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="034Attk Med Town 034.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="035Attk Med Town 035.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="036Attk Med Town 036.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="037Attk Large Agricultural 037.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="038Attk Med Agricultural 038.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="040Attk Large Rough 040.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="041Attk Med Agricultural 041.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="042Asslt Med Town (steep hills) 042.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="044Attk Med Town (steep hills) 044.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="046Attk Med Town (steep hills) 046.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="047Asslt Med Agricultural 047.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="049Asslt Med Agricultural 049.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="050Meet Med Open 050.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="051Attk Med Agricultural 051.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="054Asslt Large City 054.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="055Asslt Med Forest 055.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="059Meet Small Agricultural (water) 059.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="060Attk Small Town (steep hills) 060.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="063Attk Tiny Town (steep hills) 063.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="064Meet Tiny Town (steep hills) 064.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="066Attk Tiny Agricultural 066.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="067Meet Tiny Agricultural 067.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="068Attk Tiny Agricultural 068.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="069Attk Tiny Forest 069.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="070Probe Large Open 070.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="071Attk Small Rough 071.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="072Probe Med Rough 072.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="073Probe Small Rough 073.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="075Asslt Med Hills 075.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="076Probe Small Open (steep hills) 076.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="077Probe Small Open 077.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="079Probe Med Town (steep hills) 079.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="080Probe Large Town 080.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="081Probe Med Town 081.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="082Probe Med Agricultural 082.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="083Probe Large Town 083.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="084Probe Med Mountainous 084.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="085Asslt Med Mountainous 085.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="086Attk Med Rough (steep hills) 086.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="087Probe Med Rough (steep hills) 087.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="088Probe Med Town 088.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="089Asslt Med Town 089.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="090Attk Med Agricultural 090.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="091Probe Med Agricultural 091.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="092Probe Med Agricultural 092.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="093Asslt Med Agricultural 093.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="094Attk Med Open 094.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="095Probe Med Open 095.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="096Meet Med Agricultural 096.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="097Probe Med Agricultural 097.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="098Asslt Med Agricultural 098.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="099Attk Med City 099.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="100Attk Small Forest 100.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="101Attk Med City (damage) 101.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="102Asslt Med Town 102.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="105Probe Large Town 105.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="106Asslt Large Town 106.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="107Asslt Huge Mountainous 107.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="108Attk Small Open (steep hills) 108.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="109Asslt Large Town 109.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="110Probe Small Forest 110.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="111Meet Small Forest 111.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="112Attk Small Forest 112.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="114Asslt Med Town 114.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="117Meet Small Rough (steep hills) 117.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="118Meet Tiny Open 118.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="119Attk Tiny Mountainuos 119.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="120Meet Tiny Agricultural 120.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="121Probe Small Open 121.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="122Probe Med Open 122.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="123Probe Small Open (steep hills) 123.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="124Attk Med Open 124.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="125Attk Small Open (steep hills) 125.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="126Attk Small Open 126.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="127Asslt Small Open 127.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="128Probe Tiny Open 128.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="129Attk Tiny Open 129.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="130Attk Large Open 130.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="131Asslt Large open 131.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="132Attk Med Forest 132.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="133Probe Med Forest 133.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="135Probe Small Agricultural (water) 135.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="136Attk Small Agricultural (water) 136.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="137Asslt Small Agricultural (water) 137.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="138Probe Small Rough (steep hills) 138.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="139Attk Small Rough (steep hills) 139.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="140Asslt Small Rough (steep hills) 140.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="141Probe Tiny Mountainous 141.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="142Asslt Tiny Mountainous 142.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="143Probe Tiny City (steep hills) 143.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="144Attk Med Rough 144.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="145Asslt Med Rough 145.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="146Meet Med Rough 146.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="147Attk Small Rough 147.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="148Probe Med Town 148.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="149Attk Med Town 149.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="150Probe Small Town (steep hills) 150.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="151Asslt Small Town (steep hills) 151.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="152Probe Small Open (steep hills) 152.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="153Attk Small Open (steep hills) 153.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="154Asslt Small Open (steep hills) 154.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="155Asslt Small Open 155.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="156Attk Small Open 156.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="157Probe Med Town 157.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="158Asslt Med Town 158.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="159Asslt Med Town 159.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="160Probe Med Town 160.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="161Probe Med Town (steep hills) 161.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="162Asslt Med Town (steep hills) 162.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="163Probe Large Agricultural 163.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="164Asslt Large Agricultural 164.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="165Probe Med Agricultural 165.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="166Asslt Med Agricultural 166.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="167Asslt Small Rough 167.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="168Meet Small Forest 168.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="169Probe Small Forest 169.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="170Attk Small Forest 170.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="171Asslt Small Forest 171.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="172Probe Huge Rough 172.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="173Attk Huge Rough 173.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="174Asslt Huge Rough 174.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="175Meet Huge Rough 175.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="176Meet Med Rough 176.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="177Probe Med Rough 177.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="178Attk Med Rough 178.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="179Asslt Med Rough 179.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="180Probe Med Rough 180.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="184Probe Med Agricultural 184.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="185Asslt Med Agricultural 185.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="186Attk Med Forest 186.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="187Probe Med Forest 187.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="188Asslt Med Agricultural 188.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="189Probe Med Agricultural 189.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="190Asslt Tiny Town (steep hills) 190.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="191Probe Tiny Town (steep hills) 191.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="192Asslt Tiny Agricultural 192.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="193Probe Tiny Agricultural 193.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="194Asslt Small Town (steep hills) 194.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="195Probe Small Town (steep hills) 195.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="196Asslt Huge Open 196.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="197Probe Huge Open 197.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="198Asslt Med Agricultural 198.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="199Probe Med Agricultural 199.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="200Attk Large Open 200.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="201Asslt Large Open 201.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="202Asslt Med Mountainous 202.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="203Attk Med Mountainous 203.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="204Probe Med Mountainous 204.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="205Asslt Med Mountainous 205.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="206Attk Med Mountainous 206.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="207Probe Med Mountainous 207.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="208Attk Large Mountainous 208.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="209Asslt Large Mountainous 209.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="210Probe Large Mountainous 210.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="211Asslt Med Town 211.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="212Attk Med Town 212.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="213Probe Med Town 213.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="214Asslt Large Town (water) 214.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="215Attk Large Town (water) 215.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="216Probe Large Town (water) 216.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="217Asslt Med Town 217.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="218Attk Med Town 218.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="219Probe Med Town 219.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="220Asslt Small Agricultural 220.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="221Attk Small Agricultural 221.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="222Probe Small Agricultural 222.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="223Asslt Tiny Open 223.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="224Asslt Tiny Agricultural 224.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="225Probe Tiny Agricultural 225.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="226Attk Huge Mountainous 226.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="227Probe Huge Mountainous 227.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="228Asslt Large Rough 228.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="229Attk Large Rough 229.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="230Probe Large Rough 230.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="231Asslt Med Open 231.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="232Probe Med Open 232.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="233Asslt Med Town 233.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="234Probe Med Town 234.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="235Asslt Huge Open 235.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="236Attk Huge Open 236.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="237Probe Huge Open 237.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="238Asslt Med Rough 238.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="239Attk Med Rough 239.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="240Probe Med Rough 240.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="241Attk Tiny City (steep hills) 241.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="242Asslt Med Town 242.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="243Probe Med Town 243.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="244Meet Med Town 244.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="245Asslt Tiny City (steep hills) 245.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="246Asslt Large Rough 246.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="247Attk Large Rough 247.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="248Probe Large Rough 248.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="250Asslt Large Mountainous 250.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="251Attk Large Mountainous 251.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="252Probe Large Mountainous 252.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="253Meet Large Mountainous 253.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="254Asslt Med Mountainous 254.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="255Attk Med Mountainous 255.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="256Probe Med Mountainous 256.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="257Meet Med Mountainous 257.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="258Asslt Huge Mountainous 258.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="259Attk Huge Mountainous 259.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="260Probe Huge Mountainous 260.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="261Meet Huge Mountainous 261.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="262Asslt Small Agricultural 262.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="263Attk Small Agricultural 263.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="264Probe  Small Agricultural 264.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="264Probe Small Agricultural 264.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="265Meet Small Agricultural 265.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="266Asslt Small Rough 266.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="267Attk Small Rough 267.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="268Probe Small Rough 268.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="269Meet Small Rough 269.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="270Asslt Tiny Agricultural (water) 270.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="271Attk Tiny Agricultural (water) 271.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="272Probe Tiny Agricultural (water) 272.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="273Meet Tiny Agricultural (water) 273.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="274Asslt Med Rough 274.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="275Attk Med Rough 275.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="276Probe Med Rough 276.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="277Meet Med Rough 277.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="278Asslt Med Agricultural (steep hills) 278.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="279Attk Med Agricultural (steep hills) 279.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="280Probe Med Agricultural (steep hills) 280.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="281Probe Med Hills (steep hills) 281.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="282Attk Med Hills (steep hills) 282.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="283Asslt Med Hills (steep hills) 283.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="284Probe Large Hills (steep hills) 284.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="285Attk Large Hills (steep hills) 285.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="286Asslt Large Hills (steep hills) 286.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="287Probe Med Hills (steep hills) 287.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="288Attk Med Hills (steep hills) 288.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="289Asslt Med Hills (steep hills) 289.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="290Meet Med Hills (steep hills) 290.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="291Probe Med Agricultural 291.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="292Attk Med Agricultural 292.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="293Asslt Med Agricultural 293.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="294Meet Large Agricultural 294.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="295Attk Huge Agricultural 295.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="296Probe Huge Agricultural 296.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="297Asslt Huge Agricultural 297.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="298Probe Med Agricultural 298.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="299Attk Med Agricultural 299.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="300Asslt Med Agricultural 300.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="301Probe Med Agricultural 301.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="302Attk Med Agricultural 302.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="303Asslt Med Agricultural 303.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="304Probe Med Open 304.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="305Attk Med Open 305.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="306Asslt Med Open 306.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="307Meet Med Open 307.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="308Probe Med Open 308.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="309Attk Med Open 309.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="310Asslt Med Open 310.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="311Probe Small Rough (steep hills) 311.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="312Attk Small Rough (step hills) 312.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="313Asslt Small Rough (steep hills) 313.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="314Meet Small Rough (steep hills) 314.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="315Probe Small Rough (steep hills) 315.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="316Attk Small Rough (steep hills) 316.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="317Asslt Small Rough (steep hills) 317.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="318Probe Med Rough (steep hills) 318.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="319Attk Med Rough (steep hills) 319.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="320Asslt Med Rough (steep hills) 320.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="321Probe Med Agricultural 321.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="322Attk Med Agricultural 322.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="323Asslt Med Agricultural 323.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="324Meet Small Agricultural 324.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="325Probe Large Agricultural 325.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="326Attk Large Agricultural 326.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="327Asslt Large Agricultural 327.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="328Probe Med Agricultural (steep hills) 328.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="329Attk Med Agricultural (steep hills) 329.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="330Asslt Med Agricultural (steep hills) 330.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="331Probe Med Agricultural 331.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="332Attk Med Agricultural 332.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="333Asslt Med Agricultural 333.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="334Probe Med Agricultural (steep hills) 334.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="335Attk Med Agricultural (steep hills) 335.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="336Asslt Med Agricultural (steep hills) 336.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="337Probe Med Village 337.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="338Attk Med Village 338.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="339Asslt Med Village 339.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="340Meet Tiny Open 340.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="341Probe Med Agricultural 341.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="342Attk Med Agricultural 342.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="343Asslt med Agricultural 343.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="344Probe Med Rough 344.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="345Attk Med Rough 345.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="346Asslt Med Rough 346.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="347Probe Small Rough 347.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="348Attk Small Rough 348.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="349Asslt Small Rough 349.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="350Probe Med Agricultural 350.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="351Attk Med Agricultural 351.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="352Asslt Med Agricultural 352.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="353Probe Small Agricultural 353.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="354Attk Small Agricultural 354.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="355Asslt Small Agricultural 355.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="356Probe Tiny Agricultural 356.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="357Attk Tiny Agricultural 357.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="358Asslt Tiny Agricultural 358.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="359Meet Tiny Rough (steep hills) 359.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="360Probe Large Town (water) 360.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="361Attk Large Town (water) 361.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="362Asslt Large Town (water) 362.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="363Meet Med Open 363.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="364Probe Med Mountainous 364.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="365Attk Med Mountainous 365.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="366Asslt Med Mountainous 366.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="367Probe Med Agricultural (steep hills) 367.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="368Attk Med Agricultural (steep hills) 368.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="369Asslt Med Agricultural (steep hills) 369.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="370Probe Med Mountainous 370.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="371Attk Med Mountainous 371.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="372Asslt Med Mountainous 372.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="373Probe Large Mountainous 373.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="374Attk Large Mountainous 374.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="375Asslt Large Mountainous 375.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="376Probe Med Mountainous 376.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="377Attk Med Mountainous 377.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="378Asslt Med Mountainous 378.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="379Probe Large Agricultural (water) 379.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="380Attk Large Agricultural (water) 380.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="381Asslt Large Agricultural (water) 381.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="382Probe Small Agricultural 382.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="383Attk Small Agricultural 383.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="384Asslt Small Agricultural 384.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="385Probe Large Open  385.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="386Attk Large Open 386.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="387Asslt Large Open 387.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="388Probe Med Rough 388.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="389Attk Med Rough 389.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="390Asslt Med Rough 390.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="391Meet Small Open 391.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="392Probe Med Agricultural 392.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="393Attk Med Agricultural 393.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="394Asslt Med Agricultural 394.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="395Probe Med Village 395.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="396Attk Med Village 396.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="397Asslt Med Village 397.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="398Probe Med Open (water) 398.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="399Attk Med Open (water) 399.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="400Asslt Med Open (water) 400.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="401Probe Med Agricultural 401.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="402Attk Med Agricultural 402.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="403Asslt Med Agricultural 403.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="404Probe Small City (damage) 404.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="405Attk Small City (damage) 405.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="406Asslt Small City (damage) 406.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="407Probe Large Agricultural (water) 407.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="408Attk Large Agricultural (water) 408.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="409Asslt Large Agricultural (water) 409.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="410Meet Tiny City 410.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="411Meet Small Town 411.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="412Meet Med Mountainous 412.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="413Meet Small Agricultural 413.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="414Probe Med Agricultural (water) 414.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="415Attk Med Agricultural (water) 415.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="416Asslt Med Agricultural (water) 416.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="417Probe Large Agricultural 417.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="418Attk Large Agricultural 418.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="419Asslt Large Agricultural 419.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="420Meet Tiny Agricultural 420.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="421Meet Large City (damage) 421.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="422Probe Large Rough 422.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="423Attk Large Rough 423.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="424Asslt Large Rough 424.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="425Meet Small Mountainous 425.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="426Probe Large Agricultural (water) 426.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="427Attk Large Agricultural (water) 427.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="428Asslt Large Agricultural (water) 428.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="429Probe Large Town (water) 429.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="430Attk Large Town (water) 430.btt" stock="y" />
+	<scenario author="Mark Ezra" filename="431Asslt Large Town (water) 431.btt" stock="y" />
+	<scenario author="Hennin Steve (Henniak)" filename="HK-Madone Aefone - meet.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-fortress-italy/cm-fortress-italy-add-ons-maps/hk-figl-qb-maps/</infourl>
+			<downloadurl primary="y" who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/HK-FIGL-mappack.rar</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Hennin Steve (Henniak)" filename="HK-Madone Aefone-II - attck axe.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-fortress-italy/cm-fortress-italy-add-ons-maps/hk-figl-qb-maps/</infourl>
+			<downloadurl primary="y" who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/HK-FIGL-mappack.rar</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Hennin Steve (Henniak)" filename="HK-Madonna di Aeffe - meet.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-fortress-italy/cm-fortress-italy-add-ons-maps/hk-figl-qb-maps/</infourl>
+			<downloadurl primary="y" who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/HK-FIGL-mappack.rar</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Hennin Steve (Henniak)" filename="HK-Mesvolu - meet.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-fortress-italy/cm-fortress-italy-add-ons-maps/hk-figl-qb-maps/</infourl>
+			<downloadurl primary="y" who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/HK-FIGL-mappack.rar</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Hennin Steve (Henniak)" filename="HK-Minotaurus Bridge - attck axe.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-fortress-italy/cm-fortress-italy-add-ons-maps/hk-figl-qb-maps/</infourl>
+			<downloadurl primary="y" who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/HK-FIGL-mappack.rar</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Hennin Steve (Henniak)" filename="HK-Montefelonne - meet.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-fortress-italy/cm-fortress-italy-add-ons-maps/hk-figl-qb-maps/</infourl>
+			<downloadurl primary="y" who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/HK-FIGL-mappack.rar</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Conner Brian (iMolestCats)" filename="small quick battle with river.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-fortress-italy/cm-fortress-italy-add-ons-maps/small-quick-battle-map/</infourl>
+			<downloadurl primary="y" who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/iMolestCats-map.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Oliver Giersch (Rokko)" filename="Line of Defense(CMAK Demo).btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=2227</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Mark Ezra" filename="Tunisian Plains Probe.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3281</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Mark Ezra" filename="Tunisian Plains Attack.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3281</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Mark Ezra" filename="Tunisian Plains Assault.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3281</downloadurl>
+		</urls_list>
+	</scenario>
+
+<!-- 	<scenario author="" filename=""> -->
+<!-- 		<urls_list> -->
+<!-- 			<infourl who="Scenario Depot"></infourl> -->
+<!-- 			<downloadurl who="Scenario Depot">http://</downloadurl> -->
+<!-- 		</urls_list> -->
+<!-- 	</scenario> -->
+</scenarios>

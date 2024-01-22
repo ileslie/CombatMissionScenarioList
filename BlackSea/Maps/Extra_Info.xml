@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scenarios>
+	<scenario author="H1nd / Pasi Paroinen" filename="Chernova Hirka Mastermap v1.btt">
+		<urls_list>
+			<downloadurl primary="y" who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-black-sea/cm-black-sea-add-ons-maps/chernova-hirka-mastermap-v1-0/</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Pete Wenman" filename="CTD master.btt">
+		<urls_list>
+			<downloadurl primary="y" who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-black-sea/cm-black-sea-add-ons-maps/map-crossing-the-dnieper-master-map/</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Peter Cairns" filename="Junction 2.btt">
+		<urls_list>
+			<downloadurl primary="y" who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-black-sea/cm-black-sea-add-ons-maps/cmbs-map-junction-2/</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Kieme" filename="Kieme's Highway V2 - map only.btt">
+		<urls_list>
+			<downloadurl primary="y" who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-black-sea/cm-black-sea-add-ons-maps/map-kiemes-highway/</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="sburke" filename="Ukrainian Crossroads.btt">
+		<urls_list>
+			<downloadurl primary="y" who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-black-sea/cm-black-sea-add-ons-maps/ukrainian-crossroads/</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Freyberg" filename="Suburban - Stadium Map [1600x1200] NO AI.btt">
+		<urls_list>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-black-sea/cm-black-sea-add-ons-maps/urban-map-football-stadium/</downloadurl>
+		</urls_list>
+    </scenario>
+    <scenario author="Le-Biscuit" filename="CMBS-Koretsk.btt">
+        <urls_list>
+            <downloadurl primary="y" who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-black-sea/cm-black-sea-add-ons-maps/cmbs-map-of-koretsk/</downloadurl>
+        </urls_list>
+    </scenario>
+    <scenario author="Luka From Fallujah" filename="Great Swamps.btt">
+        <urls_list>
+            <downloadurl primary="y" who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-black-sea/cm-black-sea-add-ons-maps/cm-b-s-great-swamps-s-t-a-l-k-e-r/</downloadurl>
+        </urls_list>
+    </scenario>
+	
+<!--    <scenario author="" filename=""> -->
+<!--        <additional_info> -->
+<!--        </additional_info> -->
+<!--        <urls_list> -->
+<!--            <infourl who="the Blitz"></infourl> -->
+<!--            <downloadurl who="Scenario Depot" primary="y">http://</downloadurl> -->
+<!--        </urls_list> -->
+<!--    </scenario> -->
+</scenarios>

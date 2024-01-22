@@ -1,0 +1,530 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scenarios>
+	<scenario author="Pete Wenman" filename="A December Morning.btt" stock="y">
+		<urls_list>
+			<infourl who="the Blitz">http://www.theblitz.club/scenarios/combat-mission-final-blitzkrieg/b-15.htm?action=scenario&amp;id=11784</infourl>
+		</urls_list>
+	</scenario>
+	<scenario author="PanzerMike" filename="A Muddy Affair.btt" stock="y">
+		<urls_list>
+			<infourl who="the Blitz">http://www.theblitz.club/scenarios/combat-mission-final-blitzkrieg/a-muddy-affair/b-15.htm?action=scenario&amp;id=11573</infourl>
+		</urls_list>
+	</scenario>
+	<scenario author="ASL Veteran" filename="A War Without Mercy.btt" stock="y">
+        <urls_list>
+            <infourl who="the Blitz">https://www.theblitz.club/scenarios/combat-mission-final-blitzkrieg/a-war-without-mercy/b-15.htm?action=scenario&amp;id=13075</infourl>
+        </urls_list>
+	</scenario>
+	<scenario author="snake_eye" filename="Baraque de Fraiture.btt" stock="y">
+		<urls_list>
+			<infourl who="the Blitz">http://www.theblitz.club/scenarios/combat-mission-final-blitzkrieg/baraque-de-fraiture/b-15.htm?action=scenario&amp;id=11766</infourl>
+		</urls_list>
+	</scenario>
+	<scenario author="Sgt Joch" filename="Battle for Chaumont - First Round.btt" stock="y">
+		<urls_list>
+			<infourl who="the Blitz">http://www.theblitz.club/scenarios/combat-mission-final-blitzkrieg/battle-for-chaumont-first-round/b-15.htm?action=scenario&amp;id=11627</infourl>
+		</urls_list>
+	</scenario>
+	<scenario author="Sgt Joch" filename="Battle for Chaumont - Second Round.btt" stock="y">
+	   <urls_list>
+	       <infourl who="the Blitz">https://www.theblitz.club/scenarios/combat-mission-final-blitzkrieg/battle-for-chaumont-second-round/b-15.htm?action=scenario&amp;id=11777</infourl>
+	   </urls_list>
+	</scenario>
+	<scenario author="ASL veteran" filename="Breaking The Line.btt" stock="y">
+		<urls_list>
+			<infourl who="the Blitz">http://www.theblitz.club/scenarios/combat-mission-final-blitzkrieg/breaking-the-line/b-15.htm?action=scenario&amp;id=11581</infourl>
+		</urls_list>
+	</scenario>
+	<scenario author="Jaws" filename="Chaos at Ferme Diedenhove.btt" stock="y">
+       <urls_list>
+           <infourl who="the Blitz">https://www.theblitz.club/scenarios/combat-mission-final-blitzkrieg/chaos-at-ferme-diedenhove/b-15.htm?action=scenario&amp;id=11903</infourl>
+       </urls_list>
+	</scenario>
+	<scenario author="MarkEzra" filename="CMBO Classic-The Road To Wiltz.btt" stock="y">
+		<urls_list>
+			<infourl who="the Blitz">http://www.theblitz.club/scenarios/combat-mission-final-blitzkrieg/cmbo-classic-the-road-to-wiltz/b-15.htm?action=scenario&amp;id=11620</infourl>
+		</urls_list>
+	</scenario>
+	<scenario author="ASL Veteran" filename="Custer's Stand.btt" stock="y">
+        <urls_list>
+            <infourl who="the Blitz">https://www.theblitz.club/scenarios/combat-mission-final-blitzkrieg/custer-s-stand/b-15.htm?action=scenario&amp;id=11904</infourl>
+        </urls_list>
+    </scenario>
+	<scenario author="nik mond" filename="Cutline To Grosshau.btt" stock="y">
+		<urls_list>
+			<infourl who="the Blitz">http://www.theblitz.club/scenarios/combat-mission-final-blitzkrieg/cutline-to-grosshau/b-15.htm?action=scenario&amp;id=11547</infourl>
+		</urls_list>
+	</scenario>
+	<scenario author="nik mond" filename="Day of Attrition.btt" stock="y"/>
+	<scenario author="information unavailable" filename="Dealership_GER.btt"/>
+	<scenario author="information unavailable" filename="Dealership_USA.btt"/>
+    <scenario author="slysniper" filename="DF Cavalry Recon.btt" stock="y"/>
+    <scenario author="MikeyD" filename="DF Das Hochwasser.btt" stock="y"/>
+    <scenario author="Chris" filename="DF Drop Zone P.btt" stock="y"/>
+    <scenario author="MikeyD" filename="DF Exploitation.btt" stock="y"/>
+    <scenario author="Heirloom_Tomato" filename="DF Liberation.btt" stock="y"/>
+    <scenario author="Chris" filename="DF Metal on Metal (Comet vs Panther).btt" stock="y"/>
+    <scenario author="Chris" filename="DF Metal on Metal (Pershing vs Tiger).btt" stock="y"/>
+    <scenario author="Combatintman" filename="DF Ride on Riede.btt" stock="y"/>
+    <scenario author="benpark" filename="DF Road to Bastogne.btt" stock="y"/>
+    <scenario author="benpark" filename="DF The Wasp's Nest.btt" stock="y"/>
+    <scenario author="slysniper" filename="DF Time of a Hero.btt" stock="y"/>
+	<scenario author="JonS" filename="Die Patrouille.btt" stock="y">
+	   <urls_list>
+	       <infourl who="the Blitz">http://www.theblitz.club/scenarios/combat-mission-final-blitzkrieg/b-15.htm?action=scenario&amp;id=11775</infourl>
+	   </urls_list>
+	</scenario>
+	<scenario author="ASL Veteran" filename="Drive Them Out.btt" stock="y">
+		<urls_list>
+			<infourl who="the Blitz">http://www.theblitz.club/scenarios/combat-mission-final-blitzkrieg/drive-them-out/b-15.htm?action=scenario&amp;id=11622</infourl>
+		</urls_list>
+	</scenario>
+	<scenario author="nik mond" filename="Fortress Grosshau.btt" stock="y">
+        <urls_list>
+            <infourl who="the Blitz">https://www.theblitz.club/scenarios/combat-mission-final-blitzkrieg/fortress-grosshau/b-15.htm?action=scenario&amp;id=11888</infourl>
+        </urls_list>
+	</scenario>
+	<scenario author="ASL Veteran" filename="Hot Time In Hatten.btt" stock="y">
+        <urls_list>
+            <infourl who="the Blitz">https://www.theblitz.club/scenarios/combat-mission-final-blitzkrieg/hot-time-in-hatten/b-15.htm?action=scenario&amp;id=11876</infourl>
+        </urls_list>
+    </scenario>
+	<scenario author="Pete Wenman" filename="Hung up at Cheneux.btt" stock="y">
+		<urls_list>
+			<infourl who="the Blitz">http://www.theblitz.club/scenarios/combat-mission-final-blitzkrieg/hung-up-at-cheneux/b-15.htm?action=scenario&amp;id=11740</infourl>
+		</urls_list>
+	</scenario>
+	<scenario author="IanL" filename="Lanzerath Ridge.btt" stock="y">
+		<urls_list>
+			<infourl who="the Blitz">http://www.theblitz.club/scenarios/combat-mission-final-blitzkrieg/action-on-lanzerath-ridge/b-15.htm?action=scenario&amp;id=11582</infourl>
+		</urls_list>
+	</scenario>
+	<scenario author="ASL Veteran" filename="Last Man Out.btt" stock="y">
+		<urls_list>
+			<infourl who="the Blitz">http://www.theblitz.club/scenarios/combat-mission-final-blitzkrieg/last-man-out/b-15.htm?action=scenario&amp;id=11742</infourl>
+		</urls_list>
+	</scenario>
+	<scenario author="PanzerMike" filename="Meijel Mayhem.btt" stock="y">
+		<urls_list>
+			<infourl who="the Blitz">http://www.theblitz.club/scenarios/combat-mission-final-blitzkrieg/meijel-mayhem/b-15.htm?action=scenario&amp;id=11633</infourl>
+		</urls_list>
+	</scenario>
+	<scenario author="Combatintman" filename="Probing around Poteau.btt" stock="y">
+		<urls_list>
+			<infourl who="the Blitz">http://www.theblitz.club/scenarios/combat-mission-final-blitzkrieg/b-15.htm?action=scenario&amp;id=11743</infourl>
+		</urls_list>
+	</scenario>
+	<scenario author="PanzerMike" filename="River of Blood.btt" stock="y">
+        <urls_list>
+            <infourl who="the Blitz">https://www.theblitz.club/scenarios/combat-mission-final-blitzkrieg/river-of-blood/b-15.htm?action=scenario&amp;id=11892</infourl>
+        </urls_list>
+	</scenario>
+	<scenario author="Combatintman" filename="To Verdenne &amp; Victory.btt" stock="y">
+        <urls_list>
+            <infourl who="the Blitz">https://www.theblitz.club/scenarios/combat-mission-final-blitzkrieg/to-verdenne-and-victory/b-15.htm?action=scenario&amp;id=11952</infourl>
+        </urls_list>
+	</scenario>
+	<scenario author="poesel" filename="Trouble with Siegfried.btt" stock="y"/>
+	<scenario author="ASL Veteran" filename="Wax Museum.btt" stock="y">
+        <urls_list>
+            <infourl who="the Blitz">https://www.theblitz.club/scenarios/combat-mission-final-blitzkrieg/wax-museum/b-15.htm?action=scenario&amp;id=11944</infourl>
+        </urls_list>
+	</scenario>
+	<scenario author="kohlenklau" filename="Bridge over the River Kall.btt">
+        <additional_info>Download my Hurtgen mods prior to playing.
+        </additional_info>  
+		<urls_list>
+			<downloadurl who="Scenario Depot" primary="y">http://www.thefewgoodmen.com/tsd3/cm-final-blitzkrieg/cm-final-blitzkrieg-scenarios/bridge-over-the-river-kall/</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="kohlenklau" filename="When Trumpets Fade.btt">
+        <additional_info>Download my Hurtgen mods prior to playing.
+        </additional_info>  
+		<urls_list>
+			<downloadurl who="Scenario Depot" primary="y">http://www.thefewgoodmen.com/tsd3/cm-final-blitzkrieg/cm-final-blitzkrieg-scenarios/when-trumpets-fade/</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="kohlenklau" filename="Panzer Schlacht Hurtgen.btt">
+        <additional_info>Download my Hurtgen mods prior to playing.
+        </additional_info>	
+		<urls_list>
+			<downloadurl who="Scenario Depot" primary="y">http://www.thefewgoodmen.com/tsd3/category/cm-final-blitzkrieg/cm-final-blitzkrieg-scenarios/</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Fredrocker" filename="Whats Up With That No 1A.btt">
+	    <additional_info>All Battles are H2H.
+	    </additional_info>
+		<urls_list>
+			<infourl who="the Blitz">http://www.theblitz.club/scenarios/combat-mission-final-blitzkrieg/whats-up-with-that-no-2b/b-15.htm?action=scenario&amp;id=11624</infourl>
+			<downloadurl who="Scenario Depot" primary="y">http://www.thefewgoodmen.com/tsd3/cm-final-blitzkrieg/cm-final-blitzkrieg-scenarios/whats-up-with-that-no-1/</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Fredrocker" filename="Whats Up With That No 1B.btt">
+		<urls_list>
+			<infourl who="the Blitz">http://www.theblitz.club/scenarios/combat-mission-final-blitzkrieg/what-s-up-with-that-1b/b-15.htm?action=scenario&amp;id=11631</infourl>
+			<downloadurl who="Scenario Depot" primary="y">http://www.thefewgoodmen.com/tsd3/cm-final-blitzkrieg/cm-final-blitzkrieg-scenarios/whats-up-with-that-no-1/</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Fredrocker" filename="Whats Up With That No 1C.btt">
+		<urls_list>
+			<downloadurl who="Scenario Depot" primary="y">http://www.thefewgoodmen.com/tsd3/cm-final-blitzkrieg/cm-final-blitzkrieg-scenarios/whats-up-with-that-no-1/</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="" filename="!WachtAmRhein-1.btt">
+		<urls_list>
+			<infourl who="the Blitz">http://www.theblitz.club/scenarios/combat-mission-final-blitzkrieg/wacht-am-rhein-round-1/b-15.htm?action=scenario&amp;id=11578</infourl>
+			<downloadurl who="the Blitz" primary="y">http://www.theblitz.club/scenarios/b-15.htm?action=download&amp;id=11578</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="kevinkin" filename="Parroy Forest.btt">
+		<urls_list>
+            <infourl who="the Blitz">https://www.theblitz.club/scenarios/combat-mission-final-blitzkrieg/parroy-forrest/b-15.htm?action=scenario&amp;id=11941</infourl>
+			<downloadurl who="Scenario Depot" primary="y">http://www.thefewgoodmen.com/tsd3/cm-final-blitzkrieg/cm-final-blitzkrieg-scenarios/parroy-forest/</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="kevinkin" filename="Parroy-Forest-FR.btt">
+		<urls_list>
+			<downloadurl who="Scenario Depot" primary="y">http://www.thefewgoodmen.com/tsd3/cm-final-blitzkrieg/cm-final-blitzkrieg-scenarios/parroy-forest/</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="LiveNoMore" filename="A Nasty Surprise.btt">
+	    <additional_info>This is a fictional “what if” H2H scenario.
+	    </additional_info>
+		<urls_list>
+            <infourl who="the Blitz">https://www.theblitz.club/scenarios/combat-mission-final-blitzkrieg/a-nasty-surprise/b-15.htm?action=scenario&amp;id=11881</infourl>
+			<downloadurl who="Scenario Depot" primary="y">http://www.thefewgoodmen.com/tsd3/cm-final-blitzkrieg/cm-final-blitzkrieg-scenarios/a-nasty-surprise/</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Mark Ezra" filename="Another Road To Wiltz V4.btt">
+		<urls_list>
+			<downloadurl who="Scenario Depot" primary="y">http://www.thefewgoodmen.com/tsd3/cm-final-blitzkrieg/cm-final-blitzkrieg-maps/cmfb-v4-another-road-to-wiltz-scen-qb/</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="rocketman" filename="Rittersprung H2H.btt">
+        <additional_info>The scenario includes a mod tagged winter uniform mod for the 28th ID “Bloody Bucket”.
+
+US side has a couple of “house rules” that should be followed.
+
+The scenario may create large save files.
+	    </additional_info>
+		<urls_list>
+            <infourl who="the Blitz">https://www.theblitz.club/scenarios/combat-mission-final-blitzkrieg/rittersprung-h2h-only/b-15.htm?action=scenario&amp;id=13092</infourl>
+			<downloadurl who="Scenario Depot" primary="y">http://www.thefewgoodmen.com/tsd3/cm-final-blitzkrieg/cm-final-blitzkrieg-scenarios/rittersprung-h2h/</downloadurl>
+		</urls_list>
+	</scenario>
+
+    <scenario author="BornGinger" filename="Auvere Station.btt">
+        <additional_info>Can be played as Germans vs AI or as US vs AI and H2H.
+        </additional_info>
+        <urls_list>
+            <downloadurl primary="y" who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-final-blitzkrieg/cm-final-blitzkrieg-scenarios/auvere-station/</downloadurl>
+        </urls_list>
+    </scenario>
+    <scenario author="kohlenklau" filename="Busting out of Bras.btt">
+        <urls_list>
+            <downloadurl primary="y" who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-final-blitzkrieg/cm-final-blitzkrieg-scenarios/cmfb-busting-out-of-bras/</downloadurl>
+        </urls_list>
+    </scenario>
+    <scenario author="Theforger" filename="Closing the Door.btt">
+        <additional_info>Axis versus Allies only.
+        </additional_info>
+        <urls_list>
+            <downloadurl primary="y" who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-final-blitzkrieg/cmfb-closing-the-door/</downloadurl>
+        </urls_list>
+    </scenario>
+    <scenario author="Theforger" filename="CMFB SN01 Murky Merlscheid.btt">
+        <additional_info>Axis versus Allies, possibly a H2H. But no Allied briefing.
+        </additional_info>
+        <urls_list>
+            <downloadurl primary="y" who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-final-blitzkrieg/cmfb-sn01-murky-merlscheid/</downloadurl>
+        </urls_list>
+    </scenario>
+    <scenario author="Theforger" filename="CMFB SN02 Leaving Lanzerath.btt">
+        <additional_info>Axis versus Allies, possibly a H2H. But no Allied briefing.
+        </additional_info>
+        <urls_list>
+            <downloadurl primary="y" who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-final-blitzkrieg/cmfb-sn02-leaving-lanzerath/</downloadurl>
+        </urls_list>
+    </scenario>
+    <scenario author="Theforger" filename="CMFB SN03 Minen the Gap.btt">
+        <additional_info>Axis versus Allies only.
+        </additional_info>
+        <urls_list>
+            <downloadurl primary="y" who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-final-blitzkrieg/cmfb-sn03-minen-the-gap/</downloadurl>
+        </urls_list>
+    </scenario>
+    <scenario author="Theforger" filename="CMFB SN04 Breakthrough at Buchholz.btt">
+        <additional_info>Axis versus Allies, possibly a H2H. But no Allied briefing.
+        </additional_info>
+        <urls_list>
+            <downloadurl primary="y" who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-final-blitzkrieg/cmfb-sn04-breakthrough-at-buchholz/</downloadurl>
+        </urls_list>
+    </scenario>
+    <scenario author="Theforger" filename="CMFB SN05 Hurrying through Honsfeld.btt">
+        <additional_info>Axis versus Allies, possibly a H2H. But no Allied briefing.
+        </additional_info>
+        <urls_list>
+            <downloadurl primary="y" who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-final-blitzkrieg/cmfb-sn05-hurrying-through-honsfeld/</downloadurl>
+        </urls_list>
+    </scenario>
+    <scenario author="Theforger" filename="CMFB SN06 Bullingen China Shop.btt">
+        <additional_info>Axis versus Allies, possibly a H2H. But no Allied briefing.
+        </additional_info>
+        <urls_list>
+            <downloadurl primary="y" who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-final-blitzkrieg/cmfb-sn06-bullingen-china-shop/</downloadurl>
+        </urls_list>
+    </scenario>
+    <scenario author="Theforger" filename="CMFB SN07 Butchers of Baugnez.btt">
+        <additional_info>Axis versus Allies only.
+        </additional_info>
+        <urls_list>
+            <downloadurl primary="y" who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-final-blitzkrieg/cmfb-sn07-butchers-of-baugnez/</downloadurl>
+        </urls_list>
+    </scenario>
+    <scenario author="Theforger" filename="CMFB SN08 Laying down the Recht.btt">
+        <additional_info>Axis versus Allies, possibly a H2H. But no Allied briefing.
+        </additional_info>
+        <urls_list>
+            <downloadurl primary="y" who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-final-blitzkrieg/cmfb-sn08-laying-down-the-recht/</downloadurl>
+        </urls_list>
+    </scenario>
+    <scenario author="Theforger" filename="CMFB SN09 Poteau the Priority.btt">
+        <additional_info>Axis versus Allies, possibly a H2H. But no Allied briefing.
+        </additional_info>
+        <urls_list>
+            <downloadurl primary="y" who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-final-blitzkrieg/cmfb-sn09-poteau-the-priority/</downloadurl>
+        </urls_list>
+    </scenario>
+    <scenario author="Theforger" filename="CMFB SN10 Storming Stavelot.btt">
+        <additional_info>Axis versus Allies, possibly a H2H. But no Allied briefing.
+        </additional_info>
+        <urls_list>
+            <downloadurl primary="y" who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-final-blitzkrieg/cmfb-sn10-storming-stavelot/</downloadurl>
+        </urls_list>
+    </scenario>
+    <scenario author="Theforger" filename="CMFB SN11 Trois is a Crowd.btt">
+        <additional_info>Axis versus Allies, possibly a H2H. But no Allied briefing.
+        </additional_info>
+        <urls_list>
+            <downloadurl primary="y" who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-final-blitzkrieg/cmfb-sn11-trois-is-a-crowd/</downloadurl>
+        </urls_list>
+    </scenario>
+    <scenario author="Theforger" filename="CMFB SN12 Jabos.btt">
+        <additional_info>Axis versus Allies only.
+        </additional_info>
+        <urls_list>
+            <downloadurl primary="y" who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-final-blitzkrieg/cmfb-sn12-jabos/</downloadurl>
+        </urls_list>
+    </scenario>
+    <scenario author="Theforger" filename="CMFB SN13 Probe at Stavelot.btt">
+        <additional_info>Axis versus Allies, possibly a H2H. But no Allied briefing.
+        </additional_info>
+        <urls_list>
+            <downloadurl primary="y" who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-final-blitzkrieg/cmfb-sn13-probe-at-stavelot/</downloadurl>
+        </urls_list>
+    </scenario>
+    <scenario author="Theforger" filename="CMFB SN14 Neufmoulin Rouge.btt">
+        <additional_info>Axis versus Allies, possibly a H2H. But no Allied briefing.
+        </additional_info>
+        <urls_list>
+            <downloadurl primary="y" who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-final-blitzkrieg/cmfb-sn14-neufmoulin-rouge/</downloadurl>
+        </urls_list>
+    </scenario>
+    <scenario author="Theforger" filename="CMFB SN15 Duel in the Mist.btt">
+        <additional_info>Axis versus Allies, possibly a H2H. But no Allied briefing.
+        </additional_info>
+        <urls_list>
+            <downloadurl primary="y" who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-final-blitzkrieg/cmfb-sn15-duel-in-the-mist/</downloadurl>
+        </urls_list>
+    </scenario>
+    <scenario author="Theforger" filename="CMFB SN16 Too Tight at Targnon.btt">
+        <additional_info>Axis versus Allies, possibly a H2H. But no Allied briefing.
+        </additional_info>
+        <urls_list>
+            <downloadurl primary="y" who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-final-blitzkrieg/cmfb-sn16-too-tight-at-targnon/</downloadurl>
+        </urls_list>
+    </scenario>
+    <scenario author="Theforger" filename="CMFB SN17 Searching for Gas.btt">
+        <additional_info>Axis versus Allies, possibly a H2H. But no Allied briefing.
+        </additional_info>
+        <urls_list>
+            <downloadurl primary="y" who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-final-blitzkrieg/cmfb-sn17-searching-for-gas/</downloadurl>
+        </urls_list>
+    </scenario>
+    <scenario author="Theforger" filename="CMFB SN18 Ster Way To Heaven.btt">
+        <additional_info>Axis versus Allies, possibly a H2H. But no Allied briefing.
+        </additional_info>
+        <urls_list>
+            <downloadurl primary="y" who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-final-blitzkrieg/cmfb-sn18-ster-way-to-heaven/</downloadurl>
+        </urls_list>
+    </scenario>
+    <scenario author="Theforger" filename="CMFB SN19 Stationary at Stavelot.btt">
+        <additional_info>Axis versus Allies, possibly a H2H. But no Allied briefing.
+        </additional_info>
+        <urls_list>
+            <downloadurl primary="y" who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-final-blitzkrieg/cmfb-sn19-stationary-at-stavelot/</downloadurl>
+        </urls_list>
+    </scenario>
+    <scenario author="Theforger" filename="CMFB SN20 Chewin them up at Cheneux.btt">
+        <additional_info>Axis versus Allies, possibly a H2H. But no Allied briefing.
+        </additional_info>
+        <urls_list>
+            <downloadurl primary="y" who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-final-blitzkrieg/cmfb-sn20-chewin-them-up-at-cheneux/</downloadurl>
+        </urls_list>
+    </scenario>
+    <scenario author="Theforger" filename="CMFB SN21 Treachery at Les Tcheous.btt">
+        <additional_info>Axis versus Allies, possibly a H2H. But no Allied briefing.
+        </additional_info>
+        <urls_list>
+            <downloadurl primary="y" who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-final-blitzkrieg/cmfb-sn21-treachery-at-les-tcheous/</downloadurl>
+        </urls_list>
+    </scenario>
+    <scenario author="Theforger" filename="CMFB SN23 Ambush at Chenai.btt">
+        <additional_info>Axis versus Allies, possibly a H2H. But no Allied briefing.
+        </additional_info>
+        <urls_list>
+            <downloadurl primary="y" who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-final-blitzkrieg/cmfb-sn23-ambush-at-chenai/</downloadurl>
+        </urls_list>
+    </scenario>
+    <scenario author="Theforger" filename="CMFB SN25 KG X Factor.btt">
+        <additional_info>Axis versus Allies, possibly a H2H. But no Allied briefing.
+        </additional_info>
+        <urls_list>
+            <downloadurl primary="y" who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/uncategorized/cmfb-sn25-kg-x-factor/</downloadurl>
+        </urls_list>
+    </scenario>
+    <scenario author="Theforger" filename="CMFB SN26 No Prizes at Noupre.btt">
+        <additional_info>Axis versus Allies, possibly a H2H. But no Allied briefing.
+        </additional_info>
+        <urls_list>
+            <downloadurl primary="y" who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-final-blitzkrieg/cmfb-sn26-no-prizes-at-noupre/</downloadurl>
+        </urls_list>
+    </scenario>
+    <scenario author="Theforger" filename="CMFB SN27 Punishment at Parfondry.btt">
+        <additional_info>Axis versus Allies, possibly a H2H. But no Allied briefing.
+        </additional_info>
+        <urls_list>
+            <downloadurl primary="y" who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-final-blitzkrieg/cmfb-sn27-punishment-at-parfondry/</downloadurl>
+        </urls_list>
+    </scenario>
+    <scenario author="Theforger" filename="CMFB SN28 TF Jordan Storms Stoumont.btt">
+        <additional_info>Axis versus Allies, possibly a H2H. But no Allied briefing.
+        </additional_info>
+        <urls_list>
+            <downloadurl primary="y" who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-final-blitzkrieg/cmfb-sn28-tf-jordan-storms-stoumont/</downloadurl>
+        </urls_list>
+    </scenario>
+    <scenario author="Theforger" filename="CMFB SN29 Cold Hearts at Froidcour.btt">
+        <additional_info>Axis versus Allies, possibly a H2H. But no Allied briefing.
+        </additional_info>
+        <urls_list>
+            <downloadurl primary="y" who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-final-blitzkrieg/cmfb-sn29-cold-hearts-at-froidcour/</downloadurl>
+        </urls_list>
+    </scenario>
+    <scenario author="Theforger" filename="CMFB SN30 Cheneux Persistence Prevails.btt">
+        <additional_info>Axis versus Allies, possibly a H2H. But no Allied briefing.
+        </additional_info>
+        <urls_list>
+            <downloadurl primary="y" who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-final-blitzkrieg/cmfb-sn30-cheneux-persistence-prevails/</downloadurl>
+        </urls_list>
+    </scenario>
+    <scenario author="Theforger" filename="CMFB SN31 Kicking Coblenz.btt">
+        <additional_info>Axis versus Allies, possibly a H2H. But no Allied briefing.
+        </additional_info>
+        <urls_list>
+            <downloadurl primary="y" who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-final-blitzkrieg/cmfb-sn31-kicking-coblenz/</downloadurl>
+        </urls_list>
+    </scenario>
+    <scenario author="Theforger" filename="CMFB SN32 Borgoumont Blitz.btt">
+        <additional_info>Axis versus Allies, possibly a H2H. But no Allied briefing.
+        </additional_info>
+        <urls_list>
+            <infourl who="the Blitz">https://www.theblitz.club/scenarios/combat-mission-final-blitzkrieg/sn32-borgoumont-blitz-or-bounce/b-15.htm?action=scenario&amp;id=14188</infourl>
+            <downloadurl primary="y" who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-final-blitzkrieg/cmfb-sn32-borgoumont-blitz/</downloadurl>
+        </urls_list>
+    </scenario>
+    <scenario author="Theforger" filename="CMFB SN33 Festung La Gleize.btt">
+        <additional_info>Axis versus Allies, possibly a H2H. But no Allied briefing.
+        </additional_info>
+        <urls_list>
+            <downloadurl primary="y" who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-final-blitzkrieg/cmfb-sn33-festung-la-gleize/</downloadurl>
+        </urls_list>
+    </scenario>
+    <scenario author="Theforger" filename="CMFB SN34 Hansens Surprise.btt">
+        <additional_info>Axis versus Allies, possibly a H2H. But no Allied briefing.
+        </additional_info>
+        <urls_list>
+            <downloadurl primary="y" who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-final-blitzkrieg/cmfb-sn34-hansens-surprise/</downloadurl>
+        </urls_list>
+    </scenario>
+    <scenario author="Theforger" filename="CMFB SN35 Katz und Maus.btt">
+        <additional_info>Axis versus Allies, possibly a H2H. But no Allied briefing.
+        </additional_info>
+        <urls_list>
+            <downloadurl primary="y" who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-final-blitzkrieg/cmfb-sn35-katz-und-maus/</downloadurl>
+        </urls_list>
+    </scenario>
+    <scenario author="BornGinger" filename="Hard Defence.btt">
+        <additional_info>Axis versus Allies only, possibly a H2H.
+        </additional_info>
+        <urls_list>
+            <downloadurl primary="y" who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-final-blitzkrieg/cm-final-blitzkrieg-scenarios/hard-defence/</downloadurl>
+        </urls_list>
+    </scenario>
+    <scenario author="BornGinger" filename="Heavens Above And Hell All Around.btt">
+        <additional_info>If you’d like to have more fun playing the scenario I suggest that you play H2H against a human opponent.
+        </additional_info>
+        <urls_list>
+            <downloadurl primary="y" who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-final-blitzkrieg/cm-final-blitzkrieg-scenarios/heavens-above-and-hell-all-around/</downloadurl>
+        </urls_list>
+    </scenario>
+    <scenario author="Theforger" filename="Mission to Maas V2.btt">
+        <urls_list>
+            <downloadurl primary="y" who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-final-blitzkrieg/cm-final-blitzkrieg-scenarios/cmfb-mission-to-maas-v2/</downloadurl>
+        </urls_list>
+    </scenario>
+    <scenario author="BornGinger" filename="Permisküla.btt">
+        <additional_info>At the moment this scenario is an Axis vs AI and H2H only.
+        </additional_info>
+        <urls_list>
+            <downloadurl primary="y" who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-final-blitzkrieg/cm-final-blitzkrieg-scenarios/permiskula-1944/</downloadurl>
+        </urls_list>
+    </scenario>
+    <scenario author="Rico" filename="Quick &amp; Dead 11.btt"/>
+    <scenario author="Rico" filename="Quick-Dead 3b.btt"/>
+    <scenario author="Theforger" filename="RollbahnD.btt">
+        <additional_info>As per title, Campaign Core Units
+        </additional_info>
+        <urls_list>
+            <downloadurl primary="y" who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-final-blitzkrieg/cmfb-rollbahn-d-core-units-file/</downloadurl>
+        </urls_list>
+    </scenario>
+    <scenario author="BornGinger" filename="The Barometer Points To Storm.btt">
+        <additional_info>The scenario can be played as Allies vs AI, Axis vs AI or H2H.
+        </additional_info>
+        <urls_list>
+            <downloadurl primary="y" who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-final-blitzkrieg/cm-final-blitzkrieg-scenarios/the-barometer-points-to-storm/</downloadurl>
+        </urls_list>
+    </scenario>
+    <scenario author="BornGinger" filename="The Objective Remains The Same.btt">
+        <additional_info>The scenario is maybe a bit too easy if you play as the US forces.
+        </additional_info>
+        <urls_list>
+            <downloadurl primary="y" who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-final-blitzkrieg/cm-final-blitzkrieg-scenarios/the-objective-remains-the-same/</downloadurl>
+        </urls_list>
+    </scenario>
+    <scenario author="BornGinger" filename="[H2H] The Blue Hills.btt">
+        <urls_list>
+            <downloadurl primary="y" who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-final-blitzkrieg/cm-final-blitzkrieg-scenarios/the-blue-hills/</downloadurl>
+        </urls_list>
+    </scenario>
+
+<!--    <scenario author="" filename=""> -->
+<!--        <additional_info> -->
+<!--        </additional_info> -->
+<!--        <urls_list> -->
+<!--            <infourl who="Scenario Depot"></infourl> -->
+<!--            <downloadurl who="Scenario Depot" primary="y">http://</downloadurl> -->
+<!--        </urls_list> -->
+<!--    </scenario> -->
+</scenarios>

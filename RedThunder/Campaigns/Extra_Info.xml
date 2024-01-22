@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scenarios>
+	<scenario author="information unavailable" filename="Blunting the Spear.cam" stock="y" />
+	<scenario author="information unavailable" filename="Crosses of Iron.cam" stock="y" />
+	<scenario author="information unavailable" filename="Hammers Flank.cam" stock="y" />
+	<scenario author="information unavailable" filename="Thunder Over Ponyri.cam">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3403</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="information unavailable" filename="Training Campaign.cam" stock="y" />
+	<scenario author="George MC" filename="CMRT Kampfgruppe von Schroif_v4.cam">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-campaigns/kampfgruppe-von-schroif-cmrt-campaign/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/CMRT_KGr_von%20Schroif_v4.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Chris McCain (The Phantom)" filename="Rokossovkys_Impasse.cam">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-campaigns/rokossovkys-impasse-cmrt-campaign/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/Rokossovkys_Impasse.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Lille Fiskerby" filename="The Road to Minsk.cam">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-campaigns/the-road-to-minsk-cmrt-campaign/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/The-Road-to-Minsk.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Lille Fiskerby" filename="The Relief of Army Group North.cam">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-campaigns/the-relief-of-army-group-north-campaign/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/The-Relief-of-Army-Group-North.zip</downloadurl>
+		</urls_list>
+	</scenario>
+
+<!-- 	<scenario author="" filename=""> -->
+<!-- 		<urls_list> -->
+<!-- 			<infourl who="Scenario Depot"></infourl> -->
+<!-- 			<downloadurl who="Scenario Depot">http://</downloadurl> -->
+<!-- 		</urls_list> -->
+<!-- 	</scenario> -->
+</scenarios>

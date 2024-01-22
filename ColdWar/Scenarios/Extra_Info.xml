@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scenarios>
+    <scenario author="George Smiley" filename="A Beautiful Morning.btt">
+        <urls_list>
+            <downloadurl primary="y" who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-cold-war/cm-cold-war-scenarios/cmcw-a-beautiful-morning/</downloadurl>
+        </urls_list>
+    </scenario>
+    <scenario author="Butschi" filename="A Miserable Morning.btt">
+        <urls_list>
+            <downloadurl primary="y" who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-cold-war/cm-cold-war-scenarios/cmcw-a-miserable-morning/</downloadurl>
+        </urls_list>
+    </scenario>
+    <scenario author="Gkenny" filename="Abatis.btt">
+        <urls_list>
+            <downloadurl primary="y" who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-cold-war/cm-cold-war-scenarios/cmcw-abatis/</downloadurl>
+        </urls_list>
+    </scenario>
+    <scenario author="MikeyD" filename="Between Two Fahrbahns.btt" stock="y"/>
+    <scenario author="nik mond" filename="Brauersdorf.btt" stock="y">
+        <urls_list>
+            <infourl who="the Blitz">https://www.theblitz.club/scenarios/combat-mission-cold-war/brauersdorf/b-15.htm?action=scenario&amp;id=13935</infourl> 
+        </urls_list>
+    </scenario>
+    <scenario author="DoubleDeuce" filename="CC-s01 Baumholder Army Airfield.btt">
+        <urls_list>
+            <downloadurl primary="y" who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-cold-war/cm-cold-war-scenarios/cmcw-baumholder-army-airfield/</downloadurl>
+        </urls_list>
+    </scenario>
+    <scenario author="ASL Veteran" filename="Czechmate Final.btt" stock="y"/>
+    <scenario author=" nik mond" filename="Direction Found.btt" stock="y"/>
+    <scenario author="Bartimeus" filename="Dr Ivan I Presume HvsH.btt">
+        <urls_list>
+            <downloadurl primary="y" who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-cold-war/cmcw-dr-ivan-i-presume-h-vs-h/</downloadurl>
+        </urls_list>
+    </scenario>
+    <scenario author="slysniper" filename="Everyone, Get Out Of Dodge.btt" stock="y"/>
+    <scenario author="Bartimeus" filename="Eyes for Eyes - Hamelin v1.btt">
+        <urls_list>
+            <downloadurl primary="y" who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-cold-war/cmcw-hamelin-eyes-to-eyes-h-vs-h/</downloadurl>
+        </urls_list>
+    </scenario>
+    <scenario author="Ithikial_AU" filename="Fleeing Altdorf.btt" stock="y"/>
+    <scenario author="Bartimeus" filename="Fox Break-BLUE vs IA.btt">
+        <additional_info>Play as blue vs IA. 
+        </additional_info>
+        <urls_list>
+            <downloadurl primary="y" who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-cold-war/cm-cold-war-scenarios/cmcw-fox-break/</downloadurl>
+        </urls_list>
+    </scenario>
+    <scenario author="Bartimeus" filename="Fox Hold-BLUE vs IA.btt">
+        <urls_list>
+            <downloadurl primary="y" who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-cold-war/cmcw-fox-hold-blue-vs-ia/</downloadurl>
+        </urls_list>
+    </scenario>
+    <scenario author="Bartimeus" filename="Fox Sneak-BLUE vs IA.btt">
+        <additional_info>Fox Company must search supply in the ruins of the supply depot. Soviet recce forces are already in the area unfortunately. Gather supply and escape the area.
+        </additional_info>
+        <urls_list>
+            <downloadurl primary="y" who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-cold-war/cmcw-fox-sneak-blue-vs-ia/</downloadurl>
+        </urls_list>
+    </scenario>
+    <scenario author="nik mond" filename="Grieshof Meet and Greet.btt" stock="y">
+        <urls_list>
+            <infourl who="the Blitz">https://www.theblitz.club/scenarios/combat-mission-cold-war/the-grieshof-meet-and-greet/b-15.htm?action=scenario&amp;id=13910</infourl> 
+        </urls_list>
+    </scenario>
+    <scenario author="Bartimeus" filename="Hamelin-Spear and Shield HvsH V2.btt">
+        <urls_list>
+            <downloadurl primary="y" who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-cold-war/cm-cold-war-scenarios/cmcw-hamelin-spear-and-shield-hvsh/</downloadurl>
+        </urls_list>
+    </scenario>
+    <scenario author="slysniper" filename="Hunter or Prey.btt" stock="y"/>
+    <scenario author="Bartimeus" filename="Iron Within, Iron Without - HvsH - HighTech.btt">
+        <additional_info>A HvsH scenario who will see two tanks formations facing each other in the farming plain north of Hamelin.
+Two version are available, one with “lowtech” tanks and one with “higher tech” tanks. Have a good fight ! 
+        </additional_info>
+        <urls_list>
+            <downloadurl primary="y" who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-cold-war/cm-cold-war-scenarios/cmcw-iron-within-iron-without-hvsh/</downloadurl>
+        </urls_list>
+    </scenario>
+    <scenario author="Bartimeus" filename="Iron Within, Iron Without - HvsH - LowTech.btt">
+        <additional_info>A HvsH scenario who will see two tanks formations facing each other in the farming plain north of Hamelin.
+Two version are available, one with “lowtech” tanks and one with “higher tech” tanks. Have a good fight ! 
+        </additional_info>
+        <urls_list>
+            <infourl who="the Blitz">https://www.theblitz.club/scenarios/combat-mission-cold-war/iron-within-iron-without-hvsh-lowtech/b-15.htm?action=scenario&amp;id=14632</infourl>
+            <downloadurl primary="y" who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-cold-war/cm-cold-war-scenarios/cmcw-iron-within-iron-without-hvsh/</downloadurl>
+        </urls_list>
+    </scenario>
+    <scenario author="Pete Wenman" filename="Killing time at Kirtorf.btt" stock="y"/>
+    <scenario author="MOS:96B2P" filename="Kriegsburg 1979.btt" stock="y"/>
+    <scenario author="MOS:96B2P" filename="Kriegsburg 1980.btt" stock="y"/>
+    <scenario author="MOS:96B2P" filename="Kriegsburg 1981.btt" stock="y"/>
+    <scenario author="MOS:96B2P" filename="Kriegsburg 1982.btt" stock="y"/>
+    <scenario author="snake_eye" filename="Mittelaschenbach.btt" stock="y"/>
+    <scenario author="George MC" filename="NTC If it ain_t cav.btt" stock="y"/>
+    <scenario author="Heirloom_Tomato" filename="NTC Tank Training 1979.btt" stock="y"/>
+    <scenario author="Heirloom_Tomato" filename="NTC Tank Training 1980.btt" stock="y"/>
+    <scenario author="Heirloom_Tomato" filename="NTC Tank Training 1981.btt" stock="y"/>
+    <scenario author="Heirloom_Tomato" filename="NTC Tank Training 1982.btt" stock="y"/>
+    <scenario author="Luka From Fallujah" filename="Rounds of Campari (Red or H2H ONLY).btt">
+        <urls_list>
+            <downloadurl primary="y" who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-cold-war/campari-rounds-vmf-assault-on-west-german-beach/</downloadurl>
+        </urls_list>
+    </scenario>
+    <scenario author="Combatintman" filename="Rumpenheim Rumpus.btt" stock="y"/>
+    <scenario author="George MC" filename="Scouts Out.btt" stock="y"/>
+    <scenario author="Hohenfels" filename="SF Bonnland.btt">
+        <urls_list>
+            <downloadurl primary="y" who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-cold-war/cm-cold-war-scenarios/cmcw-bonnland/</downloadurl>
+        </urls_list>
+    </scenario>
+    <scenario author="Combatintman" filename="Skirmish at Sichenhausen.btt" stock="y">
+        <urls_list>
+            <infourl who="the Blitz">https://www.theblitz.club/scenarios/combat-mission-cold-war/skirmish-at-sichenhausen/b-15.htm?action=scenario&amp;id=13890</infourl> 
+        </urls_list>
+    </scenario>
+    <scenario author="Imperial Grunt" filename="Stem the Tide (Blue or H2H ONLY).btt" stock="y"/>
+    <scenario author="The_Capt" filename="TaketheBridgev1.btt" stock="y"/>
+    <scenario author="Hunter2" filename="Team Yankees First Battle 2.0.btt">
+        <urls_list>
+            <downloadurl primary="y" who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-cold-war/cm-cold-war-scenarios/cmcw-team-yankees-first-battle/</downloadurl>
+        </urls_list>
+    </scenario>
+    <scenario author="Heirloom_Tomato" filename="The Last Starship.btt" stock="y">
+        <urls_list>
+            <infourl who="the Blitz">https://www.theblitz.club/scenarios/combat-mission-cold-war/the-last-starship/b-15.htm?action=scenario&amp;id=14203</infourl> 
+        </urls_list>
+    </scenario>
+    <scenario author="IICptMillerII" filename="TRAINING Soviet Tactical Doctrine 1 (MRB).btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="TRAINING Soviet Tactical Doctrine 1 (TB).btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="TRAINING Soviet Tactical Doctrine 2 (MRB).btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="TRAINING Soviet Tactical Doctrine 2 (TB).btt" stock="y"/>
+    <scenario author="The_Capt" filename="US Campaign Scenario  A Hill to Die On (Blue or H2H ONLY).btt" stock="y"/>
+    <scenario author="The_Capt" filename="US Campaign Scenario  Bad and Worse (Blue or H2H ONLY).btt" stock="y"/>
+    <scenario author="The_Capt" filename="US Campaign Scenario  Bear In the Sun (Blue or H2H ONLY).btt" stock="y"/>
+    <scenario author="The_Capt" filename="US Campaign Scenario  Bumps in the Dark (Blue or H2H ONLY).btt" stock="y"/>
+    <scenario author="The_Capt" filename="US Campaign Scenario  Dollbach Heights (Blue or H2H ONLY).btt" stock="y">
+        <urls_list>
+            <infourl who="the Blitz">https://www.theblitz.club/scenarios/combat-mission-cold-war/dollbach-heights/b-15.htm?action=scenario&amp;id=13892</infourl> 
+        </urls_list>
+    </scenario>
+    <scenario author="The_Capt" filename="US Campaign Scenario  Racing the Moon (Blue or H2H ONLY).btt" stock="y"/>
+    <scenario author="The_Capt" filename="US Campaign Scenario  Route 66 (Blue or H2H ONLY).btt" stock="y"/>
+    <scenario author="The_Capt" filename="US Campaign Scenario  The Citadel (Blue or H2H ONLY).btt" stock="y"/>
+    <scenario author="The_Capt" filename="US Campaign Scenario They Own the Night (Blue of H2H ONLY).btt" stock="y"/>
+    <scenario author="The_Capt" filename="US Campaign Scenario Unhook the Leash (Blue or H2H ONLY).btt" stock="y"/>
+    <scenario author="The_Capt" filename="Valley of Ashes.btt" stock="y">
+        <urls_list>
+            <infourl who="the Blitz">https://www.theblitz.club/scenarios/combat-mission-cold-war/valley-of-ashes/b-15.htm?action=scenario&amp;id=13909</infourl> 
+        </urls_list>
+    </scenario>
+
+<!--    <scenario author="" filename=""> -->
+<!--        <additional_info> -->
+<!--        </additional_info> -->
+<!--        <urls_list> -->
+<!--            <infourl who="the Blitz"></infourl> -->
+<!--            <downloadurl who="Scenario Depot" primary="y">http://</downloadurl> -->
+<!--        </urls_list> -->
+<!--    </scenario> -->
+</scenarios>

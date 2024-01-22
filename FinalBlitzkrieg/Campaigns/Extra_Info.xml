@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scenarios>
+	<scenario author="Christopher Nelson (Normal Dude)" filename="Courage Conquers.cam" stock="y" />
+	<scenario author="Christopher Nelson (Normal Dude)" filename="Kampfgruppe Peiper.cam" stock="y" />
+	<scenario author="Benpark" filename="Knock 'em all Down!.cam" stock="y" />
+	<scenario author="Christopher Nelson (Normal Dude)" filename="Training Campaign.cam" stock="y" />
+    <scenario author="Mike Raymond" filename="BastognePlus.cam">
+        <additional_info>Guys, these are my designs. They are memory heavy, lots of units, so save often. I used about 30-40 saves per campaign, especially at the end of scenarios. Then, if it crashes, (not often) you can reload the last and continue.
+        </additional_info>
+        <urls_list>
+            <downloadurl primary="y" who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-final-blitzkrieg/cm-final-blitzkrieg-campaigns/bastogne-plus-one-campaign-and-bulge-plus-one-campaign/</downloadurl>
+        </urls_list>
+    </scenario>
+    <scenario author="Mike Raymond" filename="BulgePlusOne.cam">
+        <additional_info>Guys, these are my designs. They are memory heavy, lots of units, so save often. I used about 30-40 saves per campaign, especially at the end of scenarios. Then, if it crashes, (not often) you can reload the last and continue.
+        </additional_info>
+        <urls_list>
+            <downloadurl primary="y" who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-final-blitzkrieg/cm-final-blitzkrieg-campaigns/bastogne-plus-one-campaign-and-bulge-plus-one-campaign/</downloadurl>
+        </urls_list>
+    </scenario>
+    <scenario author="benpark" filename="DF Claymores Through Kleve (Easy).cam" stock="y" />
+    <scenario author="benpark" filename="DF Claymores Through Kleve (Hard).cam" stock="y" />
+    <scenario author="benpark" filename="DF Spearhead (Easy).cam" stock="y" />
+    <scenario author="benpark" filename="DF Spearhead (Hard).cam" stock="y" />
+    <scenario author="benpark" filename="DF The Bridge (Easy).cam" stock="y" />
+    <scenario author="benpark" filename="DF The Bridge (Hard).cam" stock="y" />
+    <scenario author="Theforger" filename="RollbahnD 0-48 Stunden.cam">
+        <additional_info>The first of 3x campaigns covering the assault by KG Peiper in the Ardennes, December 1944.
+
+This is a historical linear 7x battle campaign covering the first 48 hours of the action.
+
+Happy to upload the individual maps/scenarios on request.
+
+My thanks to Rastamon for advice, and Kohlenklau for Malmedy mods (one of which shown in the above pic), from the Battlefront forums.
+        </additional_info>
+        <urls_list>
+            <downloadurl primary="y" who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-final-blitzkrieg/cm-final-blitzkrieg-campaigns/rollbahn-d-part-i/</downloadurl>
+        </urls_list>
+    </scenario>
+    <scenario author="Theforger" filename="RollbahnD.cam">
+        <additional_info>December 16th 05:35, the “Ghost Front” erupts in a maelstrom of noise and violence as Unternehmen Wacht am Rhein begins.
+
+The Rollbahn D Campaign contains 35 linear scenarios built as historically accurate as I’ve been able to achieve. 
+
+You control the fortunes of KG Peiper, SG Knittel, and Panzer Brigade 150, along with elements from KG Hansen, KG Sandig, and the 3. Fallschirmjäger-Division.
+
+Boy did this project snowball!
+
+The Campaign begins with a choice. Either starting at the very beginning or on Day 3 of the offensive. The latter will be an easier route as you’ll have not suffered any losses to your core units.
+
+I’ve included here what it takes to progress within the Campaign as not every engagement is balanced. The scenarios range from small to medium to Ben Hur like epics. 
+
+I’ve made minor changes to the Day 1-2 scenarios based on the feedback from the Rollbahn D Part 1 Campaign.
+        </additional_info>
+        <urls_list>
+            <downloadurl primary="y" who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-final-blitzkrieg/cm-final-blitzkrieg-campaigns/cmfb-rollbahn-d-full-campaign/</downloadurl>
+        </urls_list>
+    </scenario>
+    <scenario author="Lille Fiskerby" filename="The-Road-to-Bastogne.cam">
+        <additional_info>Lead the powerful Panzer-füsilier-batallion from Führer-begleit-brigade during the Ardennes offensive. German Campaign with 7 missions.
+        </additional_info>
+        <urls_list>
+            <downloadurl primary="y" who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-final-blitzkrieg/cm-final-blitzkrieg-campaigns/cmfb-the-road-to-bastogne-campaign/</downloadurl>
+        </urls_list>
+    </scenario>
+
+<!--    <scenario author="" filename=""> -->
+<!--        <urls_list> -->
+<!--            <infourl who="Scenario Depot"></infourl> -->
+<!--            <downloadurl who="Scenario Depot" primary="y">http://</downloadurl> -->
+<!--        </urls_list> -->
+<!--    </scenario> -->
+</scenarios>

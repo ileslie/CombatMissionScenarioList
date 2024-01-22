@@ -1,0 +1,2398 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scenarios>
+
+	<scenario author="information unavailable" filename="Abu Susah.btt" stock="y" version_override="1.x" />
+	<scenario author="information unavailable" filename="Al Amarah.btt" stock="y" />
+	<scenario author="information unavailable" filename="Al Hawl.btt" stock="y" />
+	<scenario author="information unavailable" filename="Al Huqf Engagement.btt" stock="y" />
+	<scenario author="information unavailable" filename="Allahs Fist.btt" stock="y" />
+	<scenario author="information unavailable" filename="Ambush in Al Fubar.btt" stock="y" />
+	<scenario author="information unavailable" filename="Ambush Tutorial.btt" stock="y" />
+	<scenario author="information unavailable" filename="ATGM Ambush.btt" stock="y" />
+	<scenario author="information unavailable" filename="Baker 1_1.btt" stock="y" />
+	<scenario author="information unavailable" filename="Factory Outlet.btt" stock="y" />
+	<scenario author="information unavailable" filename="Following the Euphrates.btt" stock="y" />
+	<scenario author="information unavailable" filename="Guarding the Far Flank.btt" stock="y" />
+	<scenario author="information unavailable" filename="House cleaning.btt" stock="y" />
+	<scenario author="information unavailable" filename="Jisrash Shughur.btt" stock="y" />
+	<scenario author="information unavailable" filename="Meeting at High Altitude.btt" stock="y" />
+	<scenario author="information unavailable" filename="NATO 25km to Suran.btt" stock="y" />
+	<scenario author="information unavailable" filename="NATO Alamo.btt" stock="y" />
+	<scenario author="information unavailable" filename="NATO All Flights are Delayed.btt" stock="y" />
+	<scenario author="information unavailable" filename="NATO Ambush at Darkush.btt" stock="y" />
+	<scenario author="information unavailable" filename="NATO Atlantic Games.btt" stock="y" />
+	<scenario author="information unavailable" filename="NATO Bier und Brezel.btt" stock="y" />
+	<scenario author="information unavailable" filename="NATO Canadian Club.btt" stock="y" />
+	<scenario author="information unavailable" filename="NATO De Hinderlaag.btt" stock="y" />
+	<scenario author="information unavailable" filename="NATO Dutch Damascus Blues Again.btt" stock="y" />
+	<scenario author="information unavailable" filename="NATO Flank Guard.btt" stock="y" />
+	<scenario author="information unavailable" filename="NATO Germany On The March.btt" stock="y" />
+	<scenario author="information unavailable" filename="NATO H2H Canadian Inf Vs Syrian SF.btt" stock="y" />
+	<scenario author="information unavailable" filename="NATO H2H Dutch Mech Vs Syrian Inf.btt" stock="y" />
+	<scenario author="information unavailable" filename="NATO H2H German Mech Vs Syrian Mech.btt" stock="y" />
+	<scenario author="information unavailable" filename="NATO H2H Meet Canadian Arm Vs Syrian Arm.btt" stock="y" />
+	<scenario author="information unavailable" filename="NATO H2H Meet Dutch Inf Vs Syrian SF.btt" stock="y" />
+	<scenario author="information unavailable" filename="NATO H2H Meet Germ Mix Vs Syrian Mix.btt" stock="y" />
+	<scenario author="information unavailable" filename="NATO Halt Hammerzeit.btt" stock="y" />
+	<scenario author="information unavailable" filename="NATO Handstreich.btt" stock="y" />
+	<scenario author="information unavailable" filename="NATO Stolz von Bayern.btt" stock="y" />
+	<scenario author="information unavailable" filename="NATO Teamwork Required.btt" stock="y" />
+	<scenario author="information unavailable" filename="NATO The Dutch Oven.btt" stock="y" />
+	<scenario author="information unavailable" filename="NATO Under The Power Lines.btt" stock="y" />
+	<scenario author="information unavailable" filename="NATO Will-O-Wisps.btt" stock="y" />
+	<scenario author="information unavailable" filename="Strength and Faith.btt" stock="y" />
+	<scenario author="information unavailable" filename="Tactical Vignette 98-3 Attack in Brandenburg.btt" stock="y" />
+	<scenario author="information unavailable" filename="Tactical Vignette 99-2 The Passage at Wilcox.btt" stock="y" />
+	<scenario author="information unavailable" filename="Trident Valley.btt" stock="y" />
+	<scenario author="information unavailable" filename="UK Armoured Assault.btt" stock="y" />
+	<scenario author="information unavailable" filename="UK Battlegroup Attacks.btt" stock="y" />
+	<scenario author="information unavailable" filename="UK Breaking The Bank.btt" stock="y" />
+	<scenario author="information unavailable" filename="UK Britains Joy.btt" stock="y" />
+	<scenario author="information unavailable" filename="UK British Mettle.btt" stock="y" />
+	<scenario author="information unavailable" filename="UK Cain and Abel.btt" stock="y" />
+	<scenario author="information unavailable" filename="UK Desert Lancers.btt" stock="y" />
+	<scenario author="information unavailable" filename="UK Edge of Darkness.btt" stock="y" />
+	<scenario author="information unavailable" filename="UK Friendly Fires.btt" stock="y" />
+	<scenario author="information unavailable" filename="UK H2H Armour vs Armour.btt" stock="y" />
+	<scenario author="information unavailable" filename="UK H2H Brit Arm Inf vs Rep Guard Forces.btt" stock="y" />
+	<scenario author="information unavailable" filename="UK H2H Brit Arm Mix vs Syr Arm Mix.btt" stock="y" />
+	<scenario author="information unavailable" filename="UK H2H Brit Inf vs Syr Mech Inf.btt" stock="y" />
+	<scenario author="information unavailable" filename="UK H2H Brit Mech Inf vs Syr Inf.btt" stock="y" />
+	<scenario author="information unavailable" filename="UK H2H Brit Mech Plt vs UnCon.btt" stock="y" />
+	<scenario author="information unavailable" filename="UK H2H Brit Mech-Arm vs UnCon.btt" stock="y" />
+	<scenario author="information unavailable" filename="UK H2H Brit Recce vs Syr Recon.btt" stock="y" />
+	<scenario author="information unavailable" filename="UK Industrial City.btt" stock="y" />
+	<scenario author="information unavailable" filename="UK It Ain't Half Hot Mum.btt" stock="y" />
+	<scenario author="information unavailable" filename="UK Operation Hammersmith.btt" stock="y" />
+	<scenario author="information unavailable" filename="UK Out of the Wilderness.btt" stock="y" />
+	<scenario author="information unavailable" filename="UK Outmanoeuvred.btt" stock="y" />
+	<scenario author="information unavailable" filename="UK Piccadilly Circus Rev.btt" stock="y" />
+	<scenario author="information unavailable" filename="UK Recipe For Disaster.btt" stock="y" />
+	<scenario author="information unavailable" filename="UK Sabres At Dawn.btt" stock="y" />
+	<scenario author="information unavailable" filename="UK The 2nd Eleven.btt" stock="y" />
+	<scenario author="information unavailable" filename="UK The Crucible.btt" stock="y" />
+	<scenario author="information unavailable" filename="UK The Full Monty.btt" stock="y" />
+	<scenario author="information unavailable" filename="UK The Mouse Trap.btt" stock="y" />
+	<scenario author="information unavailable" filename="UK Vehicle Recovery.btt" stock="y" />
+	<scenario author="information unavailable" filename="USMC Bad Moon Rising.btt" stock="y" />
+	<scenario author="information unavailable" filename="USMC Blues For Allah.btt" stock="y" />
+	<scenario author="information unavailable" filename="USMC Circle The Wagons.btt" stock="y" />
+	<scenario author="information unavailable" filename="USMC Day at the Beach.btt" stock="y" />
+	<scenario author="information unavailable" filename="USMC Hills and Highways.btt" stock="y" />
+	<scenario author="information unavailable" filename="USMC Insertion and Interdiction.btt" stock="y" />
+	<scenario author="information unavailable" filename="USMC Just Around The Bend.btt" stock="y" />
+	<scenario author="information unavailable" filename="USMC One Day at a Time.btt" stock="y" />
+	<scenario author="information unavailable" filename="USMC Orchard Drive.btt" stock="y" />
+	<scenario author="information unavailable" filename="USMC Rahadnak Valley Search.btt" stock="y" />
+	<scenario author="information unavailable" filename="USMC Road Kill.btt" stock="y" />
+	<scenario author="information unavailable" filename="USMC Streets of Hama.btt" stock="y" />
+	<scenario author="information unavailable" filename="USMC The Prophet and the Mountain.btt" stock="y" />
+	<scenario author="information unavailable" filename="USMC The Thin Black Line.btt" stock="y" />
+	<scenario author="information unavailable" filename="USMC To Ambush Or Not To Ambush.btt" stock="y" />
+	<scenario author="information unavailable" filename="USMC To the Shores of Tripoli.btt" stock="y" />
+	<scenario author="information unavailable" filename="Wadi Scouts.btt" stock="y" />
+	
+<!-- 	<scenario author="information unavailable" filename="" stock="y" /> -->
+
+	<scenario author="GeorgeMC" filename="Mission 3A Forging Steel_v7.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-shock-force-2/cm-shock-force-campaigns/usmc-forging-steel-the-missions/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/USMc-Forging-Steel_The-Missions.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="GeorgeMC" filename="Mission 3B Forging Steel_v11.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-shock-force-2/cm-shock-force-campaigns/usmc-forging-steel-the-missions/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/USMc-Forging-Steel_The-Missions.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="GeorgeMC" filename="Mission 4A Counter Recon_v7.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-shock-force-2/cm-shock-force-campaigns/usmc-forging-steel-the-missions/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/USMc-Forging-Steel_The-Missions.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="GeorgeMC" filename="Mission 4B Counter Recon_v2.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-shock-force-2/cm-shock-force-campaigns/usmc-forging-steel-the-missions/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/USMc-Forging-Steel_The-Missions.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="GeorgeMC" filename="Mission 5A_Bridgehead at Norburg_v13.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-shock-force-2/cm-shock-force-campaigns/usmc-forging-steel-the-missions/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/USMc-Forging-Steel_The-Missions.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="GeorgeMC" filename="Mission 5B_Bridgehead at Norburg_v1.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-shock-force-2/cm-shock-force-campaigns/usmc-forging-steel-the-missions/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/USMc-Forging-Steel_The-Missions.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="GeorgeMC" filename="Mission1_ Area_Reconnaissance_v3.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-shock-force-2/cm-shock-force-campaigns/usmc-forging-steel-the-missions/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/USMc-Forging-Steel_The-Missions.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="GeorgeMC" filename="Mission2A_CompanyAttack_v6.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-shock-force-2/cm-shock-force-campaigns/usmc-forging-steel-the-missions/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/USMc-Forging-Steel_The-Missions.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="GeorgeMC" filename="Mission2A_CompanyAttack_v6.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-shock-force-2/cm-shock-force-campaigns/usmc-forging-steel-the-missions/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/USMc-Forging-Steel_The-Missions.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="GeorgeMC" filename="Mission2B_Company_Attack_v3.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-shock-force-2/cm-shock-force-campaigns/usmc-forging-steel-the-missions/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/USMc-Forging-Steel_The-Missions.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="GeorgeMC" filename="Mission2C_Rearguard_v14.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-shock-force-2/cm-shock-force-campaigns/usmc-forging-steel-the-missions/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/USMc-Forging-Steel_The-Missions.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Combatintman" filename="Op BARRAS.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-shock-force-2/cm-shock-force/op-barras-a-coy-1-para-sierra-leone/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/wp-content/uploads/2017/04/Op-BARRAS.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Combatintman" filename="Qarmat Ali QRF.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-shock-force-2/cm-shock-force/qarmat-ali-qrf/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/Qarmat-Ali-QRF.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Paul Lootens" filename="hatvsmcofinalfix.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-shock-force-2/cm-shock-force/the-hatfields-versus-the-mccoys/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/hatvsmcofinalfix.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Paul Lootens" filename="opium operationtest3.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-shock-force-2/cm-shock-force/opium-den/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/opium-operationtest3.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Michael Duplessis" filename="NATO Tightening The Noose STANDALONE.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">www.thefewgoodmen.com/tsd3/cm-shock-force-2/cm-shock-force/nato-tightening-the-noose/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/NATO-Tightening-The-Noose-STANDALONE.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Michael Duplessis" filename="NATO The Fortress STANDALONE.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-shock-force-2/cm-shock-force/nato-the-fortress/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/NATO-The-Fortress-STANDALONE.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Michael Duplessis" filename="NATO Reservoir Ridge STANDALONE.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-shock-force-2/cm-shock-force/nato-reservoir-ridge/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/NATO-Reservoir-Ridge-STANDALONE.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="GeorgeMC" filename="NATO Panzer Angriffe_v1.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-shock-force-2/cm-shock-force/nato-panzer-angriffe/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/NATO-Panzer-Angriffe.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Alex " filename="HardRock.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-shock-force-2/cm-shock-force/hardrock/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/HardRock-1.1.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Craig McCulloch" filename="Counterattack near Dafniya.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-shock-force-2/cm-shock-force/counterattack-near-dafniya/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/Counterattack-near-Dafniya.rar</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="JC" filename="NATO LAVIII Platoon Hasty Attack V0_9.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-shock-force-2/cm-shock-force/canadian-laviii-platoon-hasty-attack/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/NATO-LAVIII-Platoon-Hasty-Attack-V0_9.rar</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Snake eye" filename="A helluva road opening 2.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-shock-force-2/cm-shock-force/a-helluva-road-opening-v2/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/A-helluva-road-opening-2.rar</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Pete Wenman" filename="From the Halls of Montezuma.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-shock-force-2/cm-shock-force/usmcfrom-the-halls-of-montezuma/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/HallsofPW.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Sixxkiller" filename="Where Eagles Die.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-shock-force-2/cm-shock-force/usmc-where-eagles-die/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/Where-Eagles-Die.rar</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Joseph Glessner" filename="USMC Trial by Fire.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-shock-force-2/cm-shock-force/usmc-trial-by-fire/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/USMC-Trial-by-Fire.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Blimey" filename="USMC RTB1 Az Zubayr.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-shock-force-2/cm-shock-force/usmc-rtb1-az-zubayr/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/USMC-RTB1-Az-Zubayr.rar</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="LongLeftFlank" filename="USMC Ramadi - Relief of JOKER 3.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-shock-force-2/cm-shock-force/usmc-ramadi-iraq-relief-of-joker-3/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/USMC-Ramadi-Relief-of-JOKER-3.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Michael Jones" filename="USMC Day of Days.btt">
+		<urls_list>
+			<infourl who="Scenario Depot" primary="y">http://www.thefewgoodmen.com/tsd3/cm-shock-force-2/cm-shock-force/day-of-days/</infourl>
+			<infourl who="Scenario Depot with mods">http://www.thefewgoodmen.com/tsd3/cm-shock-force-2/cm-shock-force/usmc-day-of-days-part1/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/USMC-Day-of-Days.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Jon Sowden" filename="USMC Cmpn 17 SNAFU H2H.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-shock-force-2/cm-shock-force/usmc-cmpn-17-snafu/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/USMC-Cmpn-17-SNAFU.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Sgt Joch/Jon S" filename="USMC Cmpn 09 Road to Shin H2H.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-shock-force-2/cm-shock-force/usmc-cmpn-09-road-to-shin-h2h/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/USMC-Cmpn-09-Road-to-Shin.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Sgt Joch/Jon S" filename="USMC Cmpn 08 Village Recce H2H.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-shock-force-2/cm-shock-force/usmc-cmpn-08-village-recon/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/USMC-Cmpn-08-Village-Recon.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Sgt Joch/Jon S" filename="USMC Cmpn 07 Safita H2H.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-shock-force-2/cm-shock-force/usmc-cmpn-07-safita-h2h/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/USMC-Cmpn-07-Safita.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Jon S" filename="USMC Cmpn 06 Route Recce H2H.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-shock-force-2/cm-shock-force/usmc-cmpn-06-route-recce/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/USMC-Cmpn-06-Route-Recce-H2H.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Imperial Grunt/Jon S" filename="USMC Cmpn 03 Amphib Aslt no recon H2H.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-shock-force-2/cm-shock-force/usmc-cmpn-03-amphib-aslt-no-recon/</infourl>
+			<downloadurl who="Scenario Depot">http://http://www.thefewgoodmen.com/tsd3/cm-shock-force-2/cm-shock-force/usmc-cmpn-03-amphib-aslt-no-recon/</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Imperial Grunt/Jon S" filename="USMC Cmpn 02 Amphib Aslt H2H.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-shock-force-2/cm-shock-force/usmc-cmpn-02-amphib-aslt/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/USMC-Cmpn-02-Amphib-Aslt-H2H.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Imperial Grunt/Jon S" filename="USMC Cmpn 01 Beach Recon H2H.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-shock-force-2/cm-shock-force/usmc-cmpn-01-beach-recon/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/USMC-Cmpn-01-Beach-Recon-H2H.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="information unavailable" filename="USMC Clear and Present Danger.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-shock-force-2/cm-shock-force/usmc-clear-and-present-danger/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/USMC-Clear-and-Present-Danger.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Chris McCain" filename="USMC Cherry Point V1.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-shock-force-2/cm-shock-force/usmc-cherry-point-v1/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/USMCCherryPointV1.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Gareth Winstanley" filename="Trench Warfare.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-shock-force-2/cm-shock-force/trench-warfare/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/Trench-Warfare.rar</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Steiner131416" filename="Hoy combatimos.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-shock-force-2/cm-shock-force/today-we-fight-spanish-briefing/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/Hoy-combatimos.rar</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="afreu" filename="USMC The Green Zone.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-shock-force-2/cm-shock-force/the-green-zone-2/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/USMC_The_Green_Zone.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="De Savage" filename="USMC The Bridge to Abu Kamal.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-shock-force-2/cm-shock-force/the-bridge-to-abu-kamal/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/USMC-The-Bridge-to-Abu-Kamal.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="The Phantom" filename="USMC Badinni Dilemma V1.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-shock-force-2/cm-shock-force/the-badinni-dilemma/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/USMC_Badinni_Dilemma_V1.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Jason Carter" filename="Soldier's Fury.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-shock-force-2/cm-shock-force/soldiers-fury/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/s-Fury.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Normal Dude" filename="TPF3 - Snitch.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-shock-force-2/cm-shock-force/snitch/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/TPF3-Snitch.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Joseph Glessner" filename="USMC Siege of Latakia V2.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-shock-force-2/cm-shock-force/siege-of-latakia-v2/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/USMC-Siege-of-Latakia-V2.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Stagler" filename="SG - USMC - Hakhani Assault.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-shock-force-2/cm-shock-force/sg-usmc-hakhani-assault/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/SG-USMC-Hakhani-Assault.rar</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Paper Tiger" filename="USMC Second Storm.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-shock-force-2/cm-shock-force/second-storm/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/USMC-Second-Storm.rar</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Chops" filename="Rasin El Aboud Airbase.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-shock-force-2/cm-shock-force/raisin-el-aboud/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/Rasin-El-Aboud-Airbase.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="De Savage" filename="USMC Prison Break.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-shock-force-2/cm-shock-force/prison-break/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/Prison-Break.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Normal Dude" filename="TPF2 - Pigs of War.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-shock-force-2/cm-shock-force/pigs-of-war/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/TPF2-Pigs-of-War.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Joseph Glessner" filename="USMC vs Army No Fighting in the War Room.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-shock-force-2/cm-shock-force/no-fighting-in-the-war-room/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/USMC-vs-Army-No-Fighting-in-the-War-Room.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Chris McCain" filename="USMC Movement to Contact V1.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-shock-force-2/cm-shock-force/movement-to-contact-v1/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/USMC-Movement-to-Contact-V1.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Normal Dude" filename="TPF5 - Machete.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-shock-force-2/cm-shock-force/machete/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/TPF5-Machete.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Michael Duplessis" filename="USMC vs Army_Lone Star Shopping Plaza.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-shock-force-2/cm-shock-force/lone-star-shopping-plaza/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/USMCVSARMY_LONESTARSHOPPINGPLAZA.ZIP</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Normal Dude" filename="TPF1 - Knees In The Breeze.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-shock-force-2/cm-shock-force/knees-in-the-breeze/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/TPF1-Knees-In-The-Breeze.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Normal Dude" filename="TPF6 - H-Minus.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-shock-force-2/cm-shock-force/h-minus/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/TPF6-H-Minus.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Denis Muzica" filename="Full Throttle H2H.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-shock-force-2/cm-shock-force/full-throttle-h2h/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/Full-Throttle-H2H.rar</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Normal Dude" filename="TPF8 - Finale.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-shock-force-2/cm-shock-force/finale/</infourl>
+			<downloadurl who="Scenario Depot">http://http://www.thefewgoodmen.com/tsd3/cm-shock-force-2/cm-shock-force/finale/</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Normal Dude" filename="TPF7 - Ducks In A Row.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-shock-force-2/cm-shock-force/ducks-in-a-row/</infourl>
+			<downloadurl who="Scenario Depot">http://http://www.thefewgoodmen.com/tsd3/cm-shock-force-2/cm-shock-force/ducks-in-a-row/</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Snake eye" filename="Defend Jisr Al Doreaa 001.btb">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-shock-force-2/cm-shock-force/defend-jsir-al-doreaa/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/Defend-Jisr-Al-Doreaa-bake.rar</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Apocal" filename="Deathdealer Co Episode 1.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-shock-force-2/cm-shock-force/deathdealer-co-ep-1/</infourl>
+			<downloadurl who="Scenario Depot">http://http://www.thefewgoodmen.com/tsd3/cm-shock-force-2/cm-shock-force/deathdealer-co-ep-1/</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Karl Saville" filename="Consulate Evacuation.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-shock-force-2/cm-shock-force/consulate-evacuation/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/Consulate-Evacuation.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Chops" filename="USMC Beachhead.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-shock-force-2/cm-shock-force/beachhead/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/USMC-Beachhead.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="agusto agusto" filename="Assault on Latakia Airport - v17.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-shock-force-2/cm-shock-force/assault-on-latakia-airport-v17/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/Assault-on-Latakia-Airport.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Normal Dude" filename="TPF4 - All The Way.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-shock-force-2/cm-shock-force/all-the-way/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/TPF4-All-The-Way.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Combatintman" filename="Operation NEPTUNE SPEAR.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-shock-force-2/cm-shock-force/operation-neptune-spear/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/Operation-NEPTUNE-SPEAR.rar</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Chops" filename="Al Kut.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-shock-force-2/cm-shock-force/al-kut/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/Al-Kut.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Snake eye" filename="recon battle 5.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-shock-force-2/cm-shock-force/al-hillah-battle/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/recon-battle-5.rar</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Snake eye" filename="A taliban's tactical assault.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-shock-force-2/cm-shock-force/a-tactical-talibans-assault/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/s-tactical-assault.rar</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Snake eye" filename="A Helluva Road Opening.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-shock-force-2/cm-shock-force/a-helluva-road-opening/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/A-Helluva-Road-Opening.rar</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Snake eye" filename="A counter attack at El Derjine.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-shock-force-2/cm-shock-force/a-counter-attack-at-el-derjine/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/A-counter-attack-at-El-Derjine.rar</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Snake eye" filename="A crossroad at el derjine V2-03-14-2009.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-shock-force-2/cm-shock-force/a-crossroad-at-el-derjine/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/A-crossroad-at-el-derjine-V2-03-14-2009.rar</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Birdstrike" filename="USMC 310toYuma MkIc.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-shock-force-2/cm-shock-force/310-to-yuma-mk-ic/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/310toYuma.rar</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Combatintman" filename="Mullah Fayyad.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-shock-force-2/cm-shock-force/mullah-fayyad/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/Mullah-Fayyad.rar</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Combatintman" filename="Green 9.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-shock-force-2/cm-shock-force/green-9/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/Green-9.rar</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Combatintman" filename="Op MINIMISE.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-shock-force-2/cm-shock-force/op-minimise/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/Op-MINIMISE.rar</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Combatintman" filename="Zumbelay.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-shock-force-2/cm-shock-force/zumbelay-withdrawal/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/Zumbelay.rar</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Mark Ezra" filename="Wadi Al Sirree.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-shock-force-2/cm-shock-force/wadi-al-sirree/</infourl>
+			<downloadurl who="Scenario Depot">http://Mark Ezra</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Swetnam" filename="UK-Into The Green Zone.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-shock-force-2/cm-shock-force/uk-into-the-green-zone/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/UK-Into-The-Green-Zone.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="MikeyD" filename="UK The Battle of At Tanf STANDALONE.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-shock-force-2/cm-shock-force/uk-the-battle-of-at-tanf-standalone/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/UK-The-Battle-of-At-Tanf-STANDALONE.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Scipio" filename="UK Soldier's Fury BE.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-shock-force-2/cm-shock-force/uk-soldiers-fury-be/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/UKSoldiersFuryBE.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="MikeyD" filename="UK Outmanoeuvred TURBOCHARGED.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-shock-force-2/cm-shock-force/uk-outmanoeuvred-turbocharged-britmarine-combo/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/UK-Outmanoeuvred-TURBOCHARGED.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Joseph Glessner" filename="UK High Tension.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-shock-force-2/cm-shock-force/uk-high-tension/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/UK-High-Tension.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Lomir" filename="UK Hell for Leather.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-shock-force-2/cm-shock-force/uk-hell-for-leather/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/UK-Hell-for-Leather.rar</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Lomir" filename="UK Charon's Obol.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-shock-force-2/cm-shock-force/uk-charons-obol/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/s-Obol.rar</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Chris McCain" filename="UK Blinkered.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-shock-force-2/cm-shock-force/uk-blinkered-thephantom/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/UK-Blinkered.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Snake eye" filename="UK helluva take over.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-shock-force-2/cm-shock-force/uk-ab-helluva-take-over-op-market-garden/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/UK-helluva-take-over.rar</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Sergei" filename="UK A Hard Night's Day.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-shock-force-2/cm-shock-force/uk-a-hard-nights-day/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/UK-A-Hard-Nights-Day.rar</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="afreu" filename="UK The Maroon Machine.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-shock-force-2/cm-shock-force/the-maroon-machine/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/UK_The-Maroon-Machine_1.01.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="KirkeeTim" filename="Paving the Way.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-shock-force-2/cm-shock-force/paving-the-way/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/Paving-the-Way.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Tremissis" filename="Operation Volcano.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-shock-force-2/cm-shock-force/operation-volcano/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/Operation-Volcano.rar</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Karl White" filename="Operation GLACIER 4.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-shock-force-2/cm-shock-force/operation-glacier-4/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/Operation-GLACIER-4.rar</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Karl White" filename="Operation Glacier 2.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-shock-force-2/cm-shock-force/operation-glacier-2/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/Operation-Glacier-2.rar</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Karl White" filename="Operation Glacier 1.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-shock-force-2/cm-shock-force/operation-glacier-1/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/Operation-Glacier-1.rar</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Daniel Hufler" filename="mindthegap.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-shock-force-2/cm-shock-force/mind-the-gap/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/mindthegap.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="christopher summerville" filename="King of the Castle (UK) v3.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-shock-force-2/cm-shock-force/king-of-the-castle-brit-version/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/King-of-the-Castle-UK-v3.rar</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="afreu" filename="Joint Venture.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-shock-force-2/cm-shock-force/joint-venture/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/Joint_Venture.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Karl White" filename="Into The Green.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-shock-force-2/cm-shock-force/into-the-green/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/Into-The-Green.rar</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Karl White" filename="Habibollah Kalay.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-shock-force-2/cm-shock-force/habibollah-kalay/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/Habibollah-Kalay.rar</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Paul Lootens" filename="Syrian Base H2H Brit&amp;marine modules.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-shock-force-2/cm-shock-force/h2h-syrian-base/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/Syrian-Base-H2H-Britmarine-modules.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="christopher summerville" filename="Fortune Favours the Brave v2.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-shock-force-2/cm-shock-force/fortune-favours-the-brave-v2/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/Fortune-Favours-the-Brave-v2.rar</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="bardosy" filename="UK Dam It.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-shock-force-2/cm-shock-force/dam-it/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/UK-Dam-It.rar</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Karl White" filename="CIMIC House.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-shock-force-2/cm-shock-force/cimic-house/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/CIMIC-House.rar</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Jon S" filename="UK Argo Valley AI.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-shock-force-2/cm-shock-force/argo-valley/</infourl>
+			<downloadurl who="Scenario Depot">http://http://www.thefewgoodmen.com/tsd3/cm-shock-force-2/cm-shock-force/argo-valley/</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Jon S" filename="UK Argo Valley H2H.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-shock-force-2/cm-shock-force/argo-valley/</infourl>
+			<downloadurl who="Scenario Depot">http://http://www.thefewgoodmen.com/tsd3/cm-shock-force-2/cm-shock-force/argo-valley/</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Foid" filename="Valley of Tears.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-shock-force-2/cm-shock-force/valley-of-tears/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/Valley-of-Tears.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="jnt62006" filename="Movement to Contact.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-shock-force-2/cm-shock-force/us-movement-to-contact/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/Movement-to-Contact.rar</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Chops" filename="Tough Nut.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-shock-force-2/cm-shock-force/tough-nut/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/Tough-Nut.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Gareth Winstanley" filename="The Longest Day.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-shock-force-2/cm-shock-force/the-longest-day/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/LONGESTDAY.ZIP</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Michael Duplessis" filename="The King Copper Mines.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-shock-force-2/cm-shock-force/the-king-copper-mines-me/</infourl>
+			<downloadurl who="Scenario Depot">http://http://www.thefewgoodmen.com/tsd3/cm-shock-force-2/cm-shock-force/the-king-copper-mines-me/</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="marsod" filename="the green zone 1.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-shock-force-2/cm-shock-force/the-green-zone/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/the_greenzone_marsod1.1.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="hcrof" filename="Eid Offensive.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-shock-force-2/cm-shock-force/the-eid-offensive/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/The-Eid-Offensive-v1.1.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="LongLeftFlank" filename="Baba Amr - Syria 2012 Red-Red.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-shock-force-2/cm-shock-force/syrian-civil-war-2012-baba-amr/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/Baba-Amr-Syria-2012-Red-Red.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Clavicula_Nox" filename="tampaambush.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-shock-force-2/cm-shock-force/surrender-is-not-a-ranger-word/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/tampaambush.rar</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Field Marshal Blücher" filename="Street Fighters.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-shock-force-2/cm-shock-force/street-fighters/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/Street_Fighters.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Birdstrike" filename="Small Gain Mk IIc.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-shock-force-2/cm-shock-force/small-gain-mk-iic/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/Small-Gain.rar</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Birdstrike" filename="Rock Around The Block MkIII.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-shock-force-2/cm-shock-force/rock-around-the-block-mk-iii/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/RockAroundTheBlock.rar</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="GeorgeMC" filename="Rescue_v4.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-shock-force-2/cm-shock-force/rescue/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/CMSF_Rescue.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Pandur" filename="Red Stream 120.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-shock-force-2/cm-shock-force/red-stream-120/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/REDSTREAM.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Chops" filename="Recon by Fire.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-shock-force-2/cm-shock-force/recon-by-fire/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/Recon-by-Fire.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Gareth Winstanley" filename="Point 103.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-shock-force-2/cm-shock-force/point-103/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/POINT103.ZIP</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Michael Jones" filename="First Light of Dawn.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-shock-force-2/cm-shock-force/first-light-of-dawn-redux/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/First-Light-of-Dawn_2.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Chops" filename="Pilot Rescue.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-shock-force-2/cm-shock-force/pilot-rescue/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/Pilot-Rescue.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Birdstrike" filename="Paradise Road Mk III.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-shock-force-2/cm-shock-force/paradise-road-mk-iii/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/Paradise-Road.rar</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Clavicula_Nox" filename="One Night in Waziristan.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-shock-force-2/cm-shock-force/one-night-in-waziristan/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/One-Night-in-Waziristan.rar</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="MikeyD" filename="Neighborhood blood feud_v2.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-shock-force-2/cm-shock-force/neighborhood-blood-feud/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/NEIGHBORHDBLOODFEUD_V2.BTT_.ZIP</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Foid" filename="Meeting an Elder.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-shock-force-2/cm-shock-force/meeting-an-elder/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/Meeting-an-Elder.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Chops" filename="Lyin' for War.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-shock-force-2/cm-shock-force/lyin-for-war/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/Lyin-for-War.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Javolenus" filename="King of the Castle (US) v4.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-shock-force-2/cm-shock-force/king-of-the-castle-us-v4/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/King-of-the-Castle-US-v4.rar</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="George MC" filename="Just another day v01.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-shock-force-2/cm-shock-force/just-another-day/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/Just-another-day.rar</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="GeorgeMC" filename="Hammertime v6.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-shock-force-2/cm-shock-force/hammertime/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/Hammertime.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="marsod" filename="deserted village.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-shock-force-2/cm-shock-force/deserted-village/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/deserted_village_marsod1.0.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Field Marshal Blücher" filename="Danger Close.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-shock-force-2/cm-shock-force/danger-close/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/Danger_Close.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="GeorgeMC" filename="Cry_Havoc_v5.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-shock-force-2/cm-shock-force/cry-havoc/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/Cry_Havoc.rar</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Chops" filename="Copperhead Road.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-shock-force-2/cm-shock-force/copperhead-road/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/Copperhead-Road.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Fredrocker" filename="Clear the Way Final.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-shock-force-2/cm-shock-force/clear-the-way/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/clear_the_way_final.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Chops" filename="Bomber Takedown.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-shock-force-2/cm-shock-force/bomber-takedown/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/Bomber-Takedown.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Cabal23" filename="Belly of the Whale.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-shock-force-2/cm-shock-force/belly-of-the-whale/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/Belly.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Agusto" filename="Battle of Vienna - Day 16.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-shock-force-2/cm-shock-force/battle-of-vienna/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/Battle-of-Vienna.rar</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Agusto" filename="Battle of Mount Hoihna.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-shock-force-2/cm-shock-force/battle-of-mount-hoihna/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/Battle-of-Mount-Hoihna.rar</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="hcrof" filename="Backbreaker.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-shock-force-2/cm-shock-force/backbreaker/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/Backbreaker.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="hcrof" filename="Backbreaker_noNATO.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-shock-force-2/cm-shock-force/backbreaker/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/Backbreaker.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Agusto" filename="Assault on Base 46 SP v1.00.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-shock-force-2/cm-shock-force/assault-on-base-46-h2h-vs-ai/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/Assault-on-Base-46.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Agusto" filename="Assault on Base 46 H2H v1.00.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-shock-force-2/cm-shock-force/assault-on-base-46-h2h-vs-ai/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/Assault-on-Base-46.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Agusto" filename="Assault on Base 111 (H2H).btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-shock-force-2/cm-shock-force/assault-on-base-111-h2hsp-v1-00/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/Assault-on-Base-111-v1.00.rar</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Agusto" filename="Assault on Base 111 (SP).btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-shock-force-2/cm-shock-force/assault-on-base-111-h2hsp-v1-00/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/Assault-on-Base-111-v1.00.rar</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="George MC" filename="Armour Attacks v10.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-shock-force-2/cm-shock-force/armour-attacks/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/GMc_Armour_Attacks.rar</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Foid" filename="Ambush at Al Sheik Bader.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-shock-force-2/cm-shock-force/ambush-at-al-sheik-bader/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/Ambush-at-Al-Sheik-Bader.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Field Marshal Blücher" filename="All Across the River.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-shock-force-2/cm-shock-force/all-across-the-river/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/All_Across_the_River.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Sergei" filename="A View to a Kill.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-shock-force-2/cm-shock-force/a-view-to-a-kill/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/A-View-to-a-Kill.rar</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Field Marshal Blücher" filename="A Patch of Dirt.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-shock-force-2/cm-shock-force/a-patch-of-dirt/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/A_Patch_of_Dirt.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Snake eye" filename="A Crossroad Hamlet Assault.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-shock-force-2/cm-shock-force/a-crossroad-hamlet-assault/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/A-Crossroad-Hamlet-Assault.rar</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Pete Wenman" filename="A Bridge too Far.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-shock-force-2/cm-shock-force/a-bridge-too-far/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/A-Bridge-too-Far.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="George MC" filename="NATO TV 98-5 Steelers_Brits v1.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-shock-force-2/cm-shock-force/nato-tv-98-5-steelers/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/NATO-TV-98-5-Steelers.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="George MC" filename="NATO TV 98-5 Steelers_BvsB v1.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-shock-force-2/cm-shock-force/nato-tv-98-5-steelers/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/NATO-TV-98-5-Steelers.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="George MC" filename="NATO TV 98-5 Steelers_US v1.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-shock-force-2/cm-shock-force/nato-tv-98-5-steelers/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/NATO-TV-98-5-Steelers.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="George MC" filename="CMSF Daraya Tank Raid_v1.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-shock-force-2/cm-shock-force/cmsf-daraya-tank-raid/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/CMSF-Daraya-Tank-Raid.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	
+	<scenario author="Webwing" filename="Red Pepper(v1.1).btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=157</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Mark Ezra" filename="Riesberg.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=274</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Mark Ezra" filename="Scoop's Big Adventure.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=275</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="David" filename="OFW-L1J-SHOCK FORCE.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=510</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Mark Ezra" filename="Sidewinder.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=276</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Alfalfa" filename="OFW Suburbano.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=900</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Gareth Winstanley" filename="The Battle of Waterloo.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=262</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Skwabie" filename="00_Breakthough at the Berm.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=2760</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Skwabie" filename="01_Following the Wadi.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=2760</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Skwabie" filename="02_Ash Shammas.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=2760</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Skwabie" filename="03_Hight Points, Low Points.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=2760</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Skwabie" filename="04_Route Lightning.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=2760</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Skwabie" filename="05_Dar al as Sud.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=2760</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Skwabie" filename="06_Air Warfare.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=2760</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Skwabie" filename="07_The Screen.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=2760</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Skwabie" filename="08_The Screen Part 2.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=2760</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Skwabie" filename="09_Lock and Chase.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=2760</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Skwabie" filename="10_Objective Normandy.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=2760</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Skwabie" filename="11_Night Stalkers.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=2760</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Skwabie" filename="12_Dagger Fight.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=2760</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Skwabie" filename="13_Ambush Alley.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=2760</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Skwabie" filename="14_Into the Valley.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=2760</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Skwabie" filename="15_Tiyas Detour.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=2760</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Skwabie" filename="16_Mountain of a Mole Hill.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=2760</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Skwabie" filename="17_Heads Up.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=2760</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Skwabie" filename="18_Fleeing the Scene.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=2760</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Skwabie" filename="19_Hims Homes.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=2760</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Skwabie" filename="20_Point Blank.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=2760</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Kevin Kinscherf" filename="Time to Go.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3399</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Alfalfa" filename="Touchdown.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=505</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Pete Wenman" filename="Unlocking the Door.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=60</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Todd Justice" filename="Night Attack.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=935</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Mark Ezra" filename="Viper_Pass.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=277</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Birdstrike" filename="Paradise Road Mk IIIa.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=507</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Alfalfa" filename="OFW Green Game.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=763</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Kevin Kinscherf" filename="Infidel Beware.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3408</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Alfalfa" filename="OFW MAD MISSION .btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=762</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Alfalfa" filename="Mision Limpieza.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=506</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Berto" filename="Only about 10 minutes v3.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=727</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Berto" filename="UK Only about 10 minutes v3.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=727</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Berto" filename="USMC Only about 10 minutes v3.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=727</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Mark Ezra" filename="Open Season.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=273</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Kevin Kinscherf" filename="Opening the Door .btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3386</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="George MC" filename="Going To Town DEMO v14.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=502</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Gareth Winstanley" filename="The Battle of the Tennis Court.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=267</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Mark Ezra" filename="Big City Blues.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=268</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Mark Ezra" filename="Cavalry Charge at Apache Pass.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=269</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Mark Ezra" filename="Chance Encounter.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=270</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Mark Ezra" filename="Choke Point.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=271</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Alfalfa" filename="OFW-El incidente.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=569</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Pyry S" filename="Euroscape Foggy Dew.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3301</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Harry Crofton" filename="Farm Wars.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=771</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Alfalfa" filename="OFW AtolladeroV2.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=678</downloadurl>
+		</urls_list>
+	</scenario>
+	
+	<scenario author="Skwabie" filename="00_Border Crossing_edited_US.btt">
+		<urls_list>
+			<infourl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3007</infourl>
+		</urls_list>
+	</scenario>
+	<scenario author="Skwabie" filename="01_The Battle of At Tanf_edited_US.btt">
+		<urls_list>
+			<infourl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3007</infourl>
+		</urls_list>
+	</scenario>
+	<scenario author="Skwabie" filename="02_Crossroads_edited_US.btt">
+		<urls_list>
+			<infourl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3007</infourl>
+		</urls_list>
+	</scenario>
+	<scenario author="Skwabie" filename="06_Bagdad Cafe 66_edited_US.btt">
+		<urls_list>
+			<infourl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3007</infourl>
+		</urls_list>
+	</scenario>
+	<scenario author="Skwabie" filename="07_Dumayr Riot_edited_US.btt">
+		<urls_list>
+			<infourl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3007</infourl>
+		</urls_list>
+	</scenario>
+	<scenario author="Skwabie" filename="08_SabAbar_edited_US.btt">
+		<urls_list>
+			<infourl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3007</infourl>
+		</urls_list>
+	</scenario>
+	<scenario author="Skwabie" filename="09_Mountain Crossing_edited_US.btt">
+		<urls_list>
+			<infourl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3007</infourl>
+		</urls_list>
+	</scenario>
+	<scenario author="Skwabie" filename="10_Qutaife_edited_US.btt">
+		<urls_list>
+			<infourl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3007</infourl>
+		</urls_list>
+	</scenario>
+	<scenario author="Skwabie" filename="11_Counter Attack_edited_US.btt">
+		<urls_list>
+			<infourl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3007</infourl>
+		</urls_list>
+	</scenario>
+	<scenario author="Skwabie" filename="12_Courses of Action_edited_US.btt">
+		<urls_list>
+			<infourl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3007</infourl>
+		</urls_list>
+	</scenario>
+	<scenario author="Skwabie" filename="13_Aadra Adversity_edited_US.btt">
+		<urls_list>
+			<infourl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3007</infourl>
+		</urls_list>
+	</scenario>
+	<scenario author="Skwabie" filename="14_Martyrs Square_edited_US.btt">
+		<urls_list>
+			<infourl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3007</infourl>
+		</urls_list>
+	</scenario>
+	<scenario author="Skwabie" filename="15_Going Downtown_edited_US.btt">
+		<urls_list>
+			<infourl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3007</infourl>
+		</urls_list>
+	</scenario>
+	<scenario author="Skwabie" filename="16_The Bowling Alley_edited_US.btt">
+		<urls_list>
+			<infourl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3007</infourl>
+		</urls_list>
+	</scenario>
+	<scenario author="Skwabie" filename="17_Ambush in the Lava Field_edited_US.btt">
+		<urls_list>
+			<infourl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3007</infourl>
+		</urls_list>
+	</scenario>
+	<scenario author="Skwabie" filename="18_Narrow Margins_edited_US.btt">
+		<urls_list>
+			<infourl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3007</infourl>
+		</urls_list>
+	</scenario>
+	<scenario author="Skwabie" filename="19_Ash Shaykh Miskin_edited_US.btt">
+		<urls_list>
+			<infourl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3007</infourl>
+		</urls_list>
+	</scenario>
+	<scenario author="Skwabie" filename="20_Bashar is in our Hearts_edited_US.btt">
+		<urls_list>
+			<infourl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3007</infourl>
+		</urls_list>
+	</scenario>
+	<scenario author="Alfalfa" filename="Arabesque UK Forces.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=1015</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Alfalfa" filename="OFW Asalto en el camino.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=1396</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="christopher summerville" filename="Blind Date at MacDonald's v5.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=616</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Nuzrak" filename="Counter Insurgency (V.1).btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=832</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Skwabie" filename="00_Border Crossing.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=2920</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Skwabie" filename="01_The Battle of At Tanf.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=2920</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Skwabie" filename="02_Crossroads.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=2920</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Skwabie" filename="03_Os Saygal - Recce.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=2920</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Skwabie" filename="04_Os Saygal - Assault.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=2920</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Skwabie" filename="05_Os Saygal - Assault_a.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=2920</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Skwabie" filename="06_Bagdad Cafe 66.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=2920</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Skwabie" filename="07_Dumayr Riot.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=2920</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Skwabie" filename="08_Sab'Abar.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=2920</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Skwabie" filename="09_Mountain Crossing.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=2920</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Skwabie" filename="10_Qutaife.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=2920</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Skwabie" filename="11_Counter Attack.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=2920</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Skwabie" filename="12_Courses of Action.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=2920</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Skwabie" filename="13_Aadra Adversity.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=2920</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Skwabie" filename="14_Martyrs' Square.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=2920</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Skwabie" filename="15_Going Downtown.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=2920</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Skwabie" filename="16_The Bowling Alley.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=2920</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Skwabie" filename="17_Ambush in the Lava Field.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=2920</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Skwabie" filename="18_Narrow Margins.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=2920</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Skwabie" filename="19_Ash Shaykh Miskin.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=2920</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Skwabie" filename="20_Bashar is in our Hearts.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=2920</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="christopher summerville" filename="Night Engagement at Al Qaryatayn v2.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=595</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Alfalfa" filename="OFW Dune British.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=923</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Normal Dude" filename="Ranger Run II.btb">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=424</downloadurl>
+		</urls_list>
+	</scenario>
+
+	<scenario author="Alek" filename="z_10_Independence Morning.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=1074</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Alek" filename="Z_11_Providing Feedback.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=1074</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Alek" filename="z_12_Blackfields.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=1074</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Alek" filename="z_13_No way out.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=1074</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Alek" filename="Z_14_Civilized protest.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=1074</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Alek" filename="Z_16_Stone Trap.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=1074</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Alek" filename="Z_1_Check on the roads.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=1074</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Alek" filename="z_2_Iron stream.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=1074</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Alek" filename="Z_3_Night hunt.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=1074</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Alek" filename="Z_4_Radio Syria.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=1074</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Alek" filename="Z_5 Firestorming.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=1074</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Alek" filename="Z_6_Think of Allah.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=1074</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Alek" filename="z_7_Progressive Attack.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=1074</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Alek" filename="Z_8_Backward Cover.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=1074</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Alek" filename="Z_9_Eagle down.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=1074</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Michael Duplessis" filename="UK Aadra Adversity STANDALONE.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=1346</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Michael Duplessis" filename="UK Border Crossing STANDALONE.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=1349</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Mark Ezra" filename="UK Desert Knights.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=419</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Steiner131416" filename="Wanat.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=591</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Sequoia" filename="UK British Forces Dealership.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=2662</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Snake eye" filename="AT-14 Avoidance Range.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=168</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Normal Dude" filename="Firing Range 53 Long Range.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=147</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Normal Dude" filename="Firing Range 54 Vehicle.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=137</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Normal Dude" filename="Firing Range 55 Infantry.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=137</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Normal Dude" filename="Firing Range 56 Fire Support.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=137</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Normal Dude" filename="McKenna MOUT Site May 4th.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=146</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="David Leaper" filename="USMC Monkey Mashup.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=167</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Field Marshal Blücher" filename="The Dealership.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=155</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Alfalfa" filename="Dawn Assault.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=728</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Snake eye" filename="recon battle 1.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=383</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Snake eye" filename="recon battle 2.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=385</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Snake eye" filename="recon battle 3.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=359</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Alfalfa" filename="Arabesque Marines Plus.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=1072</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="JC" filename="Across the Canal V0_91.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=2201</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Alfalfa" filename="OFW Asalto V2.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=901</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Alfalfa" filename="OFW Dune Marines.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=924</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Alfalfa" filename="OFW The Bridge.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=701</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Alfalfa" filename="OFW Un dia de furia GB3.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=758</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="afreu" filename="USMC Mud Marines.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=638</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Normal Dude" filename="NATO A Night at the Sheraton.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=953</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Skwabie" filename="00_NATO Dusty.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3010</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Skwabie" filename="01_NATO Northv1.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3010</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Skwabie" filename="02_NATO Northv2.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3010</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Skwabie" filename="03_NATO Southv1.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3010</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Skwabie" filename="04_NATO Southv2.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3010</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Skwabie" filename="05_NATO Southv3.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3010</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Skwabie" filename="06_NATO Trialv1.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3010</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Skwabie" filename="07_NATO Trialv2.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3010</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Skwabie" filename="08_NATO Trialv3.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3010</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Skwabie" filename="09_NATO Trialv4.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3010</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Skwabie" filename="10_NATO Heartv1.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3010</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Skwabie" filename="11_NATO Heartv2.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3010</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Skwabie" filename="12_NATO Heartv3.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3010</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Skwabie" filename="13_NATO Heartv4.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3010</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Skwabie" filename="14_NATO Heartv5.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3010</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Skwabie" filename="15_NATO Arrowv1.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3010</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Skwabie" filename="16_NATO Resistancev1.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3010</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Skwabie" filename="17_NATO Resistancev2.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3010</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Skwabie" filename="18_NATO Hillv1.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3010</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Skwabie" filename="19_NATO Hillv2.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3010</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Skwabie" filename="20_NATO Kameshliv1.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3010</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Skwabie" filename="21_NATO KameshliUS.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3010</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Skwabie" filename="22_NATO Kameshliv2.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3010</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Mr.X" filename="Zawiya Militia Clashes.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=2334</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Sequoia" filename="NATO German Forces Dealership.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=2664</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Sequoia" filename="NATO Netherlands Forces Dealership.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=2664</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Sequoia" filename="NATO Canadian Forces Dealership.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=2664</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Normal Dude" filename="NATO Die Festung.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=1484</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Skwabie" filename="00_NATO Borders.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3008</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Skwabie" filename="01_NATO Ghostv1.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3008</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Skwabie" filename="02_NATO Ghostv2.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3008</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Skwabie" filename="03_NATO Al Babv1.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3008</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Skwabie" filename="04_NATO Al Babv2.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3008</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Skwabie" filename="05_NATO Al Babv3.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3008</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Skwabie" filename="06_NATO Minakh.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3008</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Skwabie" filename="07_NATO Gambitv1.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3008</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Skwabie" filename="08_NATO Gambitv2.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3008</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Skwabie" filename="09_NATO Fieldsv1.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3008</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Skwabie" filename="10_NATO Fieldsv2.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3008</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Skwabie" filename="11_NATO Factoryv1.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3008</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Skwabie" filename="12_NATO Factoryv2.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3008</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Skwabie" filename="13_NATO Reservoir.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3008</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Skwabie" filename="14_NATO Decision.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3008</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Skwabie" filename="15_NATO Assanv1.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3008</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Skwabie" filename="16_NATO Assanv2.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3008</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Skwabie" filename="17_NATO Mashraf.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3008</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Skwabie" filename="18_NATO Sheraton.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3008</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Skwabie" filename="19_NATO Fortress.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3008</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Skwabie" filename="20_NATO Jabal.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3008</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Skwabie" filename="21_NATO Audacity.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3008</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Skwabie" filename="22_NATO Valhalla.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3008</downloadurl>
+		</urls_list>
+	</scenario>	
+	<scenario author="MalakieUSN" filename="East Rising Campaign - Scenario 1.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=2306</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="MalakieUSN" filename="East Rising Campaign - Scenario 2.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=2306</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="MalakieUSN" filename="East Rising Campaign - Scenario 3.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=2306</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="MalakieUSN" filename="East Rising Campaign - Scenario 4.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=2306</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Alfalfa" filename="OFW-El incidente Canadian redux.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=904</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Alfalfa" filename="OFW-El incidente Dutch Redux.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=905</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Alfalfa" filename="OFW-El incidente German Redux.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=906</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Paul Lootens" filename="streetfighters Dutch Siege! H2H.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=1028</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Normal Dude" filename="NATO Kameshli Airfield.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=952</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Sergei" filename="NATO Bier und Brezel H2H.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=916</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Sergei" filename="NATO Bier und Brezel T-90 Edition H2H.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=915</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Alfalfa" filename="OFW Dune OTAN.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=925</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Alexander Howlett" filename="ATTACK.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=1008</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Normal Dude" filename="NATO Over the Hill.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=951</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Skwabie" filename="00_NATO Borders_edited_US.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3044</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Skwabie" filename="02_NATO Ghostv2_edited_US.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3044</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Skwabie" filename="05_NATO Al Babv3_edited_US.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3044</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Skwabie" filename="06_NATO Minakh_edited_US.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3044</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Skwabie" filename="08_NATO Gambitv2_edited_US.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3044</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Skwabie" filename="10_NATO Fieldsv2_edited_US.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3044</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Skwabie" filename="12_NATO Factoryv2_edited_US.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3044</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Skwabie" filename="13_NATO Reservoir_edited_US.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3044</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Skwabie" filename="16_NATO Assanv2_edited_US.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3044</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Skwabie" filename="17_NATO Mashraf_edited_US.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3044</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Skwabie" filename="18_NATO Sheraton_edited_US.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3044</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Skwabie" filename="19_NATO Fortress_edited_US.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3044</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Skwabie" filename="20_NATO Jabal_edited_US.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3044</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Skwabie" filename="21_NATO Audacity_edited_US.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3044</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Skwabie" filename="22_NATO Valhalla_edited_US.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3044</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Normal Dude" filename="NATO The Factory.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=950</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Mr.X" filename="Zawiya Campaign Battle 1.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3196</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Mr.X" filename="Zawiya Campaign Battle 2.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3197</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="skwabie" filename="00_NATO Killing.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3009</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="skwabie" filename="01_NATO Faithv1.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3009</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="skwabie" filename="02_NATO Faithv2.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3009</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="skwabie" filename="03_NATO Barricadesv1.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3009</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="skwabie" filename="04_NATO Barricadesv2.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3009</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="skwabie" filename="05_NATO Hopev1.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3009</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="skwabie" filename="06_NATO Hopev2.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3009</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="skwabie" filename="07_NATO Hopev3.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3009</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="skwabie" filename="08_NATO Hopev4.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3009</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="skwabie" filename="09_NATO Gunsv1.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3009</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="skwabie" filename="10_NATO Gunsv2.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3009</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="skwabie" filename="11_NATO Bloodv1.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3009</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="skwabie" filename="12_NATO Bloodv2.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3009</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="skwabie" filename="13_NATO Bloodv3.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3009</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="skwabie" filename="14_NATO Bloodv4.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3009</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="skwabie" filename="15_NATO Charityv1.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3009</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="skwabie" filename="16_NATO Charityv2.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3009</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="skwabie" filename="17_NATO Charityv3.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3009</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="skwabie" filename="18_NATO Charityv4.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3009</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="skwabie" filename="19_NATO Charityv5.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3009</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="skwabie" filename="20_NATO Charityv6.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3009</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="skwabie" filename="21_NATO Charityv7.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3009</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="skwabie" filename="22_NATO Roadkillv1.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3009</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="skwabie" filename="23_NATO Gatehousev1.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3009</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="skwabie" filename="24_NATO Gatehousev2.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3009</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="skwabie" filename="25_NATO Hellv1.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3009</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="skwabie" filename="26_NATO Hellv2.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3009</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="skwabie" filename="27_NATO Hellv3.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3009</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="skwabie" filename="28_NATO Hellv4.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3009</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="skwabie" filename="29_NATO Noosev1.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3009</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="skwabie" filename="30_NATO Noosev2.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3009</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="skwabie" filename="31_NATO Al Hasakahv1.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3009</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="skwabie" filename="32_NATO Al Hasakahv2.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3009</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="skwabie" filename="33_NATO Al Hasakahv3.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3009</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="skwabie" filename="34_NATO Al Hasakahv4.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3009</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="skwabie" filename="35_NATO Al Hasakahv5.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3009</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="skwabie" filename="36_NATO Al Hasakahv6.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3009</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Mr.X" filename="Zawiya Campaign Battle 3.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3198</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Mr.X" filename="Zawiya Campaign Battle 4.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3199</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Mr.X" filename="Zawiya Campaign Battle 5.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3200</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Mr.X" filename="Zawiya Campaign Battle 6.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3201</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Mr.X" filename="Zawiya Campaign Battle 7.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3202</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Mr.X" filename="Zawiya Campaign Battle 8.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3203</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Mishga" filename="Dawn Raid.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=286</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Kevin Kinscherf" filename="Through the Cedars of Lebanon 1.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3474</downloadurl>
+		</urls_list>
+	</scenario>
+
+
+<!--    <scenario author="" filename=""> -->
+<!--        <urls_list> -->
+<!--            <infourl who="Scenario Depot"></infourl> -->
+<!--            <downloadurl who="Scenario Depot" primary="y">http://</downloadurl> -->
+<!--        </urls_list> -->
+<!--    </scenario> -->
+</scenarios>

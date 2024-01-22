@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scenarios>
+	<scenario author="Frank Sauer" filename="A bloody ride.cam">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=1661</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="JonS" filename="A Moment in Time.cam" stock="y" />
+	<scenario author="information unavailable" filename="Amiens Tonight.cam" stock="y" />
+	<scenario author="winkelried" filename="Assault on Lucherberg.cam">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/combat-mission-battle-for-normandy/cm-battle-for-normandy-campaigns/415th-infantry-regiment-assaults-lucherberg-germany/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/Assault-on-Lucherberg-V1-0.zip</downloadurl>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=1456</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="bardosy" filename="Bridge too close.cam">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/combat-mission-battle-for-normandy/cm-battle-for-normandy-campaigns/a-bridge-too-close/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/Bridge.zip</downloadurl>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=1339</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="information unavailable" filename="Courage and Fortitude.cam" stock="y" />
+	<scenario author="Field Marshal Blücher" filename="Devils' Descent.cam">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/combat-mission-battle-for-normandy/cm-battle-for-normandy-campaigns/devils-descent/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/Devils-Descent.rar</downloadurl>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=1165</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Field Marshal Blücher" filename="Devon - Basic Training.cam" stock="y">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=1572</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Field Marshal Blücher" filename="Die Letzte Hoffnung.cam">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/combat-mission-battle-for-normandy/cm-battle-for-normandy-campaigns/campaign-die-letzte-hoffnung-v1-01/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/Die-Letzte-Hoffnung.rar</downloadurl>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=1483</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Michael Jones" filename="In the Fields Where the Poppies Grow.cam">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/combat-mission-battle-for-normandy/cm-battle-for-normandy-campaigns/in-the-fields-where-the-poppies-grow/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/In-the-Fields-Where-the-Poppies-Grow.zip</downloadurl>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3430</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Christopher Nelson" filename="Kampfgruppe Engel Wireless.cam">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=2001</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Christopher Nelson" filename="Kampfgruppe Engel.cam" stock="y" />
+	<scenario author="information unavailable" filename="Panzer Marsch.cam" stock="y" />
+	<scenario author="information unavailable" filename="Task Force Raff.cam" stock="y" />
+	<scenario author="Crushingleeek" filename="The outlaws.cam">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/combat-mission-battle-for-normandy/cm-battle-for-normandy-campaigns/the-outlaws/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/The-outlaws.rar</downloadurl>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=1279</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Paper Tiger" filename="The Road to Montebourg.cam" stock="y" />
+	<scenario author="Paper Tiger" filename="The Road to Nijmegen.cam" stock="y" />
+	<scenario author="information unavailable" filename="The Scottish Corridor.cam" stock="y" />
+	<scenario author="Gen Von Television aka Grunt" filename="Operation_Deadstick.cam">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/combat-mission-battle-for-normandy/cm-battle-for-normandy-campaigns/cw-campaign-operation-deadstick/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/opdeadstick.7z</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Gen Von Television" filename="Benouville_Bridge.cam">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/combat-mission-battle-for-normandy/cm-battle-for-normandy-campaigns/benouville-battle/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/Benouville_Bridge.7z</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Necramonium" filename="Saving Private Ryan.cam">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/combat-mission-battle-for-normandy/cm-battle-for-normandy-campaigns/saving-private-ryan/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/SavingPrivateRyan.rar</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Crushingleeek" filename="Blue and Gray.cam">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/combat-mission-battle-for-normandy/cm-battle-for-normandy-campaigns/blue-and-gray-29th-infantry-division/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/Blue-and-Gray.rar</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Ithikial" filename="The Lions of Carpiquet.cam">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/combat-mission-battle-for-normandy/cm-battle-for-normandy-campaigns/the-lions-of-carpiquet/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/Lions-of-Carpiquet-Campaign.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Field Marshal Blücher" filename="Devil's Descent_fr.cam">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=1274</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Field Marshal Blücher" filename="Devils' Descent (Clean).cam">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=1221</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Field Marshal Blücher" filename="The Road to Montebourg revised.cam">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=2082</downloadurl>
+		</urls_list>
+	</scenario>
+
+	<!-- <scenario author="" filename=""> -->
+	<!-- <urls_list> -->
+	<!-- <infourl who="Scenario Depot"></infourl> -->
+	<!-- <downloadurl>http://</downloadurl> -->
+	<!-- </urls_list> -->
+	<!-- </scenario> -->
+</scenarios>

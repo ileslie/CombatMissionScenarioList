@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scenarios>
+
+<!-- 	<scenario author="information unavailable" filename="" stock="y" />  -->
+
+	<scenario author="Max 'Skwabie' Martin" filename="Rhine Heart.cam">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-shock-force-2/cm-shock-force-campaigns/rhine-heart/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/Rhine%20Heart.rar</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Sergei" filename="Guardians of the Homeland.cam">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-shock-force-2/cm-shock-force-campaigns/guardians-of-the-homeland-campaign/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/Guardians-of-the-Homeland.rar</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Max 'Skwabie' Martin" filename="Crazy Canuck.cam">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-shock-force-2/cm-shock-force-campaigns/crazy-canuck-campaign/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/Crazy%20Canuck.rar</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Mr.X" filename="Zawiya Uprising.cam">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-shock-force-2/cm-shock-force-campaigns/campaign-zawiya-uprising/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/Zawiya-Uprising.rar</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="George McEwan" filename="USMC_Forging Steel_v3.cam">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-shock-force-2/cm-shock-force-campaigns/usmc_forging-steel/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/USMC_Forging-Steel.rar</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Mike Elton (Clubfoot)" filename="Twilight 2000.cam">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-shock-force-2/cm-shock-force-campaigns/twilight-2000-modification-and-campaign/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/T2K%20FINAL.rar</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Paper Tiger" filename="The Road to Dinas.cam">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-shock-force-2/cm-shock-force-campaigns/the-road-to-dinas-v1/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/The%20Road%20to%20Dinas.rar</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Paper Tiger" filename="The Road to Dinas (linear).cam">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-shock-force-2/cm-shock-force-campaigns/the-road-to-dinas-linear/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/The%20Road%20to%20Dinas%20(linear).zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Alexander Hinman" filename="Rolling Lords of War1.4.cam">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-shock-force-2/cm-shock-force-campaigns/rolling-lords-of-war/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/Rolling-Lords-of-War1.4.rar</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Field Marshal Blücher" filename="Operation Hangman.cam">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-shock-force-2/cm-shock-force-campaigns/operation-hangman/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/Operation-Hangman.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Max von Bargen" filename="From the Dawn to Setting Sun.cam">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-shock-force-2/cm-shock-force-campaigns/from-the-dawn-to-setting-sun/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/From_the_Dawn_to_Setting_Sun.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Snake Eye" filename="The El Derjine Campaign.cam">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-shock-force-2/cm-shock-force-campaigns/el-derjine-campaign/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/The-El-Derjine-Campaign.rar</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="bardosy" filename="UKUSMC Warriors in the Sands.cam">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-shock-force-2/cm-shock-force-campaigns/warriors-in-the-sands-campaign/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/Warriors.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="bardosy" filename="UK Warriors in the Sands.cam">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-shock-force-2/cm-shock-force-campaigns/warriors-in-the-sands-campaign/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/Warriors.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Alek@Alex" filename="Stepsons of Jihad.cam">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-shock-force-2/cm-shock-force-campaigns/stepsons-of-jihad-campaign/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/Stepsons-of-Jihad.rar</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="bardosy" filename="TF Narwick Campaign.cam">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-shock-force-2/cm-shock-force-campaigns/cmsf-campaign-task-force-narwick/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/TFNarwick.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Webwing" filename="In Search of a Ghost v1_3.cam">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-shock-force-2/cm-shock-force-campaigns/in-search-of-a-ghost-campaign/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/IN_SEARCH_OF_A_GHOST.ZIP</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Paper Tiger" filename="Perdition.cam">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=1733</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Paper Tiger" filename="Hasrabit.cam">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=1733</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Skwabie" filename="Yankeeland Games.cam">
+		<urls_list>
+			<infourl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3007</infourl>
+		</urls_list>
+	</scenario>
+	<scenario author="Field Marshal Blücher" filename="Cobra's Strike.cam">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=517</downloadurl>
+		</urls_list>
+	</scenario>
+
+
+<!-- 	<scenario author="" filename=""> -->
+<!-- 		<urls_list> -->
+<!-- 			<infourl who="Scenario Depot"></infourl> -->
+<!-- 			<downloadurl who="Scenario Depot">http://</downloadurl> -->
+<!-- 		</urls_list> -->
+<!-- 	</scenario> -->
+</scenarios>

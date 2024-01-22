@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scenarios>
+    <scenario author="The_Capt" filename="Lions of Cantigny (1979).cam" stock="y"/>
+    <scenario author="The_Capt" filename="Lions of Cantigny (1982).cam" stock="y"/>
+    <scenario author="George MC and  Bil Hardenberger" filename="NTC 1982 Training In The Desert.cam" stock="y"/>
+    <scenario author="The_Capt" filename="Ride of the 120th (March or Die).cam" stock="y"/>
+    <scenario author="The_Capt" filename="Ride of the 120th.cam" stock="y"/>
+
+<!--    <scenario author="" filename=""> -->
+<!--        <urls_list> -->
+<!--            <infourl who="Scenario Depot"></infourl> -->
+<!--            <downloadurl who="Scenario Depot" primary="y">http://</downloadurl> -->
+<!--        </urls_list> -->
+<!--    </scenario> -->
+</scenarios>

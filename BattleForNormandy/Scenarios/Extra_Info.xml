@@ -1,0 +1,2254 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scenarios>
+	<scenario author="Fabio Mantegazza" filename="0 [FM] La Belle Croix.btt" />
+	<scenario author="information unavailable" filename="1 Training - Roadblock +++.btt" />
+	<scenario author="information unavailable" filename="1 Training - Roadblock.btt" stock="y" />
+	<scenario author="Norman D" filename="111th Brigade Ridge Assault (Norman D scenario).btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=1671</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Anthony Leone" filename="130 Panzer Regiment auf dem Vormarsch.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=1679</downloadurl>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/combat-mission-battle-for-normandy/cm-battles-for-normandy/130-panzer-regiment-auf-dem-vormarsch/</infourl>
+			<downloadurl who="Scenario Depot" primary="y">http://www.thefewgoodmen.com/tsd3/download/130-Panzer-Regiment-auf-dem-Vormarsch.rar</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Norman D." filename="2 villages H2H Airborne Company engagement (Norman D scenario).btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=1675</downloadurl>
+			<infourl who="the Blitz">http://www.theblitz.org/scenarios/combat-mission-battle-for-normandy/2-villages-h2h-airborne-company-engagement/b-15.htm?action=scenario&amp;id=3630</infourl>
+		</urls_list>
+	</scenario>
+	<scenario author="Donovan Martin" filename="5th Glosters Go East.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3439</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="information unavailable" filename="800 yards north of Crossroads N148.btt" />
+	<scenario author="information unavailable" filename="A Bridgehead at Soloki_v2.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=1527</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Mike Duplessis" filename="A Delaying Action.btt" stock="y">
+		<urls_list>
+			<infourl who="the Blitz">http://www.theblitz.org/scenarios/combat-mission-battle-for-normandy/a-delaying-action/b-15.htm?action=scenario&amp;id=3576</infourl>
+		</urls_list>
+	</scenario>
+	<scenario author="Donovan Martin" filename="A Ranger Challenge.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3429</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Jaws" filename="A Stange Awakening.btt" stock="y">
+		<urls_list>
+			<infourl who="the Blitz">http://www.theblitz.org/scenarios/combat-mission-battle-for-normandy/a-strange-awakening/b-15.htm?action=scenario&amp;id=3578</infourl>
+		</urls_list>
+	</scenario>
+	<scenario author="Donovan Martin" filename="A Walk in the Sun.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3428</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="information unavailable" filename="Across the Orne.btt"/>
+	<scenario author="Michael Gonzalez (GonzoAttacker)" filename="Apple Jam Sainte-Mere-Eglise.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=1266</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Aristoteles" filename="Assault at Huberderie.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=1353</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="William Odle" filename="At Another Crossroads.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=1232</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Jaws" filename="Barkmanns Corner.btt" stock="y">
+		<urls_list>
+			<infourl who="the Blitz">http://www.theblitz.org/scenarios/combat-mission-battle-for-normandy/barkmann-s-corner/b-15.htm?action=scenario&amp;id=3582</infourl>
+		</urls_list>
+	</scenario>
+	<scenario author="jack archer" filename="Battle for Carentan HTH.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=1805</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Clifford Holmes (OddCAF)" filename="Battle-For-Nouvelle.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3233</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Maxim" filename="Bloody Buron.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=2601</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="information unavailable" filename="Bloody Dawn.btt" stock="y">
+		<urls_list>
+			<infourl who="the Blitz">http://www.theblitz.org/scenarios/combat-mission-battle-for-normandy/bloody-dawn/b-15.htm?action=scenario&amp;id=3593</infourl>
+		</urls_list>
+	</scenario>
+	<scenario author="Daniel Hufler" filename="Bloody Omaha1-1.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=1372</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="information unavailable" filename="BN~ Ambush.btt" stock="y" />
+	<scenario author="Stephen Powlesland" filename="Bocage aux Folles 2 - Pas de trois.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=1357</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Stephen Powlesland" filename="Bocage aux Folles 3 - Armor Hammer.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=1453</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Stephen Powlesland" filename="Bocage aux Folles.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=1307</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Jon S" filename="Bois de Baugin.btt" stock="y">
+		<urls_list>
+			<infourl who="the Blitz">http://www.theblitz.org/scenarios/combat-mission-battle-for-normandy/bois-de-baugin/b-15.htm?action=scenario&amp;id=3603</infourl>
+		</urls_list>
+	</scenario>
+	<scenario author="Jon S" filename="BP1 - A Crossroads Near Brussels.btt" stock="y">
+		<urls_list>
+			<infourl who="the Blitz">http://www.theblitz.org/scenarios/combat-mission-battle-for-normandy/bp1-a-crossroads-near-brussels/b-15.htm?action=scenario&amp;id=11626</infourl>
+		</urls_list>
+	</scenario>
+	<scenario author="Jon S" filename="BP1 - Celer et Audax.btt" stock="y" />
+	<scenario author="Jon S" filename="BP1 - Drop Zone Charlie (a - USabn).btt" stock="y" />
+	<scenario author="Jon S" filename="BP1 - Drop Zone Charlie (b - UKabn).btt" stock="y" />
+	<scenario author="Jon S" filename="BP1 - Hobarts Funnies.btt" stock="y">
+		<urls_list>
+			<infourl who="the Blitz">http://www.theblitz.org/scenarios/combat-mission-battle-for-normandy/b-15.htm?action=scenario&amp;id=11821</infourl>
+		</urls_list>
+	</scenario>
+	<scenario author="Jon S" filename="BP1 - Nulli Secundus.btt" stock="y">
+		<urls_list>
+			<infourl who="the Blitz">http://www.theblitz.org/scenarios/combat-mission-battle-for-normandy/nulli-secundus/b-15.htm?action=scenario&amp;id=11544</infourl>
+		</urls_list>
+	</scenario>
+	<scenario author="Jon S" filename="BP1 - Op LINNET II (a - USabn UKgnd).btt" stock="y" />
+	<scenario author="Jon S" filename="BP1 - Op LINNET II (b - UKabn UKgnd).btt" stock="y" />
+	<scenario author="Jon S" filename="BP1 - Op LINNET II (c - USabn USgnd).btt" stock="y" />
+	<scenario author="Jon S" filename="BP1 - Op LINNET II (d - UKabn USgnd).btt" stock="y" />
+	<scenario author="Jon S" filename="BP1 - Swansong.btt" stock="y" />
+	<scenario author="Jon S" filename="BP1 - The Copse.btt" stock="y" />
+	<scenario author="Jon S" filename="Bridgehead at Soloki.btt" />
+	<scenario author="information unavailable" filename="bstoc.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=1295</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="George MC" filename="Busting The Bocage_v1.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=1110</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="information unavailable" filename="Buying the Farm.btt" stock="y">
+		<urls_list>
+			<infourl who="the Blitz">http://www.theblitz.org/scenarios/combat-mission-battle-for-normandy/buying-the-farm/b-15.htm?action=scenario&amp;id=3583</infourl>
+		</urls_list>
+	</scenario>
+	<scenario author="Daniel Pasquale" filename="Campobasso, Italy.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=1899</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="information unavailable" filename="Canal Street.btt" />
+	<scenario author="George MC" filename="Carbide Carbide.btt" stock="y">
+		<urls_list>
+			<infourl who="the Blitz">http://www.theblitz.org/scenarios/combat-mission-battle-for-normandy/carbide-carbide/b-15.htm?action=scenario&amp;id=3605</infourl>
+		</urls_list>
+	</scenario>
+	<scenario author="George MC" filename="Carbide Carbide_Redux_v1.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=1709</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="information unavailable" filename="Cats Chasing Dogs.btt" stock="y">
+		<urls_list>
+			<infourl who="the Blitz">http://www.theblitz.org/scenarios/combat-mission-battle-for-normandy/cats-chasing-dogs/b-15.htm?action=scenario&amp;id=3588</infourl>
+		</urls_list>
+	</scenario>
+	<scenario author="Thomas Klimisch (TCMHQ)" filename="Chance Encounter_V2.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=1285</downloadurl>
+			<infourl who="the Blitz">http://www.theblitz.org/scenarios/combat-mission-battle-for-normandy/chance-encounter-20-cmbn/b-15.htm?action=scenario&amp;id=3598</infourl>
+		</urls_list>
+	</scenario>
+	<scenario author="Bernhard Roessler (Sequoia)" filename="CMBN Base Game German Army Dealership.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=1510</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Bernhard Roessler (Sequoia)" filename="CMBN Base Game US Army Dealership.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=1510</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Egger" filename="Commandos in Telemark.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/combat-mission-battle-for-normandy/cm-battles-for-normandy/mg-commandos-in-telemark/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/Commandos-in-Telemark.zip</downloadurl>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3091</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="information unavailable" filename="Counter Attack LadenStadt.btt" />
+	<scenario author="information unavailable" filename="Counterattack at Duron.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=2949</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Chris Stoess (GChrisSfish21)" filename="country_farmhouse_ambush.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=1425</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Jon S" filename="CW 18 Platoon.btt" stock="y">
+		<urls_list>
+			<infourl who="the Blitz">http://www.theblitz.org/scenarios/combat-mission-battle-for-normandy/cw-18-platoon/b-15.htm?action=scenario&amp;id=3652</infourl>
+		</urls_list>
+	</scenario>
+	<scenario author="Mark Ezra" filename="CW A Royal Pain.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=1904</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Bernhard Roessler (Sequoia)" filename="CW Base and CW German Dealership.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=1818</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Jari Mikkonen (Sergei)" filename="CW Bleu-sur-Bleu H2H No Inf.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=1779</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Jari Mikkonen (Sergei)" filename="CW Bleu-sur-Bleu H2H.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=1779</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Pete Wenman" filename="CW Breaking the Panzers.btt" stock="y">
+		<urls_list>
+			<infourl who="the Blitz">http://www.theblitz.org/scenarios/combat-mission-battle-for-normandy/cw-breaking-the-panzers/b-15.htm?action=scenario&amp;id=3649</infourl>
+		</urls_list>
+	</scenario>
+	<scenario author="information unavailable" filename="CW Buron - Sticking it Out.btt" stock="y">
+		<urls_list>
+			<infourl who="the Blitz">http://www.theblitz.org/scenarios/combat-mission-battle-for-normandy/cw-buron-sticking-it-out/b-15.htm?action=scenario&amp;id=3627</infourl>
+		</urls_list>
+	</scenario>
+	<scenario author="information unavailable" filename="CW Buron - The Main Event.btt" stock="y">
+		<urls_list>
+			<infourl who="the Blitz">http://www.theblitz.org/scenarios/combat-mission-battle-for-normandy/cw-buron-the-main-event/b-15.htm?action=scenario&amp;id=3650</infourl>
+		</urls_list>
+	</scenario>
+	<scenario author="Jon Martina (ASL Veteran)" filename="CW Colossal Crack.btt" stock="y">
+		<urls_list>
+			<infourl who="the Blitz">http://www.theblitz.org/scenarios/combat-mission-battle-for-normandy/cw-colossal-crack/b-15.htm?action=scenario&amp;id=10812</infourl>
+		</urls_list>
+	</scenario>
+	<scenario author="Bernhard Roessler (Sequoia)" filename="CW Commonwealth Dealership.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=1818</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Orgit" filename="CW Counterattack at Duron.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/combat-mission-battle-for-normandy/cm-battles-for-normandy/counterattack-at-duron/</infourl>
+			<downloadurl who="Scenario Depot" primary="y">http://www.thefewgoodmen.com/tsd3/download/Counterattack-at-Duron.rar</downloadurl>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=2949</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Jon S" filename="CW Evil Be Unto Him.btt" stock="y">
+		<urls_list>
+			<infourl who="the Blitz">http://www.theblitz.org/scenarios/combat-mission-battle-for-normandy/cw-evil-be-unto-him/b-15.htm?action=scenario&amp;id=3693</infourl>
+		</urls_list>
+	</scenario>
+	<scenario author="George MC" filename="CW First Clash_v2.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=1905</downloadurl>
+			<infourl who="the Blitz">http://www.theblitz.org/scenarios/combat-mission-battle-for-normandy/cw-first-clash/b-15.htm?action=scenario&amp;id=3663</infourl>
+		</urls_list>
+	</scenario>
+	<scenario author="Jon Martina (ASL Veteran)" filename="CW Flowers of the Forest.btt" stock="y">
+		<urls_list>
+			<infourl who="the Blitz">http://www.theblitz.org/scenarios/combat-mission-battle-for-normandy/cw-flowers-of-the-forest/b-15.htm?action=scenario&amp;id=3642</infourl>
+		</urls_list>
+	</scenario>
+	<scenario author="information unavailable" filename="CW Holy Ground.btt" stock="y">
+		<urls_list>
+			<infourl who="the Blitz">http://www.theblitz.org/scenarios/combat-mission-battle-for-normandy/holy-ground/b-15.htm?action=scenario&amp;id=3629</infourl>
+		</urls_list>
+	</scenario>
+	<scenario author="Pete Wenman" filename="CW In the Shadow of the Hill 5am.btt" stock="y">
+		<urls_list>
+			<infourl who="the Blitz">http://www.theblitz.org/scenarios/combat-mission-battle-for-normandy/cw-in-the-shadow-of-the-hill-5am/b-15.htm?action=scenario&amp;id=3638</infourl>
+		</urls_list>
+	</scenario>
+	<scenario author="Pete Wenman" filename="CW In the Shadow of the Hill 6am.btt" stock="y">
+		<urls_list>
+			<infourl who="the Blitz">http://www.theblitz.org/scenarios/combat-mission-battle-for-normandy/cw-in-the-shadow-of-the-hill-6am/b-15.htm?action=scenario&amp;id=3633</infourl>
+		</urls_list>
+	</scenario>
+	<scenario author="Pete Wenman" filename="CW In the Shadow of the Hill 7am.btt" stock="y">
+		<urls_list>
+			<infourl who="the Blitz">http://www.theblitz.org/scenarios/combat-mission-battle-for-normandy/cw-in-the-shadow-of-the-hill-7am/b-15.htm?action=scenario&amp;id=3665</infourl>
+		</urls_list>
+	</scenario>
+	<scenario author="Pete Wenman" filename="CW In the Shadow of the Hill 8-30am.btt" stock="y">
+		<urls_list>
+			<infourl who="the Blitz">http://www.theblitz.org/scenarios/combat-mission-battle-for-normandy/cw-in-the-shadow-of-the-hill-8-30am/b-15.htm?action=scenario&amp;id=3666</infourl>
+		</urls_list>
+	</scenario>
+	<scenario author="Szymon Stec" filename="CW Jubilee Moments.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=2778</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Jari Mikkonen (Sergei)" filename="CW Keep Calm and Carry On.btt" stock="y">
+		<urls_list>
+			<infourl who="the Blitz">http://www.theblitz.org/scenarios/combat-mission-battle-for-normandy/cw-keep-calm-and-carry-on/b-15.htm?action=scenario&amp;id=3628</infourl>
+		</urls_list>
+	</scenario>
+	<scenario author="information unavailable" filename="CW Linking Up &amp; Breaking Out.btt" stock="y">
+		<urls_list>
+			<infourl who="the Blitz">http://www.theblitz.org/scenarios/combat-mission-battle-for-normandy/cw-linking-up-breaking-out/b-15.htm?action=scenario&amp;id=3639</infourl>
+		</urls_list>
+	</scenario>
+	<scenario author="information unavailable" filename="CW Loamshires.btt" stock="y">
+		<urls_list>
+			<infourl who="the Blitz">http://www.theblitz.org/scenarios/combat-mission-battle-for-normandy/cw-loamshires-vs-hannovrians/b-15.htm?action=scenario&amp;id=3632</infourl>
+		</urls_list>
+	</scenario>
+	<scenario author="Jon Martine" filename="CW My Honor is Loyalty.btt" stock="y">
+		<urls_list>
+			<infourl who="the Blitz">http://www.theblitz.org/scenarios/combat-mission-battle-for-normandy/my-honor-is-my-loyalty/b-15.htm?action=scenario&amp;id=3712</infourl>
+		</urls_list>
+	</scenario>
+	<scenario author="George MC" filename="CW NEDForce.btt" stock="y">
+		<urls_list>
+			<infourl who="the Blitz">http://www.theblitz.org/scenarios/combat-mission-battle-for-normandy/cw-nedforce/b-15.htm?action=scenario&amp;id=3631</infourl>
+		</urls_list>
+	</scenario>
+	<scenario author="information unavailable" filename="CW NorMons.btt" stock="y">
+		<urls_list>
+			<infourl who="the Blitz">http://www.theblitz.org/scenarios/combat-mission-battle-for-normandy/cw-normons/b-15.htm?action=scenario&amp;id=10815</infourl>
+		</urls_list>
+	</scenario>
+	<scenario author="Szymon Stec" filename="CW One Helluva Day.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=2823</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="George MC" filename="CW Schnelle Truppen Angriff_v1.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=2602</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Umlaut" filename="CW Seizing Ciembienne.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=2967</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Jon S" filename="CW Seven Winds.btt" stock="y">
+		<urls_list>
+			<infourl who="the Blitz">http://www.theblitz.org/scenarios/combat-mission-battle-for-normandy/seven-winds/b-15.htm?action=scenario&amp;id=3684</infourl>
+		</urls_list>
+	</scenario>
+	<scenario author="jon keller" filename="CW Siege.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=1894</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Jon Martina (ASL Veteran)" filename="CW Surrender Invites Death.btt" stock="y">
+		<urls_list>
+			<infourl who="the Blitz">http://www.theblitz.org/scenarios/combat-mission-battle-for-normandy/surrender-invites-death/b-15.htm?action=scenario&amp;id=3648</infourl>
+		</urls_list>
+	</scenario>
+	<scenario author="information unavailable" filename="CW The Bridge at Varaville.btt" stock="y">
+		<urls_list>
+			<infourl who="the Blitz">http://www.theblitz.org/scenarios/combat-mission-battle-for-normandy/cw-the-bridge-at-varaville/b-15.htm?action=scenario&amp;id=3651</infourl>
+		</urls_list>
+	</scenario>
+	<scenario author="Jari Mikkonen (Sergei)" filename="CW The Mace.btt" stock="y">
+		<urls_list>
+			<infourl who="the Blitz">http://www.theblitz.org/scenarios/combat-mission-battle-for-normandy/cw-the-mace/b-15.htm?action=scenario&amp;id=3635</infourl>
+		</urls_list>
+	</scenario>
+	<scenario author="Jari Mikkonen (Sergei)" filename="CW Through the Loop.btt" stock="y">
+		<urls_list>
+			<infourl who="the Blitz">http://www.theblitz.org/scenarios/combat-mission-battle-for-normandy/cw-through-the-loop/b-15.htm?action=scenario&amp;id=3655</infourl>
+		</urls_list>
+	</scenario>
+	<scenario author="Jon S" filename="CW Ubique.btt" stock="y">
+		<urls_list>
+			<infourl who="the Blitz">http://www.theblitz.org/scenarios/combat-mission-battle-for-normandy/cw-ubique/b-15.htm?action=scenario&amp;id=3698</infourl>
+		</urls_list>
+	</scenario>
+	<scenario author="Jon S" filename="CW Valleys of Decision.btt" stock="y">
+		<urls_list>
+			<infourl who="the Blitz">http://www.theblitz.org/scenarios/combat-mission-battle-for-normandy/valleys-of-decision/b-15.htm?action=scenario&amp;id=3636</infourl>
+		</urls_list>
+	</scenario>
+	<scenario author="George MC" filename="CW Wittmann's Swords at Villers Bocage_v1.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=2912</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Jari Mikkonen (Sergei)" filename="Desert Fox.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=1114</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Christopher Nelson (Normal Dude)" filename="Deville.btt" stock="y">
+		<urls_list>
+			<infourl who="the Blitz">http://www.theblitz.org/scenarios/combat-mission-battle-for-normandy/deville/b-15.htm?action=scenario&amp;id=3580</infourl>
+		</urls_list>
+	</scenario>
+	<scenario author="Gregory Keller (snake_eye)" filename="Die Amis kommen.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=1413</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="information unavailable" filename="Drums of War Tournament Round One.btt" />
+	<scenario author="information unavailable" filename="Encounter at Foret Perdue.btt" />
+	<scenario author="Paul Lootens (toxic.zen)" filename="escape.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=2061</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Fredrocker" filename="FGM-A Lonely Village.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=1586</downloadurl>
+			<infourl who="the Blitz">http://www.theblitz.org/scenarios/combat-mission-battle-for-normandy/fgm-a-lonely-village/b-15.htm?action=scenario&amp;id=3615</infourl>
+		</urls_list>
+	</scenario>
+	<scenario author="information unavailable" filename="Fight for Mosles.btt" stock="y" />
+	<scenario author="Dingchavez" filename="Fireworks_v1_1.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=1212</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Chris McCain (Phantom)" filename="First Contact at Golleville.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=1771</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Michael Dorosh" filename="FirstCrackAtCristot.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=finishdown&amp;id=1938</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="information unavailable" filename="floodfields.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=1494</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Fredrocker" filename="FR-Bloody St Omer Capelle.btt" stock="y">
+		<urls_list>
+			<infourl who="the Blitz">http://www.theblitz.org/scenarios/combat-mission-battle-for-normandy/bloody-stomer-capelle/b-15.htm?action=scenario&amp;id=3596</infourl>
+		</urls_list>
+	</scenario>
+	<scenario author="Fredrocker" filename="FR-Bridges for the 82nd.btt" stock="y">
+		<urls_list>
+			<infourl who="the Blitz">http://www.theblitz.org/scenarios/combat-mission-battle-for-normandy/bridges-for-the-82nd/b-15.htm?action=scenario&amp;id=3579</infourl>
+		</urls_list>
+	</scenario>
+	<scenario author="Fredrocker" filename="fr-bridges82.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=1340</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Fredrocker" filename="FR-Das Dorf des Todes.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=1443</downloadurl>
+			<downloadurl who="the Blitz">http://www.theblitz.org/scenarios/b-15.htm?action=download&amp;id=3606</downloadurl>
+			<infourl who="the Blitz">http://www.theblitz.org/scenarios/combat-mission-battle-for-normandy/das-dorf-des-todes/b-15.htm?action=scenario&amp;id=3606</infourl>
+		</urls_list>
+	</scenario>
+	<scenario author="Fredrocker" filename="FR-Flooded Fields Forever.btt" />
+	<scenario author="Fredrocker" filename="FR-Hold until Relieved.btt" />
+	<scenario author="Fredrocker" filename="FR-Squash the Doodlebug.btt">
+		<urls_list>
+			<infourl who="the Blitz">http://www.theblitz.org/scenarios/combat-mission-battle-for-normandy/fgm-squash-the-doodlebug/b-15.htm?action=scenario&amp;id=3680</infourl>
+		</urls_list>
+	</scenario>
+	<scenario author="Tommi Agge (tagge)" filename="Gefosse-Fontenay.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=1517</downloadurl>
+			<infourl who="the Blitz">http://www.theblitz.org/scenarios/combat-mission-battle-for-normandy/gefosse-fontenay/b-15.htm?action=scenario&amp;id=3614</infourl>
+		</urls_list>
+	</scenario>
+	<scenario author="Chris McCain (Phantom)" filename="Gegenangriff Auf Huegel 382.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=1579</downloadurl>
+			<infourl who="the Blitz">http://www.theblitz.org/scenarios/combat-mission-battle-for-normandy/gegenangriff-hill-382/b-15.htm?action=scenario&amp;id=3623</infourl>
+		</urls_list>
+	</scenario>
+	<scenario author="De Savaga" filename="Gourbesville.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=1336</downloadurl>
+			<downloadurl who="the Blitz">http://www.theblitz.org/scenarios/b-15.htm?action=download&amp;id=3626</downloadurl>
+			<infourl who="the Blitz">http://www.theblitz.org/scenarios/combat-mission-battle-for-normandy/goubersville/b-15.htm?action=scenario&amp;id=3626</infourl>
+		</urls_list>
+	</scenario>
+	<scenario author="George Smiley" filename="H2H - Breakout.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=finishdown&amp;id=1537</downloadurl>
+			<infourl who="the Blitz">http://www.theblitz.org/scenarios/combat-mission-battle-for-normandy/h2h-breakout/b-15.htm?action=scenario&amp;id=3608</infourl>
+		</urls_list>
+	</scenario>
+	<scenario author="Bimmer" filename="H2H Muddy Waters.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=2018</downloadurl>
+			<infourl who="the Blitz">http://www.theblitz.org/scenarios/combat-mission-battle-for-normandy/h2h-muddy-waters/b-15.htm?action=scenario&amp;id=3657</infourl>
+		</urls_list>
+	</scenario>
+	<scenario author="Sgt Schultz" filename="H2H No Exit.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=1578</downloadurl>
+			<infourl who="the Blitz">http://www.theblitz.org/scenarios/combat-mission-battle-for-normandy/h2h-no-exit/b-15.htm?action=scenario&amp;id=3611</infourl>
+		</urls_list>
+	</scenario>
+	<scenario author="Sgt Schultz" filename="H2H Valley of The Shadow.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=1647</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="information unavailable" filename="h2hkingofhillv10.btt" />
+	<scenario author="information unavailable" filename="holdrelieved.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=1251</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="information unavailable" filename="Hornet's Nest.btt" />
+	<scenario author="Gina Willis" filename="HTH_Hamel_Vallee_large_bocage_US_attack_no_AI_v1.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=2007</downloadurl>
+			<infourl who="the Blitz">http://www.theblitz.org/scenarios/combat-mission-battle-for-normandy/h2h-hamel-valley/b-15.htm?action=scenario&amp;id=10922</infourl>
+		</urls_list>
+	</scenario>
+	<scenario author="George MC" filename="Huzzar! Redux v1.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=1486</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="George MC" filename="Huzzar.btt" stock="y">
+		<urls_list>
+			<infourl who="the Blitz">http://www.theblitz.org/scenarios/combat-mission-battle-for-normandy/huzzar/b-15.htm?action=scenario&amp;id=3577</infourl>
+		</urls_list>
+	</scenario>
+	<scenario author="Peter Zimmermann" filename="ic_cmbn_ambush.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3438</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Michel (StrikeMike)" filename="In the heat of the morning.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=2832</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="information unavailable" filename="It's a New Dawn.btt" stock="y">
+		<urls_list>
+			<infourl who="the Blitz">http://www.theblitz.org/scenarios/combat-mission-battle-for-normandy/it-s-a-new-dawn/b-15.htm?action=scenario&amp;id=3586</infourl>
+		</urls_list>
+	</scenario>
+	<scenario author="Michael Snyder (M1 Garand)" filename="Johanna Hoeve Farm.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=2802</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="information unavailable" filename="Kampfgruppe Rohrbach.btt" />
+	<scenario author="information unavailable" filename="king of the HILL.btt" stock="y" />
+	<scenario author="Mike Duplessi" filename="Kings in Retirement.btt" stock="y">
+		<urls_list>
+			<infourl who="the Blitz">http://www.theblitz.org/scenarios/combat-mission-battle-for-normandy/kings-in-retirement/b-15.htm?action=scenario&amp;id=3599</infourl>
+		</urls_list>
+	</scenario>
+	<scenario author="Fabio Mantegazza" filename="La Belle Croix.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=2655</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="information unavailable" filename="La Meauffe.btt" stock="y" />
+	<scenario author="information unavailable" filename="La Valence.btt" stock="y">
+		<urls_list>
+			<infourl who="the Blitz">http://www.theblitz.org/scenarios/combat-mission-battle-for-normandy/la-valence/b-15.htm?action=scenario&amp;id=3597</infourl>
+		</urls_list>
+	</scenario>
+	<scenario author="MarkEzra" filename="Last Defense V3.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=finishdown&amp;id=3267</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="MarkEzra" filename="Last Defense.btt">
+		<urls_list>
+			<downloadurl who="the Blitz">http://www.theblitz.org/scenarios/b-15.htm?action=download&amp;id=3591</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Jon S" filename="Le Desert.btt" stock="y">
+		<urls_list>
+			<infourl who="the Blitz">http://www.theblitz.org/scenarios/combat-mission-battle-for-normandy/le-desert/b-15.htm?action=scenario&amp;id=3585</infourl>
+		</urls_list>
+	</scenario>
+	<scenario author="Bimmer" filename="Le Village de Mort 2.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=1431</downloadurl>
+			<infourl who="the Blitz">http://www.theblitz.org/scenarios/combat-mission-battle-for-normandy/le-village-de-mort-2/b-15.htm?action=scenario&amp;id=3676</infourl>
+		</urls_list>
+	</scenario>
+	<scenario author="Bimmer" filename="Le Village de Mort 3.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=1431</downloadurl>
+			<infourl who="the Blitz">http://www.theblitz.org/scenarios/combat-mission-battle-for-normandy/le-village-de-mort-3/b-15.htm?action=scenario&amp;id=3677</infourl>
+		</urls_list>
+	</scenario>
+	<scenario author="Bimmer" filename="Le Village de Mort 4.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=1431</downloadurl>
+			<infourl who="the Blitz">http://www.theblitz.org/scenarios/combat-mission-battle-for-normandy/le-village-de-mort-4/b-15.htm?action=scenario&amp;id=3678</infourl>
+		</urls_list>
+	</scenario>
+	<scenario author="Bimmer" filename="Le Village de Mort.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=1431</downloadurl>
+			<infourl who="the Blitz">http://www.theblitz.org/scenarios/combat-mission-battle-for-normandy/le-village-de-mort/b-15.htm?action=scenario&amp;id=3675</infourl>
+		</urls_list>
+	</scenario>
+	<scenario author="Jeffrey Hoolihan (hoolaman)" filename="Lead Express.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=1124</downloadurl>
+			<infourl who="the Blitz">http://www.theblitz.org/scenarios/combat-mission-battle-for-normandy/lead-express/b-15.htm?action=scenario&amp;id=3601</infourl>
+		</urls_list>
+	</scenario>
+	<scenario author="Michael Snyder (M1 Garand)" filename="Les Charne.btt" stock="y">
+		<urls_list>
+			<infourl who="the Blitz">http://www.theblitz.org/scenarios/combat-mission-battle-for-normandy/les-charne/b-15.htm?action=scenario&amp;id=3694</infourl>
+		</urls_list>
+	</scenario>
+	<scenario author="Rokko" filename="Line of Defense (CMAK Demo).btt" stock="y">
+		<urls_list>
+			<infourl who="the Blitz">http://www.theblitz.org/scenarios/combat-mission-battle-for-normandy/line-of-defense-cmak-demo/b-15.htm?action=scenario&amp;id=3602</infourl>
+		</urls_list>
+	</scenario>
+	<scenario author="Fredrik Carlsson" filename="Lingevres - Tilly Sur Seulles road (battledamage).btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=2993</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Miguel Angel Mangas Martin" filename="MANG- VILLERS-BOCAGE DESTRUIDO V1.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=1619</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Michael Snyder (M1 Garand)" filename="Metting Engagment at LEs Charme.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=2766</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="PanzerMike" filename="MG A Man Can Die But Once.btt" stock="y">
+		<urls_list>
+			<infourl who="the Blitz">http://www.theblitz.org/scenarios/combat-mission-battle-for-normandy/b-15.htm?action=scenario&amp;id=11782</infourl>
+		</urls_list>
+	</scenario>
+	<scenario author="Pete Wenman" filename="MG All Round Defence.btt" stock="y" />
+	<scenario author="Benpark" filename="MG Back to the Waal.btt" stock="y">
+		<urls_list>
+			<infourl who="the Blitz">http://www.theblitz.org/scenarios/combat-mission-battle-for-normandy/mg-back-to-the-waal/b-15.htm?action=scenario&amp;id=3719</infourl>
+		</urls_list>
+	</scenario>
+	<scenario author="Michel" filename="MG Betuwe on fire.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=2910</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="sdp" filename="MG Boldness Be My Brother.btt" stock="y">
+		<urls_list>
+			<infourl who="the Blitz">http://www.theblitz.org/scenarios/combat-mission-battle-for-normandy/mg-boldness-be-my-brother/b-15.htm?action=scenario&amp;id=3710</infourl>
+		</urls_list>
+	</scenario>
+	<scenario author="Pete Wenman" filename="MG Borderland.btt" stock="y">
+		<urls_list>
+			<infourl who="the Blitz">http://www.theblitz.org/scenarios/combat-mission-battle-for-normandy/mg-borderland/b-15.htm?action=scenario&amp;id=10795</infourl>
+		</urls_list>
+	</scenario>
+	<scenario author="Pete Wenman" filename="MG Boy's against Men.btt" stock="y">
+		<urls_list>
+			<infourl who="the Blitz">http://www.theblitz.org/scenarios/combat-mission-battle-for-normandy/mg-boy-s-against-men/b-15.htm?action=scenario&amp;id=10824</infourl>
+		</urls_list>
+	</scenario>
+	<scenario author="Jon Martina (ASL Veteran)" filename="MG Bridge Number Seven.btt" stock="y">
+		<urls_list>
+			<infourl who="the Blitz">http://www.theblitz.org/scenarios/combat-mission-battle-for-normandy/mg-bridge-number-seven/b-15.htm?action=scenario&amp;id=10816</infourl>
+		</urls_list>
+	</scenario>
+	<scenario author="Jon Martina (ASL Veteran)" filename="MG Counterattack at Son-NewBridge.btt" stock="y">
+		<urls_list>
+			<infourl who="the Blitz">http://www.theblitz.org/scenarios/combat-mission-battle-for-normandy/mg-counterattack-at-son/b-15.htm?action=scenario&amp;id=3715</infourl>
+		</urls_list>
+	</scenario>
+	<scenario author="Jaws" filename="MG Cut off at Koevering what if.btt" stock="y">
+		<urls_list>
+			<infourl who="the Blitz">http://www.theblitz.org/scenarios/combat-mission-battle-for-normandy/b-15.htm?action=scenario&amp;id=11768</infourl>
+		</urls_list>
+	</scenario>
+	<scenario author="Jon Martina (ASL Veteran)" filename="MG Devils Hill.btt" stock="y">
+		<urls_list>
+			<infourl who="the Blitz">http://www.theblitz.org/scenarios/combat-mission-battle-for-normandy/mg-devils-hill/b-15.htm?action=scenario&amp;id=3708</infourl>
+		</urls_list>
+	</scenario>
+	<scenario author="Pete Wenman" filename="MG Drive on the Dreijenseweg.btt" stock="y">
+		<urls_list>
+			<infourl who="the Blitz">http://www.theblitz.org/scenarios/combat-mission-battle-for-normandy/mg-drive-on-the-dreijenseweg/b-15.htm?action=scenario&amp;id=3718</infourl>
+		</urls_list>
+	</scenario>
+	<scenario author="Jaws" filename="MG Dunes of Eerde what if.btt" stock="y">
+		<urls_list>
+			<infourl who="the Blitz">http://www.theblitz.org/scenarios/combat-mission-battle-for-normandy/mg-dunes-of-eerde-what-if/b-15.htm?action=scenario&amp;id=3723</infourl>
+		</urls_list>
+	</scenario>
+	<scenario author="Nik Mond" filename="MG Facade Troop.btt" stock="y">
+		<urls_list>
+			<infourl who="the Blitz">http://www.theblitz.org/scenarios/combat-mission-battle-for-normandy/mg-facade-troop/b-15.htm?action=scenario&amp;id=3707</infourl>
+		</urls_list>
+	</scenario>
+	<scenario author="Steve Burke" filename="MG Frosty Welcome.btt" stock="y" />
+	<scenario author="Bernhard Roessler (Sequoia)" filename="MG German Market-Garden Dealership.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=2927</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Jon Martina (ASL Veteran)" filename="MG Green Hell.btt" stock="y">
+		<urls_list>
+			<infourl who="the Blitz">http://www.theblitz.org/scenarios/combat-mission-battle-for-normandy/mg-green-hell/b-15.htm?action=scenario&amp;id=3711</infourl>
+		</urls_list>
+	</scenario>
+	<scenario author="Chad Lennerts (Ithikial)" filename="MG Joe's Bridge.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3410</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Nik Mond" filename="MG Lonsdale's Block.btt" stock="y">
+		<urls_list>
+			<infourl who="the Blitz">http://www.theblitz.org/scenarios/combat-mission-battle-for-normandy/mg-lonsdale-s-block/b-15.htm?action=scenario&amp;id=11070</infourl>
+		</urls_list>
+	</scenario>
+	<scenario author="Jaws" filename="MG Lost Cats.btt" stock="y">
+		<urls_list>
+			<infourl who="the Blitz">http://www.theblitz.org/scenarios/combat-mission-battle-for-normandy/mg-lost-cats/b-15.htm?action=scenario&amp;id=3706</infourl>
+		</urls_list>
+	</scenario>
+	<scenario author="Benpark" filename="MG Nijmegen Road Bridge.btt" stock="y">
+		<urls_list>
+			<infourl who="the Blitz">http://www.theblitz.org/scenarios/combat-mission-battle-for-normandy/mg-nijmegen-road-bridge/b-15.htm?action=scenario&amp;id=10833</infourl>
+		</urls_list>
+	</scenario>
+	<scenario author="Michael Olesen" filename="MG No Country for tanks.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=2987</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Steve Burke" filename="MG Out on a Limb.btt" stock="y">
+		<urls_list>
+			<infourl who="the Blitz">http://www.theblitz.org/scenarios/combat-mission-battle-for-normandy/mg-out-on-a-limb/b-15.htm?action=scenario&amp;id=10912</infourl>
+		</urls_list>
+	</scenario>
+	<scenario author="Jon Martina (ASL Veteran)" filename="MG Outstanding Gallantry.btt" stock="y">
+		<urls_list>
+			<infourl who="the Blitz">http://www.theblitz.org/scenarios/combat-mission-battle-for-normandy/mg-outstanding-gallantry/b-15.htm?action=scenario&amp;id=11107</infourl>
+		</urls_list>
+	</scenario>
+	<scenario author="Jon Martina (ASL Veteran)" filename="MG Sacrifice for a New Religion.btt" stock="y">
+		<urls_list>
+			<infourl who="the Blitz">http://www.theblitz.org/scenarios/combat-mission-battle-for-normandy/mg-sacrifice-for-a-new-religion/b-15.htm?action=scenario&amp;id=3717</infourl>
+		</urls_list>
+	</scenario>
+	<scenario author="Jon S" filename="MG Sheriff of Oosterbeek.btt" stock="y">
+		<urls_list>
+			<infourl who="the Blitz">http://www.theblitz.org/scenarios/combat-mission-battle-for-normandy/mg-sheriff-of-oosterbeek/b-15.htm?action=scenario&amp;id=10803</infourl>
+		</urls_list>
+	</scenario>
+	<scenario author="information unavailable" filename="MG The King of Oosterbeek.btt">
+		<urls_list>
+			<infourl who="the Blitz">http://www.theblitz.org/scenarios/combat-mission-battle-for-normandy/mg-king-of-oosterbeek/b-15.htm?action=scenario&amp;id=10813</infourl>
+		</urls_list>
+	</scenario>
+	<scenario author="Umlaut" filename="MG Tiger by the Tail.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3039</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Bernhard Roessler (Sequoia)" filename="MG US and Commonwealth Market-Garden Dealership.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=2927</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Charles Francisco" filename="MG Westerbouwing Heights.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=2945</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Glenn Davy (gdbf01)" filename="MG_Bunker's_Rout_GD.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3027</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Daniel Pasquale" filename="Montelimar, Operation Dragoon H2H.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=2742</downloadurl>
+			<infourl who="the Blitz">http://www.theblitz.org/scenarios/combat-mission-battle-for-normandy/montelimar-operation-dragoon-h2h/b-15.htm?action=scenario&amp;id=3705</infourl>
+		</urls_list>
+	</scenario>
+	<scenario author="Michael Snyder (M1 Garand)" filename="Mosles.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=2800</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="De Savage" filename="Mouse trap.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=1398</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="information unavailable" filename="No Exit.btt" />
+	<scenario author="Norman D" filename="Norman D Kill Von Klutz.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=1620</downloadurl>
+			<infourl who="the Blitz">http://www.theblitz.org/scenarios/combat-mission-battle-for-normandy/b-15.htm?action=scenario&amp;id=11811</infourl>
+		</urls_list>
+	</scenario>
+	<scenario author="Norman D" filename="Norman D Ratville Version II.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=1684</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Norman D" filename="Norman D Ratville.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=1583</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Alfalfa" filename="OFW 2Flaks.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=1382</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Alfalfa" filename="OFW A violent encounter Redux H2H.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=1652</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Alfalfa" filename="OFW A violent encounter.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=1610</downloadurl>
+			<infourl who="the Blitz">http://www.theblitz.org/scenarios/combat-mission-battle-for-normandy/ofw-a-violent-encounter/b-15.htm?action=scenario&amp;id=3622</infourl>
+		</urls_list>
+	</scenario>
+	<scenario author="Alfalfa" filename="OFW After sunrise , fear forever H2H.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=1822</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Alfalfa" filename="OFW Avanzad malditos v5.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=1597</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Alfalfa" filename="OFW The panther show.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=1256</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Alfalfa" filename="OFW The panther showv2.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=1611</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="De Savage" filename="Operation Eisenbahn.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=1297</downloadurl>
+			<infourl who="the Blitz">http://www.theblitz.org/scenarios/combat-mission-battle-for-normandy/operation-eisenbahn/b-15.htm?action=scenario&amp;id=3699</infourl>
+		</urls_list>
+	</scenario>
+	<scenario author="Daniel Pasquale" filename="Para Drop on La Breviere D-Day.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=2992</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Jon S" filename="Platoon Patrol.btt" stock="y">
+		<urls_list>
+			<infourl who="the Blitz">http://www.theblitz.org/scenarios/combat-mission-battle-for-normandy/platoon-patrol/b-15.htm?action=scenario&amp;id=3595</infourl>
+		</urls_list>
+	</scenario>
+	<scenario author="Pete Wenman" filename="Pleasantly Shaded Woodland.btt" stock="y">
+		<urls_list>
+			<infourl who="the Blitz">http://www.theblitz.org/scenarios/combat-mission-battle-for-normandy/pleasantly-shaded-woodlands/b-15.htm?action=scenario&amp;id=3688</infourl>
+		</urls_list>
+	</scenario>
+	<scenario author="theFightingSeabee" filename="Pointe du Hoc.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=1180</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Paul Lootens (toxic.zen)" filename="pond fued2.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=1567</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Paul Lootens (toxic.zen)" filename="pond fued3.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=1693</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Nelson1812" filename="Pont-la-DeCross.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=2818</downloadurl>
+			<infourl who="the Blitz">http://www.theblitz.org/scenarios/combat-mission-battle-for-normandy/pont-la-decross/b-15.htm?action=scenario&amp;id=3687</infourl>
+		</urls_list>
+	</scenario>
+	<scenario author="information unavailable" filename="POW Camp.btt" stock="y" />
+	<scenario author="Aristoteles" filename="Quick Like a Greyhound.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=1406</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Luis Javier Naranjo Duque" filename="RHI_01 Abram's Folly - Singling.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=1763</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="information unavailable" filename="Silence the Guns - Brecourt Manor.btt" stock="y" />
+	<scenario author="Fredrocker" filename="SK All in a Mornings Work.btt">
+		<urls_list>
+			<downloadurl primary="y" who="Scenario Depot">http://www.thefewgoodmen.com/home/?p=286</downloadurl>
+			<infourl who="the Blitz">http://www.theblitz.org/scenarios/combat-mission-battle-for-normandy/sk-all-in-a-mornings-work/b-15.htm?action=scenario&amp;id=3618</infourl>
+		</urls_list>
+	</scenario>
+	<scenario author="Fredrocker" filename="SK All the Way to Hell.btt">
+		<urls_list>
+			<downloadurl primary="y" who="Scenario Depot">http://www.thefewgoodmen.com/home/?p=286</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Fredrocker" filename="SK Blast the Stronghold.btt">
+		<urls_list>
+			<downloadurl primary="y" who="Scenario Depot">http://www.thefewgoodmen.com/home/?p=286</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Fredrocker" filename="SK Canal Bridges.btt">
+		<urls_list>
+			<downloadurl primary="y" who="Scenario Depot">http://www.thefewgoodmen.com/home/?p=286</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Fredrocker" filename="SK City of Lights.btt">
+		<urls_list>
+			<downloadurl primary="y" who="Scenario Depot">http://www.thefewgoodmen.com/home/?p=286</downloadurl>
+			<infourl who="the Blitz">http://www.theblitz.org/scenarios/combat-mission-battle-for-normandy/sk-city-of-lights/b-15.htm?action=scenario&amp;id=3634</infourl>
+		</urls_list>
+	</scenario>
+	<scenario author="Fredrocker" filename="SK Counter Attack.btt">
+		<urls_list>
+			<downloadurl primary="y" who="Scenario Depot">http://www.thefewgoodmen.com/home/?p=286</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Fredrocker" filename="SK Draw Poker.btt">
+		<urls_list>
+			<downloadurl primary="y" who="Scenario Depot">http://www.thefewgoodmen.com/home/?p=286</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Fredrocker" filename="SK Forward to the Farm.btt">
+		<urls_list>
+			<downloadurl primary="y" who="Scenario Depot">http://www.thefewgoodmen.com/home/?p=286</downloadurl>
+			<infourl who="the Blitz">http://www.theblitz.org/scenarios/combat-mission-battle-for-normandy/sk-forward-to-the-farm/b-15.htm?action=scenario&amp;id=11571</infourl>
+		</urls_list>
+	</scenario>
+	<scenario author="Fredrocker" filename="SK Goin County.btt">
+		<urls_list>
+			<downloadurl primary="y" who="Scenario Depot">http://www.thefewgoodmen.com/home/?p=286</downloadurl>
+			<infourl who="the Blitz">http://www.theblitz.org/scenarios/combat-mission-battle-for-normandy/sk-goin-country/b-15.htm?action=scenario&amp;id=3686</infourl>
+		</urls_list>
+	</scenario>
+	<scenario author="Fredrocker" filename="SK Help the Flyboys.btt">
+		<urls_list>
+			<downloadurl primary="y" who="Scenario Depot">http://www.thefewgoodmen.com/home/?p=286</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Fredrocker" filename="SK Hide n Seek.btt">
+		<urls_list>
+			<downloadurl primary="y" who="Scenario Depot">http://www.thefewgoodmen.com/home/?p=286</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Fredrocker" filename="SK Highway Song.btt">
+		<urls_list>
+			<downloadurl primary="y" who="Scenario Depot">http://www.thefewgoodmen.com/home/?p=286</downloadurl>
+			<infourl who="the Blitz">http://www.theblitz.org/scenarios/combat-mission-battle-for-normandy/sk-highway-song/b-15.htm?action=scenario&amp;id=3625</infourl>
+		</urls_list>
+	</scenario>
+	<scenario author="Fredrocker" filename="SK Lakeland.btt">
+		<urls_list>
+			<downloadurl primary="y" who="Scenario Depot">http://www.thefewgoodmen.com/home/?p=286</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Fredrocker" filename="SK Night Recon.btt">
+		<urls_list>
+			<downloadurl primary="y" who="Scenario Depot">http://www.thefewgoodmen.com/home/?p=286</downloadurl>
+			<infourl who="the Blitz">http://www.theblitz.org/scenarios/combat-mission-battle-for-normandy/sk-night-recon/b-15.htm?action=scenario&amp;id=12813</infourl>
+		</urls_list>
+	</scenario>
+	<scenario author="Fredrocker" filename="SK One More to Go.btt">
+		<urls_list>
+			<downloadurl primary="y" who="Scenario Depot">http://www.thefewgoodmen.com/home/?p=286</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Fredrocker" filename="SK Sector 114 124.btt">
+		<urls_list>
+			<downloadurl primary="y" who="Scenario Depot">http://www.thefewgoodmen.com/home/?p=286</downloadurl>
+			<infourl who="the Blitz">http://www.theblitz.org/scenarios/combat-mission-battle-for-normandy/sk-sector-114-124/b-15.htm?action=scenario&amp;id=3659</infourl>
+		</urls_list>
+	</scenario>
+	<scenario author="Fredrocker" filename="SK The Ole Farmstead.btt">
+		<urls_list>
+			<downloadurl primary="y" who="Scenario Depot">http://www.thefewgoodmen.com/home/?p=286</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Fredrocker" filename="SK Wetlands.btt">
+		<urls_list>
+			<downloadurl primary="y" who="Scenario Depot">http://www.thefewgoodmen.com/home/?p=286</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="information unavailable" filename="Snakes and Ladders.btt" />
+	<scenario author="demione" filename="Spam and Jam.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=1264</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Andrej Gaspari" filename="Station Stop Saint Jores v2.btt" />
+	<scenario author="Andrej Gaspari" filename="Station Stop Saint Jores.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=1741</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Inigo Bildarraz aka Aristoteles" filename="The 28th Fights Back.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=1408</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="information unavailable" filename="The Column.btt" />
+	<scenario author="Pete Wenman" filename="The Crossroads at Monthardrou.btt" stock="y">
+		<urls_list>
+			<infourl who="the Blitz">http://www.theblitz.org/scenarios/combat-mission-battle-for-normandy/the-crossroads-and-monthardrou/b-15.htm?action=scenario&amp;id=3600</infourl>
+		</urls_list>
+	</scenario>
+	<scenario author="information unavailable" filename="The Eagle Has Landed.btt" />
+	<scenario author="Andrej Gaspari" filename="The Farm - Round 1 - Dawn Patrol.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=1736</downloadurl>
+			<infourl who="the Blitz">http://www.theblitz.org/scenarios/combat-mission-battle-for-normandy/h2h-the-farm-round-1-dawn-patrol/b-15.htm?action=scenario&amp;id=3722</infourl>
+		</urls_list>
+	</scenario>
+	<scenario author="Andrej Gaspari" filename="The Farm - Round 2 - Running the Roads.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=1842</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Orgit" filename="The last road.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=2948</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="William Coleman" filename="The Monk's Wine - Long.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=1380</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Kratocwill Zorád" filename="The Supply Depot.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3393</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Paul Lootens" filename="the train depot siege.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=1426</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Paul Lootens" filename="The Train Depot Siege2.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=1562</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Mike Snyder" filename="Them Damn 88s.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=1673</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="De Savage" filename="Tiger's Day.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=1162</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Michael Dorosh" filename="TWC A Ridge Too Far.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=2942</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Michael Dorosh" filename="TWC Ambush on Map A.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3043</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Michael Dorosh" filename="TWC Counterattack at Moerkerke.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/combat-mission-battle-for-normandy/cm-battles-for-normandy/twc-counterattack-at-moerkerke/</infourl>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=2978</downloadurl>
+			<downloadurl who="Scenario Depot" primary="y">http://www.thefewgoodmen.com/tsd3/download/TWC-Counterattack-at-Moerkerke.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Michael Dorosh" filename="TWC Destruction of 'A' Squadron.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=2929</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Michael Dorosh" filename="TWC First Contact.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=2998</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Michael Dorosh" filename="TWC First Crack at Cristot.btt" />
+	<scenario author="Michael Dorosh" filename="TWC Left Hook at Les Houlles.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=1943</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Michael Dorosh" filename="TWC Meeting at Le Bourg.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3022</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Michael Dorosh" filename="TWC Nijmegen Finale.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=2032</downloadurl>
+			<infourl who="the Blitz">http://www.theblitz.org/scenarios/combat-mission-battle-for-normandy/twc-nijmegen-finale/b-15.htm?action=scenario&amp;id=3637</infourl>
+		</urls_list>
+	</scenario>
+	<scenario author="Michael Dorosh" filename="TWC No Better Spot To Die.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3391</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Michael Dorosh" filename="TWC Operation WELLHIT.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3412</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Michael Dorosh" filename="TWC Purple Heart Draw.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=1166</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Michael Dorosh" filename="TWC Tigers Attack at Tripsrath.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=2953</downloadurl>
+			<infourl who="the Blitz">http://www.theblitz.org/scenarios/combat-mission-battle-for-normandy/twc-tigers-attack-at-tripsrath/b-15.htm?action=scenario&amp;id=11104</infourl>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/combat-mission-battle-for-normandy/twc-tigers-attack-at-tripsrath/</infourl>
+			<downloadurl who="Scenario Depot" primary="y">http://www.thefewgoodmen.com/tsd3/download/TWC-Tigers-Attack-at-Tripsrath.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Michael Dorosh" filename="TWC Wild Bill's Villers Bocage - Tiger!.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=2939</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Umlaut" filename="Two bridges.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=1442</downloadurl>
+			<infourl who="the Blitz">http://www.theblitz.org/scenarios/combat-mission-battle-for-normandy/two-bridges/b-15.htm?action=scenario&amp;id=3624</infourl>
+		</urls_list>
+	</scenario>
+	<scenario author="Mac Isle" filename="Under the Eyes of the White Manor V2_5.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=2655</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Mac Isle" filename="Under the Eyes of the White Manor V3.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=2834</downloadurl>
+			<infourl who="the Blitz">http://www.theblitz.org/scenarios/combat-mission-battle-for-normandy/under-the-eyes-of-the-white-manor-h2h-scenario/b-15.htm?action=scenario&amp;id=3697</infourl>
+		</urls_list>
+	</scenario>
+	<scenario author="Sgt Schultz" filename="Valley of The Shadow.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=1502</downloadurl>
+			<infourl who="the Blitz">http://www.theblitz.org/scenarios/combat-mission-battle-for-normandy/valley-of-the-shadow/b-15.htm?action=scenario&amp;id=3609</infourl>
+		</urls_list>
+	</scenario>
+	<scenario author="Thomas Klimisch (TCMHQ)" filename="ValleyofTrouble_V1.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/combat-mission-battle-for-normandy/cm-battles-for-normandy/valley-of-trouble-cmbn/</infourl>
+			<downloadurl who="Scenario Depot" primary="y">http://www.thefewgoodmen.com/tsd3/download/ValleyofTrouble_V1.zip</downloadurl>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=1287</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Nelson1812" filename="VB1 Point 213 Allied Vs AI.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=2825</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Nelson1812" filename="VB1 Point 213 H2H.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=2845</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Nelson1812" filename="VB1 Point 213.btt" />
+	<scenario author="Nelson1812" filename="VB2 Tillys.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=2865</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Jaws" filename="Vierville.btt" stock="y">
+		<urls_list>
+			<infourl who="the Blitz">http://www.theblitz.org/scenarios/combat-mission-battle-for-normandy/vierville/b-15.htm?action=scenario&amp;id=3589</infourl>
+		</urls_list>
+	</scenario>
+	<scenario author="information unavailable" filename="VP - Seventh Wind.btt" />
+	<scenario author="Mac Isle" filename="VP Char n Char Alike.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3415</downloadurl>
+			<downloadurl who="the Blitz">http://www.theblitz.org/scenarios/b-15.htm?action=download&amp;id=11071</downloadurl>
+			<infourl who="the Blitz">http://www.theblitz.org/scenarios/combat-mission-battle-for-normandy/char-char-alike/b-15.htm?action=scenario&amp;id=11071</infourl>
+		</urls_list>
+	</scenario>
+	<scenario author="information unavailable" filename="Bad Apples H2H.btt">
+		<urls_list>
+			<downloadurl who="the Blitz">http://www.theblitz.org/scenarios/b-15.htm?action=download&amp;id=10802</downloadurl>
+			<infourl who="the Blitz">http://www.theblitz.org/scenarios/combat-mission-battle-for-normandy/bad-apples/b-15.htm?action=scenario&amp;id=10802</infourl>
+		</urls_list>
+	</scenario>
+	<scenario author="information unavailable" filename="Byte_de_Ville.btt">
+		<urls_list>
+			<downloadurl who="the Blitz">http://www.theblitz.org/scenarios/b-15.htm?action=download&amp;id=3610</downloadurl>
+			<infourl who="the Blitz">http://www.theblitz.org/scenarios/combat-mission-battle-for-normandy/byte-battle-de-ville/b-15.htm?action=scenario&amp;id=3610</infourl>
+		</urls_list>
+	</scenario>
+	<scenario author="information unavailable" filename="Byte_Town.btt">
+		<urls_list>
+			<downloadurl who="the Blitz">http://www.theblitz.org/scenarios/b-15.htm?action=download&amp;id=3616</downloadurl>
+			<infourl who="the Blitz">http://www.theblitz.org/scenarios/combat-mission-battle-for-normandy/byte-battle-town/b-15.htm?action=scenario&amp;id=3616</infourl>
+		</urls_list>
+	</scenario>
+	<scenario author="information unavailable" filename="Byte_Stolen_Fruit.btt">
+		<urls_list>
+			<downloadurl who="the Blitz">http://www.theblitz.org/scenarios/b-15.htm?action=download&amp;id=3612</downloadurl>
+			<infourl who="the Blitz">http://www.theblitz.org/scenarios/combat-mission-battle-for-normandy/byte-battle-stolen-fruit/b-15.htm?action=scenario&amp;id=3612</infourl>
+		</urls_list>
+	</scenario>
+	<scenario author="Chris McCain" filename="CW Monty's Butchers.btt">
+		<urls_list>
+			<downloadurl who="the Blitz">http://www.theblitz.org/scenarios/b-15.htm?action=download&amp;id=3695</downloadurl>
+			<infourl who="the Blitz">http://www.theblitz.org/scenarios/combat-mission-battle-for-normandy/cw-monty-s-butchers/b-15.htm?action=scenario&amp;id=3695</infourl>
+		</urls_list>
+	</scenario>
+	<scenario author="Stephen Hilla aka The Teacher" filename="CW One hell of a good scrap.btt">
+		<urls_list>
+			<downloadurl who="the Blitz">http://www.theblitz.org/scenarios/b-15.htm?action=download&amp;id=3641</downloadurl>
+			<infourl who="the Blitz">http://www.theblitz.org/scenarios/combat-mission-battle-for-normandy/cw-one-hell-of-a-good-scrap/b-15.htm?action=scenario&amp;id=3641</infourl>
+		</urls_list>
+	</scenario>
+	<scenario author="George MC" filename="CW Wittmann's Demise.btt">
+		<urls_list>
+			<downloadurl who="the Blitz">http://www.theblitz.org/scenarios/b-15.htm?action=download&amp;id=3690</downloadurl>
+			<infourl who="the Blitz">http://www.theblitz.org/scenarios/combat-mission-battle-for-normandy/cw-wittmann-s-demise/b-15.htm?action=scenario&amp;id=3690</infourl>
+		</urls_list>
+	</scenario>
+	<scenario author="Wim Oudshoorn" filename="WT MG Teufelsberg.btt">
+		<urls_list>
+			<downloadurl who="the Blitz">http://www.theblitz.org/scenarios/b-15.htm?action=download&amp;id=11160</downloadurl>
+			<infourl who="the Blitz">http://www.theblitz.org/scenarios/combat-mission-battle-for-normandy/duivelsberg/b-15.htm?action=scenario&amp;id=11160</infourl>
+		</urls_list>
+	</scenario>
+	<scenario author="Fredrocker" filename="FGM Rockville.btt">
+		<urls_list>
+			<downloadurl who="the Blitz">http://www.theblitz.org/scenarios/b-15.htm?action=download&amp;id=3640</downloadurl>
+			<infourl who="the Blitz">http://www.theblitz.org/scenarios/combat-mission-battle-for-normandy/fgm-rockville/b-15.htm?action=scenario&amp;id=3640</infourl>
+		</urls_list>
+	</scenario>
+	<scenario author="Bootie" filename="The Few Good Men - Three Bridges [H2H].btt">
+		<urls_list>
+			<downloadurl who="the Blitz">http://www.theblitz.org/scenarios/b-15.htm?action=download&amp;id=10814</downloadurl>
+			<infourl who="the Blitz">http://www.theblitz.org/scenarios/combat-mission-battle-for-normandy/fgm-three-bridges/b-15.htm?action=scenario&amp;id=10814</infourl>
+		</urls_list>
+	</scenario>
+	<scenario author="Fredrocker" filename="Fromond the Saint.btt">
+		<urls_list>
+			<downloadurl who="the Blitz">http://www.theblitz.org/scenarios/b-15.htm?action=download&amp;id=3679</downloadurl>
+			<infourl who="the Blitz">http://www.theblitz.org/scenarios/combat-mission-battle-for-normandy/fromond-the-saint/b-15.htm?action=scenario&amp;id=3679</infourl>
+		</urls_list>
+	</scenario>
+	<scenario author="Rinaldi" filename="H2H Dust off the Shot.btt">
+		<urls_list>
+			<downloadurl who="the Blitz">http://www.theblitz.org/scenarios/b-15.htm?action=download&amp;id=11569</downloadurl>
+			<infourl who="the Blitz">http://www.theblitz.org/scenarios/combat-mission-battle-for-normandy/h2h-dust-off-the-shot/b-15.htm?action=scenario&amp;id=11569</infourl>
+		</urls_list>
+	</scenario>
+	<scenario author="information unavailable" filename="Its just a bridge.btt">
+		<urls_list>
+			<downloadurl who="the Blitz">http://www.theblitz.org/scenarios/b-15.htm?action=download&amp;id=3591</downloadurl>
+			<infourl who="the Blitz">http://www.theblitz.org/scenarios/combat-mission-battle-for-normandy/its-just-a-bridge/b-15.htm?action=scenario&amp;id=3591</infourl>
+		</urls_list>
+	</scenario>
+	<scenario author="Rico" filename="LMS-6-semifinals.btt">
+		<urls_list>
+			<downloadurl who="the Blitz">http://www.theblitz.org/scenarios/b-15.htm?action=download&amp;id=3682</downloadurl>
+			<infourl who="the Blitz">http://www.theblitz.org/scenarios/combat-mission-battle-for-normandy/last-man-standing-6-semifinal/b-15.htm?action=scenario&amp;id=3682</infourl>
+		</urls_list>
+	</scenario>
+	<scenario author="Stephen Hilla aka The Teacher" filename="Pouppeville Exit.btt">
+		<urls_list>
+			<downloadurl who="the Blitz">http://www.theblitz.org/scenarios/b-15.htm?action=download&amp;id=3584</downloadurl>
+			<infourl who="the Blitz">http://www.theblitz.org/scenarios/combat-mission-battle-for-normandy/pouppeville-exit/b-15.htm?action=scenario&amp;id=3584</infourl>
+		</urls_list>
+	</scenario>
+	<scenario author="Stephen Hilla aka The Teacher" filename="TTKGW 2, Storming Le Menzal.btt">
+		<urls_list>
+			<downloadurl who="the Blitz">http://www.theblitz.org/scenarios/b-15.htm?action=download&amp;id=3607</downloadurl>
+			<infourl who="the Blitz">http://www.theblitz.org/scenarios/combat-mission-battle-for-normandy/storming-le-menzal/b-15.htm?action=scenario&amp;id=3607</infourl>
+		</urls_list>
+	</scenario>
+	<scenario author="Fredrocker" filename="The Crossing.btt">
+		<urls_list>
+			<downloadurl who="the Blitz">http://www.theblitz.org/scenarios/b-15.htm?action=download&amp;id=3681</downloadurl>
+			<infourl who="the Blitz">http://www.theblitz.org/scenarios/combat-mission-battle-for-normandy/the-crossing/b-15.htm?action=scenario&amp;id=3681</infourl>
+		</urls_list>
+	</scenario>
+	<scenario author="Stephen Hilla aka The Teacher" filename="Omaha beach, Vierville Draw Attack.btt">
+		<urls_list>
+			<downloadurl who="the Blitz">http://www.theblitz.org/scenarios/b-15.htm?action=download&amp;id=3581</downloadurl>
+			<infourl who="the Blitz">http://www.theblitz.org/scenarios/combat-mission-battle-for-normandy/the-vierville-draw-omahah-beach/b-15.htm?action=scenario&amp;id=3581</infourl>
+		</urls_list>
+	</scenario>
+	<scenario author="Stephen Hilla aka The Teacher" filename="TT2 SNAFU The Vox Papin Assault.btt">
+		<urls_list>
+			<downloadurl who="the Blitz">http://www.theblitz.org/scenarios/b-15.htm?action=download&amp;id=3587</downloadurl>
+			<infourl who="the Blitz">http://www.theblitz.org/scenarios/combat-mission-battle-for-normandy/tt2-snafu-the-assault-on-vox-papin/b-15.htm?action=scenario&amp;id=3587</infourl>
+		</urls_list>
+	</scenario>
+	<scenario author="Stephen Hilla aka The Teacher" filename="TT3,SNAFU-What was that, did you hear that.btt">
+		<urls_list>
+			<downloadurl who="the Blitz">http://www.theblitz.org/scenarios/b-15.htm?action=download&amp;id=3594</downloadurl>
+			<infourl who="the Blitz">http://www.theblitz.org/scenarios/combat-mission-battle-for-normandy/tt3-snafu-what-was-that-did-you-hear-that/b-15.htm?action=scenario&amp;id=3594</infourl>
+		</urls_list>
+	</scenario>
+	<scenario author="Stephen Hilla aka The Teacher" filename="TTKGW 3, Bois Le Mort.btt">
+		<urls_list>
+			<downloadurl who="the Blitz">http://www.theblitz.org/scenarios/b-15.htm?action=download&amp;id=3619</downloadurl>
+			<infourl who="the Blitz">http://www.theblitz.org/scenarios/combat-mission-battle-for-normandy/ttkgw-3-bois-le-mort/b-15.htm?action=scenario&amp;id=3619</infourl>
+		</urls_list>
+	</scenario>
+	<scenario author="Stephen Hilla aka The Teacher" filename="TTKGW 4, Barigney Bocage.btt">
+		<urls_list>
+			<downloadurl who="the Blitz">http://www.theblitz.org/scenarios/b-15.htm?action=download&amp;id=3620</downloadurl>
+			<infourl who="the Blitz">http://www.theblitz.org/scenarios/combat-mission-battle-for-normandy/ttkgw-4-barigney-bocage/b-15.htm?action=scenario&amp;id=3620</infourl>
+		</urls_list>
+	</scenario>
+	<scenario author="Stephen Hilla aka The Teacher" filename="TTKGW 5, Bullets and Bee's.btt">
+		<urls_list>
+			<downloadurl who="the Blitz">http://www.theblitz.org/scenarios/b-15.htm?action=download&amp;id=3621</downloadurl>
+			<infourl who="the Blitz">http://www.theblitz.org/scenarios/combat-mission-battle-for-normandy/ttkgw-5-bullets-and-bee-s/b-15.htm?action=scenario&amp;id=3621</infourl>
+		</urls_list>
+	</scenario>
+	<scenario author="Stephen Hilla aka The Teacher" filename="TTKGW 1, Peek a boo !.btt">
+		<urls_list>
+			<downloadurl who="the Blitz">http://www.theblitz.org/scenarios/b-15.htm?action=download&amp;id=3604</downloadurl>
+			<infourl who="the Blitz">http://www.theblitz.org/scenarios/combat-mission-battle-for-normandy/ttkgw-1-peek-a-boo/b-15.htm?action=scenario&amp;id=3604</infourl>
+		</urls_list>
+	</scenario>
+	<scenario author="Michael Dorosh" filename="TWC Shooting the Messengers.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=finishdown&amp;id=2421</downloadurl>
+			<infourl who="the Blitz">http://www.theblitz.org/scenarios/combat-mission-battle-for-normandy/twc-shooting-the-messengers/b-15.htm?action=scenario&amp;id=3671</infourl>
+		</urls_list>
+	</scenario>
+	<scenario author="Michael Dorosh" filename="TWC Sudden Fury.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=1914</downloadurl>
+			<infourl who="the Blitz">http://www.theblitz.org/scenarios/combat-mission-battle-for-normandy/twc-sudden-fury/b-15.htm?action=scenario&amp;id=10861</infourl>
+		</urls_list>
+	</scenario>
+	<scenario author="jack archer" filename="Abbaye D'Authie.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/combat-mission-battle-for-normandy/cm-battles-for-normandy-add-ons-maps/abbaye-dauthie/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/Abbaye-DAuthie.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="rocketman" filename="MGVP Merville Battery.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/combat-mission-battle-for-normandy/cm-battles-for-normandy/mg-vp-merveilles-a-merville-assault-on-merville-battery/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/MGVP-Merville-Battery_2.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Phantom" filename="MG Landing Zone T V_101.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/combat-mission-battle-for-normandy/cm-battles-for-normandy/mg-landing-zone-t/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/MG-Landing-Zone-T-V_101.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Nelson1812" filename="VB3AIX.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/combat-mission-battle-for-normandy/cm-battles-for-normandy/cw-vb3-brits-vs-ai-axis-attack/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/VB3AIX.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="d lewis (Major.Pain)" filename="1 Training - Roadblock+++ v1.1.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=1186</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="A Q (Uzi) " filename="101st le Leiu Varey.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=2500</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Tremissis" filename="6 Panzer Regiment auf dem Vormarsch.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=2207</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Fredrik Wallin (FREDRIK)" filename="A disputed village.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=1305</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Gareth Winstanley " filename="A Question of Bridges .btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/combat-mission-battle-for-normandy/cm-battles-for-normandy/a-question-of-bridges/</infourl>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=2271</downloadurl>
+			<downloadurl who="Scenario Depot" primary="y">http://www.thefewgoodmen.com/tsd3/download/A-Question-of-Bridges-.rar</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Ed William (Pellaeon)" filename="A Ranger Squad Gets a Tall Order!.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=2132</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Michael Snyder (M1 Garand)" filename="Amfreville.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=2459</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Jeff Shaffer" filename="Battle at St-Quentin.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3232</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Patrick Ware (wyoproducer)" filename="Beach Front Property.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=2588</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Ed William (Pellaeon)" filename="Bocage Busting.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=2213</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Jan Ekström (Derfel)" filename="Byte Beginnings.btt">
+		<urls_list>
+			<infourl who="the Blitz">http://www.theblitz.org/scenarios/combat-mission-battle-for-normandy/b-15.htm?action=scenario&amp;id=11783</infourl>
+			<downloadurl who="the Blitz" primary="y">http://www.theblitz.org/scenarios/b-15.htm?action=download&amp;id=11783</downloadurl>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3588</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Christopher Nelson (Normal Dude)" filename="Closing the Pocket.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=1153</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Zoltán Kassai (HAL 9000)" filename="Counter Attack.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=2192</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Bimmer" filename="Danger in the Morning.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=1526</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Willem (wimpie)" filename="Dusty roads 7th.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=2375</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Willem (wimpie)" filename="Dusty roads2_0.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=2580</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Willem (wimpie)" filename="Dusty roads2_Extented map.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=2580</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Ed William (Pellaeon)" filename="First Patrol.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=2163</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Paper Tiger" filename="H2H Buying the Farm.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=1577</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Paper Tiger" filename="H2H Eroudeville.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=1576</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Paper Tiger" filename="H2H Hameau.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=1576</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Paper Tiger" filename="H2H It's a New Dawn.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=1577</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Paper Tiger" filename="H2H le Hamelet.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=1576</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Hans Jokesch (Pandur()" filename="KG Himmelfahrt.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=2302</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Michael Snyder (M1 Garand)" filename="La Fiere Causeway (June 6th).btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=2155</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Michael Snyder (M1 Garand)" filename="La Fiere Causeway (June 9th).btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=2204</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Oliver Giersch (Rokko)" filename="Le Bois du Parc Roadblock.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=1750</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="LongLeftFlank" filename="Le Carillon 1 - Its Quiet - Too Quiet.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=2336</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Roman Moravec" filename="Objective_Crossroad_D913-N13.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=1283</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Alfalfa " filename="OFW After midnight , rest in peace H2H.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=1757</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="jeffry in 't veld" filename="Omaha Beach.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=2166</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Gregory Keller (snake_eye)" filename="Patton's attack nemesis.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=2828</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Patrick Ware (wyoproducer)" filename="Primrose Path.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=2588</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="jeffry in 't veld" filename="Radar Station.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=2166</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="jeffry in 't veld" filename="Ramelle.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=2166</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Luis Javier Naranjo Duque (GI Adelscott)" filename="RHI_02 Retaking Vierville.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=1755</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Patrick Ware (wyoproducer)" filename="The Deutsch Mark.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=2588</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Bimmer" filename="The Farm - Round 3 - Night of the Cannon Cockers.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=2232</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Bimmer" filename="The Farm - Round 4 - Third Times a Charm - NW.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=2233</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Bimmer" filename="The Farm - Round 4 - Third Times a Charm.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=2233</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Raymond Frisby (Georgie)" filename="The Hinterland.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=2101</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Chad Lennerts (Ithikial)" filename="Three Patrol Action.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=2938</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Zoltán Kassai (HAL 9000)" filename="tiny_forest_farm_infantry.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=1649</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Michael Dorosh" filename="TWC Bloody 110th at Marnach.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=2496</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Justin Yates" filename="Vierville-Sur-Mer.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=1276</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Nelson1812" filename="Vire.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=2552</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Umlaut" filename="Waylaid.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=2086</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Paper Tiger" filename="Where all the Glory Lies.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=2084</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Wim Oudshoorn" filename="WT H2H ASL 301 The Clearing (Sm).btt">
+		<urls_list>
+			<infourl who="the Blitz">http://www.theblitz.org/scenarios/combat-mission-battle-for-normandy/b-15.htm?action=scenario&amp;id=11779</infourl>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3461</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Wim Oudshoorn" filename="WT H2H ASL 301 The Clearing (TS).btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3462</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Wim Oudshoorn" filename="WT H2H ASL 301 The Clearing (X).btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3463</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Jeff Shaffer" filename="WWI Scenario - 1 wave of reinforcements.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3320</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Jeff Shaffer" filename="WWI Scenario - 2 waves of reinforcements.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3320</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Jeff Shaffer" filename="WWI Scenario - 3 waves of reinforcements.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3320</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Jeff Shaffer" filename="WWI Scenario - Allied Assault 2 waves reinf.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3320</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Jeff Shaffer" filename="WWI Scenario - Allied Assault 3 waves of reinf.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3320</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Jeff Shaffer" filename="WWI Scenario - Allied Assault 7 waves reinf.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3320</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Jeff Shaffer" filename="WWI Scenario - Axis Assault 2 waves of reinf.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3320</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Jeff Shaffer" filename="WWI Scenario - Axis Assault 3 waves of reinf.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3320</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Jeff Shaffer" filename="WWI Scenario - Axis Assault 7 waves of reinf.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3320</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Jeff Shaffer" filename="WWI Scenario - no reinforcements.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3320</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Fabio Mantegazza (fabs2002x)" filename="0 [FM] Pont Saint Clovis.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=2690</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Fabio Mantegazza (fabs2002x)" filename="0 [FM] Toquemont.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=2724</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Fabio Mantegazza (fabs2002x)" filename="0 [FM] Vauvrecy.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=2724</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Nelson1812" filename="20 minutes to Breakfast Real time Allies vs AI.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3599</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Tremissis" filename="6th Airborne Division closing the Ranville gap.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/combat-mission-battle-for-normandy/cm-battles-for-normandy/6th-airborne-division-closing-the-ranville-gap/</infourl>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=2477</downloadurl>
+			<downloadurl who="Scenario Depot" primary="y">http://www.thefewgoodmen.com/tsd3/download/6th-Airborne-Division-closing-the-Ranville-gap.rar</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Chris Ferrous (HullCity)" filename="Abandon All Hope - Assault across the Escaut 1940.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=2198</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Chris Ferrous (HullCity)" filename="Attack on Verrieres Ridge.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=2198</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Yuri (Antonov)" filename="Bloody crossroad.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=2517</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Jan Ekström (Derfel)" filename="Byte Rat Race.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3600</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Anthony Leone (Vin)" filename="CS Higher Ground.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=2485</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="jon keller (kellerific)" filename="CW Air Attack.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=1930</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Jan Ekström (Derfel)" filename="CW Byte Beginnings.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3589</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Szymon Stec" filename="CW God, Honor, Country.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=2637</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Pete Wenman" filename="CW In the Shadow of the Hill 7am_vp.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3383</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Greg Taylor (Ubiquitous)" filename="CW Iron Horse Vale.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3251</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="VE (sleepercell)" filename="CW Op Alcatraz.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=2191</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="LongLeftFlank" filename="CW PTO Makin Atoll - Yellow Beach.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=2288</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Nelson1812" filename="CWVP A Slow Advance.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3612</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="George MC" filename="CW_Schmiedestahl_v1.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=2464</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Jan Ekström (Derfel)" filename="Raid on Falkennest .btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3559</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Michael Dorosh" filename="TWC Delay on Tiger Route.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=2392</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Michael Dorosh" filename="TWC Victory via Vignory.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3608</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Nelson1812" filename="VillersMulti.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3026</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Bulletpoint" filename="CW Contact Front.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/combat-mission-battle-for-normandy/cm-battles-for-normandy/contact-front/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/CW-Contact-Front.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Nelson1812" filename="SL44 P1 Coastal Assault V2.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/combat-mission-battle-for-normandy/cm-battles-for-normandy/sl44-1-coastal-assault/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/SL44-P1-Coastal-Assault-V2_2.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Bulletpoint" filename="Pierrefitte-en-Cinglais.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/combat-mission-battle-for-normandy/cm-battles-for-normandy/crossroads-at-pierrefitte-en-cinglais/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/Pierrefitte-en-Cinglais.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Bil Hardenberger" filename="CMTP-ARM001-Tank Section Attack.btt">
+		<urls_list>
+			<infourl who="Battle Drill">http://battledrill.blogspot.ca/2013/09/armor-tactical-problem-001-tank-section.html</infourl>
+			<downloadurl who="Battle Drill">http://battledrill.blogspot.ca/2013/09/armor-tactical-problem-001-tank-section.html</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Bil Hardenberger" filename="CMTP-INF001-Infantry Squad Attack.btt">
+		<urls_list>
+			<infourl who="Battle Drill">http://battledrill.blogspot.ca/2013/09/infantry-tactical-problem-001-squad.html</infourl>
+			<downloadurl who="Battle Drill">http://battledrill.blogspot.ca/2013/09/infantry-tactical-problem-001-squad.html</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Wim Oudshoorn" filename="WT H2H ASL 94 - Hill '112'.btt">
+		<urls_list>
+			<infourl who="the Blitz">http://www.theblitz.org/scenarios/combat-mission-battle-for-normandy/wt-h2h-asl-94-hill-112/b-15.htm?action=scenario&amp;id=11765</infourl>
+			<downloadurl who="the Blitz">http://www.theblitz.org/scenarios/b-15.htm?action=download&amp;id=11765</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Lille Fiskerby" filename="MG-No-Country-for-tanks_2.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/combat-mission-battle-for-normandy/cm-battles-for-normandy/no-country-for-tanks/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/MG-No-Country-for-tanks_2.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Michael Dorosh" filename="TWC Ambush at De Hoop.btt">
+	    <urls_list>
+	        <infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/combat-mission-battle-for-normandy/cm-battles-for-normandy/twc-ambush-at-de-hoop/</infourl>
+	        <downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/TWC-Ambush-at-De-Hoop.zip</downloadurl>
+	    </urls_list>
+	</scenario>
+	<scenario author="Wim Oudshoorn" filename="WT-H2H-DASL18-Haut Vents (TS).btt">
+		<urls_list>
+			<infourl who="the Blitz">http://www.theblitz.org/scenarios/combat-mission-battle-for-normandy/b-15.htm?action=scenario&amp;id=11807</infourl>
+			<downloadurl who="the Blitz">http://www.theblitz.org/scenarios/b-15.htm?action=download&amp;id=11807</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Nelson1812" filename="SL44 (2-AI) Invasion.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/combat-mission-battle-for-normandy/sl44-2-invasion-ai-vs-axis/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/SL44-2-AI-Invasion_2.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="RockinHarry" filename="MG VP You Enter Germany-Introduction V4.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/combat-mission-battle-for-normandy/cm-battles-for-normandy/cmbn-v4-mg-vp-you-enter-germany-introduction/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/wp-content/uploads/2017/02/MG-VP-You-Enter-Germany-Introduction-V4.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="AR Bodicky" filename="Assault_On_Point_226_II_04F.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/combat-mission-battle-for-normandy/cm-battles-for-normandy/assault-on-point-226/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/wp-content/uploads/2017/03/Assault_On_Point_226_II_04F.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Bulletpoint" filename="CW Contact Front H2H version V2.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/combat-mission-battle-for-normandy/cm-battles-for-normandy/contact-front-h2h-version/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/wp-content/uploads/2018/07/CW-Contact-Front-H2H-version-V2.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="" filename="Scouts-Out-Tournament-Round-1.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/combat-mission-battle-for-normandy/cm-battles-for-normandy/scouts-out-tournament-round-one/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/Scouts-Out-Tournament-Round-1.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Combatintman" filename="Assault on Port Cros.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/combat-mission-battle-for-normandy/cm-battles-for-normandy/assault-on-port-cros/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/wp-content/uploads/2018/12/Assault-on-Port-Cros.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Translation by Carlos" filename="1 Training - Roadblock (FR).btt">
+		<urls_list>
+			<infourl who="CombatMission.fr">http://www.combatmission.fr/battle-for-normandy/scenarios/</infourl>
+			<downloadurl who="CombatMission.fr">http://www.combatmission.fr/download/Pack%20(1.01)%20des%20Sc%C3%A9narios%20CMBN%20en%20Fran%C3%A7ais(3).zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Translation by Carlos" filename="A Delaying Action (FR).btt">
+		<urls_list>
+			<infourl who="CombatMission.fr">http://www.combatmission.fr/battle-for-normandy/scenarios/</infourl>
+			<downloadurl who="CombatMission.fr">http://www.combatmission.fr/download/Pack%20(1.01)%20des%20Sc%C3%A9narios%20CMBN%20en%20Fran%C3%A7ais(3).zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Translation by Carlos" filename="A Strange Awakening (FR).btt">
+		<urls_list>
+			<infourl who="CombatMission.fr">http://www.combatmission.fr/battle-for-normandy/scenarios/</infourl>
+			<downloadurl who="CombatMission.fr">http://www.combatmission.fr/download/Pack%20(1.01)%20des%20Sc%C3%A9narios%20CMBN%20en%20Fran%C3%A7ais(3).zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Translation by Carlos" filename="Barkmanns Corner (FR).btt">
+		<urls_list>
+			<infourl who="CombatMission.fr">http://www.combatmission.fr/battle-for-normandy/scenarios/</infourl>
+			<downloadurl who="CombatMission.fr">http://www.combatmission.fr/download/Pack%20(1.01)%20des%20Sc%C3%A9narios%20CMBN%20en%20Fran%C3%A7ais(3).zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Translation by Carlos" filename="Bloody Dawn (FR).btt">
+		<urls_list>
+			<infourl who="CombatMission.fr">http://www.combatmission.fr/battle-for-normandy/scenarios/</infourl>
+			<downloadurl who="CombatMission.fr">http://www.combatmission.fr/download/Pack%20(1.01)%20des%20Sc%C3%A9narios%20CMBN%20en%20Fran%C3%A7ais(3).zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Translation by Carlos" filename="Bois de Baugin (FR).btt">
+		<urls_list>
+			<infourl who="CombatMission.fr">http://www.combatmission.fr/battle-for-normandy/scenarios/</infourl>
+			<downloadurl who="CombatMission.fr">http://www.combatmission.fr/download/Pack%20(1.01)%20des%20Sc%C3%A9narios%20CMBN%20en%20Fran%C3%A7ais(3).zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Translation by Carlos" filename="Buying the Farm (FR).btt">
+		<urls_list>
+			<infourl who="CombatMission.fr">http://www.combatmission.fr/battle-for-normandy/scenarios/</infourl>
+			<downloadurl who="CombatMission.fr">http://www.combatmission.fr/download/Pack%20(1.01)%20des%20Sc%C3%A9narios%20CMBN%20en%20Fran%C3%A7ais(3).zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Translation by Carlos" filename="Carbide Carbide (FR).btt">
+		<urls_list>
+			<infourl who="CombatMission.fr">http://www.combatmission.fr/battle-for-normandy/scenarios/</infourl>
+			<downloadurl who="CombatMission.fr">http://www.combatmission.fr/download/Pack%20(1.01)%20des%20Sc%C3%A9narios%20CMBN%20en%20Fran%C3%A7ais(3).zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Translation by Carlos" filename="Cats Chasing Dogs (FR).btt">
+		<urls_list>
+			<infourl who="CombatMission.fr">http://www.combatmission.fr/battle-for-normandy/scenarios/</infourl>
+			<downloadurl who="CombatMission.fr">http://www.combatmission.fr/download/Pack%20(1.01)%20des%20Sc%C3%A9narios%20CMBN%20en%20Fran%C3%A7ais(3).zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Translation by Carlos" filename="Closing the Pocket (FR).btt">
+		<urls_list>
+			<infourl who="CombatMission.fr">http://www.combatmission.fr/battle-for-normandy/scenarios/</infourl>
+			<downloadurl who="CombatMission.fr">http://www.combatmission.fr/download/Pack%20(1.01)%20des%20Sc%C3%A9narios%20CMBN%20en%20Fran%C3%A7ais(3).zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Translation by Carlos" filename="Deville (FR).btt">
+		<urls_list>
+			<infourl who="CombatMission.fr">http://www.combatmission.fr/battle-for-normandy/scenarios/</infourl>
+			<downloadurl who="CombatMission.fr">http://www.combatmission.fr/download/Pack%20(1.01)%20des%20Sc%C3%A9narios%20CMBN%20en%20Fran%C3%A7ais(3).zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Translation by Carlos" filename="Huzzar (FR).btt">
+		<urls_list>
+			<infourl who="CombatMission.fr">http://www.combatmission.fr/battle-for-normandy/scenarios/</infourl>
+			<downloadurl who="CombatMission.fr">http://www.combatmission.fr/download/Pack%20(1.01)%20des%20Sc%C3%A9narios%20CMBN%20en%20Fran%C3%A7ais(3).zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Translation by Carlos" filename="It's a New Dawn (FR).btt">
+		<urls_list>
+			<infourl who="CombatMission.fr">http://www.combatmission.fr/battle-for-normandy/scenarios/</infourl>
+			<downloadurl who="CombatMission.fr">http://www.combatmission.fr/download/Pack%20(1.01)%20des%20Sc%C3%A9narios%20CMBN%20en%20Fran%C3%A7ais(3).zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Translation by Carlos" filename="Kings in Retirement (FR).btt">
+		<urls_list>
+			<infourl who="CombatMission.fr">http://www.combatmission.fr/battle-for-normandy/scenarios/</infourl>
+			<downloadurl who="CombatMission.fr">http://www.combatmission.fr/download/Pack%20(1.01)%20des%20Sc%C3%A9narios%20CMBN%20en%20Fran%C3%A7ais(3).zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Translation by Carlos" filename="La Valence (FR).btt">
+		<urls_list>
+			<infourl who="CombatMission.fr">http://www.combatmission.fr/battle-for-normandy/scenarios/</infourl>
+			<downloadurl who="CombatMission.fr">http://www.combatmission.fr/download/Pack%20(1.01)%20des%20Sc%C3%A9narios%20CMBN%20en%20Fran%C3%A7ais(3).zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Translation by Carlos" filename="Last Defense (FR).btt">
+		<urls_list>
+			<infourl who="CombatMission.fr">http://www.combatmission.fr/battle-for-normandy/scenarios/</infourl>
+			<downloadurl who="CombatMission.fr">http://www.combatmission.fr/download/Pack%20(1.01)%20des%20Sc%C3%A9narios%20CMBN%20en%20Fran%C3%A7ais(3).zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Translation by Carlos" filename="Le Desert (FR).btt">
+		<urls_list>
+			<infourl who="CombatMission.fr">http://www.combatmission.fr/battle-for-normandy/scenarios/</infourl>
+			<downloadurl who="CombatMission.fr">http://www.combatmission.fr/download/Pack%20(1.01)%20des%20Sc%C3%A9narios%20CMBN%20en%20Fran%C3%A7ais(3).zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Translation by Carlos" filename="Platoon Patrol (FR).btt">
+		<urls_list>
+			<infourl who="CombatMission.fr">http://www.combatmission.fr/battle-for-normandy/scenarios/</infourl>
+			<downloadurl who="CombatMission.fr">http://www.combatmission.fr/download/Pack%20(1.01)%20des%20Sc%C3%A9narios%20CMBN%20en%20Fran%C3%A7ais(3).zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Translation by Carlos" filename="Pleasantly Shaded Woodland (FR).btt">
+		<urls_list>
+			<infourl who="CombatMission.fr">http://www.combatmission.fr/battle-for-normandy/scenarios/</infourl>
+			<downloadurl who="CombatMission.fr">http://www.combatmission.fr/download/Pack%20(1.01)%20des%20Sc%C3%A9narios%20CMBN%20en%20Fran%C3%A7ais(3).zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Translation by Carlos" filename="Silence the Guns - Brecourt Manor (FR).btt">
+		<urls_list>
+			<infourl who="CombatMission.fr">http://www.combatmission.fr/battle-for-normandy/scenarios/</infourl>
+			<downloadurl who="CombatMission.fr">http://www.combatmission.fr/download/Pack%20(1.01)%20des%20Sc%C3%A9narios%20CMBN%20en%20Fran%C3%A7ais(3).zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Translation by Carlos" filename="The Crossroads at Monthardrou (FR).btt">
+		<urls_list>
+			<infourl who="CombatMission.fr">http://www.combatmission.fr/battle-for-normandy/scenarios/</infourl>
+			<downloadurl who="CombatMission.fr">http://www.combatmission.fr/download/Pack%20(1.01)%20des%20Sc%C3%A9narios%20CMBN%20en%20Fran%C3%A7ais(3).zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Translation by Carlos" filename="Vierville (FR).btt">
+		<urls_list>
+			<infourl who="CombatMission.fr">http://www.combatmission.fr/battle-for-normandy/scenarios/</infourl>
+			<downloadurl who="CombatMission.fr">http://www.combatmission.fr/download/Pack%20(1.01)%20des%20Sc%C3%A9narios%20CMBN%20en%20Fran%C3%A7ais(3).zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Translation by Carlos" filename="Chance Encounter V2 (FR).btt">
+		<urls_list>
+			<infourl who="CombatMission.fr">http://www.combatmission.fr/battle-for-normandy/pour-quelques-scenars-de-plus/chance-encounter/</infourl>
+			<downloadurl who="CombatMission.fr">http://www.combatmission.fr/download/Chance%20Encounter%20V2%20(FR).zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Translation by Carlos" filename="Commandos in Telemark (FR).btt">
+		<urls_list>
+			<infourl who="CombatMission.fr">http://www.combatmission.fr/battle-for-normandy/pour-quelques-scenars-de-plus/commandos-in-telemark/</infourl>
+			<downloadurl who="CombatMission.fr">http://www.combatmission.fr/download/Commandos%20in%20Telemark%20(FR).btt</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Translation by Carlos" filename="CW Wittmann's Demise (FR).btt">
+		<urls_list>
+			<infourl who="CombatMission.fr">http://www.combatmission.fr/battle-for-normandy/pour-quelques-scenars-de-plus/wittmanns-demise/</infourl>
+			<downloadurl who="CombatMission.fr">http://</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Translation by Carlos" filename="CW Wittmann's Swords at Villers Bocage (FR).btt">
+		<urls_list>
+			<infourl who="CombatMission.fr">http://www.combatmission.fr/battle-for-normandy/pour-quelques-scenars-de-plus/wittmann-wins-the-swords-at-villers-bocage/</infourl>
+			<downloadurl who="CombatMission.fr">http://www.combatmission.fr/download/CW%20Wittmann%27s%20Swords%20at%20Villers%20Bocage%20(FR).btt</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Translation by Carlos" filename="Danger in the Morning (FR).btt">
+		<urls_list>
+			<infourl who="CombatMission.fr">http://www.combatmission.fr/battle-for-normandy/pour-quelques-scenars-de-plus/danger-in-the-morning/</infourl>
+			<downloadurl who="CombatMission.fr">http://www.combatmission.fr/download/Danger%20in%20the%20Morning%20(FR).btt</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Translation by Carlos" filename="CW 18 Platoon (FR).btt">
+		<urls_list>
+			<infourl who="CombatMission.fr">http://www.combatmission.fr/battle-for-normandy/scenarios-commonwealth-forces/</infourl>
+			<downloadurl who="CombatMission.fr">http://www.combatmission.fr/download/Pack%20des%20Sc%C3%A9narios%20Commonwealth%20Forces%20en%20fran%C3%A7ais%20(Partie%201).zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Translation by Carlos" filename="CW Breaking the Panzers (FR).btt">
+		<urls_list>
+			<infourl who="CombatMission.fr">http://www.combatmission.fr/battle-for-normandy/scenarios-commonwealth-forces/</infourl>
+			<downloadurl who="CombatMission.fr">http://www.combatmission.fr/download/Pack%20des%20Sc%C3%A9narios%20Commonwealth%20Forces%20en%20fran%C3%A7ais%20(Partie%201).zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Translation by Carlos" filename="CW Buron - Sticking it Out (FR).btt">
+		<urls_list>
+			<infourl who="CombatMission.fr">http://www.combatmission.fr/battle-for-normandy/scenarios-commonwealth-forces/</infourl>
+			<downloadurl who="CombatMission.fr">http://www.combatmission.fr/download/Pack%20des%20Sc%C3%A9narios%20Commonwealth%20Forces%20en%20fran%C3%A7ais%20(Partie%201).zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Translation by Carlos" filename="CW Buron - The Main Event (FR).btt">
+		<urls_list>
+			<infourl who="CombatMission.fr">http://www.combatmission.fr/battle-for-normandy/scenarios-commonwealth-forces/</infourl>
+			<downloadurl who="CombatMission.fr">http://www.combatmission.fr/download/Pack%20des%20Sc%C3%A9narios%20Commonwealth%20Forces%20en%20fran%C3%A7ais%20(Partie%201).zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Translation by Carlos" filename="CW Colossal Crack (FR).btt">
+		<urls_list>
+			<infourl who="CombatMission.fr">http://www.combatmission.fr/battle-for-normandy/scenarios-commonwealth-forces/</infourl>
+			<downloadurl who="CombatMission.fr">http://www.combatmission.fr/download/Pack%20des%20Sc%C3%A9narios%20Commonwealth%20Forces%20en%20fran%C3%A7ais%20(Partie%201).zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Translation by Carlos" filename="CW Evil Be Unto Him (FR).btt">
+		<urls_list>
+			<infourl who="CombatMission.fr">http://www.combatmission.fr/battle-for-normandy/scenarios-commonwealth-forces/</infourl>
+			<downloadurl who="CombatMission.fr">http://www.combatmission.fr/download/Pack%20des%20Sc%C3%A9narios%20Commonwealth%20Forces%20en%20fran%C3%A7ais%20(Partie%201).zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Translation by Carlos" filename="CW Flowers of the Forest (FR).btt">
+		<urls_list>
+			<infourl who="CombatMission.fr">http://www.combatmission.fr/battle-for-normandy/scenarios-commonwealth-forces/</infourl>
+			<downloadurl who="CombatMission.fr">http://www.combatmission.fr/download/Pack%20des%20Sc%C3%A9narios%20Commonwealth%20Forces%20en%20fran%C3%A7ais%20(Partie%201).zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Translation by Carlos" filename="CW Holy Ground (FR).btt">
+		<urls_list>
+			<infourl who="CombatMission.fr">http://www.combatmission.fr/battle-for-normandy/scenarios-commonwealth-forces/</infourl>
+			<downloadurl who="CombatMission.fr">http://www.combatmission.fr/download/Pack%20des%20Sc%C3%A9narios%20Commonwealth%20Forces%20en%20fran%C3%A7ais%20(Partie%201).zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Translation by Carlos" filename="CW In the Shadow of the Hill 5am (FR).btt">
+		<urls_list>
+			<infourl who="CombatMission.fr">http://www.combatmission.fr/battle-for-normandy/scenarios-commonwealth-forces/</infourl>
+			<downloadurl who="CombatMission.fr">http://www.combatmission.fr/download/Pack%20des%20Sc%C3%A9narios%20Commonwealth%20Forces%20en%20fran%C3%A7ais%20(Partie%201).zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Translation by Carlos" filename="CW In the Shadow of the Hill 6am (FR).btt">
+		<urls_list>
+			<infourl who="CombatMission.fr">http://www.combatmission.fr/battle-for-normandy/scenarios-commonwealth-forces/</infourl>
+			<downloadurl who="CombatMission.fr">http://www.combatmission.fr/download/Pack%20des%20Sc%C3%A9narios%20Commonwealth%20Forces%20en%20fran%C3%A7ais%20(Partie%201).zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Translation by Carlos" filename="CW In the Shadow of the Hill 7am (FR).btt">
+		<urls_list>
+			<infourl who="CombatMission.fr">http://www.combatmission.fr/battle-for-normandy/scenarios-commonwealth-forces/</infourl>
+			<downloadurl who="CombatMission.fr">http://www.combatmission.fr/download/Pack%20des%20Sc%C3%A9narios%20Commonwealth%20Forces%20en%20fran%C3%A7ais%20(Partie%201).zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Translation by Carlos" filename="CW In the Shadow of the Hill 8-30am (FR).btt">
+		<urls_list>
+			<infourl who="CombatMission.fr">http://www.combatmission.fr/battle-for-normandy/scenarios-commonwealth-forces/</infourl>
+			<downloadurl who="CombatMission.fr">http://www.combatmission.fr/download/Pack%20des%20Sc%C3%A9narios%20Commonwealth%20Forces%20en%20fran%C3%A7ais%20(Partie%201).zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Translation by Carlos" filename="CW Keep Calm and Carry On (FR).btt">
+		<urls_list>
+			<infourl who="CombatMission.fr">http://www.combatmission.fr/battle-for-normandy/scenarios-commonwealth-forces/</infourl>
+			<downloadurl who="CombatMission.fr">http://www.combatmission.fr/download/Pack%20des%20Sc%C3%A9narios%20Commonwealth%20Forces%20en%20fran%C3%A7ais%20(Partie%201).zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Translation by Carlos" filename="CW Linking Up &amp; Breaking Out (FR).btt">
+		<urls_list>
+			<infourl who="CombatMission.fr">http://www.combatmission.fr/battle-for-normandy/scenarios-commonwealth-forces/</infourl>
+			<downloadurl who="CombatMission.fr">http://www.combatmission.fr/download/Pack%20des%20Sc%C3%A9narios%20Commonwealth%20Forces%20en%20fran%C3%A7ais%20(Partie%202).zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Translation by Carlos" filename="CW Loamshires (FR).btt">
+		<urls_list>
+			<infourl who="CombatMission.fr">http://www.combatmission.fr/battle-for-normandy/scenarios-commonwealth-forces/</infourl>
+			<downloadurl who="CombatMission.fr">http://www.combatmission.fr/download/Pack%20des%20Sc%C3%A9narios%20Commonwealth%20Forces%20en%20fran%C3%A7ais%20(Partie%202).zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Translation by Carlos" filename="CW My Honor is Loyalty (FR).btt">
+		<urls_list>
+			<infourl who="CombatMission.fr">http://www.combatmission.fr/battle-for-normandy/scenarios-commonwealth-forces/</infourl>
+			<downloadurl who="CombatMission.fr">http://www.combatmission.fr/download/Pack%20des%20Sc%C3%A9narios%20Commonwealth%20Forces%20en%20fran%C3%A7ais%20(Partie%202).zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Translation by Carlos" filename="CW NEDForce (FR).btt">
+		<urls_list>
+			<infourl who="CombatMission.fr">http://www.combatmission.fr/battle-for-normandy/scenarios-commonwealth-forces/</infourl>
+			<downloadurl who="CombatMission.fr">http://www.combatmission.fr/download/Pack%20des%20Sc%C3%A9narios%20Commonwealth%20Forces%20en%20fran%C3%A7ais%20(Partie%202).zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Translation by Carlos" filename="CW NorMons (FR).btt">
+		<urls_list>
+			<infourl who="CombatMission.fr">http://www.combatmission.fr/battle-for-normandy/scenarios-commonwealth-forces/</infourl>
+			<downloadurl who="CombatMission.fr">http://www.combatmission.fr/download/Pack%20des%20Sc%C3%A9narios%20Commonwealth%20Forces%20en%20fran%C3%A7ais%20(Partie%202).zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Translation by Carlos" filename="CW Seven Winds (FR).btt">
+		<urls_list>
+			<infourl who="CombatMission.fr">http://www.combatmission.fr/battle-for-normandy/scenarios-commonwealth-forces/</infourl>
+			<downloadurl who="CombatMission.fr">http://www.combatmission.fr/download/Pack%20des%20Sc%C3%A9narios%20Commonwealth%20Forces%20en%20fran%C3%A7ais%20(Partie%202).zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Translation by Carlos" filename="CW Surrender Invites Death (FR).btt">
+		<urls_list>
+			<infourl who="CombatMission.fr">http://www.combatmission.fr/battle-for-normandy/scenarios-commonwealth-forces/</infourl>
+			<downloadurl who="CombatMission.fr">http://www.combatmission.fr/download/Pack%20des%20Sc%C3%A9narios%20Commonwealth%20Forces%20en%20fran%C3%A7ais%20(Partie%202).zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Translation by Carlos" filename="CW The Bridge at Varaville (FR).btt">
+		<urls_list>
+			<infourl who="CombatMission.fr">http://www.combatmission.fr/battle-for-normandy/scenarios-commonwealth-forces/</infourl>
+			<downloadurl who="CombatMission.fr">http://www.combatmission.fr/download/Pack%20des%20Sc%C3%A9narios%20Commonwealth%20Forces%20en%20fran%C3%A7ais%20(Partie%202).zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Translation by Carlos" filename="CW The Mace (FR).btt">
+		<urls_list>
+			<infourl who="CombatMission.fr">http://www.combatmission.fr/battle-for-normandy/scenarios-commonwealth-forces/</infourl>
+			<downloadurl who="CombatMission.fr">http://www.combatmission.fr/download/Pack%20des%20Sc%C3%A9narios%20Commonwealth%20Forces%20en%20fran%C3%A7ais%20(Partie%202).zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Translation by Carlos" filename="CW Through the Loop (FR).btt">
+		<urls_list>
+			<infourl who="CombatMission.fr">http://www.combatmission.fr/battle-for-normandy/scenarios-commonwealth-forces/</infourl>
+			<downloadurl who="CombatMission.fr">http://www.combatmission.fr/download/Pack%20des%20Sc%C3%A9narios%20Commonwealth%20Forces%20en%20fran%C3%A7ais%20(Partie%202).zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Translation by Carlos" filename="CW Ubique (FR).btt">
+		<urls_list>
+			<infourl who="CombatMission.fr">http://www.combatmission.fr/battle-for-normandy/scenarios-commonwealth-forces/</infourl>
+			<downloadurl who="CombatMission.fr">http://www.combatmission.fr/download/Pack%20des%20Sc%C3%A9narios%20Commonwealth%20Forces%20en%20fran%C3%A7ais%20(Partie%202).zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Translation by Carlos" filename="CW Valleys of Decision (FR).btt">
+		<urls_list>
+			<infourl who="CombatMission.fr">http://www.combatmission.fr/battle-for-normandy/scenarios-commonwealth-forces/</infourl>
+			<downloadurl who="CombatMission.fr">http://www.combatmission.fr/download/Pack%20des%20Sc%C3%A9narios%20Commonwealth%20Forces%20en%20fran%C3%A7ais%20(Partie%202).zip</downloadurl>
+		</urls_list>
+	</scenario>
+<!-- need entries for MG and top level -->
+	
+	
+<!-- 	<scenario author="Translation by Carlos" filename=""> -->
+<!-- 		<urls_list> -->
+<!-- 			<infourl who="CombatMission.fr">http://www.combatmission.fr/battle-for-normandy/scenarios-commonwealth-forces/</infourl> -->
+<!-- 			<downloadurl who="CombatMission.fr">http://www.combatmission.fr/download/Pack%20des%20Sc%C3%A9narios%20Commonwealth%20Forces%20en%20fran%C3%A7ais%20(Partie%202).zip</downloadurl> -->
+<!-- 		</urls_list> -->
+<!-- 	</scenario> -->
+	
+<!-- 	<scenario author="" filename=""> -->
+<!-- 		<urls_list> -->
+<!-- 			<infourl who="Scenario Depot"></infourl> -->
+<!-- 			<downloadurl who="Scenario Depot">http://</downloadurl> -->
+<!-- 		</urls_list> -->
+<!-- 	</scenario> -->
+</scenarios>

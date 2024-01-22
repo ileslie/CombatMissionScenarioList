@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scenarios>
+	<scenario author="IanL" filename="Lanzerath Ridge Master Map.btt">
+        <additional_info>This is the map used for the scenario that ships with CMFB “Action at Lanzerath Ridge”.  I made the map using google earth (or the terrain) and the pictures and maps in the book The Longest Winter  https://www.amazon.ca/The-Longest-Winter-Decorated-Platoon/dp/0306814404 (for period pictures).  This map is much larger than what was used in the scenario.  It includes the ridge where the fighting took place, the village and a fair amount of the area south of the village too.
+        </additional_info>
+        <urls_list>
+            <downloadurl primary="y" who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-final-blitzkrieg/cm-final-blitzkrieg-maps/lanzerath-ridge-map/</downloadurl>
+        </urls_list>
+	</scenario>
+	<scenario author="Benpark" filename="Aachen Master Map.btt" stock="y" />
+	<scenario author="Sgt Joch" filename="Chaumont Master Map.btt" stock="y" />
+	<scenario author="information unavailable" filename="Lutrebois Master Map.btt" stock="y" />
+	<scenario author="Steve Burke" filename="Marnach Master Map.btt" stock="y" />
+	<scenario author="PanzerMike" filename="Meijel Master Map.btt" stock="y" />
+	<scenario author="nik mond" filename="Monschau and Rur River Master Map.btt" stock="y" />
+	<scenario author="Benpark" filename="Noville Master Map.btt" stock="y" />
+	<scenario author="Benpark" filename="Noville Snow Master Map.btt" stock="y" />
+	<scenario author="Steve Burke" filename="St Vith North Master Map.btt" stock="y" />
+	<scenario author="Benpark" filename="Stavelot Master Map.btt" stock="y" />
+	<scenario author="Pete Wenman" filename="Stoumont Master Map.btt" stock="y" />
+	<scenario author="information unavailable" filename="Twin Villages Master Map.btt" stock="y" />
+    <scenario author="CMFDRJ" filename="GunneryRange_CMFB.btt">
+        <additional_info>CMBS Training Maps Ported to WW2 (BN, FB, FI, RT)
+
+The maps from Black Sea training campaign ported to Battle for Normandy, Final Blitzkrieg, Fortress Italy and Red Thunder.
+
+Every elements but the terrain and buildings have been removed. The maps are ready for whatever your imagination is up to.
+        </additional_info>
+        <urls_list>
+            <downloadurl primary="y" who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons/cmbs-training-maps-ported-to-ww2-bn-fb-fi-rt/</downloadurl>
+        </urls_list>
+    </scenario>
+    <scenario author="Bartimeus" filename="Schatterberg_1552x1504.btt">
+        <additional_info>1552×1504 maps. Doesn’t have setup zones or objectives. Simple Final Blitzkrieg map to add to your collection.
+        </additional_info>
+        <urls_list>
+            <downloadurl primary="y" who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-final-blitzkrieg/cm-final-blitzkrieg-maps/cmfb-map-schatterberg/</downloadurl>
+        </urls_list>
+    </scenario>
+    <scenario author="CMFDRJ" filename="UrbanTrainingCenter_CMFB.btt">
+        <additional_info>CMBS Training Maps Ported to WW2 (BN, FB, FI, RT)
+
+The maps from Black Sea training campaign ported to Battle for Normandy, Final Blitzkrieg, Fortress Italy and Red Thunder.
+
+Every elements but the terrain and buildings have been removed. The maps are ready for whatever your imagination is up to.
+        </additional_info>
+        <urls_list>
+            <downloadurl primary="y" who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons/cmbs-training-maps-ported-to-ww2-bn-fb-fi-rt/</downloadurl>
+        </urls_list>
+    </scenario>	
+
+<!--    <scenario author="" filename=""> -->
+<!--        <urls_list> -->
+<!--            <infourl who="Scenario Depot"></infourl> -->
+<!--            <downloadurl who="Scenario Depot" primary="y">http://</downloadurl> -->
+<!--        </urls_list> -->
+<!--    </scenario> -->
+</scenarios>

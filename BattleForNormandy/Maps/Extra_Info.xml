@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scenarios>
+	<scenario author="Pete Wenman" filename="MG Arnhem Road Bridge Master Map.btt" stock="y" />
+	<scenario author="Benpark" filename="MG Elst Master Map.btt" stock="y" />
+	<scenario author="Pete Wenman" filename="MG Johanna Hoeve Master Map.btt" stock="y" />
+	<scenario author="Benpark" filename="MG Nijmegen City Master Map.btt" stock="y" />
+	<scenario author="Benpark" filename="MG Nijmegen West Master Map.btt" stock="y" />
+	<scenario author="Pete Wenman" filename="MG Oosterbeek Master Map.btt" stock="y" />
+	<scenario author="Pete Wenman" filename="MG Oosterhout Master Map.btt" stock="y" />
+	<scenario author="Ithikial" filename="Carpiquet North Clean.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/wpfb-file/lions-of-carpiquet-maps-and-mods-zip/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/Lions-of-Carpiquet-Maps-and-Mods.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Ithikial" filename="Carpiquet North Light Damage.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/wpfb-file/lions-of-carpiquet-maps-and-mods-zip/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/Lions-of-Carpiquet-Maps-and-Mods.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Ithikial" filename="Carpiquet South Clean.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/wpfb-file/lions-of-carpiquet-maps-and-mods-zip/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/Lions-of-Carpiquet-Maps-and-Mods.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Ithikial" filename="Carpiquet South Light Damage.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/wpfb-file/lions-of-carpiquet-maps-and-mods-zip/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/Lions-of-Carpiquet-Maps-and-Mods.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Fabio Mantegazza" filename="0 [FM] Pont Saint Clovis.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/combat-mission-battle-for-normandy/cm-battles-for-normandy-add-ons-maps/map-map-updates-and-new-map/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/La-Belle-Croix-Pont-St.-Clovis-Toquemont-Vauvrecy-updates.rar</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Fabio Mantegazza" filename="0 [FM] La Belle Croix.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/combat-mission-battle-for-normandy/cm-battles-for-normandy-add-ons-maps/map-map-updates-and-new-map/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/La-Belle-Croix-Pont-St.-Clovis-Toquemont-Vauvrecy-updates.rar</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Fabio Mantegazza" filename="0 [FM] Station de Toquemont.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/combat-mission-battle-for-normandy/cm-battles-for-normandy-add-ons-maps/map-map-updates-and-new-map/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/La-Belle-Croix-Pont-St.-Clovis-Toquemont-Vauvrecy-updates.rar</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Fabio Mantegazza" filename="0 [FM] Toquemont.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/combat-mission-battle-for-normandy/cm-battles-for-normandy-add-ons-maps/map-map-updates-and-new-map/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/La-Belle-Croix-Pont-St.-Clovis-Toquemont-Vauvrecy-updates.rar</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Fabio Mantegazza" filename="0 [FM] Vauvrecy.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/combat-mission-battle-for-normandy/cm-battles-for-normandy-add-ons-maps/map-map-updates-and-new-map/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/La-Belle-Croix-Pont-St.-Clovis-Toquemont-Vauvrecy-updates.rar</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Julian Johnstone" filename="Hill 112.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/combat-mission-battle-for-normandy/cm-battles-for-normandy-add-ons-maps/map-hill-112/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/Hill-112.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Michael Dorosh" filename="TWC - Meet Medium Forest (Chetwood).btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/combat-mission-battle-for-normandy/cm-battles-for-normandy-add-ons-maps/map-twc-meet-medium-forest-chetwood/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/TWC-Meet-Medium-Forest-Chetwood.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="information unavailable" filename="Map - Aussaie.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/combat-mission-battle-for-normandy/cm-battles-for-normandy-add-ons-maps/map-aussaie-master-map/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/Map-Aussaie_2.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="information unavailable" filename="Three Bridges.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/combat-mission-battle-for-normandy/cm-battles-for-normandy-add-ons-maps/map-three-bridges/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/Three%20Bridges.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Pete Wenman" filename="2x2.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/combat-mission-battle-for-normandy/cm-battles-for-normandy-add-ons-maps/cmbn-repository-map-collection-1/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/CMBN-MAP-COLLECTION-1.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="mjkerner" filename="AAA_MJS_Country Farmhouse.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/combat-mission-battle-for-normandy/cm-battles-for-normandy-add-ons-maps/cmbn-repository-map-collection-2/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/CMBN-MAP-COLLECTION-2.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Heckenschütze" filename="ANLP_Hill 108 .btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/combat-mission-battle-for-normandy/cm-battles-for-normandy-add-ons-maps/cmbn-repository-map-collection-2/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/CMBN-MAP-COLLECTION-2.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Heckenschütze" filename="ANLP_Vierville-sur-Mer.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/combat-mission-battle-for-normandy/cm-battles-for-normandy-add-ons-maps/cmbn-repository-map-collection-2/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/CMBN-MAP-COLLECTION-2.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Egger" filename="Assault to Jersey.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/combat-mission-battle-for-normandy/cm-battles-for-normandy-add-ons-maps/cmbn-repository-map-collection-2/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/CMBN-MAP-COLLECTION-2.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Egger" filename="Avranches, the lion's den.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/combat-mission-battle-for-normandy/cm-battles-for-normandy-add-ons-maps/cmbn-repository-map-collection-2/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/CMBN-MAP-COLLECTION-2.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="information unavailable" filename="Bruton (14) QB.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/combat-mission-battle-for-normandy/cm-battles-for-normandy-add-ons-maps/cmbn-repository-map-collection-2/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/CMBN-MAP-COLLECTION-2.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="broadsword56" filename="Caen area - Juvigny to Fontenay - Map Only.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/combat-mission-battle-for-normandy/cm-battles-for-normandy-add-ons-maps/cmbn-repository-map-collection-2/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/CMBN-MAP-COLLECTION-2.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Rokko" filename="CaenMapProject_revised_FINAL.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/combat-mission-battle-for-normandy/cm-battles-for-normandy-add-ons-maps/cmbn-repository-map-collection-2/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/CMBN-MAP-COLLECTION-2.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Umlaut" filename="Ciembienne.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/combat-mission-battle-for-normandy/cm-battles-for-normandy-add-ons-maps/cmbn-repository-map-collection-2/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/CMBN-MAP-COLLECTION-2.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Shaffer" filename="Closed for Renovation.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/combat-mission-battle-for-normandy/cm-battles-for-normandy-add-ons-maps/cmbn-repository-map-collection-2/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/CMBN-MAP-COLLECTION-2.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="SlapHappy" filename="German HQ.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/combat-mission-battle-for-normandy/cm-battles-for-normandy-add-ons-maps/cmbn-repository-map-collection-2/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/CMBN-MAP-COLLECTION-2.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Christian Knudsen" filename="HILL 192 expanded.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/combat-mission-battle-for-normandy/cm-battles-for-normandy-add-ons-maps/cmbn-repository-map-collection-2/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/CMBN-MAP-COLLECTION-2.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="broadsword56" filename="hth_large_bocage_rough_Choisy_map_only_no_ai.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/combat-mission-battle-for-normandy/cm-battles-for-normandy-add-ons-maps/cmbn-repository-map-collection-2/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/CMBN-MAP-COLLECTION-2.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="broadsword56" filename="HTH_large_bocage_rough_La_Nicollerie_map_only_no_AI_v1.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/combat-mission-battle-for-normandy/cm-battles-for-normandy-add-ons-maps/cmbn-repository-map-collection-2/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/CMBN-MAP-COLLECTION-2.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="information unavailable" filename="Humbug-Medium-ME-(Bocage).btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/combat-mission-battle-for-normandy/cm-battles-for-normandy-add-ons-maps/cmbn-repository-map-collection-2/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/CMBN-MAP-COLLECTION-2.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="information unavailable" filename="Humbug-Small-ME-Village(bocage).btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/combat-mission-battle-for-normandy/cm-battles-for-normandy-add-ons-maps/cmbn-repository-map-collection-2/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/CMBN-MAP-COLLECTION-2.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Paul Synnott" filename="village_mapOnly_1.3.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/combat-mission-battle-for-normandy/cm-battles-for-normandy-add-ons-maps/cmbn-repository-map-collection-3/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/CMBN-MAP-COLLECTION-3.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Broadsword56" filename="xix_corps_center_4x4km_july44_no_ai_master.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/combat-mission-battle-for-normandy/cm-battles-for-normandy-add-ons-maps/cmbn-repository-map-collection-3/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/CMBN-MAP-COLLECTION-3.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Nelson1812" filename="Villers.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=2855</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Broadsword56" filename="MG Son West - Map Only - No AI.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=2895</downloadurl>
+		</urls_list>
+	</scenario>
+	
+<!-- 	<scenario author="" filename=""> -->
+<!-- 		<urls_list> -->
+<!-- 			<infourl who=""></infourl> -->
+<!-- 			<downloadurl who=""></downloadurl> -->
+<!-- 		</urls_list> -->
+<!-- 	</scenario> -->
+</scenarios>

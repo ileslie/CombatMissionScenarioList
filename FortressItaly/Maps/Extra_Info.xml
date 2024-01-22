@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scenarios>
+	<scenario author="Christopher Nelson (Normal Dude)" filename="Cassino Campaign Master Map.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-fortress-italy/cm-fortress-italy-add-ons-maps/official-campaigns-map-pack/</infourl>
+			<downloadurl primary="y" who="Scenario Depot">www.thefewgoodmen.com/tsd3/download/Gustav-Line-Campaign-Maps.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Christopher Nelson (Normal Dude)" filename="Corridor Campaign Map 1.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-fortress-italy/cm-fortress-italy-add-ons-maps/official-campaigns-map-pack/</infourl>
+			<downloadurl primary="y" who="Scenario Depot">www.thefewgoodmen.com/tsd3/download/Gustav-Line-Campaign-Maps.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Christopher Nelson (Normal Dude)" filename="Corridor Campaign Map 2.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-fortress-italy/cm-fortress-italy-add-ons-maps/official-campaigns-map-pack/</infourl>
+			<downloadurl primary="y" who="Scenario Depot">www.thefewgoodmen.com/tsd3/download/Gustav-Line-Campaign-Maps.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Christopher Nelson (Normal Dude)" filename="Corridor Campaign Map 3.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-fortress-italy/cm-fortress-italy-add-ons-maps/official-campaigns-map-pack/</infourl>
+			<downloadurl primary="y" who="Scenario Depot">www.thefewgoodmen.com/tsd3/download/Gustav-Line-Campaign-Maps.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Christopher Nelson (Normal Dude)" filename="Corridor Campaign Map 4.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-fortress-italy/cm-fortress-italy-add-ons-maps/official-campaigns-map-pack/</infourl>
+			<downloadurl primary="y" who="Scenario Depot">www.thefewgoodmen.com/tsd3/download/Gustav-Line-Campaign-Maps.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Christopher Nelson (Normal Dude)" filename="Foiling Fustian Master Map.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-fortress-italy/cm-fortress-italy-add-ons-maps/official-campaigns-map-pack/</infourl>
+			<downloadurl primary="y" who="Scenario Depot">www.thefewgoodmen.com/tsd3/download/Gustav-Line-Campaign-Maps.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Benjamin Donaldson" filename="Ortona Map.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-fortress-italy/cm-fortress-italy-add-ons-maps/cmfi-ortona-city-map/</infourl>
+			<downloadurl primary="y" who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/Ortona-Map.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Christopher Nelson (Normal Dude)" filename="Raging Buffalo Campaign Master Map 1.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-fortress-italy/cm-fortress-italy-add-ons-maps/official-campaigns-map-pack/</infourl>
+			<downloadurl primary="y" who="Scenario Depot">www.thefewgoodmen.com/tsd3/download/Gustav-Line-Campaign-Maps.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Christopher Nelson (Normal Dude)" filename="Raging Buffalo Campaign Master Map 2.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-fortress-italy/cm-fortress-italy-add-ons-maps/official-campaigns-map-pack/</infourl>
+			<downloadurl primary="y" who="Scenario Depot">www.thefewgoodmen.com/tsd3/download/Gustav-Line-Campaign-Maps.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Steve Burke" filename="Venafro 656 x 800.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-fortress-italy/cm-fortress-italy-add-ons-maps/venafro-map-656-x-800/</infourl>
+			<downloadurl primary="y" who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/Venafro-656-x-800.rar</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Pete Wenman" filename="East of Menfi 3k x 2k.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-fortress-italy/cm-fortress-italy-add-ons-maps/east-of-menfi-3k-x-2k/</infourl>
+			<downloadurl primary="y" who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/East-of-Menfi-3k-x-2k.rar</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Umlaut" filename="CMFI Movie map.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-fortress-italy/cm-fortress-italy-add-ons-maps/cmfi-movie-map/</infourl>
+			<downloadurl primary="y" who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/CMFI-Movie-map.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Folkie" filename="hosingen .btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-fortress-italy/cm-fortress-italy-add-ons-maps/map-hosingen/</infourl>
+			<downloadurl primary="y" who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/cmfi/cmfi_maps/hosingen-.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Folkie" filename="cider crossroads.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-fortress-italy/cm-fortress-italy-add-ons-maps/map-cider-crossroads/</infourl>
+			<downloadurl primary="y" who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/cmfi/cmfi_maps/cider-crossroads.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Kevinkin" filename="Tunisia Map Set Map 1.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-fortress-italy/cm-fortress-italy-add-ons-maps/map-tunisia-map-set/</infourl>
+			<downloadurl primary="y" who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/Tunisis-Map-Set1.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Kevinkin" filename="Tunisia Map Set Map 2.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-fortress-italy/cm-fortress-italy-add-ons-maps/map-tunisia-map-set/</infourl>
+			<downloadurl primary="y" who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/Tunisis-Map-Set1.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Kevinkin" filename="Tunisia Map Set Map 3.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-fortress-italy/cm-fortress-italy-add-ons-maps/map-tunisia-map-set/</infourl>
+			<downloadurl primary="y" who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/Tunisis-Map-Set1.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Kevinkin" filename="Tunisia Map Set Map 4.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-fortress-italy/cm-fortress-italy-add-ons-maps/map-tunisia-map-set/</infourl>
+			<downloadurl primary="y" who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/Tunisis-Map-Set1.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Kevinkin" filename="Tunisia Map Set Map 5.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-fortress-italy/cm-fortress-italy-add-ons-maps/map-tunisia-map-set/</infourl>
+			<downloadurl primary="y" who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/Tunisis-Map-Set1.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="IanL" filename="RualEastOfGela.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-fortress-italy/cm-fortress-italy-add-ons-maps/map-rural-area-east-of-gela-1km-x-1km/</infourl>
+			<downloadurl primary="y" who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/RualEastOfGela.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Folkie" filename="malta.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-fortress-italy/cm-fortress-italy-add-ons-maps/map-malta/</infourl>
+			<downloadurl primary="y" who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/cmfi/cmfi_maps/malta.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Christopher Nelson (Normal Dude)" filename="Troina v2.cam">
+		<urls_list>
+			<downloadurl primary="y" who="Battle Front">http://www.battlefront.com/index.php?amp;option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=2683</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Carlos Lourenco (Los)" filename="GL Noertrange Map only.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=2962</downloadurl>
+		</urls_list>
+	</scenario>
+	
+
+<!-- 	<scenario author="information unavailable" filename=""> -->
+<!-- 		<urls_list> -->
+<!-- 			<infourl who=""></infourl> -->
+<!-- 			<downloadurl primary="y" who=""></downloadurl> -->
+<!-- 		</urls_list> -->
+<!-- 	</scenario> -->
+</scenarios>

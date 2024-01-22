@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scenarios>
+	<scenario author="ChrisND" filename="Crossing the Dnieper.cam" stock="y"/>
+	<scenario author="ChrisND" filename="Task Force 3-69.cam" stock="y"/>
+	<scenario author="ChrisND" filename="The Shield of Kiev.cam" stock="y"/>
+	<scenario author="ChrisND" filename="Training Campaign.cam" stock="y"/>
+	<scenario author="Imperial Grunt" filename="Task Force Spartan Resolve.cam">
+	   <urls_list>
+	       <downloadurl primary="y" who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-black-sea/cm-black-sea-add-ons/task-force-spartan-resolve/</downloadurl>
+	   </urls_list>
+	</scenario>
+	<scenario author="Imperial Grunt" filename="The Charge of the Stryker Brigade.cam" stock="y"/>
+	<scenario author="Imperial Grunt" filename="The Push From Dniprodzerhyn'sk.cam" stock="y"/>
+	
+<!--    <scenario author="" filename=""> -->
+<!--        <additional_info> -->
+<!--        </additional_info> -->
+<!--        <urls_list> -->
+<!--            <infourl who="the Blitz"></infourl> -->
+<!--            <downloadurl who="Scenario Depot" primary="y">http://</downloadurl> -->
+<!--        </urls_list> -->
+<!--    </scenario> -->
+</scenarios>

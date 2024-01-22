@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scenarios>
+	<scenario author="George MC" filename="Ambush.btt" stock="y">
+	    <urls_list>
+	        <infourl who="the Blitz">https://www.theblitz.club/scenarios/combat-mission-black-sea/ambush/b-15.htm?action=scenario&amp;id=12439</infourl>
+	    </urls_list>
+	</scenario>
+	<scenario author="Pete Wenman" filename="August Morning.btt" stock="y" />
+	<scenario author="George MC" filename="Bridgehead at Kharalyk.btt" stock="y">
+		<urls_list>
+			<infourl who="the Blitz">http://www.theblitz.club/scenarios/combat-mission-black-sea/bridgehead-at-kharalyk/b-15.htm?action=scenario&amp;id=11537</infourl>
+		</urls_list>
+	</scenario>
+	<scenario author="Pete Wenman" filename="Brutal.btt" stock="y">
+	    <urls_list>
+	        <infourl who="the Blitz">https://www.theblitz.club/scenarios/combat-mission-black-sea/brutal/b-15.htm?action=scenario&amp;id=11763</infourl>
+	    </urls_list>
+	</scenario>
+	<scenario author="Imperial Grunt" filename="Cry Havoc.btt" stock="y" />
+	<scenario author="nikmond" filename="Dueling Shashkas.btt" stock="y">
+		<urls_list>
+			<infourl who="the Blitz">http://www.theblitz.club/scenarios/combat-mission-black-sea/dueling-shashkas/b-15.htm?action=scenario&amp;id=11103</infourl>
+		</urls_list>
+	</scenario>
+	<scenario author="George MC" filename="First Clash.btt" stock="y">
+		<urls_list>
+			<infourl who="the Blitz">http://www.theblitz.club/scenarios/combat-mission-black-sea/first-clash/b-15.htm?action=scenario&amp;id=11230</infourl>
+		</urls_list>
+	</scenario>
+	<scenario author="L0ckAndL0ad" filename="Gagarina Ave Checkpoint.btt" stock="y">
+		<urls_list>
+			<infourl who="the Blitz">http://www.theblitz.club/scenarios/combat-mission-black-sea/gagarina-ave-checkpoint/b-15.htm?action=scenario&amp;id=11109</infourl>
+		</urls_list>
+	</scenario>
+	<scenario author="L0ckAndL0ad" filename="Galloping Horse Downfall.btt" stock="y">
+		<urls_list>
+			<infourl who="the Blitz">http://www.theblitz.club/scenarios/combat-mission-black-sea/galloping-horse-downfall/b-15.htm?action=scenario&amp;id=11177</infourl>
+		</urls_list>
+	</scenario>
+	<scenario author="L0ckAndL0ad" filename="Gauntlets Crossed.btt" stock="y">
+		<urls_list>
+			<infourl who="the Blitz">http://www.theblitz.club/scenarios/combat-mission-black-sea/gauntlets-crossed/b-15.htm?action=scenario&amp;id=11096</infourl>
+		</urls_list>
+	</scenario>
+	<scenario author="Sergei" filename="Going to Town.btt" stock="y">
+		<urls_list>
+			<infourl who="the Blitz">http://www.theblitz.club/scenarios/combat-mission-black-sea/going-to-town/b-15.htm?action=scenario&amp;id=11183</infourl>
+		</urls_list>
+	</scenario>
+	<scenario author="Imperial Grunt" filename="Hold the Line.btt" stock="y">
+		<urls_list>
+			<infourl who="the Blitz">http://www.theblitz.club/scenarios/combat-mission-black-sea/hold-the-line/b-15.htm?action=scenario&amp;id=11148</infourl>
+		</urls_list>
+	</scenario>
+	<scenario author="nikmond" filename="Interdiction.btt" stock="y" />
+	<scenario author="Imperial Grunt" filename="Into the Breach.btt" stock="y">
+		<urls_list>
+			<infourl who="the Blitz">http://www.theblitz.club/scenarios/combat-mission-black-sea/into-the-breach/b-15.htm?action=scenario&amp;id=11249</infourl>
+		</urls_list>
+	</scenario>
+	<scenario author="George MC" filename="Morning Coffee.btt" stock="y">
+		<urls_list>
+			<infourl who="the Blitz">http://www.theblitz.club/scenarios/combat-mission-black-sea/morning-coffee/b-15.htm?action=scenario&amp;id=11182</infourl>
+		</urls_list>
+	</scenario>
+	<scenario author="Imperial Grunt" filename="Objective Delta.btt" stock="y">
+		<urls_list>
+			<infourl who="the Blitz">http://www.theblitz.club/scenarios/combat-mission-black-sea/objective-delta/b-15.htm?action=scenario&amp;id=11226</infourl>
+		</urls_list>
+	</scenario>
+	<scenario author="IanL" filename="Opportunity Knocks.btt" stock="y">
+	    <urls_list>
+	        <infourl who="the Blitz">https://www.theblitz.club/scenarios/combat-mission-black-sea/opportunity-knocks/b-15.htm?action=scenario&amp;id=12450</infourl>
+	    </urls_list>
+	</scenario>
+	<scenario author="Imperial Grunt" filename="Phase Line Green.btt" stock="y">
+	    <urls_list>
+	        <infourl who="the Blitz">https://www.theblitz.club/scenarios/combat-mission-black-sea/phase-line-green/b-15.htm?action=scenario&amp;id=12025</infourl>
+	    </urls_list>
+	</scenario>
+	<scenario author="Imperial Grunt" filename="Platoon House Aleksandra.btt" stock="y">
+		<urls_list>
+			<infourl who="the Blitz">http://www.theblitz.club/scenarios/combat-mission-black-sea/b-15.htm?action=scenario&amp;id=11804</infourl>
+		</urls_list>
+	</scenario>
+	<scenario author="Sergei" filename="Rollin' on the River.btt" stock="y">
+		<urls_list>
+			<infourl who="the Blitz">http://www.theblitz.club/scenarios/combat-mission-black-sea/rollin-on-the-river/b-15.htm?action=scenario&amp;id=11225</infourl>
+		</urls_list>
+	</scenario>
+	<scenario author="George MC" filename="Rolling Thunder_v1.btt">
+		<urls_list>
+		    <infourl who="the Bltiz">https://www.theblitz.club/scenarios/combat-mission-black-sea/rolling-thunder/b-15.htm?action=scenario&amp;id=11869</infourl>
+			<downloadurl primary="y" who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-black-sea/cm-black-sea-add-ons/cmbs-rolling-thunder/</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="ASL Veteran" filename="Valley of Death.btt" stock="y">
+	    <urls_list>
+	        <infourl who="the Blitz">https://www.theblitz.club/scenarios/combat-mission-black-sea/valley-of-death/b-15.htm?action=scenario&amp;id=14169</infourl>
+	    </urls_list>
+	</scenario>
+	<scenario author="SeinfeldRules" filename="AD Bradley Speedbump.btt">
+		<additional_info>REDFOR vs AI only.
+		</additional_info>
+		<urls_list>
+		    <infourl who="the Blitz">https://www.theblitz.club/scenarios/combat-mission-black-sea/ad-bradley-speedbump/b-15.htm?action=scenario&amp;id=11722</infourl>
+			<downloadurl primary="y" who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-black-sea/cm-black-sea-add-ons/ad-bradley-speedbump/</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="SeinfeldRules" filename="AD Myrne Roadblock.btt">
+		<urls_list>
+			<downloadurl primary="y" who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-black-sea/cm-black-sea-add-ons/ad-myrne-roadblock/</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="SeinfeldRules" filename="AD Night Jump.btt">
+		<additional_info>BLUFOR vs AI only.
+		</additional_info>
+		<urls_list>
+			<downloadurl primary="y" who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-black-sea/cm-black-sea-add-ons/ad-night-jump/</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Philipp" filename="Airman Down.btt">
+		<additional_info>4 Red AI plans and 1 Blue AI plan.
+		</additional_info>
+		<urls_list>
+			<downloadurl primary="y" who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-black-sea/cm-black-sea-add-ons/airman-down/</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Stephen Hilla aka The Teacher" filename="CMBS Lights, Camera and Action.btt">
+		<additional_info>This scenario is best played Head to head but it does have Red and Blue AI plans for solo players.
+		</additional_info>
+		<urls_list>
+		    <infourl who="the Blitz">http://www.theblitz.club/scenarios/combat-mission-black-sea/b-15.htm?action=scenario&amp;id=11640</infourl>
+			<downloadurl primary="y" who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-black-sea/cm-black-sea-add-ons/lights-camera-action/</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="SeinfeldRules" filename="Debaltseve Devils V2.btt">
+		<urls_list>
+			<downloadurl primary="y" who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-black-sea/cm-black-sea-add-ons/debaltseve-devils-v1-2/</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Julio Cabrera" filename="Donetsk Bypass.btt">
+		<additional_info>Single player, Ukraine human vs Russian AI. Night time.
+		</additional_info>
+		<urls_list>
+			<downloadurl primary="y" who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-black-sea/cm-black-sea-add-ons/donetsk-bypass/</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Hunter 2" filename="Escalation of Violence.btt">
+		<urls_list>
+			<downloadurl primary="y" who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-black-sea/cm-black-sea-add-ons/escalation-of-violence/</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Euri" filename="High Value Package.btt">
+		<additional_info>To be played as Blue vs AI only. Best played in Real Time
+		</additional_info>
+		<urls_list>
+			<downloadurl primary="y" who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-black-sea/cm-black-sea-add-ons/high-value-package/</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Peter Zimmermann" filename="Kumeiky Engagement (Scipio).btt">
+		<urls_list>
+		    <infourl who="the Blitz">https://www.theblitz.club/scenarios/combat-mission-black-sea/kumeiky-engagement/b-15.htm?action=scenario&amp;id=11906</infourl>
+			<downloadurl primary="y" who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-black-sea/cm-black-sea-add-ons/kumeiky-engagement/</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Euri" filename="Leave no Stone Unturned [R101].btt">
+		<urls_list>
+			<downloadurl primary="y" who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-black-sea/cm-black-sea-add-ons/leave-no-stone-unturned-2/</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Imperial Grunt" filename="Operation Relentless Fury.btt">
+		<urls_list>
+			<downloadurl primary="y" who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-black-sea/cm-black-sea-add-ons/operation-relentless-fury/</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Philipp Christophel" filename="Raid on the Pump.btt">
+		<additional_info>Blue vs. AI only, H2H might work but I have not tried it.
+		</additional_info>
+		<urls_list>
+			<downloadurl primary="y" who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-black-sea/cm-black-sea-add-ons/raid-on-the-pump/</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Euri" filename="Seal Team Six - The Factory.btt">
+		<urls_list>
+			<downloadurl primary="y" who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-black-sea/cm-black-sea-add-ons/seal-team-6-the-factory/</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="astano" filename="Shadow and Flame.btt">
+		<urls_list>
+			<downloadurl primary="y" who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-black-sea/cm-black-sea-add-ons/shadow-and-flame/</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Snuggery" filename="Spetsnaz-Kobalyev Towers.btt">
+		<additional_info>Playable as either side or H2H if you have a bizarre sense of humor.
+		</additional_info>
+		<urls_list>
+			<downloadurl primary="y" who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-black-sea/cm-black-sea-add-ons/spetsnaz-kobalyev-towers/</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Euri" filename="The Castle Keep.btt">
+		<urls_list>
+			<downloadurl primary="y" who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-black-sea/cm-black-sea-add-ons/the-castle-keep/</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Euri" filename="The Rock v101.btt">
+		<urls_list>
+			<downloadurl primary="y" who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-black-sea/cm-black-sea-add-ons/seal-team-six-the-rock/</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Mark C." filename="The Russians are coming.btt">
+		<urls_list>
+		    <infourl who="the Blitz">https://www.theblitz.club/scenarios/combat-mission-black-sea/the-russians-are-coming/b-15.htm?action=scenario&amp;id=11789</infourl>
+			<downloadurl primary="y" who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-black-sea/cm-black-sea-add-ons/the-russians-are-coming/</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="astanocmscens" filename="Wrong Turn at Albuquerque.btt">
+		<urls_list>
+			<downloadurl primary="y" who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-black-sea/cm-black-sea-add-ons/wrong-turn-at-albuquerque/</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="NightOps" filename="RDM - Rolling Thunder_v1.btt">
+		<urls_list>
+			<downloadurl primary="y" who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-black-sea/cm-black-sea-add-ons/rdm-rolling-thunder_v1/</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Nigel Mortimer" filename="korsun2017.btt">
+		<urls_list>
+		    <infourl who="the Blitz">https://www.theblitz.club/scenarios/combat-mission-black-sea/korsun2017/b-15.htm?action=scenario&amp;id=12415</infourl>
+			<downloadurl primary="y" who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-black-sea/cm-black-sea-add-ons/korsun-2017/</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Imperial Grunt" filename="BSBP 01 Honor.btt" stock="y">
+	    <urls_list>
+	        <infourl who="the Blitz">https://www.theblitz.club/scenarios/combat-mission-black-sea/hold-the-line/b-15.htm?action=scenario&amp;id=11148</infourl>
+	    </urls_list>
+	</scenario>
+	<scenario author="Imperial Grunt" filename="BSBP 02 Fort.btt" stock="y">
+	    <urls_list>
+	        <infourl who="the Blitz">https://www.theblitz.club/scenarios/combat-mission-black-sea/bsbp-02-fort-apache/b-15.htm?action=scenario&amp;id=12404</infourl>
+	    </urls_list>
+	</scenario>
+	<scenario author="Imperial Grunt" filename="BSBP 03 Trial.btt" stock="y">
+        <urls_list>
+            <infourl who="the Blitz">https://www.theblitz.club/scenarios/combat-mission-black-sea/bsbp-03-trial-by-combat/b-15.htm?action=scenario&amp;id=13743</infourl>
+        </urls_list>
+    </scenario>
+	<scenario author="Imperial Grunt" filename="BSBP 04 Charge.btt" stock="y">
+        <urls_list>
+            <infourl who="the Blitz">https://www.theblitz.club/scenarios/combat-mission-black-sea/bsbp-04-the-charge-of-the-heavy-brigade/b-15.htm?action=scenario&amp;id=12161</infourl>
+        </urls_list>
+    </scenario>
+	<scenario author="Imperial Grunt" filename="BSBP 05 City.btt" stock="y">
+        <urls_list>
+            <infourl who="the Blitz">https://www.theblitz.club/scenarios/combat-mission-black-sea/bsbp-05-city-of-death/b-15.htm?action=scenario&amp;id=13788</infourl>
+        </urls_list>
+    </scenario>
+	<scenario author="Imperial Grunt" filename="BSBP 06 Firefight.btt" stock="y">
+	    <urls_list>
+	        <infourl who="the Blitz">https://www.theblitz.club/scenarios/combat-mission-black-sea/firefight/b-15.htm?action=scenario&amp;id=13916</infourl>
+	    </urls_list>
+	</scenario>
+	<scenario author="Rinaldi" filename="Power-Hour-v2.btt">
+		<urls_list>
+		    <infourl who="the Blitz">https://www.theblitz.club/scenarios/combat-mission-black-sea/power-hour/b-15.htm?action=scenario&amp;id=12196</infourl>
+			<downloadurl primary="y" who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-black-sea/cm-black-sea-add-ons/power-hour/</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Nigel Mortimer" filename="summerinthecity.btt">
+		<urls_list>
+		    <infourl who="the Blitz">https://www.theblitz.club/scenarios/combat-mission-black-sea/summer-in-the-city/b-15.htm?action=scenario&amp;id=13502</infourl>
+			<downloadurl primary="y" who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-black-sea/cm-black-sea-add-ons/summer-in-the-city-by-the-forger/</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Cpl Steiner" filename="Getting Ugly.btt">
+		<urls_list>
+			<downloadurl primary="y" who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-black-sea/cm-black-sea-add-ons/getting-ugly-by-cpl-steiner/</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="nightops" filename="RDM - First Clash.btt">
+		<urls_list>
+			<downloadurl primary="y" who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-black-sea/cm-black-sea-add-ons/rdm-first-clash-cmbs/</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="MOS-96B2P" filename="Tactical Operations Center (TOC).btt">
+		<urls_list>
+			<downloadurl primary="y" who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-black-sea/cm-black-sea-add-ons/tactical-operations-center/</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Heirloom_Tomato" filename="Vega Force.btt">
+		<urls_list>
+		    <infourl who="the Blitz">https://www.theblitz.club/scenarios/combat-mission-black-sea/vega-force/b-15.htm?action=scenario&amp;id=12478</infourl>
+			<downloadurl primary="y" who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-black-sea/cm-black-sea-add-ons/vega-force/</downloadurl>
+		</urls_list>
+	</scenario>
+    <scenario author="Combatintman" filename="253614114_OpeningEncounter.btt">
+        <urls_list>
+            <downloadurl primary="y" who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-black-sea/cm-black-sea-add-ons/cmbs-opening-encounter/</downloadurl>
+        </urls_list>
+    </scenario>
+    <scenario author="Colin Davis" filename="Ambush Tutorial (US Infantry).btt">
+        <urls_list>
+            <downloadurl primary="y" who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-black-sea/cm-black-sea-add-ons/cmbs-ambush-tutorial-us-infantry/</downloadurl>
+        </urls_list>
+    </scenario>
+    <scenario author="Combatintman " filename="Chervone.btt">
+        <additional_info>Play as Blue vs Red AI only.
+        </additional_info>
+        <urls_list>
+            <downloadurl primary="y" who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/uncategorized/cmbs-chervone/</downloadurl>
+        </urls_list>
+    </scenario>
+    <scenario author="Bartimeus" filename="CMBS_Hasty_Attack.btt">
+        <additional_info>Blue vs AI only.
+        </additional_info>
+        <urls_list>
+            <downloadurl primary="y" who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-black-sea/cm-black-sea-add-ons/cmbs-hasty-attack/</downloadurl>
+        </urls_list>
+    </scenario>
+    <scenario author="dinomaik" filename="First day of the war.btt">
+        <urls_list>
+            <downloadurl primary="y" who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-black-sea/cm-black-sea-add-ons/cmbs-first-day-of-the-war/</downloadurl>
+        </urls_list>
+    </scenario>
+    <scenario author="ARKSh7R" filename="Krentz Hill.btt">
+        <urls_list>
+            <downloadurl primary="y" who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-black-sea/cm-black-sea-add-ons/cmbs-krentz-hill/</downloadurl>
+        </urls_list>
+    </scenario>
+    <scenario author="Cpl Steiner" filename="Neighbours From Hell.btt">
+        <urls_list>
+            <downloadurl primary="y" who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-black-sea/cm-black-sea-add-ons/neighbours-from-hell/</downloadurl>
+        </urls_list>
+    </scenario>
+    <scenario author="PlayUP" filename="UA In Unity is Power.btt">
+        <urls_list>
+            <infourl who="the Blitz">https://www.theblitz.club/scenarios/combat-mission-black-sea/ua-in-unity-is-power/b-15.htm?action=scenario&amp;id=14570</infourl>
+            <downloadurl primary="y" who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-black-sea/cm-black-sea-add-ons/ua-in-unity-is-power/</downloadurl>
+        </urls_list>
+    </scenario>
+    <scenario author="PlayUP" filename="UA No One But Us!.btt">
+        <urls_list>
+            <downloadurl primary="y" who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-black-sea/cm-black-sea-add-ons/cmbs-ua-no-one-but-us/</downloadurl>
+        </urls_list>
+    </scenario>
+    <scenario author="PlayUP" filename="UA Pro Libertate.btt">
+        <urls_list>
+            <downloadurl primary="y" who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-black-sea/cm-black-sea-add-ons/cmbs-ua-pro-libertate/</downloadurl>
+        </urls_list>
+    </scenario>
+    <scenario author="PlayUP" filename="UA Unthinkable Thought.btt">
+        <urls_list>
+            <downloadurl primary="y" who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-black-sea/cm-black-sea-add-ons/ua-unthinkable-thought/</downloadurl>
+        </urls_list>
+    </scenario>
+    <scenario author="PlayUP" filename="UA With Will and Iron.btt">
+        <urls_list>
+            <downloadurl primary="y" who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-black-sea/cm-black-sea-add-ons/cmbs-ua-with-will-and-iron/</downloadurl>
+        </urls_list>
+    </scenario>
+    <scenario author="Colin Davis" filename="US IBCT IN BN DOCTEMP.btt">
+        <urls_list>
+            <downloadurl primary="y" who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-black-sea/cm-black-sea-add-ons/us-infantry-bn-doctemp-cmbs/</downloadurl>
+        </urls_list>
+    </scenario>
+	
+
+<!--    <scenario author="" filename=""> -->
+<!--        <additional_info> -->
+<!--        </additional_info> -->
+<!--        <urls_list> -->
+<!--            <infourl who="the Blitz"></infourl> -->
+<!--            <downloadurl who="Scenario Depot" primary="y">http://</downloadurl> -->
+<!--        </urls_list> -->
+<!--    </scenario> -->
+</scenarios>

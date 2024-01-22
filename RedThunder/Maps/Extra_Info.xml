@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scenarios>
+	<scenario author="Benpark" filename="Orsha Master Map 1.btt"/>
+	<scenario author="Benpark" filename="Orsha Master Map 2.btt"/>
+	<scenario author="Benpark" filename="Orsha Master Map 3.btt"/>
+	<scenario author="Benpark" filename="Orsha Master Map 4.btt"/>
+	<scenario author="Benpark" filename="Orsha Master Map 5.btt"/>
+	<scenario author="Pete Wenman" filename="Radzymin Master Map 1.btt"/>
+	<scenario author="Pete Wenman" filename="Radzymin Master Map 2.btt"/>
+	<scenario author="Pete Wenman" filename="Radzymin Master Map 3.btt"/>
+	<scenario author="Pete Wenman" filename="Radzymin Master Map 4.btt"/>
+	<scenario author="Pete Wenman" filename="Radzymin Master Map 5.btt"/>
+	<scenario author="Stephen Hilla aka The Teacher" filename="TTR master map 3.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons/master-map-3/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/TTR-master-map-3.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Stephen Hilla aka The Teacher" filename="TTR Master Map 2.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons/master-map-2/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/TTR-Master-Map-2.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Stephen Hilla aka The Teacher" filename="TTR Master Map 1.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons/master-map-1/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/TTR-Master-Map-1.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="H1nd" filename="H1nd_Nemanitsa.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons/communal-farm-nemanitsa/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/H1nd_Nemanitsa.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="H1nd" filename="H1nd_Rough_Marsh_Hills.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons/byelorussian-rough-marshy-terrain/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/H1nd_Rough_Marsh_Hills.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="information unavailable" filename="Map - Karasilis.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons/map-cmrt-karasilis-lithuania/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/Map-Karasilis.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Miquel Ramirez" filename="Map - Slobudka.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons/map-slobudka-byelorrusia/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/Map-Slobudka.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="kevinkin" filename="Farms.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons/firefights-real-time-battle-set/</infourl>
+			<downloadurl who="Scenario Depot">http://http://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons/firefights-real-time-battle-set/</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="kevinkin" filename="Fords.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons/firefights-real-time-battle-set/</infourl>
+			<downloadurl who="Scenario Depot">http://http://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons/firefights-real-time-battle-set/</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="kevinkin" filename="Run.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons/firefights-real-time-battle-set/</infourl>
+			<downloadurl who="Scenario Depot">http://http://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons/firefights-real-time-battle-set/</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="kevinkin" filename="Swamp People.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons/firefights-real-time-battle-set/</infourl>
+			<downloadurl who="Scenario Depot">http://http://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons/firefights-real-time-battle-set/</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="kevinkin" filename="Woods.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons/firefights-real-time-battle-set/</infourl>
+			<downloadurl who="Scenario Depot">http://http://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons/firefights-real-time-battle-set/</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Bootie" filename="FGM Map 2 - A Gift for Guderian.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons/map-a-gift-for-guderian/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/cmrt/cmrt_maps/MAP-A-Gift-for-Guderian.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Bootie" filename="Small Village in the Woods.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons/mapsmall-village-in-the-woods/</infourl>
+			<downloadurl who="Scenario Depot">http://http://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons/mapsmall-village-in-the-woods/</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Pete Wenman" filename="Rad-Full-2.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3074</downloadurl>
+		</urls_list>
+	</scenario>
+	
+<!-- 	<scenario author="" filename=""> -->
+<!-- 		<urls_list> -->
+<!-- 			<infourl who="Scenario Depot"></infourl> -->
+<!-- 			<downloadurl who="Scenario Depot">http://</downloadurl> -->
+<!-- 		</urls_list> -->
+<!-- 	</scenario> -->
+</scenarios>

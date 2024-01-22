@@ -1,0 +1,637 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scenarios>
+	<scenario author="SeinfeldRules" filename="AD Flak Hunt.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-fortress-italy/cm-fortress-italy-add-ons/ad-flak-hunt/</infourl>
+			<downloadurl who="Scenario Depot" primary="y">http://www.thefewgoodmen.com/tsd3/download/AD-Flak-Hunt.zip</downloadurl>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3036</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="SeinfeldRules" filename="AD Pontine Patrol.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-fortress-italy/cm-fortress-italy-add-ons/ad-pontine-patrol/</infourl>
+			<downloadurl who="Scenario Depot" primary="y">http://www.thefewgoodmen.com/tsd3/download/AD-Pontine-Patrol.zip</downloadurl>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3035</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="SeinfeldRules" filename="AD Recon Gone Wrong.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-fortress-italy/cm-fortress-italy-add-ons/ad-recon-gone-wrong/</infourl>
+			<downloadurl who="Scenario Depot" primary="y">http://www.thefewgoodmen.com/tsd3/download/AD-Recon-Gone-Wrong.zip</downloadurl>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3162</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="SeinfeldRules" filename="AD Small Patrol Action.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-fortress-italy/cm-fortress-italy-add-ons/ad-small-patrol-action/</infourl>
+			<downloadurl who="Scenario Depot" primary="y">http://www.thefewgoodmen.com/tsd3/download/AD-Small-Patrol-Action.zip</downloadurl>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3034</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="SeinfeldRules" filename="AD Snow Day.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-fortress-italy/cm-fortress-italy-add-ons/ad-snow-day/</infourl>
+			<downloadurl who="Scenario Depot" primary="y">http://www.thefewgoodmen.com/tsd3/download/AD-Snow-Day.zip</downloadurl>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3161</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="SeinfeldRules" filename="AD Wires &amp; Rifles.btt">
+		<urls_list>
+			<infourl who="Scenario Depot"></infourl>
+			<downloadurl who="Scenario Depot" primary="y">http://</downloadurl>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3160</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Javi (El tormenta)" filename="Axis units.btt" stock="y">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=2858</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Javi (El tormenta)" filename="Allied units.btt" stock="y">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=2858</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="information unavailable" filename="Alvano Anvil.btt" stock="y" />
+	<scenario author="information unavailable" filename="Avanti!!.btt" stock="y" />
+	<scenario author="information unavailable" filename="Bad Day at Beach RED.btt" stock="y" />
+	<scenario author="information unavailable" filename="Beyond the Belice.btt" stock="y" />
+	<scenario author="information unavailable" filename="Biazzo Ridge.btt" stock="y" />
+	<scenario author="Michael Clarke" filename="Bloody Beachtown.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-fortress-italy/cm-fortress-italy-add-ons/gl-bloody-beachtown/</infourl>
+			<downloadurl who="Scenario Depot" primary="y">http://www.thefewgoodmen.com/tsd3/download/Bloody-Beachtown.rar</downloadurl>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=2710</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="information unavailable" filename="Butera Station.btt" stock="y" />
+	<scenario author="Raul Alonso (BOCE)" filename="Caltagirone H2H.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-fortress-italy/cm-fortress-italy-add-ons/caltagirone-h2h/</infourl>
+			<downloadurl who="Scenario Depot" primary="y">www.thefewgoodmen.com/tsd3/download/cmfi/cmfi_scenarios/Caltagirone-H2H.rar</downloadurl>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3000</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="information unavailable" filename="Casa Nostra.btt" stock="y" />
+	<scenario author="information unavailable" filename="Catch a Tiger.btt" stock="y" />
+	<scenario author="information unavailable" filename="Clearing the Niscemi Highway.btt" stock="y" />
+	<scenario author="Bernhard Roessler (Sequoia)" filename="CMFI German Basegame Dealership.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=2647</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Bernhard Roessler (Sequoia)" filename="CMFI Italian Basegame Dealership.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=2647</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Bernhard Roessler (Sequoia)" filename="CMFI US Army Basegame Dealership.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=2647</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Bernhard Roessler (Sequoia)" filename="GL Commonwealth Dealership.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=2716</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Bernhard Roessler (Sequoia)" filename="GL German Dealership.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=2716</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Bernhard Roessler (Sequoia)" filename="GL US Army Dealership.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=2716</downloadurl>
+		</urls_list>
+	</scenario>
+	
+	<scenario author="information unavailable" filename="Fight at Vallebruca.btt" stock="y" />
+	<scenario author="information unavailable" filename="Gateway to Palermo.btt" stock="y" />
+	<scenario author="information unavailable" filename="GL A Temple to Mars.btt" stock="y" />
+	<scenario author="Stephen Hilla (aka The Teacher)" filename="GL Avanti Americani, Rapido !.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-fortress-italy/cm-fortress-italy-add-ons/gl-avanti-americani-rapido/</infourl>
+			<downloadurl who="Scenario Depot" primary="y">http://www.thefewgoodmen.com/tsd3/download/GL-Avanti-Americani-Rapido-.zip</downloadurl>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=2722</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="information unavailable" filename="GL Bear Claws.btt" stock="y" />
+	<scenario author="information unavailable" filename="GL Devils to Isernia.btt" stock="y" />
+	<scenario author="information unavailable" filename="GL Elephants and Tigers.btt" stock="y" />
+	<scenario author="information unavailable" filename="GL Hilltop to Hilltop.btt" stock="y" />
+	<scenario author="information unavailable" filename="GL In For a Pound.btt" stock="y" />
+	<scenario author="information unavailable" filename="GL King Ludwig.btt" stock="y" />
+	<scenario author="information unavailable" filename="GL Kiwi Soldiers.btt" stock="y" />
+	<scenario author="information unavailable" filename="GL Lancing the Abscess.btt" stock="y" />
+	<scenario author="information unavailable" filename="GL Lost.btt" stock="y" />
+	<scenario author="information unavailable" filename="GL Men With Suspicious Hats.btt" stock="y" />
+	<scenario author="Chris McCain (Phantom)" filename="GL Primosole Bridge Fight to Survivie v3.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=2768</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="information unavailable" filename="GL Smoke 'Em if You Got 'Em.btt" stock="y" />
+	<scenario author="information unavailable" filename="GL The Forest of Wild Beasts.btt" stock="y" />
+	<scenario author="information unavailable" filename="GL The Keep of Majella.btt" stock="y" />
+	<scenario author="information unavailable" filename="GL The Quarry.btt" stock="y" />
+	<scenario author="information unavailable" filename="GL The Winter of Our Discontent.btt" stock="y" />
+	<scenario author="information unavailable" filename="GL Venafro Back Into Hell.btt" stock="y" />
+	<scenario author="Peter Zimmermann (Scipio)" filename="GL~ Ambush.btt" >
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-fortress-italy/cm-fortress-italy-add-ons/ambush/</infourl>
+			<downloadurl who="Scenario Depot" primary="y">http://www.thefewgoodmen.com/tsd3/download/id_cmfi_ambush.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="information unavailable" filename="Hot Mustard.btt" stock="y" />
+	<scenario author="information unavailable" filename="id_cmfi_ambush.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3437</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="marcello turturiello (marseu)" filename="Invasion of Gela Eastside.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-fortress-italy/cm-fortress-italy-add-ons/invasion-of-gela-eastside/</infourl>
+			<downloadurl who="Scenario Depot" primary="y">http://www.thefewgoodmen.com/tsd3/download/Invasion-of-Gela-Eastside.zip</downloadurl>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=2301</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="information unavailable" filename="Lemon Hill.btt" stock="y" />
+	<scenario author="information unavailable" filename="Livorno Pride.btt" stock="y" />
+	<scenario author="information unavailable" filename="Palma di Montechiaro - AI.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-fortress-italy/cm-fortress-italy-add-ons/palma-di-montechiaro/</infourl>
+			<downloadurl who="Scenario Depot" primary="y">http://www.thefewgoodmen.com/tsd3/download/Palma-di-Montechiaro.zip</downloadurl>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=2300</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="information unavailable" filename="Palma di Montechiaro - H2H.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-fortress-italy/cm-fortress-italy-add-ons/palma-di-montechiaro/</infourl>
+			<downloadurl who="Scenario Depot" primary="y">http://www.thefewgoodmen.com/tsd3/download/Palma-di-Montechiaro.zip</downloadurl>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=2300</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="information unavailable" filename="Palma di Montechiaro - Variant - H2H.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-fortress-italy/cm-fortress-italy-add-ons/palma-di-montechiaro/</infourl>
+			<downloadurl who="Scenario Depot" primary="y">http://www.thefewgoodmen.com/tsd3/download/Palma-di-Montechiaro.zip</downloadurl>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=2300</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="IanL" filename="Pathfinders.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-fortress-italy/cm-fortress-italy-add-ons/pathfinders/</infourl>
+			<downloadurl who="Scenario Depot" primary="y">http://www.thefewgoodmen.com/tsd3/download/Pathfinders.zip</downloadurl>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=2936</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Fredrik Carlsson (RepsolCBR)" filename="QBS Counterattack at Battipaglia.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-fortress-italy/cm-fortress-italy-add-ons/qbs-counterattack-at-battipaglia/</infourl>
+			<downloadurl who="Scenario Depot" primary="y">http://www.thefewgoodmen.com/tsd3/download/QBS-Counterattack-at-Battipaglia.rar</downloadurl>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=2779</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Fredrik Carlsson (RepsolCBR)" filename="QBS Son of a senator.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-fortress-italy/cm-fortress-italy-add-ons/qbs-son-of-a-senator/</infourl>
+			<downloadurl who="Scenario Depot" primary="y">http://www.thefewgoodmen.com/tsd3/download/QBS-Son-of-a-senator.rar</downloadurl>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=2749</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="information unavailable" filename="Ramparts of the Palikoi.btt" stock="y" />
+	<scenario author="information unavailable" filename="Rangers and Engineers at Gela v1_0.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-fortress-italy/cm-fortress-italy-add-ons/rangers-and-engineers-at-gela/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/Rangers-and-Engineers-at-Gela-v1_0.rar</downloadurl>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3293</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="information unavailable" filename="Rescuing Mussolini.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3326</downloadurl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-fortress-italy/cm-fortress-italy-add-ons/rescuing-mussolini/</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="information unavailable" filename="Ritirare!!.btt" stock="y" />
+	<scenario author="information unavailable" filename="Salito Sunrise.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=2261</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Daniel Pasquale" filename="Termoli.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=2797</downloadurl>
+			<downloadurl who="Scenario Depot" primary="y">http://www.thefewgoodmen.com/tsd3/cm-fortress-italy/cm-fortress-italy-add-ons/termoli/</downloadurl>
+			<infourl who="the Blitz">http://www.theblitz.org/scenarios/combat-mission-fortress-italy/termoli/b-15.htm?action=scenario&amp;id=3702</infourl>
+		</urls_list>
+	</scenario>
+	<scenario author="information unavailable" filename="The Battle for Borgo Cascino.btt" stock="y" />
+	<scenario author="Julio Cabrera" filename="The Fortified Backyard of Gela V0_9.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-fortress-italy/cm-fortress-italy-add-ons/the-fortified-backyard-of-gela/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/The-Fortified-Backyard-of-Gela-V0_9.rar</downloadurl>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=2279</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Michael Dorosh" filename="TWC Priolo Crossroad.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-fortress-italy/cm-fortress-italy-add-ons/twc-priolo-crossroad/</infourl>
+			<downloadurl who="Scenario Depot" primary="y">http://www.thefewgoodmen.com/tsd3/download/TWC-Priolo-Crossroad.zip</downloadurl>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=2982</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Michael Dorosh" filename="TWC Right Hook at Valguarnera.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-fortress-italy/cm-fortress-italy-add-ons/twc-right-hook-at-valguarnera/</infourl>
+			<downloadurl who="Scenario Depot" primary="y">http://www.thefewgoodmen.com/tsd3/download/TWC-Right-Hook-at-Valguarnera.zip</downloadurl>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=2983</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="kohlenklau" filename="Kasserine Rearguard Player Setup.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-fortress-italy/cm-fortress-italy-add-ons/kasserine-rearguard/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/Kasserine-Rearguard.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="kohlenklau" filename="Kasserine Rearguard.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-fortress-italy/cm-fortress-italy-add-ons/kasserine-rearguard/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/Kasserine-Rearguard.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="kohlenklau" filename="Antipasto di Ortona.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-fortress-italy/cm-fortress-italy-add-ons/antipasto-di-ortona/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/Antipasto-di-Ortona.zip</downloadurl>
+		</urls_list>
+	</scenario>
+    <scenario author="Heirloom_Tomato" filename="Tiny Meet QS 001.btt">
+        <urls_list>
+            <infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-fortress-italy/cm-fortress-italy-add-ons/tiny-meeting-quick-scenarios/</infourl>
+            <downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/Tiny-Meet-QS.zip</downloadurl>
+        </urls_list>
+    </scenario>
+    <scenario author="Heirloom_Tomato" filename="Tiny Meet QS 002.btt">
+        <urls_list>
+            <infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-fortress-italy/cm-fortress-italy-add-ons/tiny-meeting-quick-scenarios/</infourl>
+            <downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/Tiny-Meet-QS.zip</downloadurl>
+        </urls_list>
+    </scenario>
+    <scenario author="Heirloom_Tomato" filename="Tiny Meet QS 003.btt">
+        <urls_list>
+            <infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-fortress-italy/cm-fortress-italy-add-ons/tiny-meeting-quick-scenarios/</infourl>
+            <downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/Tiny-Meet-QS.zip</downloadurl>
+        </urls_list>
+    </scenario>
+    <scenario author="Heirloom_Tomato" filename="Tiny Meet QS 004.btt">
+        <urls_list>
+            <infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-fortress-italy/cm-fortress-italy-add-ons/tiny-meeting-quick-scenarios/</infourl>
+            <downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/Tiny-Meet-QS.zip</downloadurl>
+        </urls_list>
+    </scenario>
+    <scenario author="Heirloom_Tomato" filename="Tiny Meet QS 005.btt">
+        <urls_list>
+            <infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-fortress-italy/cm-fortress-italy-add-ons/tiny-meeting-quick-scenarios/</infourl>
+            <downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/Tiny-Meet-QS.zip</downloadurl>
+        </urls_list>
+    </scenario>
+    <scenario author="Heirloom_Tomato" filename="Tiny Meet QS 006.btt">
+        <urls_list>
+            <infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-fortress-italy/cm-fortress-italy-add-ons/tiny-meeting-quick-scenarios/</infourl>
+            <downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/Tiny-Meet-QS.zip</downloadurl>
+        </urls_list>
+    </scenario>
+    <scenario author="Heirloom_Tomato" filename="Tiny Meet QS 007.btt">
+        <urls_list>
+            <infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-fortress-italy/cm-fortress-italy-add-ons/tiny-meeting-quick-scenarios/</infourl>
+            <downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/Tiny-Meet-QS.zip</downloadurl>
+        </urls_list>
+    </scenario>
+    <scenario author="Heirloom_Tomato" filename="Tiny Meet QS 008.btt">
+        <urls_list>
+            <infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-fortress-italy/cm-fortress-italy-add-ons/tiny-meeting-quick-scenarios/</infourl>
+            <downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/Tiny-Meet-QS.zip</downloadurl>
+        </urls_list>
+    </scenario>
+    <scenario author="Heirloom_Tomato" filename="Tiny Meet QS 009.btt">
+        <urls_list>
+            <infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-fortress-italy/cm-fortress-italy-add-ons/tiny-meeting-quick-scenarios/</infourl>
+            <downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/Tiny-Meet-QS.zip</downloadurl>
+        </urls_list>
+    </scenario>
+    <scenario author="Heirloom_Tomato" filename="Tiny Meet QS 010.btt">
+        <urls_list>
+            <infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-fortress-italy/cm-fortress-italy-add-ons/tiny-meeting-quick-scenarios/</infourl>
+            <downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/Tiny-Meet-QS.zip</downloadurl>
+        </urls_list>
+    </scenario>
+    <scenario author="Heirloom_Tomato" filename="Tiny Meet QS 011.btt">
+        <urls_list>
+            <infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-fortress-italy/cm-fortress-italy-add-ons/tiny-meeting-quick-scenarios/</infourl>
+            <downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/Tiny-Meet-QS.zip</downloadurl>
+        </urls_list>
+    </scenario>
+    <scenario author="Heirloom_Tomato" filename="Tiny Meet QS 012.btt">
+        <urls_list>
+            <infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-fortress-italy/cm-fortress-italy-add-ons/tiny-meeting-quick-scenarios/</infourl>
+            <downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/Tiny-Meet-QS.zip</downloadurl>
+        </urls_list>
+    </scenario>
+    <scenario author="Heirloom_Tomato" filename="Tiny Meet QS 013.btt">
+        <urls_list>
+            <infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-fortress-italy/cm-fortress-italy-add-ons/tiny-meeting-quick-scenarios/</infourl>
+            <downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/Tiny-Meet-QS.zip</downloadurl>
+        </urls_list>
+    </scenario>
+    <scenario author="Heirloom_Tomato" filename="Tiny Meet QS 014.btt">
+        <urls_list>
+            <infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-fortress-italy/cm-fortress-italy-add-ons/tiny-meeting-quick-scenarios/</infourl>
+            <downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/Tiny-Meet-QS.zip</downloadurl>
+        </urls_list>
+    </scenario>
+    <scenario author="Heirloom_Tomato" filename="Tiny Meet QS 015.btt">
+        <urls_list>
+            <infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-fortress-italy/cm-fortress-italy-add-ons/tiny-meeting-quick-scenarios/</infourl>
+            <downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/Tiny-Meet-QS.zip</downloadurl>
+        </urls_list>
+    </scenario>
+    <scenario author="Heirloom_Tomato" filename="Tiny Meet QS 016.btt">
+        <urls_list>
+            <infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-fortress-italy/cm-fortress-italy-add-ons/tiny-meeting-quick-scenarios/</infourl>
+            <downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/Tiny-Meet-QS.zip</downloadurl>
+        </urls_list>
+    </scenario>
+	<scenario author="Aris" filename="BonGiorno Tomahawks.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-fortress-italy/cm-fortress-italy-add-ons/bon-giorno-tomahawks-2/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/Bon-Giorno-Tomahawks.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Michael Dorosh" filename="TWC First Contact.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-fortress-italy/cm-fortress-italy-add-ons/twc-first-contact/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/TWC-First-Contact.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Raul" filename="Veni vidi vici(EN).btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-fortress-italy/cm-fortress-italy-add-ons/veni-vidi-vici/</infourl>
+			<downloadurl who="Scenario Depot">http://</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Fredrik Carlsson (RepsolCBR)" filename="QBS One more roadblock.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-fortress-italy/cm-fortress-italy-add-ons/qbs-one-more-roadblock/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/QBS-One-more-roadblock.rar</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Michael Dorosh" filename="TWC Devil's Brigade at La Difensa.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-fortress-italy/cm-fortress-italy-add-ons/twc-devils-brigade-at-la-difensa/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/TWC-Devils-Brigade-at-La-Difensa.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Michael Clarke" filename="GL The Loyalty of Garibaldi.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-fortress-italy/cm-fortress-italy-add-ons/gl-the-loyalty-of-garibaldi/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/cmfi/cmfi_scenarios/GL-The-Loyalty-of-Garibaldi.rar</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Egger" filename="Montecassino, the outcome.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-fortress-italy/cm-fortress-italy-add-ons/monte-cassino-the-outcome/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/Montecassino-the-outcome.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="information unavailable" filename="GL Primosole Bridge Fight to Survive V3.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-fortress-italy/cm-fortress-italy-add-ons/primosole-bridge-fight-to-survive/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/GL-Primosole-Bridge-Fight-to-Survive-V3.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Bimmer" filename="The Hills Have Eyes.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">www.thefewgoodmen.com/tsd3/download/The-Hills-Have-Eyes-v101.zip</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/The-Hills-Have-Eyes-v101.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="information unavailable" filename="Salvate il Maggiore Rinetti.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-fortress-italy/cm-fortress-italy-add-ons/salvate-il-maggiore-rinetti/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/Salvate-il-Maggiore-Rinetti.btt_.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Daniel Pasquale" filename="Cesaro, Sicily.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-fortress-italy/cm-fortress-italy-add-ons/cesaro-sicily-h2h/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/Cesaro-Sicily.rar</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Daniel Pasquale" filename="DiSaronno .btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-fortress-italy/cm-fortress-italy-add-ons/disaronno/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/DiSaronno-.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Daniel Pasquale" filename="FUBAR Village.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-fortress-italy/cm-fortress-italy-add-ons/fubar-village/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/FUBAR-Village.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Apocal" filename="Hey Diddle Diddle.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-fortress-italy/cm-fortress-italy-add-ons/hey-diddle-diddle/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/Hey-Diddle-Diddle.rar</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="kohlenklau" filename="GL Wacht Am Rapido Teaser Battle.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-fortress-italy/cm-fortress-italy-add-ons/gl-wacht-am-rapido-teaser-battle/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/GL-Wacht-Am-Rapido-Teaser-Battle.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Lt. Smash" filename="GL Operation Ladbroke.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-fortress-italy/cm-fortress-italy-add-ons/operation-ladbroke/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/GL-Operation-Ladbroke.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="rocketman" filename="Wulf on the prowl_v5.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-fortress-italy/cm-fortress-italy-add-ons/wulf-on-the-prowl/</infourl>
+			<downloadurl who="Scenario Depot">http://http://www.thefewgoodmen.com/tsd3/cm-fortress-italy/cm-fortress-italy-add-ons/wulf-on-the-prowl/</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Carlos Lourenco (Los) " filename="GL BULGE44 Lanzerath Ridge.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=2964</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Carlos Lourenco (Los)" filename="GL Bulge Stand at Noertrange.btt">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=2962</downloadurl>
+		</urls_list>
+	</scenario>
+    <scenario author="Fredrocker" filename="FGM One of Those Days.btt">
+        <urls_list>
+        	<infourl who="the Blitz">http://www.theblitz.org/scenarios/combat-mission-fortress-italy/b-15.htm?action=scenario&amp;id=11770</infourl>
+            <infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-fortress-italy/cm-fortress-italy-add-ons/fgm-one-of-those-days/</infourl>
+            <downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/cmfi/cmfi_scenarios/FGM-One-of-Those-Days.rar</downloadurl>
+        </urls_list>
+    </scenario>
+    <scenario author="GeorgeMC" filename="SPW Campaign Core Units File_v6.btt">
+        <urls_list>
+            <infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/kampfgruppe-von-schroif-missions/</infourl>
+            <downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/CMRT%20KGr%20von%20Schroif%20Missions.zip</downloadurl>
+        </urls_list>
+    </scenario>
+    <scenario author="GeorgeMC" filename="Mission5_2b schnelle Truppen Angriffe_v2.btt">
+        <urls_list>
+            <infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/kampfgruppe-von-schroif-missions/</infourl>
+            <downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/CMRT%20KGr%20von%20Schroif%20Missions.zip</downloadurl>
+        </urls_list>
+    </scenario>
+    <scenario author="GeorgeMC" filename="Mission5_2a schnelle Truppen Angriffe_v2.btt">
+        <urls_list>
+            <infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/kampfgruppe-von-schroif-missions/</infourl>
+            <downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/CMRT%20KGr%20von%20Schroif%20Missions.zip</downloadurl>
+        </urls_list>
+    </scenario>
+    <scenario author="GeorgeMC" filename="Mission5_1_b_Panzer_Rettung_v2.btt">
+        <urls_list>
+            <infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/kampfgruppe-von-schroif-missions/</infourl>
+            <downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/CMRT%20KGr%20von%20Schroif%20Missions.zip</downloadurl>
+        </urls_list>
+    </scenario>
+    <scenario author="GeorgeMC" filename="Mission5_1_a_Panzer_Rettung_v2.btt">
+        <urls_list>
+            <infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/kampfgruppe-von-schroif-missions/</infourl>
+            <downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/CMRT%20KGr%20von%20Schroif%20Missions.zip</downloadurl>
+        </urls_list>
+    </scenario>
+    <scenario author="GeorgeMC" filename="Mission4b_Resupply Decisions_v2.btt">
+        <urls_list>
+            <infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/kampfgruppe-von-schroif-missions/</infourl>
+            <downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/CMRT%20KGr%20von%20Schroif%20Missions.zip</downloadurl>
+        </urls_list>
+    </scenario>
+    <scenario author="GeorgeMC" filename="Mission4a_Resupply Decisions_v2.btt">
+        <urls_list>
+            <infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/kampfgruppe-von-schroif-missions/</infourl>
+            <downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/CMRT%20KGr%20von%20Schroif%20Missions.zip</downloadurl>
+        </urls_list>
+    </scenario>
+    <scenario author="GeorgeMC" filename="Mission3c_Angriff gegen einen Brueckenkopf_v3.btt">
+        <urls_list>
+            <infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/kampfgruppe-von-schroif-missions/</infourl>
+            <downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/CMRT%20KGr%20von%20Schroif%20Missions.zip</downloadurl>
+        </urls_list>
+    </scenario>
+    <scenario author="GeorgeMC" filename="Mission3b_Angriff gegen einen Brueckenkopf_v3.btt">
+        <urls_list>
+            <infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/kampfgruppe-von-schroif-missions/</infourl>
+            <downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/CMRT%20KGr%20von%20Schroif%20Missions.zip</downloadurl>
+        </urls_list>
+    </scenario>
+    <scenario author="GeorgeMC" filename="Mission3a_Angriff gegen einen Brueckenkopf_v3.btt">
+        <urls_list>
+            <infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/kampfgruppe-von-schroif-missions/</infourl>
+            <downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/CMRT%20KGr%20von%20Schroif%20Missions.zip</downloadurl>
+        </urls_list>
+    </scenario>
+    <scenario author="GeorgeMC" filename="Mission2b_Feuer und Bewegung_v4.btt">
+        <urls_list>
+            <infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/kampfgruppe-von-schroif-missions/</infourl>
+            <downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/CMRT%20KGr%20von%20Schroif%20Missions.zip</downloadurl>
+        </urls_list>
+    </scenario>
+    <scenario author="GeorgeMC" filename="Mission2a_Feuer und Bewegung_v2.btt">
+        <urls_list>
+            <infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/kampfgruppe-von-schroif-missions/</infourl>
+            <downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/CMRT%20KGr%20von%20Schroif%20Missions.zip</downloadurl>
+        </urls_list>
+    </scenario>
+    <scenario author="GeorgeMC" filename="Mission1_gepanzerte Vorhut_v3.btt">
+        <urls_list>
+            <infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/kampfgruppe-von-schroif-missions/</infourl>
+            <downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/CMRT%20KGr%20von%20Schroif%20Missions.zip</downloadurl>
+        </urls_list>
+    </scenario>
+    <scenario author="GeorgeMC" filename="Mission 6_1d_Igelstellung_v1.btt">
+        <urls_list>
+            <infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/kampfgruppe-von-schroif-missions/</infourl>
+            <downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/CMRT%20KGr%20von%20Schroif%20Missions.zip</downloadurl>
+        </urls_list>
+    </scenario>
+    <scenario author="GeorgeMC" filename="Mission 6_1c_Himmelfahrt_v1.btt">
+        <urls_list>
+            <infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/kampfgruppe-von-schroif-missions/</infourl>
+            <downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/CMRT%20KGr%20von%20Schroif%20Missions.zip</downloadurl>
+        </urls_list>
+    </scenario>
+    <scenario author="GeorgeMC" filename="Mission 6_1b_Igelstellung_v1.btt">
+        <urls_list>
+            <infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/kampfgruppe-von-schroif-missions/</infourl>
+            <downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/CMRT%20KGr%20von%20Schroif%20Missions.zip</downloadurl>
+        </urls_list>
+    </scenario>
+    <scenario author="GeorgeMC" filename="Mission 6_1a_Himmelfahrt_v1.btt">
+        <urls_list>
+            <infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/kampfgruppe-von-schroif-missions/</infourl>
+            <downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/CMRT%20KGr%20von%20Schroif%20Missions.zip</downloadurl>
+        </urls_list>
+    </scenario>
+	<scenario author="NightOps" filename="RDM - GL - In For a Pound.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-fortress-italy/cm-fortress-italy-add-ons/rdm-gl-in-for-a-pound/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/wp-content/uploads/2017/04/RDM-GL-In-For-a-Pound.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="NightOps" filename="RDM - Hot Mustard.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-fortress-italy/rdm-hot-mustard-scenario-for-cmfi/</infourl>
+			<downloadurl who="Scenario Depot">http://http://www.thefewgoodmen.com/tsd3/cm-fortress-italy/rdm-hot-mustard-scenario-for-cmfi/</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="LiveNoMore" filename="Miramar.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-fortress-italy/cm-fortress-italy-add-ons/rimini-airfield-h2h-campaign/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/wp-content/uploads/2018/09/Rimini-Airfield-H2H-Campaign.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="LiveNoMore" filename="Rimini Airfield Allied loss.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-fortress-italy/cm-fortress-italy-add-ons/rimini-airfield-h2h-campaign/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/wp-content/uploads/2018/09/Rimini-Airfield-H2H-Campaign.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="LiveNoMore" filename="Rimini Airfield Allied Win.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-fortress-italy/cm-fortress-italy-add-ons/rimini-airfield-h2h-campaign/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/wp-content/uploads/2018/09/Rimini-Airfield-H2H-Campaign.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="LiveNoMore" filename="Rimini Airfield.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-fortress-italy/cm-fortress-italy-add-ons/rimini-airfield-h2h-campaign/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/wp-content/uploads/2018/09/Rimini-Airfield-H2H-Campaign.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="LiveNoMore" filename="Santa Maria Church Complex.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-fortress-italy/cm-fortress-italy-add-ons/rimini-airfield-h2h-campaign/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/wp-content/uploads/2018/09/Rimini-Airfield-H2H-Campaign.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	
+   
+<!-- 	<scenario author="" filename=""> -->
+<!-- 		<urls_list> -->
+<!-- 			<infourl who="Scenario Depot"></infourl> -->
+<!-- 			<downloadurl who="Scenario Depot">http://</downloadurl> -->
+<!-- 		</urls_list> -->
+<!-- 	</scenario> -->
+</scenarios>

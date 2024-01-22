@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scenarios>
+
+<!-- 	<scenario author="information unavailable" filename="" stock="y" /> -->
+
+	<scenario author="De Savage " filename="Syrian Nuclear Reactor.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-shock-force-2/cm-shock-force-add-ons-maps/map-syrian-nuclear-reactor-site/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/Syrian-Nuclear-Reactor.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="LongLeftFlank" filename="Ramadi Government Center FULL_UPLOAD.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-shock-force-2/cm-shock-force-add-ons-maps/map-ramadi-government-center/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/Ramadi-Government-Center-FULL_UPLOAD.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Pete Wenman" filename="medium rural one.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-shock-force-2/cm-shock-force-add-ons-maps/map-medium-rural-map-1/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/medium-rural-one.rar</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Stephen Howell" filename="Latakia Airport.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-shock-force-2/cm-shock-force-add-ons-maps/map-latakia-airport/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/Latakia-Airport.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Pete Wenman" filename="largerural3.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-shock-force-2/cm-shock-force-add-ons-maps/map-large-rural-map-3/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/large-rural-map-3.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Pete Wenman" filename="ruralII.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-shock-force-2/cm-shock-force-add-ons-maps/map-large-rural-map-2/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/rural-two.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Pete Wenman" filename="rural.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-shock-force-2/cm-shock-force-add-ons-maps/map-large-rural-map-1/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/rural-one.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Sam Hutchinson" filename="LJF-HugeRural.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-shock-force-2/cm-shock-force-add-ons-maps/map-huge-rural/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/LJF-HugeRural.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="De Savage" filename="Hills of Al Sheik Bader.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-shock-force-2/cm-shock-force-add-ons-maps/maphills-of-al-sheik-bader/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/Hills-of-Al-Sheik-Bader.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Christopher Summerville" filename="Desert Rose Shopping Mall v4.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-shock-force-2/cm-shock-force-add-ons-maps/map-desert-rose-shopping-mall/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/Desert-Rose-Shopping-Mall-v4.rar</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Javolenus" filename="Custom Map 320X320 Semi-Urban.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-shock-force-2/cm-shock-force-add-ons-maps/map-custom-map-320x320-semi-urban/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/Custom-Map-320X320-Semi-Urban.rar</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="permanent666" filename="moutmapextendedfinal.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-shock-force-2/cm-shock-force-add-ons-maps/map-closing-in/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/moutmapextendedfinal.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="hcrof" filename="Al Beluleyah.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-shock-force-2/cm-shock-force-add-ons-maps/map-al-beluleyah/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/Al-Beluleyah.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Bootie" filename="The four peaks map.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-shock-force-2/cm-shock-force-add-ons-maps/the-four-peaks/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/The-four-peaks-map.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Bootie" filename="Hills of Al Sheik Bader.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-shock-force-2/cm-shock-force-add-ons-maps/hills-of-al-sheik-bader/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/Hills-of-Al-Sheik-Bader_2.zip</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Bootie" filename="Bishr.btt">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-shock-force-2/cm-shock-force-add-ons-maps/bishr-map/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/Bishr.zip</downloadurl>
+		</urls_list>
+	</scenario>
+
+<!-- 	<scenario author="" filename=""> -->
+<!-- 		<urls_list> -->
+<!-- 			<infourl who="Scenario Depot"></infourl> -->
+<!-- 			<downloadurl who="Scenario Depot">http://</downloadurl> -->
+<!-- 		</urls_list> -->
+<!-- 	</scenario> -->
+</scenarios>

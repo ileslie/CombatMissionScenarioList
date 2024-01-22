@@ -1,0 +1,998 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scenarios>
+	<scenario author="Mark Ezra" filename="City  (688 X 736) 047r Assault.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="City  (688 X 736) 047r Attack.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="City  (688 X 736) 047r Probe.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="City (608 X 608) 231 Meet.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="City (608 X 800) 063r Assault.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="City (608 X 800) 063r Attack.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="City (608 X 800) 063r Probe.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="City (608 X 800) 126 Assault.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="City (608 X 800) 126 Attack.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="City (608 X 800) 126 Probe.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="City (688 X 608) 121 Assault.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="City (688 X 608) 121 Attack.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="City (688 X 608) 121 Probe.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="City (688 X 736) 124 Assault.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="City (688 X 736) 124 Attack.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="City (688 X 736) 124 Probe.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="City (704 X 608) 120 Meet.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="City (816 X 608) 048r Meet.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="City (816 X 688) 128 Meet.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="City on Hill (1504 X 608) 125 Assault.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="City on Hill (1504 X 608) 125 Attack.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="City on Hill (1504 X 608) 125 Probe.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="City on Hill (608 X 1088) 225 Meet.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="City on Hill-Damaged (1504 X 608) 237 Assault.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="City on Hill-Damaged (1504 X 608) 237 Attack.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="City on Hill-Damaged (1504 X 608) 237 Probe.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="City-Damaged (608 X 608) 338 Meet.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="City-Damaged (608 X 800) 339 Assault.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="City-Damaged (608 X 800) 339 Attack.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="City-Damaged (608 X 800) 339 Probe.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="City-Damaged (608 X 912) 096r Assault.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="City-Damaged (608 X 912) 096r Attack.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="City-Damaged (608 X 912) 096r Probe.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="City-Damaged (688 X 608) 240 Assault.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="City-Damaged (688 X 608) 240 Attack.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="City-Damaged (688 X 608) 240 Probe.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="City-Damaged (688 X 736) 242 Assault.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="City-Damaged (688 X 736) 242 Attack.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="City-Damaged (688 X 736) 242 Probe.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="City-Damaged (704 X 608) 212 Meet.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="City-Damaged (736 X 800) 095r Meet.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="City-Rural (608 X 1200) 278 Meet.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="City-Rural-Damaged (608 X 1200) 280 Meet.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="City-Water (560 X 1072) 081r Assault.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="City-Water (560 X 1072) 081r Attack.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="City-Water (560 X 1072) 081r Probe.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="City-Water-Damaged (560 X 1072) 241 Assault.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="City-Water-Damaged (560 X 1072) 241 Attack.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="City-Water-Damaged (560 X 1072) 241 Probe.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="City-Water-Rough (640 X 1168) 053r Assault.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="City-Water-Rough (640 X 1168) 053r Attack.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="City-Water-Rough (640 X 1168) 053r Probe.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="City-Water-Rough (640 X 1216) 054r Meet.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="CMBS Demo (Map 1568 X 1568) Assault.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="CMBS Demo (Map 1568 X 1568) Attack.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="CMBS Demo (Map 1568 X 1568) Probe.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Dueling Balalaikas (2320 X 1488) Meet.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Forest-Hills (1200 X 608) 253 Assault.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Forest-Hills (1200 X 608) 253 Attack.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Forest-Hills (1200 X 608) 253 Probe.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Forest-Hills-Open (928 X 1056) 305 Meet.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Forest-Rural (1600 X 1041) 041r Meet.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Forest-Rural (1600 X 1600) 42r Assault.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Forest-Rural (1600 X 1600) 42r Attack.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Forest-Rural (1600 X 1600) 42r Probe.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Forest-Water (800 X 336) 268 Assault.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Forest-Water (800 X 336) 268 Attack.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Forest-Water (800 X 336) 268 Probe.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Forest-Water (880 X 336) 267 Meet.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Forest-Water (960 X 528) 028 Meet.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Forest-Water-Town (1616 X 1616) 257 Meet.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Hill-Water-Village (912 X 816) 078r Assault.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Hill-Water-Village (912 X 816) 078r Attack.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Hill-Water-Village (912 X 816) 078r Probe.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Hills Rough Water (2512 X 1616) 232 Assault.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Hills Rough Water (2512 X 1616) 232 Attack.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Hills Rough Water (2512 X 1616) 232 Probe.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Hills-Farmland (1344 X 848) 282 Meet.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Hills-Forest (560 X 736) 283 Meet.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Hills-Forest (848 X 1008) 228 Assault.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Hills-Forest (848 X 1008) 228 Attack.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Hills-Forest (848 X 1008) 228 Probe.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Hills-Forest-Open (1200 X 912) 310 Assault.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Hills-Forest-Open (1200 X 912) 310 Attack.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Hills-Forest-Open (1200 X 912) 310 Probe rev.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Hills-Forest-Open (1200 X 912) 310 Probe.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Hills-Forest-Open (1504 X 1184) 309 Assault.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Hills-Forest-Open (1504 X 1184) 309 Attack.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Hills-Forest-Open (1504 X 1184) 309 Probe.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Hills-Open-Farmland (752 X 1104) 307 Meet.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Hills-Open-Water (3040 X 1056) 255 Meet.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Hills-Rough (1200 X 1424) 233 Assault.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Hills-Rough (1200 X 1424) 233 Attack.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Hills-Rough (1200 X 1424) 233 Probe.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Hills-Rural (752 X 1104) 034r Meet.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Hills-Water (1072 X 816) 037r Assault.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Hills-Water (1072 X 816) 037r Attack.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Hills-Water (1072 X 816) 037r Probe.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Hills-Water-Forest  (912 X 512) 264 Meet.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Hills-Water-Forest (912 X 512) 263 Assault.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Hills-Water-Forest (912 X 512) 263 Attack.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Hills-Water-Forest (912 X 512) 263 Probe.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Huge Asintorf-Town (2400 X 2000) 091 Assault.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Huge Asintorf-Town (2400 X 2000) 091 Attack.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Huge Asintorf-Town (2400 X 2000) 091 Probe.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Huge Dam-Rough (2160 X 2784) 316 Assault.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Huge Dam-Rough (2160 X 2784) 316 Attack.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Huge Dam-Rough (2160 X 2784) 316 Probe.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Huge Novohurivka-Open (3936 X 992) 286 Assault.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Huge Novohurivka-Open (3936 X 992) 286 Attack.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Huge Novohurivka-Open (3936 X 992) 286 Probe.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Huge Novohurivka-Open (5504 X 992) 287 Meet.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Huge Orekhovsk-Village (2192 X 1440) 093 Meet.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Huge Orekhovsk-Village (2208 X 1568) 092 Assault.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Huge Orekhovsk-Village (2208 X 1568) 092 Attack.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Huge Orekhovsk-Village (2208 X 1568) 092 Probe.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Huge Rough-Water (3040 X 2000) 027r Meet.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Huge Rough-Water-Town (3040 X 2000) 026r Assault.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Huge Rough-Water-Town (3040 X 2000) 026r Attack.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Huge Rough-Water-Town (3040 X 2000) 026r Probe.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Huge Town-Military Post (1776 X 2704) 276 Assault.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Huge Town-Military Post (1776 X 2704) 276 Attack.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Huge Town-Military Post (1776 X 2704) 276 Probe.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Huge Town-Rural (2752 X 2256) 227 Assault.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Huge Town-Rural (2752 X 2256) 227 Attack.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Huge Town-Rural (2752 X 2256) 227 Probe.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Khalmi-Rough (1088 X 1104) 085r Assault.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Khalmi-Rough (1088 X 1104) 085r Attack.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Khalmi-Rough (1088 X 1104) 085r Probe.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Khalmi-Rough (1088 X 1104) 087r Meet.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Kieme's Highway V2 - map only.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Kieme's Highway-V2-PvP-Meet-LargeBattle.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Kieme's Highway-V2-PvP-Meet-MediumBattle.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Kieme's Highway-V2-PvP-Meet-SmallBattle.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Open (1792 X 816) 244 Meet.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Open-Farmland (1200 X 800) 281 Meet.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Open-Hills (1248 X 1200) 314 Assault.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Open-Hills (1248 X 1200) 314 Attack.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Open-Hills (1248 X 1200) 314 Probe.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Open-Hills (1248 X 1200) 315 Meet.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Open-Hills-Village (912 X 848) 308 Assault.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Open-Hills-Village (912 X 848) 308 Attack.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Open-Hills-Village (912 X 848) 308 Probe.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Open-Rough (1344 X 848) 036r Meet.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Open-Rough (1536 X 992) 061r Meet.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Open-Rough (1840 X 1242) 035r Assault.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Open-Rough (1840 X 1242) 035r Attack.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Open-Rough (1840 X 1242) 035r Probe.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Open-Rough (880 X 336) 269 Meet.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Open-Rough-Hills (1504 X 1504) 003 Meet.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Open-Rough-Hills (1504 X 1808) 004 Assault.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Open-Rough-Hills (1504 X 1808) 004 Attack.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Open-Rough-Hills (1504 X 1808) 004 Probe.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Open-Rural (672 X 720) 306 Meet.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Open-Rural (944 X 848) 312 Assault.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Open-Rural (944 X 848) 312 Attack.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Open-Rural (944 X 848) 312 Probe.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Open-Rural (944 X 848) 313 Meet.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Open-Rural-Water (912 X 816) 123 Assault.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Open-Rural-Water (912 X 816) 123 Attack.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Open-Rural-Water (912 X 816) 123 Probe.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Open-Village (848 X 1264) 270 Assault.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Open-Village (848 X 1264) 270 Attack.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Open-Village (848 X 1264) 270 Probe.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Open-Village-Damaged (912 X 848) 317 Assault.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Open-Village-Damaged (912 X 848) 317 Attack.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Open-Village-Damaged (912 X 848) 317 Probe.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Plehany (1200 X 672) 100 Meet.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Plehany-Open (1200 X 1280) 099 Assault.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Plehany-Open (1200 X 1280) 099 Attack .btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Plehany-Open (1200 X 1280) 099 Probe.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Podlypyky-Rough (1936 X 1808) 088 Assault.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Podlypyky-Rough (1936 X 1808) 088 Attack.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Podlypyky-Rough (1936 X 1808) 088 Probe.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Podlypyky-Town (1728 X 864) 089 Meet.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="River of Tears-City (1664 X 2400) 296 Assault.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="River of Tears-City (1664 X 2400) 296 Attack.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="River of Tears-City (1664 X 2400) 296 Probe.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Rough-Hills (544 X 1344) 302 Meet.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Rough-Village (1072 X 896) 077r Meet.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Rough-Village-Damaged (1072 X 896) 247 Meet.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Rough-Water (1088 X 1088) 288 Assault.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Rough-Water (1088 X 1088) 288 Attack.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Rough-Water (1088 X 1088) 288 Probe.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Rough-Water (1088 X 1088) 289 Meet.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Rough-Water-Village (1200 X 1136) 086 Assault.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Rough-Water-Village (1200 X 1136) 086 Attack.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Rough-Water-Village (1200 X 1136) 086 Probe.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Rubizhne-Town (1088 X 640) 299 Assault.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Rubizhne-Town (1088 X 640) 299 Attack.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Rubizhne-Town (1088 X 640) 299 Probe.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Small City-Water (400 X 816) 052r Meet.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Small City-Water (416 X 848) 051r Assault.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Small City-Water (416 X 848) 051r Attack.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Small City-Water (416 X 848) 051r Probe.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Small Hills-Forest (560 X 784) 284 Assault.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Small Hills-Forest (560 X 784) 284 Attack.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Small Hills-Forest (560 X 784) 284 Probe.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Small Hills-Forest (624 X 528) 023r Assault.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Small Hills-Forest (624 X 528) 023r Attack.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Small Hills-Forest (624 X 528) 023r Probe.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Small Hills-Forest-Village (368 X592) 024r Meet.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Small Open-Hills (352 X 800) 301 Meet.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Small Town-Forest (624 X 608) 018r Meet.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Small Town-Forest (656 X 688) 017r Assault.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Small Town-Forest (656 X 688) 017r Attack.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Small Town-Forest (656 X 688) 017r Probe.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Small Village (554 X 848) 019r Assault.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Small Village (554 X 848) 019r Attack.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Small Village (554 X 848) 019r Probe.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Small Village (976 X 400) 015r Meet.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Small Village-Damaged (554 X 848) 251 Assault.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Small Village-Damaged (554 X 848) 251 Attack.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Small Village-Damaged (554 X 848) 251 Probe.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Small Village-Forest (896 X 400) 016r Assault.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Small Village-Forest (896 X 400) 016r Attack.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Small Village-Forest (896 X 400) 016r Probe.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Small Village-Open (640 X 640) 020r Meet.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Studienka-Town (1376 X 816) 296 Assault.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Studienka-Town (1376 X 816) 296 Attack.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Studienka-Town (1376 X 816) 296 Probe.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Tiny City (480 X 416) 045r Assault.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Tiny City (480 X 416) 045r Attack.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Tiny City (480 X 416) 045r Probe.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Tiny City (544 X 336) 046r Meet.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Tiny City (544 X 336) 245 Meet.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Tiny City-Damaged (480 X 416) 243 Assault.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Tiny City-Damaged (480 X 416) 243 Attack.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Tiny City-Damaged (480 X 416) 243 Probe.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Tiny Going to Town (320 X 400) Assault.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Tiny Going to Town (320 X 400) Attack.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Tiny Going to Town (320 X 400) Probe.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Tiny Going To Town (320 X 464) Meet.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Tiny Town (288 X 288) 001 Meet.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Tiny Town (384 X 320) 002 Assault.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Tiny Town (384 X 320) 002 Attack.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Tiny Town (384 X 320) 002 Probe.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Tiny Town (624 X 288) 303 Meet.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Tiny Town-Damage (384 X 320) 266 Assault.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Tiny Town-Damage (384 X 320) 266 Attack.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Tiny Town-Damage (384 X 320) 266 Probe.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Tiny Town-Damaged (288 X 288) 265 Meet.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Tiny Town-Damaged (624 X 288) 304 Meet.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Town (672 X 720) 230 Meet.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Town (704 X 512) 110 Meet.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Town-Damaged (704 X 512) 246 Meet.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Town-Forest (720 X 1024) 040r Assault.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Town-Forest (720 X 1024) 040r Attack.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Town-Forest (720 X 1024) 040r Probe.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Town-Forest (720 X 1184) 039r Meet.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Town-Forest (832 X 608) 277 Assault.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Town-Forest (832 X 608) 277 Attack.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Town-Forest (832 X 608) 277 Probe.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Town-Forest-Damaged (832 X 608) 279 Assault.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Town-Forest-Damaged (832 X 608) 279 Attack.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Town-Forest-Damaged (832 X 608) 279 Probe.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Town-Forest-River (1504 X 1108) 229 Assault.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Town-Forest-River (1504 X 1108) 229 Attack.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Town-Forest-River (1504 X 1108) 229 Probe.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Town-Hills (1568 X 1568) 259 Meet.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Town-Hills (608 X 1152) 069r Assault.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Town-Hills (608 X 1152) 069r Attack.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Town-Hills (608 X 1152) 069r Probe.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Town-Hills (608 X 1504) 070r Meet.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Town-Hills (800 X 1008) 066r Meet.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Town-Hills (800 X 928) 065 Assault.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Town-Hills (800 X 928) 065 Attack.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Town-Hills (800 X 928) 065 Probe.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Town-Hills-Damaged (800 X 1008) 248 Meet.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Town-Hills-Damaged (800 X 1008) 250 Meet.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Town-Hills-Damaged (800 X 928) 252 Assault.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Town-Hills-Damaged (800 X 928) 252 Attack.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Town-Hills-Damaged (800 X 928) 252 Probe.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Town-Hills-Water (1568 X 1568) 260 Meet.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Town-Rough-Forest (1520 X 1408) 014r Assault.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Town-Rough-Forest (1520 X 1408) 014r Attack.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Town-Rough-Forest (1520 X 1408) 014r Probe.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Town-Rural (1600 X 1600) 271 Assault.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Town-Rural (1600 X 1600) 271 Attack.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Town-Rural (1600 X 1600) 271 Probe.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Town-Rural (832 X 736) 256 Assault.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Town-Rural (832 X 736) 256 Attack.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Town-Rural (832 X 736) 256 Probe.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Town-Water (1504 X 1008) 275 Assault.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Town-Water (1504 X 1008) 275 Attack.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Town-Water (1504 X 1008) 275 Probe.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Village (544 X 800) 059r Assault.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Village (544 X 800) 059r Attack.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Village (544 X 800) 059r Probe.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Village-Forest (1008 X 992) 056r Meet.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Village-Forest (1040 X 848) 007r Assault.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Village-Forest (1040 X 848) 007r Attack.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Village-Forest (1040 X 848) 007r Probe.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Village-Forest (720 X 496) 057r Assault.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Village-Forest (720 X 496) 057r Attack.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Village-Forest (720 X 496) 057r Probe.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Village-Forest (768 X 496) 058r Meet.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Village-Forest (928 X 922) 012r Meet.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Village-Hills (608 X 1152) 121r Assault.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Village-Hills (608 X 1152) 121r Attack.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Village-Hills (608 X 1152) 121r Probe.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Village-Hills (688 X 736) 300 Assault.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Village-Hills (688 X 736) 300 Attack.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Village-Hills (688 X 736) 300 Probe.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Village-Hills (912 X 512) 273 Assault.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Village-Hills (912 X 512) 273 Attack.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Village-Hills (912 X 512) 273 Probe.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Village-Hills (912 X 816) 272 Assault.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Village-Hills (912 X 816) 272 Attack.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Village-Hills (912 X 816) 272 Probe.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Village-Hills-Damaged (912 X 816) 274 Assault.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Village-Hills-Damaged (912 X 816) 274 Attack.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Village-Hills-Damaged (912 X 816) 274 Probe.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Village-Hills-Forest (736 X 544) 072 Meet.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Village-Hills-Forest-Damaged (736 X 544) 249 Meet.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Village-Open (352 X 800) 261 Meet.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Village-Water (1008 X 768) 254 Assault.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Village-Water (1008 X 768) 254 Attack.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Village-Water (1008 X 768) 254 Probe.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Village-Water (560 X 912) 122 Assault.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Village-Water (560 X 912) 122 Attack.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Village-Water (560 X 912) 122 Probe.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Village-Water (848 X 1264) 258 Assault.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Village-Water (848 X 1264) 258 Attack.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Village-Water (848 X 1264) 258 Probe.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Village-Water (864 X 592) 299 Assault.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Village-Water (864 X 592) 299 Attack.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Village-Water (864 X 592) 299 Probe.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Voloske-Village (1456 X 848) 311 Assault.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Voloske-Village (1456 X 848) 311 Attack.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Voloske-Village (1456 X 848) 311 Probe.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Wiktorow-Open (1600 X 1040) 101 Meet.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Zodzina-Rough (1200 X 1136) 094 Assault.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Zodzina-Rough (1200 X 1136) 094 Attack.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Zodzina-Rough (1200 X 1136) 094 Probe.btt" stock="y"/>
+	<scenario author="Imperial Grunt" filename="Open (2496 X 1696) 010a1.btt" stock="y"/>
+	<scenario author="Imperial Grunt" filename="Town (1200 X 832) 012a1.btt" stock="y"/>
+	<scenario author="Imperial Grunt" filename="Town (1200 X 832) 013m.btt" stock="y"/>
+	<scenario author="Imperial Grunt" filename="Town (1504 X 1200) 014p.btt" stock="y"/>
+	<scenario author="Imperial Grunt" filename="Town (1696 X 1696) 003a1.btt" stock="y"/>
+	<scenario author="Imperial Grunt" filename="Village  (912 X 1024) 006a1.btt" stock="y"/>
+	<scenario author="Imperial Grunt" filename="Village  (912 X 1024) 006a2.btt" stock="y"/>
+	<scenario author="Imperial Grunt" filename="Village  (912 X 1024) 006p.btt" stock="y"/>
+	<scenario author="Imperial Grunt" filename="Village  (1696 X 1008) 001a1.btt" stock="y"/>
+	<scenario author="Imperial Grunt" filename="Village  (1696 X 1008) 001p.btt" stock="y"/>
+	<scenario author="Imperial Grunt" filename="Village  (1792 X 1328) 002a2.btt" stock="y"/>
+	<scenario author="Imperial Grunt" filename="Village (1696 X 1008) 004m.btt" stock="y"/>
+	<scenario author="Imperial Grunt" filename="Village (1792 X 1328) 002a1.btt" stock="y"/>
+	<scenario author="Imperial Grunt" filename="Open (1104 X 784) 009a1.btt" stock="y"/>
+	<scenario author="Imperial Grunt" filename="Open (1104 X 784) 009a2.btt" stock="y"/>
+	<scenario author="Imperial Grunt" filename="Open (1104 X 784) 009p.btt" stock="y"/>
+	<scenario author="Imperial Grunt" filename="Open (2496 X 1696) 010a2.btt" stock="y"/>
+	<scenario author="Imperial Grunt" filename="Open (2496 X 1696) 011m.btt" stock="y"/>
+	<scenario author="Imperial Grunt" filename="Town (1200 X 832) 012a2.btt" stock="y"/>
+	<scenario author="Imperial Grunt" filename="Town (1200 X 832) 012p.btt" stock="y"/>
+	<scenario author="Imperial Grunt" filename="Town (1504 X 1200) 014a1.btt" stock="y"/>
+	<scenario author="Imperial Grunt" filename="Town (1504 X 1200) 014a2.btt" stock="y"/>
+	<scenario author="Imperial Grunt" filename="Town (1696 X 1696) 003a2.btt" stock="y"/>
+	<scenario author="Imperial Grunt" filename="Town (1696 X 1696) 003p.btt" stock="y"/>
+	<scenario author="Imperial Grunt" filename="Village  (1696 X 1008) 001a2.btt" stock="y"/>
+	<scenario author="Imperial Grunt" filename="Village  (1792 X 1328) 002p.btt" stock="y"/>
+	<scenario author="Imperial Grunt" filename="Village  (1792 X 1328) 008m.btt" stock="y"/>
+	<scenario author="Imperial Grunt" filename="Open (2496 X 1696) 010p.btt" stock="y"/>
+	<scenario author="Imperial Grunt" filename="Town (1696 X 1696) 005m.btt" stock="y"/>
+	<scenario author="Imperial Grunt" filename="Village  (912 X 1024) 007m.btt" stock="y"/>
+    <scenario author="Snake_Eye" filename="Donetz airport (4550 x 2700)attack.btt">
+        <additional_info>This is a QB map that can be played on either Side
+        </additional_info>
+        <urls_list>
+            <downloadurl primary="y" who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-black-sea/cm-black-sea-add-ons-maps/__trashed/</downloadurl>
+        </urls_list>
+    </scenario>
+    <scenario author="MrTimn" filename="Fording the Siverskyi Donets QB H2H Blue Attack.btt">
+        <additional_info>This upload contains 2 QB maps with no AI plan. H2H only.
+        </additional_info>
+        <urls_list>
+            <downloadurl primary="y" who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-black-sea/cm-black-sea-add-ons-maps/cmbs-fording-the-siverskyi-donets-h2h-qb-maps/</downloadurl>
+        </urls_list>
+    </scenario>
+    <scenario author="MrTimn" filename="Fording the Siverskyi Donets QB H2H Red Probe.btt">
+        <additional_info>This upload contains 2 QB maps with no AI plan. H2H only.
+        </additional_info>
+        <urls_list>
+            <downloadurl primary="y" who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-black-sea/cm-black-sea-add-ons-maps/cmbs-fording-the-siverskyi-donets-h2h-qb-maps/</downloadurl>
+        </urls_list>
+    </scenario>
+	<scenario author="Bootie" filename="Gro-Town-Forest-Water-001.btt">
+		<urls_list>
+			<downloadurl primary="y" who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-black-sea/cm-black-sea-add-ons-maps/map-gro-town-forst-water-001/</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Stagler" filename="Angriff Assault 083.btt">
+	    <additional_info>Converted from Red Thunder to Black Sea
+	    </additional_info>
+		<urls_list>
+			<downloadurl primary="y" who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-black-sea/cm-black-sea-add-ons-maps/85-converted-cmrt-to-cmbs-qb-maps/</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Stagler" filename="Angriff Attack 083.btt">
+        <additional_info>Converted from Red Thunder to Black Sea
+        </additional_info>
+        <urls_list>
+            <downloadurl primary="y" who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-black-sea/cm-black-sea-add-ons-maps/85-converted-cmrt-to-cmbs-qb-maps/</downloadurl>
+        </urls_list>
+	</scenario>
+	<scenario author="Stagler" filename="Angriff Probe 083.btt">
+        <additional_info>Converted from Red Thunder to Black Sea
+        </additional_info>
+        <urls_list>
+            <downloadurl primary="y" who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-black-sea/cm-black-sea-add-ons-maps/85-converted-cmrt-to-cmbs-qb-maps/</downloadurl>
+        </urls_list>
+    </scenario>
+	<scenario author="Stagler" filename="Attack! Assault 084.btt">
+        <additional_info>Converted from Red Thunder to Black Sea
+        </additional_info>
+        <urls_list>
+            <downloadurl primary="y" who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-black-sea/cm-black-sea-add-ons-maps/85-converted-cmrt-to-cmbs-qb-maps/</downloadurl>
+        </urls_list>
+    </scenario>
+	<scenario author="Stagler" filename="Attack! Attack 084.btt">
+        <additional_info>Converted from Red Thunder to Black Sea
+        </additional_info>
+        <urls_list>
+            <downloadurl primary="y" who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-black-sea/cm-black-sea-add-ons-maps/85-converted-cmrt-to-cmbs-qb-maps/</downloadurl>
+        </urls_list>
+	</scenario>
+	<scenario author="Stagler" filename="Attack! Probe 084.btt">
+        <additional_info>Converted from Red Thunder to Black Sea
+        </additional_info>
+        <urls_list>
+            <downloadurl primary="y" who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-black-sea/cm-black-sea-add-ons-maps/85-converted-cmrt-to-cmbs-qb-maps/</downloadurl>
+        </urls_list>
+	</scenario>
+	<scenario author="Stagler" filename="City Meet 064.btt">
+        <additional_info>Converted from Red Thunder to Black Sea
+        </additional_info>
+        <urls_list>
+            <downloadurl primary="y" who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-black-sea/cm-black-sea-add-ons-maps/85-converted-cmrt-to-cmbs-qb-maps/</downloadurl>
+        </urls_list>
+	</scenario>
+	<scenario author="Stagler" filename="City Meet 082.btt">
+        <additional_info>Converted from Red Thunder to Black Sea
+        </additional_info>
+        <urls_list>
+            <downloadurl primary="y" who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-black-sea/cm-black-sea-add-ons-maps/85-converted-cmrt-to-cmbs-qb-maps/</downloadurl>
+        </urls_list>
+	</scenario>
+	<scenario author="Stagler" filename="Forest-Marsh Assault 029.btt">
+        <additional_info>Converted from Red Thunder to Black Sea
+        </additional_info>
+        <urls_list>
+            <downloadurl primary="y" who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-black-sea/cm-black-sea-add-ons-maps/85-converted-cmrt-to-cmbs-qb-maps/</downloadurl>
+        </urls_list>
+	</scenario>
+	<scenario author="Stagler" filename="Forest-Marsh Attack 029.btt">
+        <additional_info>Converted from Red Thunder to Black Sea
+        </additional_info>
+        <urls_list>
+            <downloadurl primary="y" who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-black-sea/cm-black-sea-add-ons-maps/85-converted-cmrt-to-cmbs-qb-maps/</downloadurl>
+        </urls_list>
+	</scenario>
+	<scenario author="Stagler" filename="Forest-Marsh Meet 030.btt">
+        <additional_info>Converted from Red Thunder to Black Sea
+        </additional_info>
+        <urls_list>
+            <downloadurl primary="y" who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-black-sea/cm-black-sea-add-ons-maps/85-converted-cmrt-to-cmbs-qb-maps/</downloadurl>
+        </urls_list>
+	</scenario>
+	<scenario author="Stagler" filename="Forest-Marsh Probe 029.btt">
+        <additional_info>Converted from Red Thunder to Black Sea
+        </additional_info>
+        <urls_list>
+            <downloadurl primary="y" who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-black-sea/cm-black-sea-add-ons-maps/85-converted-cmrt-to-cmbs-qb-maps/</downloadurl>
+        </urls_list>
+	</scenario>
+	<scenario author="Stagler" filename="Forest-Rural Assault 042.btt">
+        <additional_info>Converted from Red Thunder to Black Sea
+        </additional_info>
+        <urls_list>
+            <downloadurl primary="y" who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-black-sea/cm-black-sea-add-ons-maps/85-converted-cmrt-to-cmbs-qb-maps/</downloadurl>
+        </urls_list>
+	</scenario>
+	<scenario author="Stagler" filename="Forest-Rural Attack 042.btt">
+        <additional_info>Converted from Red Thunder to Black Sea
+        </additional_info>
+        <urls_list>
+            <downloadurl primary="y" who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-black-sea/cm-black-sea-add-ons-maps/85-converted-cmrt-to-cmbs-qb-maps/</downloadurl>
+        </urls_list>
+	</scenario>
+	<scenario author="Stagler" filename="Forest-Rural Probe 042.btt">
+        <additional_info>Converted from Red Thunder to Black Sea
+        </additional_info>
+        <urls_list>
+            <downloadurl primary="y" who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-black-sea/cm-black-sea-add-ons-maps/85-converted-cmrt-to-cmbs-qb-maps/</downloadurl>
+        </urls_list>
+	</scenario>
+	<scenario author="Stagler" filename="Hills-Forest-Valley Road Assault 002.btt">
+        <additional_info>Converted from Red Thunder to Black Sea
+        </additional_info>
+        <urls_list>
+            <downloadurl primary="y" who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-black-sea/cm-black-sea-add-ons-maps/85-converted-cmrt-to-cmbs-qb-maps/</downloadurl>
+        </urls_list>
+	</scenario>
+	<scenario author="Stagler" filename="Hills-Forest-Valley Road Attack 002.btt">
+        <additional_info>Converted from Red Thunder to Black Sea
+        </additional_info>
+        <urls_list>
+            <downloadurl primary="y" who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-black-sea/cm-black-sea-add-ons-maps/85-converted-cmrt-to-cmbs-qb-maps/</downloadurl>
+        </urls_list>
+	</scenario>
+	<scenario author="Stagler" filename="Hills-Forest-Valley Road Probe 002.btt">
+        <additional_info>Converted from Red Thunder to Black Sea
+        </additional_info>
+        <urls_list>
+            <downloadurl primary="y" who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-black-sea/cm-black-sea-add-ons-maps/85-converted-cmrt-to-cmbs-qb-maps/</downloadurl>
+        </urls_list>
+	</scenario>
+	<scenario author="Stagler" filename="Hills-Light Forest Road Rail Assault 003.btt">
+        <additional_info>Converted from Red Thunder to Black Sea
+        </additional_info>
+        <urls_list>
+            <downloadurl primary="y" who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-black-sea/cm-black-sea-add-ons-maps/85-converted-cmrt-to-cmbs-qb-maps/</downloadurl>
+        </urls_list>
+	</scenario>
+	<scenario author="Stagler" filename="Hills-Light Forest Road Rail Attack 003.btt">
+        <additional_info>Converted from Red Thunder to Black Sea
+        </additional_info>
+        <urls_list>
+            <downloadurl primary="y" who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-black-sea/cm-black-sea-add-ons-maps/85-converted-cmrt-to-cmbs-qb-maps/</downloadurl>
+        </urls_list>
+	</scenario>
+	<scenario author="Stagler" filename="Hills-Light Forest Road Rail Probe 003.btt">
+        <additional_info>Converted from Red Thunder to Black Sea
+        </additional_info>
+        <urls_list>
+            <downloadurl primary="y" who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-black-sea/cm-black-sea-add-ons-maps/85-converted-cmrt-to-cmbs-qb-maps/</downloadurl>
+        </urls_list>
+	</scenario>
+	<scenario author="Stagler" filename="Huge Open-Rural Assault 031.btt">
+        <additional_info>Converted from Red Thunder to Black Sea
+        </additional_info>
+        <urls_list>
+            <downloadurl primary="y" who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-black-sea/cm-black-sea-add-ons-maps/85-converted-cmrt-to-cmbs-qb-maps/</downloadurl>
+        </urls_list>
+	</scenario>
+	<scenario author="Stagler" filename="Huge Open-Rural Attack 031.btt">
+        <additional_info>Converted from Red Thunder to Black Sea
+        </additional_info>
+        <urls_list>
+            <downloadurl primary="y" who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-black-sea/cm-black-sea-add-ons-maps/85-converted-cmrt-to-cmbs-qb-maps/</downloadurl>
+        </urls_list>
+	</scenario>
+	<scenario author="Stagler" filename="Huge Open-Rural Meet 032.btt">
+        <additional_info>Converted from Red Thunder to Black Sea
+        </additional_info>
+        <urls_list>
+            <downloadurl primary="y" who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-black-sea/cm-black-sea-add-ons-maps/85-converted-cmrt-to-cmbs-qb-maps/</downloadurl>
+        </urls_list>
+	</scenario>
+	<scenario author="Stagler" filename="Huge Open-Rural Probe 031.btt">
+        <additional_info>Converted from Red Thunder to Black Sea
+        </additional_info>
+        <urls_list>
+            <downloadurl primary="y" who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-black-sea/cm-black-sea-add-ons-maps/85-converted-cmrt-to-cmbs-qb-maps/</downloadurl>
+        </urls_list>
+	</scenario>
+	<scenario author="Stagler" filename="Light Forest-Farmland Assault 001.btt">
+        <additional_info>Converted from Red Thunder to Black Sea
+        </additional_info>
+        <urls_list>
+            <downloadurl primary="y" who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-black-sea/cm-black-sea-add-ons-maps/85-converted-cmrt-to-cmbs-qb-maps/</downloadurl>
+        </urls_list>
+	</scenario>
+	<scenario author="Stagler" filename="Light Forest-Farmland Attack 001.btt">
+        <additional_info>Converted from Red Thunder to Black Sea
+        </additional_info>
+        <urls_list>
+            <downloadurl primary="y" who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-black-sea/cm-black-sea-add-ons-maps/85-converted-cmrt-to-cmbs-qb-maps/</downloadurl>
+        </urls_list>
+	</scenario>
+	<scenario author="Stagler" filename="Light Forest-Farmland Probe 001.btt">
+        <additional_info>Converted from Red Thunder to Black Sea
+        </additional_info>
+        <urls_list>
+            <downloadurl primary="y" who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-black-sea/cm-black-sea-add-ons-maps/85-converted-cmrt-to-cmbs-qb-maps/</downloadurl>
+        </urls_list>
+	</scenario>
+	<scenario author="Stagler" filename="Open Farmland Meet 005.btt">
+        <additional_info>Converted from Red Thunder to Black Sea
+        </additional_info>
+        <urls_list>
+            <downloadurl primary="y" who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-black-sea/cm-black-sea-add-ons-maps/85-converted-cmrt-to-cmbs-qb-maps/</downloadurl>
+        </urls_list>
+	</scenario>
+	<scenario author="Stagler" filename="Open Farmland-Forest Assault 006.btt">
+        <additional_info>Converted from Red Thunder to Black Sea
+        </additional_info>
+        <urls_list>
+            <downloadurl primary="y" who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-black-sea/cm-black-sea-add-ons-maps/85-converted-cmrt-to-cmbs-qb-maps/</downloadurl>
+        </urls_list>
+	</scenario>
+	<scenario author="Stagler" filename="Open Farmland-Forest Attack 006.btt">
+        <additional_info>Converted from Red Thunder to Black Sea
+        </additional_info>
+        <urls_list>
+            <downloadurl primary="y" who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-black-sea/cm-black-sea-add-ons-maps/85-converted-cmrt-to-cmbs-qb-maps/</downloadurl>
+        </urls_list>
+	</scenario>
+	<scenario author="Stagler" filename="Open Farmland-Forest Probe 006.btt">
+        <additional_info>Converted from Red Thunder to Black Sea
+        </additional_info>
+        <urls_list>
+            <downloadurl primary="y" who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-black-sea/cm-black-sea-add-ons-maps/85-converted-cmrt-to-cmbs-qb-maps/</downloadurl>
+        </urls_list>
+	</scenario>
+	<scenario author="Stagler" filename="Open-Rough Assault 025.btt">
+        <additional_info>Converted from Red Thunder to Black Sea
+        </additional_info>
+        <urls_list>
+            <downloadurl primary="y" who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-black-sea/cm-black-sea-add-ons-maps/85-converted-cmrt-to-cmbs-qb-maps/</downloadurl>
+        </urls_list>
+	</scenario>
+	<scenario author="Stagler" filename="Open-Rough Attack 025.btt">
+        <additional_info>Converted from Red Thunder to Black Sea
+        </additional_info>
+        <urls_list>
+            <downloadurl primary="y" who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-black-sea/cm-black-sea-add-ons-maps/85-converted-cmrt-to-cmbs-qb-maps/</downloadurl>
+        </urls_list>
+	</scenario>
+	<scenario author="Stagler" filename="Open-Rough Probe 025.btt">
+        <additional_info>Converted from Red Thunder to Black Sea
+        </additional_info>
+        <urls_list>
+            <downloadurl primary="y" who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-black-sea/cm-black-sea-add-ons-maps/85-converted-cmrt-to-cmbs-qb-maps/</downloadurl>
+        </urls_list>
+	</scenario>
+	<scenario author="Stagler" filename="Rough-Marsh-Forest Assault 013.btt">
+        <additional_info>Converted from Red Thunder to Black Sea
+        </additional_info>
+        <urls_list>
+            <downloadurl primary="y" who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-black-sea/cm-black-sea-add-ons-maps/85-converted-cmrt-to-cmbs-qb-maps/</downloadurl>
+        </urls_list>
+	</scenario>
+	<scenario author="Stagler" filename="Rough-Marsh-Forest Attack 013.btt">
+        <additional_info>Converted from Red Thunder to Black Sea
+        </additional_info>
+        <urls_list>
+            <downloadurl primary="y" who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-black-sea/cm-black-sea-add-ons-maps/85-converted-cmrt-to-cmbs-qb-maps/</downloadurl>
+        </urls_list>
+	</scenario>
+	<scenario author="Stagler" filename="Rough-Marsh-Forest Probe 013.btt">
+        <additional_info>Converted from Red Thunder to Black Sea
+        </additional_info>
+        <urls_list>
+            <downloadurl primary="y" who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-black-sea/cm-black-sea-add-ons-maps/85-converted-cmrt-to-cmbs-qb-maps/</downloadurl>
+        </urls_list>
+	</scenario>
+	<scenario author="Stagler" filename="Rough-Open Assault 062.btt">
+        <additional_info>Converted from Red Thunder to Black Sea
+        </additional_info>
+        <urls_list>
+            <downloadurl primary="y" who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-black-sea/cm-black-sea-add-ons-maps/85-converted-cmrt-to-cmbs-qb-maps/</downloadurl>
+        </urls_list>
+	</scenario>
+	<scenario author="Stagler" filename="Rough-Open Attack 062.btt">
+        <additional_info>Converted from Red Thunder to Black Sea
+        </additional_info>
+        <urls_list>
+            <downloadurl primary="y" who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-black-sea/cm-black-sea-add-ons-maps/85-converted-cmrt-to-cmbs-qb-maps/</downloadurl>
+        </urls_list>
+	</scenario>
+	<scenario author="Stagler" filename="Rough-Open Probe 062.btt">
+        <additional_info>Converted from Red Thunder to Black Sea
+        </additional_info>
+        <urls_list>
+            <downloadurl primary="y" who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-black-sea/cm-black-sea-add-ons-maps/85-converted-cmrt-to-cmbs-qb-maps/</downloadurl>
+        </urls_list>
+	</scenario>
+	<scenario author="Stagler" filename="Rough-Swamp-Forest Assault 004.btt">
+        <additional_info>Converted from Red Thunder to Black Sea
+        </additional_info>
+        <urls_list>
+            <downloadurl primary="y" who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-black-sea/cm-black-sea-add-ons-maps/85-converted-cmrt-to-cmbs-qb-maps/</downloadurl>
+        </urls_list>
+	</scenario>
+	<scenario author="Stagler" filename="Rough-Swamp-Forest Attack 004.btt">
+        <additional_info>Converted from Red Thunder to Black Sea
+        </additional_info>
+        <urls_list>
+            <downloadurl primary="y" who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-black-sea/cm-black-sea-add-ons-maps/85-converted-cmrt-to-cmbs-qb-maps/</downloadurl>
+        </urls_list>
+	</scenario>
+	<scenario author="Stagler" filename="Rough-Swamp-Forest Probe 004.btt">
+        <additional_info>Converted from Red Thunder to Black Sea
+        </additional_info>
+        <urls_list>
+            <downloadurl primary="y" who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-black-sea/cm-black-sea-add-ons-maps/85-converted-cmrt-to-cmbs-qb-maps/</downloadurl>
+        </urls_list>
+	</scenario>
+	<scenario author="Stagler" filename="Rough-Water Meet 044.btt">
+        <additional_info>Converted from Red Thunder to Black Sea
+        </additional_info>
+        <urls_list>
+            <downloadurl primary="y" who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-black-sea/cm-black-sea-add-ons-maps/85-converted-cmrt-to-cmbs-qb-maps/</downloadurl>
+        </urls_list>
+	</scenario>
+	<scenario author="Stagler" filename="Rough-Water-Forest Assault 073.btt">
+        <additional_info>Converted from Red Thunder to Black Sea
+        </additional_info>
+        <urls_list>
+            <downloadurl primary="y" who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-black-sea/cm-black-sea-add-ons-maps/85-converted-cmrt-to-cmbs-qb-maps/</downloadurl>
+        </urls_list>
+	</scenario>
+	<scenario author="Stagler" filename="Rough-Water-Forest Assault 075.btt">
+        <additional_info>Converted from Red Thunder to Black Sea
+        </additional_info>
+        <urls_list>
+            <downloadurl primary="y" who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-black-sea/cm-black-sea-add-ons-maps/85-converted-cmrt-to-cmbs-qb-maps/</downloadurl>
+        </urls_list>
+	</scenario>
+	<scenario author="Stagler" filename="Rough-Water-Forest Attack 073.btt">
+        <additional_info>Converted from Red Thunder to Black Sea
+        </additional_info>
+        <urls_list>
+            <downloadurl primary="y" who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-black-sea/cm-black-sea-add-ons-maps/85-converted-cmrt-to-cmbs-qb-maps/</downloadurl>
+        </urls_list>
+	</scenario>
+	<scenario author="Stagler" filename="Rough-Water-Forest Attack 075.btt">
+        <additional_info>Converted from Red Thunder to Black Sea
+        </additional_info>
+        <urls_list>
+            <downloadurl primary="y" who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-black-sea/cm-black-sea-add-ons-maps/85-converted-cmrt-to-cmbs-qb-maps/</downloadurl>
+        </urls_list>
+	</scenario>
+	<scenario author="Stagler" filename="Rough-Water-Forest Meet 074.btt">
+        <additional_info>Converted from Red Thunder to Black Sea
+        </additional_info>
+        <urls_list>
+            <downloadurl primary="y" who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-black-sea/cm-black-sea-add-ons-maps/85-converted-cmrt-to-cmbs-qb-maps/</downloadurl>
+        </urls_list>
+	</scenario>
+	<scenario author="Stagler" filename="Rough-Water-Forest Meet 076.btt">
+        <additional_info>Converted from Red Thunder to Black Sea
+        </additional_info>
+        <urls_list>
+            <downloadurl primary="y" who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-black-sea/cm-black-sea-add-ons-maps/85-converted-cmrt-to-cmbs-qb-maps/</downloadurl>
+        </urls_list>
+	</scenario>
+	<scenario author="Stagler" filename="Rough-Water-Forest Probe 073.btt">
+        <additional_info>Converted from Red Thunder to Black Sea
+        </additional_info>
+        <urls_list>
+            <downloadurl primary="y" who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-black-sea/cm-black-sea-add-ons-maps/85-converted-cmrt-to-cmbs-qb-maps/</downloadurl>
+        </urls_list>
+	</scenario>
+	<scenario author="Stagler" filename="Rough-Water-Forest Probe 075.btt">
+        <additional_info>Converted from Red Thunder to Black Sea
+        </additional_info>
+        <urls_list>
+            <downloadurl primary="y" who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-black-sea/cm-black-sea-add-ons-maps/85-converted-cmrt-to-cmbs-qb-maps/</downloadurl>
+        </urls_list>
+	</scenario>
+	<scenario author="Stagler" filename="Rough-Water-Village Assault 009.btt">
+        <additional_info>Converted from Red Thunder to Black Sea
+        </additional_info>
+        <urls_list>
+            <downloadurl primary="y" who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-black-sea/cm-black-sea-add-ons-maps/85-converted-cmrt-to-cmbs-qb-maps/</downloadurl>
+        </urls_list>
+	</scenario>
+	<scenario author="Stagler" filename="Rough-Water-Village Assault 043.btt">
+        <additional_info>Converted from Red Thunder to Black Sea
+        </additional_info>
+        <urls_list>
+            <downloadurl primary="y" who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-black-sea/cm-black-sea-add-ons-maps/85-converted-cmrt-to-cmbs-qb-maps/</downloadurl>
+        </urls_list>
+	</scenario>
+	<scenario author="Stagler" filename="Rough-Water-Village Attack 009.btt">
+        <additional_info>Converted from Red Thunder to Black Sea
+        </additional_info>
+        <urls_list>
+            <downloadurl primary="y" who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-black-sea/cm-black-sea-add-ons-maps/85-converted-cmrt-to-cmbs-qb-maps/</downloadurl>
+        </urls_list>
+	</scenario>
+	<scenario author="Stagler" filename="Rough-Water-Village Attack 043.btt">
+        <additional_info>Converted from Red Thunder to Black Sea
+        </additional_info>
+        <urls_list>
+            <downloadurl primary="y" who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-black-sea/cm-black-sea-add-ons-maps/85-converted-cmrt-to-cmbs-qb-maps/</downloadurl>
+        </urls_list>
+	</scenario>
+	<scenario author="Stagler" filename="Rough-Water-Village Meeting 010.btt">
+        <additional_info>Converted from Red Thunder to Black Sea
+        </additional_info>
+        <urls_list>
+            <downloadurl primary="y" who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-black-sea/cm-black-sea-add-ons-maps/85-converted-cmrt-to-cmbs-qb-maps/</downloadurl>
+        </urls_list>
+	</scenario>
+	<scenario author="Stagler" filename="Rough-Water-Village Probe 009.btt">
+        <additional_info>Converted from Red Thunder to Black Sea
+        </additional_info>
+        <urls_list>
+            <downloadurl primary="y" who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-black-sea/cm-black-sea-add-ons-maps/85-converted-cmrt-to-cmbs-qb-maps/</downloadurl>
+        </urls_list>
+	</scenario>
+	<scenario author="Stagler" filename="Rough-Water-Village Probe 043.btt">
+        <additional_info>Converted from Red Thunder to Black Sea
+        </additional_info>
+        <urls_list>
+            <downloadurl primary="y" who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-black-sea/cm-black-sea-add-ons-maps/85-converted-cmrt-to-cmbs-qb-maps/</downloadurl>
+        </urls_list>
+	</scenario>
+	<scenario author="Stagler" filename="Small Forest-Village Assault 021.btt">
+        <additional_info>Converted from Red Thunder to Black Sea
+        </additional_info>
+        <urls_list>
+            <downloadurl primary="y" who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-black-sea/cm-black-sea-add-ons-maps/85-converted-cmrt-to-cmbs-qb-maps/</downloadurl>
+        </urls_list>
+	</scenario>
+	<scenario author="Stagler" filename="Small Forest-Village Attack 021.btt">
+        <additional_info>Converted from Red Thunder to Black Sea
+        </additional_info>
+        <urls_list>
+            <downloadurl primary="y" who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-black-sea/cm-black-sea-add-ons-maps/85-converted-cmrt-to-cmbs-qb-maps/</downloadurl>
+        </urls_list>
+	</scenario>
+	<scenario author="Stagler" filename="Small Forest-Village Meet 022.btt">
+        <additional_info>Converted from Red Thunder to Black Sea
+        </additional_info>
+        <urls_list>
+            <downloadurl primary="y" who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-black-sea/cm-black-sea-add-ons-maps/85-converted-cmrt-to-cmbs-qb-maps/</downloadurl>
+        </urls_list>
+	</scenario>
+	<scenario author="Stagler" filename="Small Forest-Village Probe 021.btt">
+        <additional_info>Converted from Red Thunder to Black Sea
+        </additional_info>
+        <urls_list>
+            <downloadurl primary="y" who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-black-sea/cm-black-sea-add-ons-maps/85-converted-cmrt-to-cmbs-qb-maps/</downloadurl>
+        </urls_list>
+	</scenario>
+	<scenario author="Stagler" filename="Small Open-Rough Assault 050.btt">
+        <additional_info>Converted from Red Thunder to Black Sea
+        </additional_info>
+        <urls_list>
+            <downloadurl primary="y" who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-black-sea/cm-black-sea-add-ons-maps/85-converted-cmrt-to-cmbs-qb-maps/</downloadurl>
+        </urls_list>
+	</scenario>
+	<scenario author="Stagler" filename="Small Open-Rough Attack 050.btt">
+        <additional_info>Converted from Red Thunder to Black Sea
+        </additional_info>
+        <urls_list>
+            <downloadurl primary="y" who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-black-sea/cm-black-sea-add-ons-maps/85-converted-cmrt-to-cmbs-qb-maps/</downloadurl>
+        </urls_list>
+	</scenario>
+	<scenario author="Stagler" filename="Small Open-Rough Meet 049.btt">
+        <additional_info>Converted from Red Thunder to Black Sea
+        </additional_info>
+        <urls_list>
+            <downloadurl primary="y" who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-black-sea/cm-black-sea-add-ons-maps/85-converted-cmrt-to-cmbs-qb-maps/</downloadurl>
+        </urls_list>
+	</scenario>
+	<scenario author="Stagler" filename="Small Open-Rough Probe 050.btt">
+        <additional_info>Converted from Red Thunder to Black Sea
+        </additional_info>
+        <urls_list>
+            <downloadurl primary="y" who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-black-sea/cm-black-sea-add-ons-maps/85-converted-cmrt-to-cmbs-qb-maps/</downloadurl>
+        </urls_list>
+	</scenario>
+	<scenario author="Stagler" filename="Small Village-Forest Assault 033.btt">
+        <additional_info>Converted from Red Thunder to Black Sea
+        </additional_info>
+        <urls_list>
+            <downloadurl primary="y" who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-black-sea/cm-black-sea-add-ons-maps/85-converted-cmrt-to-cmbs-qb-maps/</downloadurl>
+        </urls_list>
+	</scenario>
+	<scenario author="Stagler" filename="Small Village-Forest Attack 033.btt">
+        <additional_info>Converted from Red Thunder to Black Sea
+        </additional_info>
+        <urls_list>
+            <downloadurl primary="y" who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-black-sea/cm-black-sea-add-ons-maps/85-converted-cmrt-to-cmbs-qb-maps/</downloadurl>
+        </urls_list>
+	</scenario>
+	<scenario author="Stagler" filename="Small Village-Forest Probe 033.btt">
+        <additional_info>Converted from Red Thunder to Black Sea
+        </additional_info>
+        <urls_list>
+            <downloadurl primary="y" who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-black-sea/cm-black-sea-add-ons-maps/85-converted-cmrt-to-cmbs-qb-maps/</downloadurl>
+        </urls_list>
+	</scenario>
+	<scenario author="Stagler" filename="Town-Hills Meet 080.btt">
+        <additional_info>Converted from Red Thunder to Black Sea
+        </additional_info>
+        <urls_list>
+            <downloadurl primary="y" who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-black-sea/cm-black-sea-add-ons-maps/85-converted-cmrt-to-cmbs-qb-maps/</downloadurl>
+        </urls_list>
+	</scenario>
+	<scenario author="Stagler" filename="Town-Water Assault 079.btt">
+        <additional_info>Converted from Red Thunder to Black Sea
+        </additional_info>
+        <urls_list>
+            <downloadurl primary="y" who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-black-sea/cm-black-sea-add-ons-maps/85-converted-cmrt-to-cmbs-qb-maps/</downloadurl>
+        </urls_list>
+	</scenario>
+	<scenario author="Stagler" filename="Town-Water Attack 079.btt">
+        <additional_info>Converted from Red Thunder to Black Sea
+        </additional_info>
+        <urls_list>
+            <downloadurl primary="y" who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-black-sea/cm-black-sea-add-ons-maps/85-converted-cmrt-to-cmbs-qb-maps/</downloadurl>
+        </urls_list>
+	</scenario>
+	<scenario author="Stagler" filename="Town-Water Probe 079.btt">
+        <additional_info>Converted from Red Thunder to Black Sea
+        </additional_info>
+        <urls_list>
+            <downloadurl primary="y" who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-black-sea/cm-black-sea-add-ons-maps/85-converted-cmrt-to-cmbs-qb-maps/</downloadurl>
+        </urls_list>
+	</scenario>
+	<scenario author="Stagler" filename="Village Meet 060.btt">
+        <additional_info>Converted from Red Thunder to Black Sea
+        </additional_info>
+        <urls_list>
+            <downloadurl primary="y" who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-black-sea/cm-black-sea-add-ons-maps/85-converted-cmrt-to-cmbs-qb-maps/</downloadurl>
+        </urls_list>
+	</scenario>
+	<scenario author="Stagler" filename="Village-Forest Meeting 008.btt">
+        <additional_info>Converted from Red Thunder to Black Sea
+        </additional_info>
+        <urls_list>
+            <downloadurl primary="y" who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-black-sea/cm-black-sea-add-ons-maps/85-converted-cmrt-to-cmbs-qb-maps/</downloadurl>
+        </urls_list>
+	</scenario>
+	<scenario author="Stagler" filename="Village-Forest Meeting 012.btt">
+        <additional_info>Converted from Red Thunder to Black Sea
+        </additional_info>
+        <urls_list>
+            <downloadurl primary="y" who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-black-sea/cm-black-sea-add-ons-maps/85-converted-cmrt-to-cmbs-qb-maps/</downloadurl>
+        </urls_list>
+	</scenario>
+	<scenario author="Stagler" filename="Village-Hills Assault 067.btt">
+        <additional_info>Converted from Red Thunder to Black Sea
+        </additional_info>
+        <urls_list>
+            <downloadurl primary="y" who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-black-sea/cm-black-sea-add-ons-maps/85-converted-cmrt-to-cmbs-qb-maps/</downloadurl>
+        </urls_list>
+	</scenario>
+	<scenario author="Stagler" filename="Village-Hills Attack 067.btt">
+        <additional_info>Converted from Red Thunder to Black Sea
+        </additional_info>
+        <urls_list>
+            <downloadurl primary="y" who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-black-sea/cm-black-sea-add-ons-maps/85-converted-cmrt-to-cmbs-qb-maps/</downloadurl>
+        </urls_list>
+	</scenario>
+	<scenario author="Stagler" filename="Village-Hills Meet 068.btt">
+        <additional_info>Converted from Red Thunder to Black Sea
+        </additional_info>
+        <urls_list>
+            <downloadurl primary="y" who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-black-sea/cm-black-sea-add-ons-maps/85-converted-cmrt-to-cmbs-qb-maps/</downloadurl>
+        </urls_list>
+	</scenario>
+	<scenario author="Stagler" filename="illage-Hills Probe 067.btt">
+        <additional_info>Converted from Red Thunder to Black Sea
+        </additional_info>
+        <urls_list>
+            <downloadurl primary="y" who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-black-sea/cm-black-sea-add-ons-maps/85-converted-cmrt-to-cmbs-qb-maps/</downloadurl>
+        </urls_list>
+	</scenario>
+	<scenario author="Stagler" filename="Village-Hills-Forest Assault 071.btt">
+        <additional_info>Converted from Red Thunder to Black Sea
+        </additional_info>
+        <urls_list>
+            <downloadurl primary="y" who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-black-sea/cm-black-sea-add-ons-maps/85-converted-cmrt-to-cmbs-qb-maps/</downloadurl>
+        </urls_list>
+	</scenario>
+	<scenario author="Stagler" filename="Village-Hills-Forest Attack 071.btt">
+        <additional_info>Converted from Red Thunder to Black Sea
+        </additional_info>
+        <urls_list>
+            <downloadurl primary="y" who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-black-sea/cm-black-sea-add-ons-maps/85-converted-cmrt-to-cmbs-qb-maps/</downloadurl>
+        </urls_list>
+	</scenario>
+	<scenario author="Stagler" filename="Village-Hills-Forest Probe 071.btt">
+        <additional_info>Converted from Red Thunder to Black Sea
+        </additional_info>
+        <urls_list>
+            <downloadurl primary="y" who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-black-sea/cm-black-sea-add-ons-maps/85-converted-cmrt-to-cmbs-qb-maps/</downloadurl>
+        </urls_list>
+	</scenario>
+
+<!--    <scenario author="" filename=""> -->
+<!--        <additional_info> -->
+<!--        </additional_info> -->
+<!--        <urls_list> -->
+<!--            <infourl who="the Blitz"></infourl> -->
+<!--            <downloadurl who="Scenario Depot" primary="y">http://</downloadurl> -->
+<!--        </urls_list> -->
+<!--    </scenario> -->
+</scenarios>

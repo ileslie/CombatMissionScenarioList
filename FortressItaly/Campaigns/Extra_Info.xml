@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scenarios>
+	<scenario author="information unavailable" filename="Bizerte - Basic Training.cam" stock="y" />
+	<scenario author="Field Marshal Blücher" filename="Conrath's Counterattack.cam" stock="y">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=2257</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="information unavailable" filename="GL Foiling Fustian.cam" stock="y" />
+	<scenario author="information unavailable" filename="GL Monte Cassino.cam" stock="y" />
+	<scenario author="information unavailable" filename="GL Raging Buffalo.cam" stock="y" />
+	<scenario author="information unavailable" filename="GL The Corridor.cam" stock="y" />
+	<scenario author="Frank Sauer" filename="GL Welcome to Sicily.cam">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-fortress-italy/cm-fortress-italy-add-ons/gl-welcome-to-sicily/</infourl>
+			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/GL-Welcome-to-Sicily.zip</downloadurl>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=2917</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="information unavailable" filename="Invasion at Gela - Advanced Training.cam" stock="y" />
+	<scenario author="information unavailable" filename="The Chronicles of KG Skwabie.cam" stock="y" />
+	<scenario author="information unavailable" filename="The Fleeting Moment.cam" stock="y" />
+	<scenario author="information unavailable" filename="Troina v2.cam" />
+	<scenario author="information unavailable" filename="Troina.cam">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=2683</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Michael Dorosh" filename="TWC Black Devils of Anzio 1.cam">
+		<urls_list>
+			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-fortress-italy/cm-fortress-italy-campaigns/twc-black-devils-of-anzio/</infourl>
+			<downloadurl who="Scenario Depot" primary="y">http://www.thefewgoodmen.com/tsd3/download/TWC-Black-Devils-of-Anzio-1.2.zip</downloadurl>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3049</downloadurl>
+		</urls_list>
+	</scenario>
+	<scenario author="Phillip Pall (kohlenklau)" filename="Wacht Am Rapido.cam">
+		<urls_list>
+			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3451</downloadurl>
+		</urls_list>
+	</scenario>
+
+<!-- 	<scenario author="" filename=""> -->
+<!-- 		<urls_list> -->
+<!-- 			<infourl who="Scenario Depot"></infourl> -->
+<!-- 			<downloadurl who="Scenario Depot">http://</downloadurl> -->
+<!-- 		</urls_list> -->
+<!-- 	</scenario> -->
+</scenarios>
