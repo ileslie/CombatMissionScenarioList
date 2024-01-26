@@ -1,0 +1,1337 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="Listing_Layout.xsl" ?>
+
+<Scenario_Listing>
+
+   <Scenario_List>
+
+   <Scenario>
+      <Title>
+         <battle_title>Carpiquet South Light Damage</battle_title>
+      </Title>
+      <filename>Carpiquet South Light Damage</filename>
+      <picture_link>scenpics/Carpiquet South Light Damage.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>Not defined!</description>
+      <date>04/07/1944</date>
+      <time_of_day>09:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:30</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>7.491 Sq. km</map_area>
+         <map_width>3344 m</map_width>
+         <map_depth>2240 m</map_depth>
+      </Map_Size>
+      <region>France</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBN v3.10 to v3.12</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>carpiquet</mod_tag>
+         <mod_tag>rubble</mod_tag>
+      </Mod_Tags>
+      <size_modifier>5</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>ANLP_Vierville-sur-Mer</battle_title>
+      </Title>
+      <filename>ANLP_Vierville-sur-Mer</filename>
+      <picture_link>scenpics/ANLP_Vierville-sur-Mer.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>Not defined!</description>
+      <date>06/06/1944</date>
+      <time_of_day>11:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>02:00</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>2.074 Sq. km</map_area>
+         <map_width>2160 m</map_width>
+         <map_depth>960 m</map_depth>
+      </Map_Size>
+      <region>France</region>
+      <environment>Open</environment>
+      <weather>Overcast</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBN v1.10</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title> Assault to Jersey</battle_title>
+      </Title>
+      <filename>Assault to Jersey</filename>
+      <picture_link>scenpics/Assault to Jersey.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>US paratroopers try to assault the island</description>
+      <date>06/06/1944</date>
+      <time_of_day>07:00</time_of_day>
+      <part_of_day>Dawn</part_of_day>
+      <length>00:30</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>2.002 Sq. km</map_area>
+         <map_width>1840 m</map_width>
+         <map_depth>1088 m</map_depth>
+      </Map_Size>
+      <region>France</region>
+      <environment>Rough</environment>
+      <weather>Light Fog</weather>
+      <temperature>Cool</temperature>
+      <ground_condition>Damp</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBN v1.10</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>5</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>MG Nijmegen West Master Map</battle_title>
+      </Title>
+      <filename>MG Nijmegen West Master Map</filename>
+      <picture_link>scenpics/MG Nijmegen West Master Map.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>Not defined!</description>
+      <date>17/09/1944</date>
+      <time_of_day>09:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:30</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>3.369 Sq. km</map_area>
+         <map_width>2240 m</map_width>
+         <map_depth>1504 m</map_depth>
+      </Map_Size>
+      <region>Holland</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBN v2.10</game_version>
+      <Modules_Required>
+         <module1>Market Garden</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>5</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Ciembienne</battle_title>
+      </Title>
+      <filename>Ciembienne</filename>
+      <picture_link>scenpics/Ciembienne.bmp</picture_link>
+      <battle_type>Allied Assault</battle_type>
+      <description>Not defined!</description>
+      <date>22/06/1944</date>
+      <time_of_day>04:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:30</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>0.873 Sq. km</map_area>
+         <map_width>880 m</map_width>
+         <map_depth>992 m</map_depth>
+      </Map_Size>
+      <region>France</region>
+      <environment>City</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBN v2.01</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>First Map_Country Farmhouse</battle_title>
+      </Title>
+      <filename>AAA_MJS_Country Farmhouse</filename>
+      <picture_link>scenpics/AAA_MJS_Country Farmhouse.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>Generic Map</description>
+      <date>12/06/1944</date>
+      <time_of_day>07:45</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:30</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>0.389 Sq. km</map_area>
+         <map_width>608 m</map_width>
+         <map_depth>640 m</map_depth>
+      </Map_Size>
+      <region>France</region>
+      <environment>Open</environment>
+      <weather>Light Fog</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Damp</ground_condition>
+      <early_intel>Axis Force</early_intel>
+      <game_version>CMBN v1.00</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>MG Elst Master Map</battle_title>
+      </Title>
+      <filename>MG Elst Master Map</filename>
+      <picture_link>scenpics/MG Elst Master Map.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>Not defined!</description>
+      <date>28/09/1944</date>
+      <time_of_day>09:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:30</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>5.76 Sq. km</map_area>
+         <map_width>2400 m</map_width>
+         <map_depth>2400 m</map_depth>
+      </Map_Size>
+      <region>Holland</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Muddy</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBN v2.10</game_version>
+      <Modules_Required>
+         <module1>Market Garden</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>5</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Nijmegen City Master Map</battle_title>
+      </Title>
+      <filename>MG Nijmegen City Master Map</filename>
+      <picture_link>scenpics/MG Nijmegen City Master Map.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>The enitire city of Nijmegen for scenario creation</description>
+      <date>17/09/1944</date>
+      <time_of_day>09:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:30</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>5.466 Sq. km</map_area>
+         <map_width>1952 m</map_width>
+         <map_depth>2800 m</map_depth>
+      </Map_Size>
+      <region>Holland</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBN v2.10</game_version>
+      <Modules_Required>
+         <module1>Market Garden</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>5</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>TWC Meet Medium Forest (Chetwood)</battle_title>
+      </Title>
+      <filename>TWC - Meet Medium Forest (Chetwood)</filename>
+      <picture_link>scenpics/TWC - Meet Medium Forest (Chetwood).bmp</picture_link>
+      <battle_type>Meeting Engagement</battle_type>
+      <description>Map size 800 x 688 Blue setup South Red setup North Objective Ruins</description>
+      <date>06/06/1944</date>
+      <time_of_day>09:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>02:00</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>0.55 Sq. km</map_area>
+         <map_width>800 m</map_width>
+         <map_depth>688 m</map_depth>
+      </Map_Size>
+      <region>France</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBN v2.12</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>La Nicollerie</battle_title>
+      </Title>
+      <filename>HTH_large_bocage_rough_La_Nicollerie_map_only_no_AI_v1</filename>
+      <picture_link>scenpics/HTH_large_bocage_rough_La_Nicollerie_map_only_no_AI_v1.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>HTH map with no AI. Authentic terrain, using Broadsword&apos;s XIX Corps master map.</description>
+      <date>12/07/1944</date>
+      <time_of_day>09:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>02:00</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>1.165 Sq. km</map_area>
+         <map_width>1040 m</map_width>
+         <map_depth>1120 m</map_depth>
+      </Map_Size>
+      <region>France</region>
+      <environment>Rough</environment>
+      <weather>Overcast</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBN v1.01</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>0 [FM] La Belle Croix</battle_title>
+      </Title>
+      <filename>0 [FM] La Belle Croix</filename>
+      <picture_link>scenpics/0 [FM] La Belle Croix.bmp</picture_link>
+      <battle_type>Allied Assault</battle_type>
+      <description>Not defined!</description>
+      <date>14/08/1944</date>
+      <time_of_day>14:20</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:00</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>1.05 Sq. km</map_area>
+         <map_width>800 m</map_width>
+         <map_depth>1312 m</map_depth>
+      </Map_Size>
+      <region>France</region>
+      <environment>Village</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Allied Force</early_intel>
+      <game_version>CMBN v2.01</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>0 [FM] Station de Toquemont</battle_title>
+      </Title>
+      <filename>0 [FM] Station de Toquemont</filename>
+      <picture_link>scenpics/0 [FM] Station de Toquemont.bmp</picture_link>
+      <battle_type>Allied Assault</battle_type>
+      <description>Not defined!</description>
+      <date>14/08/1944</date>
+      <time_of_day>10:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:00</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>0.287 Sq. km</map_area>
+         <map_width>560 m</map_width>
+         <map_depth>512 m</map_depth>
+      </Map_Size>
+      <region>France</region>
+      <environment>Village</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Allied Force</early_intel>
+      <game_version>CMBN v2.01</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Hill 112</battle_title>
+      </Title>
+      <filename>Hill 112</filename>
+      <picture_link>scenpics/Hill 112.bmp</picture_link>
+      <battle_type>Allied Assault</battle_type>
+      <description>Not defined!</description>
+      <date>10/07/1944</date>
+      <time_of_day>20:30</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>02:00</length>
+      <battle_size>Large</battle_size>
+      <Map_Size>
+         <map_area>3.529 Sq. km</map_area>
+         <map_width>1952 m</map_width>
+         <map_depth>1808 m</map_depth>
+      </Map_Size>
+      <region>France</region>
+      <environment>Open</environment>
+      <weather>Overcast</weather>
+      <temperature>Cool</temperature>
+      <ground_condition>Damp</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBN v2.12</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>9</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>xix_corps_center_4x4km_july44_no_ai_master</battle_title>
+      </Title>
+      <filename>xix_corps_center_4x4km_july44_no_ai_master</filename>
+      <picture_link>scenpics/xix_corps_center_4x4km_july44_no_ai_master.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>Not defined!</description>
+      <date>06/06/1944</date>
+      <time_of_day>09:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:30</length>
+      <battle_size>Huge</battle_size>
+      <Map_Size>
+         <map_area>16 Sq. km</map_area>
+         <map_width>4000 m</map_width>
+         <map_depth>4000 m</map_depth>
+      </Map_Size>
+      <region>France</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBN v1.01</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>8</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>0 [FM] Vauvrecy</battle_title>
+      </Title>
+      <filename>0 [FM] Vauvrecy</filename>
+      <picture_link>scenpics/0 [FM] Vauvrecy.bmp</picture_link>
+      <battle_type>Allied Assault</battle_type>
+      <description>Not defined!</description>
+      <date>14/08/1944</date>
+      <time_of_day>10:20</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:00</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>0.598 Sq. km</map_area>
+         <map_width>656 m</map_width>
+         <map_depth>912 m</map_depth>
+      </Map_Size>
+      <region>France</region>
+      <environment>Village</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Allied Force</early_intel>
+      <game_version>CMBN v2.01</game_version>
+      <Modules_Required>
+         <module1>Commonwealth</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Hill 192</battle_title>
+      </Title>
+      <filename>HILL 192 expanded</filename>
+      <picture_link>scenpics/HILL 192 expanded.bmp</picture_link>
+      <battle_type>Allied Assault</battle_type>
+      <description>38 IR assaults Hill 192 - 11 Jul 44.  Historical</description>
+      <date>11/07/1944</date>
+      <time_of_day>06:30</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>04:00</length>
+      <battle_size>Huge</battle_size>
+      <Map_Size>
+         <map_area>3.794 Sq. km</map_area>
+         <map_width>1520 m</map_width>
+         <map_depth>2496 m</map_depth>
+      </Map_Size>
+      <region>France</region>
+      <environment>Rough</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Allied Force</early_intel>
+      <game_version>CMBN v3.10 to v3.12</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>10</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Choisy Crossroads (HTH real terrain)</battle_title>
+      </Title>
+      <filename>hth_large_bocage_rough_Choisy_map_only_no_ai</filename>
+      <picture_link>scenpics/hth_large_bocage_rough_Choisy_map_only_no_ai.bmp</picture_link>
+      <battle_type>Axis Assault</battle_type>
+      <description>HTH battle map from XIX Corps 4km x 4km master map. No AI</description>
+      <date>13/07/1944</date>
+      <time_of_day>08:30</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>02:00</length>
+      <battle_size>Huge</battle_size>
+      <Map_Size>
+         <map_area>0.968 Sq. km</map_area>
+         <map_width>1120 m</map_width>
+         <map_depth>864 m</map_depth>
+      </Map_Size>
+      <region>France</region>
+      <environment>Rough</environment>
+      <weather>Overcast</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBN v1.01</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>10</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Avranches, the lion&apos;s den.</battle_title>
+      </Title>
+      <filename>Avranches, the lion&apos;s den</filename>
+      <picture_link>scenpics/Avranches, the lion&apos;s den.bmp</picture_link>
+      <battle_type>Meeting Engagement</battle_type>
+      <description>Night meeting in Avranches, Patton is here.</description>
+      <date>30/07/1944</date>
+      <time_of_day>04:00</time_of_day>
+      <part_of_day>Night</part_of_day>
+      <length>00:30</length>
+      <battle_size>Small</battle_size>
+      <Map_Size>
+         <map_area>0.135 Sq. km</map_area>
+         <map_width>384 m</map_width>
+         <map_depth>352 m</map_depth>
+      </Map_Size>
+      <region>France</region>
+      <environment>City</environment>
+      <weather>Mist and Rain</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Damp</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBN v2.12</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>3</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Villers-Bocage</battle_title>
+      </Title>
+      <filename>Villers</filename>
+      <picture_link>scenpics/Villers.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>Ouch</description>
+      <date>13/06/1944</date>
+      <time_of_day>11:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>03:00</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>1.758 Sq. km</map_area>
+         <map_width>1744 m</map_width>
+         <map_depth>1008 m</map_depth>
+      </Map_Size>
+      <region>France</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBN v2.01</game_version>
+      <Modules_Required>
+         <module1>Commonwealth</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Proposed battle: Bruton</battle_title>
+         <qb_filename>Bruton (14) QB.btt</qb_filename>
+      </Title>
+      <filename>Bruton (14) QB</filename>
+      <picture_link>scenpics/Bruton (14) QB.bmp</picture_link>
+      <battle_type>Axis Attack</battle_type>
+      <description>Axis forces attempt to take the town of Bruton</description>
+      <date>08/06/1944</date>
+      <time_of_day>16:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>04:00</length>
+      <battle_size>Huge</battle_size>
+      <Map_Size>
+         <map_area>7.701 Sq. km</map_area>
+         <map_width>2848 m</map_width>
+         <map_depth>2704 m</map_depth>
+      </Map_Size>
+      <region>France</region>
+      <environment>Hills</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBN v1.01</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>10</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>MG Arnhem Road Bridge Master Map</battle_title>
+      </Title>
+      <filename>MG Arnhem Road Bridge Master Map</filename>
+      <picture_link>scenpics/MG Arnhem Road Bridge Master Map.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>Not defined!</description>
+      <date>30/09/1944</date>
+      <time_of_day>10:15</time_of_day>
+      <part_of_day>Dawn</part_of_day>
+      <length>00:30</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>0.823 Sq. km</map_area>
+         <map_width>816 m</map_width>
+         <map_depth>1008 m</map_depth>
+      </Map_Size>
+      <region>Holland</region>
+      <environment>City</environment>
+      <weather>Hazy</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBN v2.10</game_version>
+      <Modules_Required>
+         <module1>Market Garden</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>5</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>CaenMapProject_revised_FINAL</battle_title>
+      </Title>
+      <filename>CaenMapProject_revised_FINAL</filename>
+      <picture_link>scenpics/CaenMapProject_revised_FINAL.bmp</picture_link>
+      <battle_type>Axis Attack</battle_type>
+      <description>Not defined!</description>
+      <date>07/06/1944</date>
+      <time_of_day>14:40</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>04:00</length>
+      <battle_size>Huge</battle_size>
+      <Map_Size>
+         <map_area>14.852 Sq. km</map_area>
+         <map_width>3728 m</map_width>
+         <map_depth>3984 m</map_depth>
+      </Map_Size>
+      <region>France</region>
+      <environment>Open</environment>
+      <weather>Overcast</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBN v2.01</game_version>
+      <Modules_Required>
+         <module1>Commonwealth</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>10</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Hill 108</battle_title>
+      </Title>
+      <filename>ANLP_Hill 108 </filename>
+      <picture_link>scenpics/ANLP_Hill 108 .bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>Not defined!</description>
+      <date>17/06/1944</date>
+      <time_of_day>11:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>04:00</length>
+      <battle_size>Large</battle_size>
+      <Map_Size>
+         <map_area>2.214 Sq. km</map_area>
+         <map_width>1488 m</map_width>
+         <map_depth>1488 m</map_depth>
+      </Map_Size>
+      <region>France</region>
+      <environment>Rough</environment>
+      <weather>Hazy</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBN v1.10</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>9</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>MG Johanna Hoeve Master Map</battle_title>
+      </Title>
+      <filename>MG Johanna Hoeve Master Map</filename>
+      <picture_link>scenpics/MG Johanna Hoeve Master Map.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>Not defined!</description>
+      <date>19/09/1944</date>
+      <time_of_day>08:10</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>02:00</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>6.016 Sq. km</map_area>
+         <map_width>3008 m</map_width>
+         <map_depth>2000 m</map_depth>
+      </Map_Size>
+      <region>Holland</region>
+      <environment>Open</environment>
+      <weather>Hazy</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Damp</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBN v2.10</game_version>
+      <Modules_Required>
+         <module1>Market Garden</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Attk Normandy Village in Bocage Country</battle_title>
+      </Title>
+      <filename>village_mapOnly_1.3</filename>
+      <picture_link>scenpics/village_mapOnly_1.3.bmp</picture_link>
+      <battle_type>Axis Attack</battle_type>
+      <description>A small Normal village in bocage country.</description>
+      <date>14/06/1944</date>
+      <time_of_day>11:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:00</length>
+      <battle_size>Small</battle_size>
+      <Map_Size>
+         <map_area>0.123 Sq. km</map_area>
+         <map_width>320 m</map_width>
+         <map_depth>384 m</map_depth>
+      </Map_Size>
+      <region>France</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBN v1.10</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>4</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Carpiquet North Light Damage</battle_title>
+      </Title>
+      <filename>Carpiquet North Light Damage</filename>
+      <picture_link>scenpics/Carpiquet North Light Damage.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>Not defined!</description>
+      <date>04/07/1944</date>
+      <time_of_day>06:30</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>03:00</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>4.631 Sq. km</map_area>
+         <map_width>2176 m</map_width>
+         <map_depth>2128 m</map_depth>
+      </Map_Size>
+      <region>France</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBN v3.10 to v3.12</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>carpiquet</mod_tag>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>2x2</battle_title>
+      </Title>
+      <filename>2x2</filename>
+      <picture_link>scenpics/2x2.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>Not defined!</description>
+      <date>06/08/1944</date>
+      <time_of_day>09:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:30</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>4 Sq. km</map_area>
+         <map_width>2000 m</map_width>
+         <map_depth>2000 m</map_depth>
+      </Map_Size>
+      <region>France</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Very Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBN v1.10</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>5</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Carpiquet South Clean</battle_title>
+      </Title>
+      <filename>Carpiquet South Clean</filename>
+      <picture_link>scenpics/Carpiquet South Clean.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>Not defined!</description>
+      <date>04/07/1944</date>
+      <time_of_day>09:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:30</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>7.491 Sq. km</map_area>
+         <map_width>3344 m</map_width>
+         <map_depth>2240 m</map_depth>
+      </Map_Size>
+      <region>France</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBN v3.10 to v3.12</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>5</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>FGM - Three Bridges </battle_title>
+      </Title>
+      <filename>Three Bridges</filename>
+      <picture_link>scenpics/Three Bridges.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>Not defined!</description>
+      <date>06/06/1944</date>
+      <time_of_day>09:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:30</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>0.246 Sq. km</map_area>
+         <map_width>512 m</map_width>
+         <map_depth>480 m</map_depth>
+      </Map_Size>
+      <region>France</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBN v3.10 to v3.12</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>5</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>MG Oosterbeek Master Map</battle_title>
+      </Title>
+      <filename>MG Oosterbeek Master Map</filename>
+      <picture_link>scenpics/MG Oosterbeek Master Map.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>Not defined!</description>
+      <date>18/09/1944</date>
+      <time_of_day>09:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:30</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>7.508 Sq. km</map_area>
+         <map_width>2496 m</map_width>
+         <map_depth>3008 m</map_depth>
+      </Map_Size>
+      <region>Holland</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBN v2.10</game_version>
+      <Modules_Required>
+         <module1>Market Garden</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>5</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>German HQ</battle_title>
+      </Title>
+      <filename>German HQ</filename>
+      <picture_link>scenpics/German HQ.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>Not defined!</description>
+      <date>06/06/1944</date>
+      <time_of_day>09:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:30</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>0.141 Sq. km</map_area>
+         <map_width>384 m</map_width>
+         <map_depth>368 m</map_depth>
+      </Map_Size>
+      <region>France</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBN v1.00</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>5</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Caen area - Juvigny to Fontenay - Map Only</battle_title>
+      </Title>
+      <filename>Caen area - Juvigny to Fontenay - Map Only</filename>
+      <picture_link>scenpics/Caen area - Juvigny to Fontenay - Map Only.bmp</picture_link>
+      <battle_type>Meeting Engagement</battle_type>
+      <description>2400m x 2720m. Huge map, mostly open. Historical.</description>
+      <date>25/06/1944</date>
+      <time_of_day>13:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:30</length>
+      <battle_size>Huge</battle_size>
+      <Map_Size>
+         <map_area>6.528 Sq. km</map_area>
+         <map_width>2400 m</map_width>
+         <map_depth>2720 m</map_depth>
+      </Map_Size>
+      <region>France</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Hot</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBN v2.01</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>10</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Master Map - Aussaie</battle_title>
+      </Title>
+      <filename>Map - Aussaie</filename>
+      <picture_link>scenpics/Map - Aussaie.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>Not defined!</description>
+      <date>13/06/1944</date>
+      <time_of_day>09:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:30</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>1.016 Sq. km</map_area>
+         <map_width>1008 m</map_width>
+         <map_depth>1008 m</map_depth>
+      </Map_Size>
+      <region>France</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBN v3.10 to v3.12</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>5</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Humbug-Medium-ME-(Bocage)</battle_title>
+      </Title>
+      <filename>Humbug-Medium-ME-(Bocage)</filename>
+      <picture_link>scenpics/Humbug-Medium-ME-(Bocage).bmp</picture_link>
+      <battle_type>Meeting Engagement</battle_type>
+      <description>Shallow, fordable river in a rural setting. 896x560. Best played as H2H but includes basic AI plans.</description>
+      <date>04/08/1944</date>
+      <time_of_day>07:00</time_of_day>
+      <part_of_day>Dawn</part_of_day>
+      <length>01:00</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>0.502 Sq. km</map_area>
+         <map_width>896 m</map_width>
+         <map_depth>560 m</map_depth>
+      </Map_Size>
+      <region>France</region>
+      <environment>Open</environment>
+      <weather>Hazy</weather>
+      <temperature>Cool</temperature>
+      <ground_condition>Damp</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBN v3.10 to v3.12</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>MG Oosterhout Master Map</battle_title>
+      </Title>
+      <filename>MG Oosterhout Master Map</filename>
+      <picture_link>scenpics/MG Oosterhout Master Map.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>Not defined!</description>
+      <date>22/09/1944</date>
+      <time_of_day>13:30</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:30</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>6.016 Sq. km</map_area>
+         <map_width>3008 m</map_width>
+         <map_depth>2000 m</map_depth>
+      </Map_Size>
+      <region>Holland</region>
+      <environment>Open</environment>
+      <weather>Overcast</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Muddy</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBN v2.10</game_version>
+      <Modules_Required>
+         <module1>Market Garden</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>5</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>0 [FM] Pont Saint Clovis</battle_title>
+      </Title>
+      <filename>0 [FM] Pont Saint Clovis</filename>
+      <picture_link>scenpics/0 [FM] Pont Saint Clovis.bmp</picture_link>
+      <battle_type>Allied Assault</battle_type>
+      <description>Not defined!</description>
+      <date>14/08/1944</date>
+      <time_of_day>14:20</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:00</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>0.978 Sq. km</map_area>
+         <map_width>672 m</map_width>
+         <map_depth>1456 m</map_depth>
+      </Map_Size>
+      <region>France</region>
+      <environment>Village</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Allied Force</early_intel>
+      <game_version>CMBN v2.01</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>The Sleepy Village</battle_title>
+      </Title>
+      <filename>Humbug-Small-ME-Village(bocage)</filename>
+      <picture_link>scenpics/Humbug-Small-ME-Village(bocage).bmp</picture_link>
+      <battle_type>Meeting Engagement</battle_type>
+      <description>A meeting engagement in a rural, bocage-heavy setting.</description>
+      <date>10/07/1944</date>
+      <time_of_day>06:45</time_of_day>
+      <part_of_day>Dawn</part_of_day>
+      <length>01:00</length>
+      <battle_size>Small</battle_size>
+      <Map_Size>
+         <map_area>0.235 Sq. km</map_area>
+         <map_width>544 m</map_width>
+         <map_depth>432 m</map_depth>
+      </Map_Size>
+      <region>France</region>
+      <environment>Village</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBN v3.10 to v3.12</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>4</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Carpiquet North Clean</battle_title>
+      </Title>
+      <filename>Carpiquet North Clean</filename>
+      <picture_link>scenpics/Carpiquet North Clean.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>Not defined!</description>
+      <date>04/07/1944</date>
+      <time_of_day>06:30</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>03:00</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>4.631 Sq. km</map_area>
+         <map_width>2176 m</map_width>
+         <map_depth>2128 m</map_depth>
+      </Map_Size>
+      <region>France</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBN v3.10 to v3.12</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>carpiquet</mod_tag>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Son West - Map Only - No AI</battle_title>
+      </Title>
+      <filename>MG Son West - Map Only - No AI</filename>
+      <picture_link>scenpics/MG Son West - Map Only - No AI.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>Authentic map covers area W and NW of the &quot;Conterattack at Son&quot; map that shipped with the Market-Garden Module. This is just a map, no AI or scenario.</description>
+      <date>18/09/1944</date>
+      <time_of_day>11:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>02:00</length>
+      <battle_size>Large</battle_size>
+      <Map_Size>
+         <map_area>2.679 Sq. km</map_area>
+         <map_width>1744 m</map_width>
+         <map_depth>1536 m</map_depth>
+      </Map_Size>
+      <region>Holland</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBN v2.12</game_version>
+      <Modules_Required>
+         <module1>Market Garden</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>9</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>0 [FM] Toquemont</battle_title>
+      </Title>
+      <filename>0 [FM] Toquemont</filename>
+      <picture_link>scenpics/0 [FM] Toquemont.bmp</picture_link>
+      <battle_type>Allied Assault</battle_type>
+      <description>Not defined!</description>
+      <date>14/08/1944</date>
+      <time_of_day>10:20</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:00</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>1.501 Sq. km</map_area>
+         <map_width>816 m</map_width>
+         <map_depth>1840 m</map_depth>
+      </Map_Size>
+      <region>France</region>
+      <environment>Village</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Allied Force</early_intel>
+      <game_version>CMBN v2.01</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Closed for Renovation</battle_title>
+      </Title>
+      <filename>Closed for Renovation</filename>
+      <picture_link>scenpics/Closed for Renovation.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>Scenario #4 from the Combat Commander Europe board game</description>
+      <date>06/06/1944</date>
+      <time_of_day>09:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:30</length>
+      <battle_size>Small</battle_size>
+      <Map_Size>
+         <map_area>0.131 Sq. km</map_area>
+         <map_width>432 m</map_width>
+         <map_depth>304 m</map_depth>
+      </Map_Size>
+      <region>France</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBN v3.10 to v3.12</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>3</size_modifier>
+   </Scenario>
+
+   </Scenario_List>
+</Scenario_Listing>

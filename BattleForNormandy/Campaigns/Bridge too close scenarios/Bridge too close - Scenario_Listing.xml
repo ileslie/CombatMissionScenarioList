@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="Listing_Layout.xsl" ?>
+
+<Scenario_Listing>
+
+   <Scenario_List>
+
+   <containing_campaign>Bridge too close</containing_campaign>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #00]</number_in_campaign>
+         <battle_title>Stille Nacht</battle_title>
+      </Title>
+      <filename>Bridge too close #00_cmbnlacko01</filename>
+      <picture_link>scenpics/Bridge too close0.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>82nd 506 PIR C comp take a bridge in bocage country</description>
+      <date>06/06/1944</date>
+      <time_of_day>01:10</time_of_day>
+      <part_of_day>Night</part_of_day>
+      <length>01:00</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>0.594 Sq. km</map_area>
+         <map_width>864 m</map_width>
+         <map_depth>688 m</map_depth>
+      </Map_Size>
+      <region>France</region>
+      <environment>Village</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Very Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBN v1.00</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #01]</number_in_campaign>
+         <battle_title>All American</battle_title>
+      </Title>
+      <filename>Bridge too close #01_cmbnlacko02</filename>
+      <picture_link>scenpics/Bridge too close1.bmp</picture_link>
+      <battle_type>Axis Attack</battle_type>
+      <description>82nd 506 PIR C comp have to hold the bridge, until 4th div forward elements arrived</description>
+      <date>06/06/1944</date>
+      <time_of_day>05:05</time_of_day>
+      <part_of_day>Dawn</part_of_day>
+      <length>01:10</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>0.594 Sq. km</map_area>
+         <map_width>864 m</map_width>
+         <map_depth>688 m</map_depth>
+      </Map_Size>
+      <region>France</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Very Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBN v1.00</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #02]</number_in_campaign>
+         <battle_title>Brinkmann&apos;s bastards</battle_title>
+      </Title>
+      <filename>Bridge too close #02_cmbnlacko03</filename>
+      <picture_link>scenpics/Bridge too close2.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>Brake out from the bridgehead</description>
+      <date>06/06/1944</date>
+      <time_of_day>07:15</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:10</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>0.594 Sq. km</map_area>
+         <map_width>864 m</map_width>
+         <map_depth>688 m</map_depth>
+      </Map_Size>
+      <region>France</region>
+      <environment>Village</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Very Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBN v1.00</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   </Scenario_List>
+</Scenario_Listing>

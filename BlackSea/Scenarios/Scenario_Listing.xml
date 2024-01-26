@@ -1,0 +1,2240 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="Listing_Layout.xsl" ?>
+
+<Scenario_Listing>
+
+   <Scenario_List>
+
+   <Scenario>
+      <Title>
+         <battle_title>Debaltseve Devils</battle_title>
+      </Title>
+      <filename>Debaltseve Devils V2</filename>
+      <picture_link>scenpics/Debaltseve Devils V2.bmp</picture_link>
+      <battle_type>Red Attack</battle_type>
+      <description>Russians seperatist makes one last attempt to capture Debaltseve before an impending ceasefire. Mapsize 1120 X 640 playable as Seperatists (RED) only. 80 turns</description>
+      <date>01/06/2017</date>
+      <time_of_day>06:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:20</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>0.717 Sq. km</map_area>
+         <map_width>640 m</map_width>
+         <map_depth>1120 m</map_depth>
+      </Map_Size>
+      <region>Ukraine</region>
+      <environment>City</environment>
+      <weather>Mist</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBS v1.00 to v1.02</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>sepa</mod_tag>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Galloping Horse Downfall</battle_title>
+      </Title>
+      <filename>Galloping Horse Downfall</filename>
+      <picture_link>scenpics/Galloping Horse Downfall.bmp</picture_link>
+      <battle_type>Red Attack</battle_type>
+      <description>Russian advance after a recent breakthrough in the Kirovohrad-Kremenchuk region. Best played as Rus vs AI or H2H.</description>
+      <date>10/07/2017</date>
+      <time_of_day>05:50</time_of_day>
+      <part_of_day>Dawn</part_of_day>
+      <length>01:40</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>3.21 Sq. km</map_area>
+         <map_width>3040 m</map_width>
+         <map_depth>1056 m</map_depth>
+      </Map_Size>
+      <region>Ukraine</region>
+      <environment>Hills</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Very Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBS v1.00 to v1.02</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>UA With Will and Iron</battle_title>
+      </Title>
+      <filename>UA With Will and Iron</filename>
+      <picture_link>scenpics/UA With Will and Iron.bmp</picture_link>
+      <battle_type>Blue Attack</battle_type>
+      <description>Ukrainian 28th Mechanized brigade storms enemy positions near Kurdyumivka(Blue vs Red only)</description>
+      <date>27/06/2017</date>
+      <time_of_day>10:30</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:30</length>
+      <battle_size>Small</battle_size>
+      <Map_Size>
+         <map_area>0.435 Sq. km</map_area>
+         <map_width>1088 m</map_width>
+         <map_depth>400 m</map_depth>
+      </Map_Size>
+      <region>Ukraine</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBS v2.16 to v2.18</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>3</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Trial by Combat</battle_title>
+      </Title>
+      <filename>BSBP 03 Trial</filename>
+      <picture_link>scenpics/BSBP 03 Trial.bmp</picture_link>
+      <battle_type>Meeting Engagement</battle_type>
+      <description>A Ukrainian BMP Company Task Force meets a Russian BMP Company Task Force</description>
+      <date>14/07/2017</date>
+      <time_of_day>07:00</time_of_day>
+      <part_of_day>Dawn</part_of_day>
+      <length>01:40</length>
+      <battle_size>Large</battle_size>
+      <Map_Size>
+         <map_area>0.936 Sq. km</map_area>
+         <map_width>944 m</map_width>
+         <map_depth>992 m</map_depth>
+      </Map_Size>
+      <region>Ukraine</region>
+      <environment>Village</environment>
+      <weather>Overcast</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBS v1.04 to v2.10</game_version>
+      <Modules_Required>
+         <module1>Battle Pack #1</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>9</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Into the Breach</battle_title>
+      </Title>
+      <filename>Into the Breach</filename>
+      <picture_link>scenpics/Into the Breach.bmp</picture_link>
+      <battle_type>Meeting Engagement</battle_type>
+      <description>US Stryker Company Team meets the first echelon of a Russian Motorized Rifle Battalion. Best played as Blue vs AI.</description>
+      <date>20/06/2017</date>
+      <time_of_day>06:45</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:20</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>4 Sq. km</map_area>
+         <map_width>2000 m</map_width>
+         <map_depth>2000 m</map_depth>
+      </Map_Size>
+      <region>Ukraine</region>
+      <environment>Village</environment>
+      <weather>Overcast</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Damp</ground_condition>
+      <early_intel>Blue Force</early_intel>
+      <game_version>CMBS v1.03</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>First Clash - Expanded and Randomized</battle_title>
+      </Title>
+      <filename>RDM - First Clash</filename>
+      <picture_link>scenpics/RDM - First Clash.bmp</picture_link>
+      <battle_type>Blue Probe</battle_type>
+      <description>14th July 2017 Russian armoured spearheads drive west looking to surround Kiev. Play as Blue vs AI - Reinforcements x7</description>
+      <date>14/07/2017</date>
+      <time_of_day>05:30</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:50</length>
+      <battle_size>Large</battle_size>
+      <Map_Size>
+         <map_area>18.048 Sq. km</map_area>
+         <map_width>4512 m</map_width>
+         <map_depth>4000 m</map_depth>
+      </Map_Size>
+      <region>Ukraine</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Hot</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Blue Force</early_intel>
+      <game_version>CMBS v1.04 to v2.10</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>9</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>US Infantry Ambush Tutorial</battle_title>
+      </Title>
+      <filename>Ambush Tutorial (US Infantry)</filename>
+      <picture_link>scenpics/Ambush Tutorial (US Infantry).bmp</picture_link>
+      <battle_type>Blue Attack</battle_type>
+      <description>Ambush Battle Drill Tutorial. Helps practice the conceptual undertanding of ambush elements and sequence.</description>
+      <date>01/06/2017</date>
+      <time_of_day>11:00</time_of_day>
+      <part_of_day>Dawn</part_of_day>
+      <length>01:00</length>
+      <battle_size>Small</battle_size>
+      <Map_Size>
+         <map_area>0.307 Sq. km</map_area>
+         <map_width>480 m</map_width>
+         <map_depth>640 m</map_depth>
+      </Map_Size>
+      <region>Ukraine</region>
+      <environment>Forest</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBS v2.16 to v2.18</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>4</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Hold the Line!</battle_title>
+      </Title>
+      <filename>Hold the Line</filename>
+      <picture_link>scenpics/Hold the Line.bmp</picture_link>
+      <battle_type>Red Attack</battle_type>
+      <description>A beleaguered US Airborne Infantry force defends the Cherkasy area while awaiting critical supplies. Best played as US vs AI.</description>
+      <date>16/06/2017</date>
+      <time_of_day>05:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:50</length>
+      <battle_size>Small</battle_size>
+      <Map_Size>
+         <map_area>0.796 Sq. km</map_area>
+         <map_width>816 m</map_width>
+         <map_depth>976 m</map_depth>
+      </Map_Size>
+      <region>Ukraine</region>
+      <environment>Forest</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Red Force</early_intel>
+      <game_version>CMBS v1.00 to v1.02</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>3</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>The Russian&apos;s are coming</battle_title>
+      </Title>
+      <filename>The Russians are coming</filename>
+      <picture_link>scenpics/The Russians are coming.bmp</picture_link>
+      <battle_type>Red Attack</battle_type>
+      <description>A US Army infantry battalion must hold againt a russian attack</description>
+      <date>23/08/2017</date>
+      <time_of_day>15:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:30</length>
+      <battle_size>Tiny</battle_size>
+      <Map_Size>
+         <map_area>0.435 Sq. km</map_area>
+         <map_width>800 m</map_width>
+         <map_depth>544 m</map_depth>
+      </Map_Size>
+      <region>Ukraine</region>
+      <environment>Forest</environment>
+      <weather>Clear</weather>
+      <temperature>Hot</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBS v1.00 to v1.02</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>2</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Firefight</battle_title>
+      </Title>
+      <filename>BSBP 06 Firefight</filename>
+      <picture_link>scenpics/BSBP 06 Firefight.bmp</picture_link>
+      <battle_type>Meeting Engagement</battle_type>
+      <description>Ukrainian BMP and Russian BMP equipped forces clash head to head</description>
+      <date>30/06/2017</date>
+      <time_of_day>20:00</time_of_day>
+      <part_of_day>Dusk</part_of_day>
+      <length>00:45</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>0.64 Sq. km</map_area>
+         <map_width>800 m</map_width>
+         <map_depth>800 m</map_depth>
+      </Map_Size>
+      <region>Ukraine</region>
+      <environment>Open</environment>
+      <weather>Light Rain</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Damp</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBS v1.04 to v2.10</game_version>
+      <Modules_Required>
+         <module1>Battle Pack #1</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>The high value package</battle_title>
+      </Title>
+      <filename>High Value Package</filename>
+      <picture_link>scenpics/High Value Package.bmp</picture_link>
+      <battle_type>Red Assault</battle_type>
+      <description>A US LRS Platoon bringing in for debrief a double spy, faces a Russian attack while waiting for extraction in a small village behind enemy lines</description>
+      <date>10/06/2017</date>
+      <time_of_day>07:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:50</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>0.506 Sq. km</map_area>
+         <map_width>688 m</map_width>
+         <map_depth>736 m</map_depth>
+      </Map_Size>
+      <region>Ukraine</region>
+      <environment>Village</environment>
+      <weather>Clear</weather>
+      <temperature>Cool</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Red Force</early_intel>
+      <game_version>CMBS v1.03</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Shadow and Flame</battle_title>
+      </Title>
+      <filename>Shadow and Flame</filename>
+      <picture_link>scenpics/Shadow and Flame.bmp</picture_link>
+      <battle_type>Blue Probe</battle_type>
+      <description>US mechanized infantry platoon sweeps away Russian rearguard troops.  Play Blue vs. AI ONLY.</description>
+      <date>09/08/2017</date>
+      <time_of_day>23:30</time_of_day>
+      <part_of_day>Night</part_of_day>
+      <length>01:30</length>
+      <battle_size>Small</battle_size>
+      <Map_Size>
+         <map_area>0.678 Sq. km</map_area>
+         <map_width>800 m</map_width>
+         <map_depth>848 m</map_depth>
+      </Map_Size>
+      <region>Ukraine</region>
+      <environment>Village</environment>
+      <weather>Overcast</weather>
+      <temperature>Cool</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Blue Force</early_intel>
+      <game_version>CMBS v1.00 to v1.02</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>5</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>AD Night Jump</battle_title>
+      </Title>
+      <filename>AD Night Jump</filename>
+      <picture_link>scenpics/AD Night Jump.bmp</picture_link>
+      <battle_type>Blue Attack</battle_type>
+      <description>American Paratroopers seize a Grain Elevator in Southern Ukraine. BLUFOR vs AI only. v1.1</description>
+      <date>02/06/2017</date>
+      <time_of_day>00:30</time_of_day>
+      <part_of_day>Night</part_of_day>
+      <length>02:00</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>3.81 Sq. km</map_area>
+         <map_width>1952 m</map_width>
+         <map_depth>1952 m</map_depth>
+      </Map_Size>
+      <region>Ukraine</region>
+      <environment>Town</environment>
+      <weather>Clear</weather>
+      <temperature>Cool</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBS v1.03</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>night</mod_tag>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Getting Ugly</battle_title>
+      </Title>
+      <filename>Getting Ugly</filename>
+      <picture_link>scenpics/Getting Ugly.bmp</picture_link>
+      <battle_type>Red Attack</battle_type>
+      <description>The Russian 9th Motor Rifle Brigade attempts to destroy fleeing Ukrainian forces falling back across the Vorskla river. Best played as Red vs. AI.</description>
+      <date>24/06/2017</date>
+      <time_of_day>15:35</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>02:00</length>
+      <battle_size>Large</battle_size>
+      <Map_Size>
+         <map_area>2.261 Sq. km</map_area>
+         <map_width>1936 m</map_width>
+         <map_depth>1168 m</map_depth>
+      </Map_Size>
+      <region>Ukraine</region>
+      <environment>Village</environment>
+      <weather>Overcast</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBS v1.04 to v2.10</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>9</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Opportunity Knocks</battle_title>
+      </Title>
+      <filename>Opportunity Knocks</filename>
+      <picture_link>scenpics/Opportunity Knocks.bmp</picture_link>
+      <battle_type>Blue Probe</battle_type>
+      <description>US forces on night patrol stumble upon a Russian AAA battery.</description>
+      <date>19/07/2017</date>
+      <time_of_day>01:10</time_of_day>
+      <part_of_day>Night</part_of_day>
+      <length>00:45</length>
+      <battle_size>Tiny</battle_size>
+      <Map_Size>
+         <map_area>0.313 Sq. km</map_area>
+         <map_width>576 m</map_width>
+         <map_depth>544 m</map_depth>
+      </Map_Size>
+      <region>Ukraine</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Blue Force</early_intel>
+      <game_version>CMBS v1.00 to v1.02</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>3</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Phase Line Green</battle_title>
+      </Title>
+      <filename>Phase Line Green</filename>
+      <picture_link>scenpics/Phase Line Green.bmp</picture_link>
+      <battle_type>Blue Attack</battle_type>
+      <description>US Stryker Platoon vs Russian Motorized Infantry. Best played as Blue vs AI.</description>
+      <date>16/06/2017</date>
+      <time_of_day>04:00</time_of_day>
+      <part_of_day>Dawn</part_of_day>
+      <length>01:30</length>
+      <battle_size>Small</battle_size>
+      <Map_Size>
+         <map_area>1.072 Sq. km</map_area>
+         <map_width>848 m</map_width>
+         <map_depth>1264 m</map_depth>
+      </Map_Size>
+      <region>Ukraine</region>
+      <environment>Village</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Blue Force</early_intel>
+      <game_version>CMBS v1.00 to v1.02</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>5</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Gauntlets Crossed</battle_title>
+      </Title>
+      <filename>Gauntlets Crossed</filename>
+      <picture_link>scenpics/Gauntlets Crossed.bmp</picture_link>
+      <battle_type>Blue Assault</battle_type>
+      <description>US Paratroopers meet Russian Forces in urban combat. Better played as US vs AI or H2H.</description>
+      <date>16/06/2017</date>
+      <time_of_day>12:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:00</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>0.506 Sq. km</map_area>
+         <map_width>832 m</map_width>
+         <map_depth>608 m</map_depth>
+      </Map_Size>
+      <region>Ukraine</region>
+      <environment>Town</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBS v1.00 to v1.02</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>AD Myrne Roadblock</battle_title>
+      </Title>
+      <filename>AD Myrne Roadblock</filename>
+      <picture_link>scenpics/AD Myrne Roadblock.bmp</picture_link>
+      <battle_type>Blue Attack</battle_type>
+      <description>US Air Assault troops keep an important MSR clear of Russian patrols. BLUFOR vs AI only</description>
+      <date>06/08/2017</date>
+      <time_of_day>18:10</time_of_day>
+      <part_of_day>Dusk</part_of_day>
+      <length>01:20</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>1.638 Sq. km</map_area>
+         <map_width>1280 m</map_width>
+         <map_depth>1280 m</map_depth>
+      </Map_Size>
+      <region>Ukraine</region>
+      <environment>Village</environment>
+      <weather>Overcast</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBS v1.03</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Interdiction</battle_title>
+      </Title>
+      <filename>Interdiction</filename>
+      <picture_link>scenpics/Interdiction.bmp</picture_link>
+      <battle_type>Blue Attack</battle_type>
+      <description>Two Mountain Infantry Companies and a FAC Section are sent to guide ordnance from an airstrike onto a target bridge. Best played as Blue vs AI.</description>
+      <date>30/08/2017</date>
+      <time_of_day>15:15</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>02:00</length>
+      <battle_size>Large</battle_size>
+      <Map_Size>
+         <map_area>6.05 Sq. km</map_area>
+         <map_width>3744 m</map_width>
+         <map_depth>1616 m</map_depth>
+      </Map_Size>
+      <region>Ukraine</region>
+      <environment>Hills</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Damp</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBS v1.00 to v1.02</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>9</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>OP Krentz</battle_title>
+      </Title>
+      <filename>Krentz Hill</filename>
+      <picture_link>scenpics/Krentz Hill.bmp</picture_link>
+      <battle_type>Blue Attack</battle_type>
+      <description>A Ukranian battle group seeks to clear a key hill in order to establish an observation post within their next phase area.</description>
+      <date>04/07/2017</date>
+      <time_of_day>14:15</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:00</length>
+      <battle_size>Small</battle_size>
+      <Map_Size>
+         <map_area>0.518 Sq. km</map_area>
+         <map_width>720 m</map_width>
+         <map_depth>720 m</map_depth>
+      </Map_Size>
+      <region>Ukraine</region>
+      <environment>Open</environment>
+      <weather>Overcast</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBS v2.16 to v2.18</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>4</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Gagarina Ave Checkpoint</battle_title>
+      </Title>
+      <filename>Gagarina Ave Checkpoint</filename>
+      <picture_link>scenpics/Gagarina Ave Checkpoint.bmp</picture_link>
+      <battle_type>Red Assault</battle_type>
+      <description>Russian attack on Ukrainian checkpoint on the outskirts of Kharkiv. Best played as Rus vs AI or H2H.</description>
+      <date>07/06/2017</date>
+      <time_of_day>05:50</time_of_day>
+      <part_of_day>Dawn</part_of_day>
+      <length>01:10</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>1.93 Sq. km</map_area>
+         <map_width>1856 m</map_width>
+         <map_depth>1040 m</map_depth>
+      </Map_Size>
+      <region>Ukraine</region>
+      <environment>Open</environment>
+      <weather>Hazy</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBS v1.00 to v1.02</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>UA In Unity is Power</battle_title>
+      </Title>
+      <filename>UA In Unity is Power</filename>
+      <picture_link>scenpics/UA In Unity is Power.bmp</picture_link>
+      <battle_type>Blue Assault</battle_type>
+      <description>The Ukrainian 79th Air Assault Brigade in unity with National guard are liquidating enemy helicopter landing party in North Mykolaiv 464x416 (PBEM or Blue vs AI only)</description>
+      <date>27/06/2017</date>
+      <time_of_day>17:15</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:55</length>
+      <battle_size>Small</battle_size>
+      <Map_Size>
+         <map_area>0.193 Sq. km</map_area>
+         <map_width>464 m</map_width>
+         <map_depth>416 m</map_depth>
+      </Map_Size>
+      <region>Ukraine</region>
+      <environment>City</environment>
+      <weather>Clear</weather>
+      <temperature>Cold</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBS v2.16 to v2.18</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>3</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Dueling Shashkas</battle_title>
+      </Title>
+      <filename>Dueling Shashkas</filename>
+      <picture_link>scenpics/Dueling Shashkas.bmp</picture_link>
+      <battle_type>Meeting Engagement</battle_type>
+      <description>Russian and Ukrainian mechanized companies face off on equal terms in this meeting engagement.</description>
+      <date>01/07/2017</date>
+      <time_of_day>14:15</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:10</length>
+      <battle_size>Large</battle_size>
+      <Map_Size>
+         <map_area>3.452 Sq. km</map_area>
+         <map_width>2320 m</map_width>
+         <map_depth>1488 m</map_depth>
+      </Map_Size>
+      <region>Ukraine</region>
+      <environment>Town</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBS v1.00 to v1.02</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>8</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>summer in the city</battle_title>
+      </Title>
+      <filename>summerinthecity</filename>
+      <picture_link>scenpics/summerinthecity.bmp</picture_link>
+      <battle_type>Blue Assault</battle_type>
+      <description>very fictional. blue versus red or h2h. blue mechanised forces assault a city. large map so room for manoeuvre. 5x red ai plans so some replayability</description>
+      <date>31/08/2017</date>
+      <time_of_day>15:00</time_of_day>
+      <part_of_day>Dusk</part_of_day>
+      <length>02:00</length>
+      <battle_size>Huge</battle_size>
+      <Map_Size>
+         <map_area>6.811 Sq. km</map_area>
+         <map_width>2896 m</map_width>
+         <map_depth>2352 m</map_depth>
+      </Map_Size>
+      <region>Ukraine</region>
+      <environment>City</environment>
+      <weather>Thick Haze</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBS v1.04 to v2.10</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>10</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>AD A Bradley Speedbump</battle_title>
+      </Title>
+      <filename>AD Bradley Speedbump</filename>
+      <picture_link>scenpics/AD Bradley Speedbump.bmp</picture_link>
+      <battle_type>Red Attack</battle_type>
+      <description>Russian recon elements bump into an adhoc group of American troops. REDFOR vs. AI only.</description>
+      <date>04/06/2017</date>
+      <time_of_day>15:45</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:00</length>
+      <battle_size>Small</battle_size>
+      <Map_Size>
+         <map_area>1.843 Sq. km</map_area>
+         <map_width>1536 m</map_width>
+         <map_depth>1200 m</map_depth>
+      </Map_Size>
+      <region>Ukraine</region>
+      <environment>Open</environment>
+      <weather>Overcast</weather>
+      <temperature>Cool</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBS v1.03</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>4</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>First day of the war</battle_title>
+      </Title>
+      <filename>First day of the war</filename>
+      <picture_link>scenpics/First day of the war.bmp</picture_link>
+      <battle_type>Red Assault</battle_type>
+      <description>The remnatsof UKR Bn (92 Brig.) hold back Russian BTG (423 Reg.) (Blue vs AI only)</description>
+      <date>24/06/2017</date>
+      <time_of_day>10:15</time_of_day>
+      <part_of_day>Dawn</part_of_day>
+      <length>01:20</length>
+      <battle_size>Large</battle_size>
+      <Map_Size>
+         <map_area>4.461 Sq. km</map_area>
+         <map_width>1776 m</map_width>
+         <map_depth>2512 m</map_depth>
+      </Map_Size>
+      <region>Ukraine</region>
+      <environment>Rough</environment>
+      <weather>Mist</weather>
+      <temperature>Cold</temperature>
+      <ground_condition>Wet</ground_condition>
+      <early_intel>Red Force</early_intel>
+      <game_version>CMBS v2.13 to v2.15</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>snow</mod_tag>
+         <mod_tag>easterneurope</mod_tag>
+         <mod_tag>snow</mod_tag>
+         <mod_tag>checknya</mod_tag>
+      </Mod_Tags>
+      <size_modifier>8</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>OPERATION RELENTLESS FURY</battle_title>
+      </Title>
+      <filename>Operation Relentless Fury</filename>
+      <picture_link>scenpics/Operation Relentless Fury.bmp</picture_link>
+      <battle_type>Blue Attack</battle_type>
+      <description>A Combined JSOC and UKR Spetznaz force conducts a Direct Action Raid behind enemy lines (Play as NATO only)</description>
+      <date>07/06/2017</date>
+      <time_of_day>23:00</time_of_day>
+      <part_of_day>Night</part_of_day>
+      <length>01:40</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>2.136 Sq. km</map_area>
+         <map_width>1648 m</map_width>
+         <map_depth>1296 m</map_depth>
+      </Map_Size>
+      <region>Ukraine</region>
+      <environment>Town</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Blue Force</early_intel>
+      <game_version>CMBS v1.03</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>highway</mod_tag>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Rollin&apos; On The River</battle_title>
+      </Title>
+      <filename>Rollin&apos; on the River</filename>
+      <picture_link>scenpics/Rollin&apos; on the River.bmp</picture_link>
+      <battle_type>Meeting Engagement</battle_type>
+      <description>Mechanized forces clash near a railroad bridge. Best played H2H but works also against AI on either side (Russian side being a tad easier).</description>
+      <date>20/07/2017</date>
+      <time_of_day>07:40</time_of_day>
+      <part_of_day>Dawn</part_of_day>
+      <length>02:30</length>
+      <battle_size>Large</battle_size>
+      <Map_Size>
+         <map_area>9.114 Sq. km</map_area>
+         <map_width>2848 m</map_width>
+         <map_depth>3200 m</map_depth>
+      </Map_Size>
+      <region>Unknown</region>
+      <environment>Open</environment>
+      <weather>Mist</weather>
+      <temperature>Cool</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>Unknown(139)</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>9</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Castle Keep</battle_title>
+      </Title>
+      <filename>The Castle Keep</filename>
+      <picture_link>scenpics/The Castle Keep.bmp</picture_link>
+      <battle_type>Blue Attack</battle_type>
+      <description>Commando unit is tasked with rescuing POW held in the Castle Keep.  Mech Units must clear the road juntion and hold before the ORF makes it&apos;s presence know</description>
+      <date>01/06/2017</date>
+      <time_of_day>03:00</time_of_day>
+      <part_of_day>Night</part_of_day>
+      <length>01:10</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>1.005 Sq. km</map_area>
+         <map_width>816 m</map_width>
+         <map_depth>1232 m</map_depth>
+      </Map_Size>
+      <region>Ukraine</region>
+      <environment>Rough</environment>
+      <weather>Overcast</weather>
+      <temperature>Cool</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Blue Force</early_intel>
+      <game_version>CMBS v1.03</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>UA No One But Us!</battle_title>
+      </Title>
+      <filename>UA No One But Us!</filename>
+      <picture_link>scenpics/UA No One But Us!.bmp</picture_link>
+      <battle_type>Blue Attack</battle_type>
+      <description>6th september 2022 year. The Ukrainian counteroffensive has began, try to break throught the enemy line (PBEM or Blue vs Red AI)</description>
+      <date>01/06/2017</date>
+      <time_of_day>06:15</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:25</length>
+      <battle_size>Small</battle_size>
+      <Map_Size>
+         <map_area>0.205 Sq. km</map_area>
+         <map_width>640 m</map_width>
+         <map_depth>320 m</map_depth>
+      </Map_Size>
+      <region>Ukraine</region>
+      <environment>Open</environment>
+      <weather>Light Fog</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBS v2.16 to v2.18</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>2</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Airman Down</battle_title>
+      </Title>
+      <filename>Airman Down</filename>
+      <picture_link>scenpics/Airman Down.bmp</picture_link>
+      <battle_type>Blue Probe</battle_type>
+      <description>A small US patrol is tasked with recovering a downed pilot in the vicinity of a Russian observation post. Best played Blue vs. AI.</description>
+      <date>23/08/2017</date>
+      <time_of_day>15:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:30</length>
+      <battle_size>Tiny</battle_size>
+      <Map_Size>
+         <map_area>0.435 Sq. km</map_area>
+         <map_width>800 m</map_width>
+         <map_depth>544 m</map_depth>
+      </Map_Size>
+      <region>Ukraine</region>
+      <environment>Forest</environment>
+      <weather>Clear</weather>
+      <temperature>Hot</temperature>
+      <ground_condition>Damp</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBS v1.00 to v1.02</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>2</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Platoon House Aleksandra</battle_title>
+      </Title>
+      <filename>Platoon House Aleksandra</filename>
+      <picture_link>scenpics/Platoon House Aleksandra.bmp</picture_link>
+      <battle_type>Red Attack</battle_type>
+      <description>10 July. A UKR HQ, with a US Advisor Tm, finds itself cut off by a Russian breakthrough. Best played as Blue vs AI.</description>
+      <date>10/07/2017</date>
+      <time_of_day>07:05</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:55</length>
+      <battle_size>Small</battle_size>
+      <Map_Size>
+         <map_area>0.262 Sq. km</map_area>
+         <map_width>512 m</map_width>
+         <map_depth>512 m</map_depth>
+      </Map_Size>
+      <region>Ukraine</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBS v1.00 to v1.02</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>3</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>The Charge of the Heavy Brigade</battle_title>
+      </Title>
+      <filename>BSBP 04 Charge</filename>
+      <picture_link>scenpics/BSBP 04 Charge.bmp</picture_link>
+      <battle_type>Meeting Engagement</battle_type>
+      <description>US Army and Russian armored forces clash head to head</description>
+      <date>01/07/2017</date>
+      <time_of_day>05:00</time_of_day>
+      <part_of_day>Dawn</part_of_day>
+      <length>01:00</length>
+      <battle_size>Large</battle_size>
+      <Map_Size>
+         <map_area>1.708 Sq. km</map_area>
+         <map_width>1840 m</map_width>
+         <map_depth>928 m</map_depth>
+      </Map_Size>
+      <region>Ukraine</region>
+      <environment>Open</environment>
+      <weather>Overcast</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBS v1.04 to v2.10</game_version>
+      <Modules_Required>
+         <module1>Battle Pack #1</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>8</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Raid on the Pump</battle_title>
+      </Title>
+      <filename>Raid on the Pump</filename>
+      <picture_link>scenpics/Raid on the Pump.bmp</picture_link>
+      <battle_type>Blue Assault</battle_type>
+      <description>A US infantry platoon attacks a Russian mortar position near a gas station. Best played Blue vs. AI.</description>
+      <date>19/08/2017</date>
+      <time_of_day>11:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:45</length>
+      <battle_size>Small</battle_size>
+      <Map_Size>
+         <map_area>0.538 Sq. km</map_area>
+         <map_width>560 m</map_width>
+         <map_depth>960 m</map_depth>
+      </Map_Size>
+      <region>Ukraine</region>
+      <environment>Open</environment>
+      <weather>Heavy Rain</weather>
+      <temperature>Hot</temperature>
+      <ground_condition>Muddy</ground_condition>
+      <early_intel>Blue Force</early_intel>
+      <game_version>CMBS v1.03</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>3</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Valley of Death</battle_title>
+      </Title>
+      <filename>Valley of Death</filename>
+      <picture_link>scenpics/Valley of Death.bmp</picture_link>
+      <battle_type>Meeting Engagement</battle_type>
+      <description>1st Cavalry Division attempts to parry a Russian thrust.</description>
+      <date>17/06/2017</date>
+      <time_of_day>15:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:50</length>
+      <battle_size>Large</battle_size>
+      <Map_Size>
+         <map_area>5.46 Sq. km</map_area>
+         <map_width>5504 m</map_width>
+         <map_depth>992 m</map_depth>
+      </Map_Size>
+      <region>Ukraine</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBS v1.00 to v1.02</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>9</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Chervone</battle_title>
+      </Title>
+      <filename>Chervone</filename>
+      <picture_link>scenpics/Chervone.bmp</picture_link>
+      <battle_type>Red Attack</battle_type>
+      <description>81 Reconnaissance Company delays 37 Gds MR Bde north of Barvinkove (Blue vs Red AI)</description>
+      <date>07/06/2017</date>
+      <time_of_day>11:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:00</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>17.587 Sq. km</map_area>
+         <map_width>4800 m</map_width>
+         <map_depth>3664 m</map_depth>
+      </Map_Size>
+      <region>Ukraine</region>
+      <environment>Open</environment>
+      <weather>Overcast</weather>
+      <temperature>Cool</temperature>
+      <ground_condition>Damp</ground_condition>
+      <early_intel>Blue Force</early_intel>
+      <game_version>CMBS v2.16 to v2.18</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>CMBS Lights, Camera &amp; Action. The Clash</battle_title>
+      </Title>
+      <filename>CMBS Lights, Camera and Action</filename>
+      <picture_link>scenpics/CMBS Lights, Camera and Action.bmp</picture_link>
+      <battle_type>Blue Attack</battle_type>
+      <description>Russian forces have surrounded some Blue force troops and a Blue counter attack is launched. Best played as HTH, Red and Blue have AI plans</description>
+      <date>28/07/2017</date>
+      <time_of_day>08:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>02:00</length>
+      <battle_size>Large</battle_size>
+      <Map_Size>
+         <map_area>7.743 Sq. km</map_area>
+         <map_width>3248 m</map_width>
+         <map_depth>2384 m</map_depth>
+      </Map_Size>
+      <region>Ukraine</region>
+      <environment>Village</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Blue Force</early_intel>
+      <game_version>CMBS v1.00 to v1.02</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>9</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Seal Team 6 (The Factory)</battle_title>
+      </Title>
+      <filename>Seal Team Six - The Factory</filename>
+      <picture_link>scenpics/Seal Team Six - The Factory.bmp</picture_link>
+      <battle_type>Blue Assault</battle_type>
+      <description>Seal Team Six raids an industrial compound guarded by veteran Russian reccon troops</description>
+      <date>31/07/2017</date>
+      <time_of_day>03:00</time_of_day>
+      <part_of_day>Night</part_of_day>
+      <length>01:30</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>0.718 Sq. km</map_area>
+         <map_width>880 m</map_width>
+         <map_depth>816 m</map_depth>
+      </Map_Size>
+      <region>Ukraine</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Cool</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Blue Force</early_intel>
+      <game_version>CMBS v1.03</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>highway</mod_tag>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Going to Town</battle_title>
+      </Title>
+      <filename>Going to Town</filename>
+      <picture_link>scenpics/Going to Town.bmp</picture_link>
+      <battle_type>Red Attack</battle_type>
+      <description>Russian motorized infantry assaults town centre.</description>
+      <date>09/06/2017</date>
+      <time_of_day>16:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:50</length>
+      <battle_size>Tiny</battle_size>
+      <Map_Size>
+         <map_area>0.102 Sq. km</map_area>
+         <map_width>320 m</map_width>
+         <map_depth>320 m</map_depth>
+      </Map_Size>
+      <region>Ukraine</region>
+      <environment>City</environment>
+      <weather>Thick Haze</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBS v1.00 to v1.02</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>3</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Fort Apache</battle_title>
+      </Title>
+      <filename>BSBP 02 Fort</filename>
+      <picture_link>scenpics/BSBP 02 Fort.bmp</picture_link>
+      <battle_type>Red Assault</battle_type>
+      <description>US Airborne Infantry defends against Russian Motorized Infantry supported by armor</description>
+      <date>10/07/2017</date>
+      <time_of_day>07:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>02:00</length>
+      <battle_size>Large</battle_size>
+      <Map_Size>
+         <map_area>2.408 Sq. km</map_area>
+         <map_width>1536 m</map_width>
+         <map_depth>1568 m</map_depth>
+      </Map_Size>
+      <region>Ukraine</region>
+      <environment>Town</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBS v1.04 to v2.10</game_version>
+      <Modules_Required>
+         <module1>Battle Pack #1</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>9</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Partners in Crime</battle_title>
+      </Title>
+      <filename>CMBS_Hasty_Attack</filename>
+      <picture_link>scenpics/CMBS_Hasty_Attack.bmp</picture_link>
+      <battle_type>Blue Attack</battle_type>
+      <description>Combined force of US and Partner elements attacks Threat Forces</description>
+      <date>01/08/2017</date>
+      <time_of_day>11:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:30</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>3.318 Sq. km</map_area>
+         <map_width>1536 m</map_width>
+         <map_depth>2160 m</map_depth>
+      </Map_Size>
+      <region>Ukraine</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Damp</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBS v2.16 to v2.18</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>UA Pro Libertate</battle_title>
+      </Title>
+      <filename>UA Pro Libertate</filename>
+      <picture_link>scenpics/UA Pro Libertate.bmp</picture_link>
+      <battle_type>Red Assault</battle_type>
+      <description>The Ukrainian 110th Mechanized Brigade holding the second line of defence north of Avdiivka (Blue vs Red only)</description>
+      <date>01/06/2017</date>
+      <time_of_day>11:00</time_of_day>
+      <part_of_day>Dawn</part_of_day>
+      <length>00:30</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>1.826 Sq. km</map_area>
+         <map_width>1392 m</map_width>
+         <map_depth>1312 m</map_depth>
+      </Map_Size>
+      <region>Ukraine</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBS v2.16 to v2.18</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>5</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Ambush</battle_title>
+      </Title>
+      <filename>Ambush</filename>
+      <picture_link>scenpics/Ambush.bmp</picture_link>
+      <battle_type>Blue Probe</battle_type>
+      <description>Ukrainian supply convoy attempting to break the blockade of a military base drives into one of several events that spark all out war.</description>
+      <date>04/06/2017</date>
+      <time_of_day>09:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:00</length>
+      <battle_size>Small</battle_size>
+      <Map_Size>
+         <map_area>1.112 Sq. km</map_area>
+         <map_width>880 m</map_width>
+         <map_depth>1264 m</map_depth>
+      </Map_Size>
+      <region>Ukraine</region>
+      <environment>Village</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Very Dry</ground_condition>
+      <early_intel>Red Force</early_intel>
+      <game_version>CMBS v1.00 to v1.02</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>4</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>First Clash</battle_title>
+      </Title>
+      <filename>First Clash</filename>
+      <picture_link>scenpics/First Clash.bmp</picture_link>
+      <battle_type>Blue Probe</battle_type>
+      <description>14th July 2017 Russian armoured spearheads drive west looking to surround Kiev. US armored units advance to contact along HWY P32. Best played as Blue vs AI.</description>
+      <date>14/07/2017</date>
+      <time_of_day>05:30</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:50</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>18.048 Sq. km</map_area>
+         <map_width>4512 m</map_width>
+         <map_depth>4000 m</map_depth>
+      </Map_Size>
+      <region>Ukraine</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Hot</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Blue Force</early_intel>
+      <game_version>CMBS v1.00 to v1.02</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Seal Team Six - The Rock</battle_title>
+      </Title>
+      <filename>The Rock v101</filename>
+      <picture_link>scenpics/The Rock v101.bmp</picture_link>
+      <battle_type>Blue Attack</battle_type>
+      <description>Seal Team 6 assaults a prison while an infantry platoon is tasked with clearing the road to extraction</description>
+      <date>01/06/2017</date>
+      <time_of_day>03:00</time_of_day>
+      <part_of_day>Night</part_of_day>
+      <length>01:10</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>1.005 Sq. km</map_area>
+         <map_width>816 m</map_width>
+         <map_depth>1232 m</map_depth>
+      </Map_Size>
+      <region>Ukraine</region>
+      <environment>Rough</environment>
+      <weather>Heavy Rain</weather>
+      <temperature>Cool</temperature>
+      <ground_condition>Damp</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBS v1.03</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Rolling Thunder - Expanded and Randomized</battle_title>
+      </Title>
+      <filename>RDM - Rolling Thunder_v1</filename>
+      <picture_link>scenpics/RDM - Rolling Thunder_v1.bmp</picture_link>
+      <battle_type>Blue Probe</battle_type>
+      <description>US Mech company team launches attack against Russian mech unit holding vital junction and bridges. Play US Vs AI - Reinforcements x5</description>
+      <date>14/07/2017</date>
+      <time_of_day>06:15</time_of_day>
+      <part_of_day>Dawn</part_of_day>
+      <length>01:50</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>2.459 Sq. km</map_area>
+         <map_width>1568 m</map_width>
+         <map_depth>1568 m</map_depth>
+      </Map_Size>
+      <region>Ukraine</region>
+      <environment>Village</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Very Dry</ground_condition>
+      <early_intel>Red Force</early_intel>
+      <game_version>CMBS v1.04 to v2.10</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>UA Unthinkable Thought</battle_title>
+      </Title>
+      <filename>UA Unthinkable Thought</filename>
+      <picture_link>scenpics/UA Unthinkable Thought.bmp</picture_link>
+      <battle_type>Blue Assault</battle_type>
+      <description>The Ukrainian 63rd Mechanized Brigade is crossing the Ingulets river and trying to take Lozove village. Size 1312x1008(PBEM or Blue vs AI only)</description>
+      <date>27/06/2017</date>
+      <time_of_day>06:25</time_of_day>
+      <part_of_day>Dawn</part_of_day>
+      <length>01:30</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>1.322 Sq. km</map_area>
+         <map_width>1312 m</map_width>
+         <map_depth>1008 m</map_depth>
+      </Map_Size>
+      <region>Ukraine</region>
+      <environment>Village</environment>
+      <weather>Light Fog</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Very Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBS v2.16 to v2.18</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>An August Morning</battle_title>
+      </Title>
+      <filename>August Morning</filename>
+      <picture_link>scenpics/August Morning.bmp</picture_link>
+      <battle_type>Blue Probe</battle_type>
+      <description>A US patrol is tasked with searching the remains of a destroyed RUS Battle Group HQ. Best played as Blue versus AI.</description>
+      <date>21/08/2017</date>
+      <time_of_day>07:05</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:40</length>
+      <battle_size>Tiny</battle_size>
+      <Map_Size>
+         <map_area>0.262 Sq. km</map_area>
+         <map_width>512 m</map_width>
+         <map_depth>512 m</map_depth>
+      </Map_Size>
+      <region>Ukraine</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBS v1.00 to v1.02</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>trash</mod_tag>
+         <mod_tag>lawn</mod_tag>
+         <mod_tag>night</mod_tag>
+         <mod_tag>trashsoft</mod_tag>
+      </Mod_Tags>
+      <size_modifier>2</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Cry Havoc!</battle_title>
+      </Title>
+      <filename>Cry Havoc</filename>
+      <picture_link>scenpics/Cry Havoc.bmp</picture_link>
+      <battle_type>Blue Attack</battle_type>
+      <description>US Mechanized Company Team from the 1st Cavalry Brigade outflanks a Russian Battalion defending three small towns. Best played as US vs AI.</description>
+      <date>03/08/2017</date>
+      <time_of_day>06:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>02:00</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>1.516 Sq. km</map_area>
+         <map_width>1504 m</map_width>
+         <map_depth>1008 m</map_depth>
+      </Map_Size>
+      <region>Ukraine</region>
+      <environment>Town</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Blue Force</early_intel>
+      <game_version>CMBS v1.00 to v1.02</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Honor</battle_title>
+      </Title>
+      <filename>BSBP 01 Honor</filename>
+      <picture_link>scenpics/BSBP 01 Honor.bmp</picture_link>
+      <battle_type>Blue Attack</battle_type>
+      <description>US Strykers vs RUS BTR-82As, 0500 Hours</description>
+      <date>04/07/2017</date>
+      <time_of_day>05:00</time_of_day>
+      <part_of_day>Dawn</part_of_day>
+      <length>01:30</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>1.864 Sq. km</map_area>
+         <map_width>1792 m</map_width>
+         <map_depth>1040 m</map_depth>
+      </Map_Size>
+      <region>Ukraine</region>
+      <environment>Village</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBS v1.04 to v2.10</game_version>
+      <Modules_Required>
+         <module1>Battle Pack #1</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Leave no stone unturned</battle_title>
+      </Title>
+      <filename>Leave no Stone Unturned [R101]</filename>
+      <picture_link>scenpics/Leave no Stone Unturned [R101].bmp</picture_link>
+      <battle_type>Blue Probe</battle_type>
+      <description>An air precision strike must preceed a sweep to search for and gather intel (Play only Blue Vs Red AI)</description>
+      <date>30/08/2017</date>
+      <time_of_day>02:00</time_of_day>
+      <part_of_day>Night</part_of_day>
+      <length>03:00</length>
+      <battle_size>Large</battle_size>
+      <Map_Size>
+         <map_area>3.077 Sq. km</map_area>
+         <map_width>1904 m</map_width>
+         <map_depth>1616 m</map_depth>
+      </Map_Size>
+      <region>Ukraine</region>
+      <environment>Hills</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBS v1.03</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>9</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Wrong Turn at Albuquerque</battle_title>
+      </Title>
+      <filename>Wrong Turn at Albuquerque</filename>
+      <picture_link>scenpics/Wrong Turn at Albuquerque.bmp</picture_link>
+      <battle_type>Red Probe</battle_type>
+      <description>US Scouts take a wrong turn - into the path of Russian armor.  Blue vs AI ONLY, real time recommended.</description>
+      <date>18/08/2017</date>
+      <time_of_day>08:15</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:00</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>0.96 Sq. km</map_area>
+         <map_width>1200 m</map_width>
+         <map_depth>800 m</map_depth>
+      </Map_Size>
+      <region>Ukraine</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Cool</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBS v1.00 to v1.02</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Vega Force</battle_title>
+      </Title>
+      <filename>Vega Force</filename>
+      <picture_link>scenpics/Vega Force.bmp</picture_link>
+      <battle_type>Blue Attack</battle_type>
+      <description>Ukrainian Special Forces attack a Russin Hq and Supply Depot UKR vs Ai only</description>
+      <date>22/08/2017</date>
+      <time_of_day>19:30</time_of_day>
+      <part_of_day>Dusk</part_of_day>
+      <length>00:45</length>
+      <battle_size>Tiny</battle_size>
+      <Map_Size>
+         <map_area>0.053 Sq. km</map_area>
+         <map_width>256 m</map_width>
+         <map_depth>208 m</map_depth>
+      </Map_Size>
+      <region>Ukraine</region>
+      <environment>City</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Blue Force</early_intel>
+      <game_version>CMBS v1.00 to v1.02</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>3</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Bridgehead at Kharalyk</battle_title>
+      </Title>
+      <filename>Bridgehead at Kharalyk</filename>
+      <picture_link>scenpics/Bridgehead at Kharalyk.bmp</picture_link>
+      <battle_type>Blue Attack</battle_type>
+      <description>15th July 2017 US Armored combat teams launch an attack to seize vital bridge crossings defended by Russian mechanised forces.</description>
+      <date>15/07/2017</date>
+      <time_of_day>06:00</time_of_day>
+      <part_of_day>Dawn</part_of_day>
+      <length>02:00</length>
+      <battle_size>Large</battle_size>
+      <Map_Size>
+         <map_area>6.858 Sq. km</map_area>
+         <map_width>3040 m</map_width>
+         <map_depth>2256 m</map_depth>
+      </Map_Size>
+      <region>Ukraine</region>
+      <environment>Village</environment>
+      <weather>Clear</weather>
+      <temperature>Hot</temperature>
+      <ground_condition>Very Dry</ground_condition>
+      <early_intel>Blue Force</early_intel>
+      <game_version>CMBS v1.00 to v1.02</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>9</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Spetsnaz Chronicles: Kobalyev Towers</battle_title>
+      </Title>
+      <filename>Spetsnaz-Kobalyev Towers</filename>
+      <picture_link>scenpics/Spetsnaz-Kobalyev Towers.bmp</picture_link>
+      <battle_type>Red Attack</battle_type>
+      <description>GRU&apos;s marine spetsnaz group one teams up with the SVR&apos;s mysterious &apos;Zaslon&apos; unit behind enemy lines. The target is an abandoned seaside resort complex on the Black Sea.</description>
+      <date>14/07/2017</date>
+      <time_of_day>03:45</time_of_day>
+      <part_of_day>Dawn</part_of_day>
+      <length>01:30</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>2.204 Sq. km</map_area>
+         <map_width>1680 m</map_width>
+         <map_depth>1312 m</map_depth>
+      </Map_Size>
+      <region>Ukraine</region>
+      <environment>Village</environment>
+      <weather>Light Rain</weather>
+      <temperature>Cool</temperature>
+      <ground_condition>Damp</ground_condition>
+      <early_intel>Red Force</early_intel>
+      <game_version>CMBS v1.00 to v1.02</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Tactical Operations Center (TOC)</battle_title>
+      </Title>
+      <filename>Tactical Operations Center (TOC)</filename>
+      <picture_link>scenpics/Tactical Operations Center (TOC).bmp</picture_link>
+      <battle_type>Meeting Engagement</battle_type>
+      <description>A US Stryker Troop, deployed in a Forward Operating Base, fights Russian backed Separatists.  Blue vs AI only.  Elite or Iron only.  Map 2416 x 3008. </description>
+      <date>31/08/2017</date>
+      <time_of_day>13:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>04:00</length>
+      <battle_size>Large</battle_size>
+      <Map_Size>
+         <map_area>7.267 Sq. km</map_area>
+         <map_width>2416 m</map_width>
+         <map_depth>3008 m</map_depth>
+      </Map_Size>
+      <region>Ukraine</region>
+      <environment>Forest</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBS v1.04 to v2.10</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>9</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>US IBCT IN BN DOCTEMP</battle_title>
+      </Title>
+      <filename>US IBCT IN BN DOCTEMP</filename>
+      <picture_link>scenpics/US IBCT IN BN DOCTEMP.bmp</picture_link>
+      <battle_type>Blue Attack</battle_type>
+      <description>To practice understanding in space the entire IN BN and to become familiarized with the general DOCTEMP dispositions</description>
+      <date>01/06/2017</date>
+      <time_of_day>11:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:30</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>16 Sq. km</map_area>
+         <map_width>4000 m</map_width>
+         <map_depth>4000 m</map_depth>
+      </Map_Size>
+      <region>Ukraine</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBS v2.13 to v2.15</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>5</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Opening Encounter</battle_title>
+      </Title>
+      <filename>253614114_OpeningEncounter</filename>
+      <picture_link>scenpics/253614114_OpeningEncounter.bmp</picture_link>
+      <battle_type>Red Attack</battle_type>
+      <description>A Russian mechanized force from the Kaliningrad Oblast attacks a light US force hastily deployed to Lithuania - Playable as Blue versus Red AI only</description>
+      <date>01/06/2017</date>
+      <time_of_day>11:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:30</length>
+      <battle_size>Large</battle_size>
+      <Map_Size>
+         <map_area>6.39 Sq. km</map_area>
+         <map_width>3328 m</map_width>
+         <map_depth>1920 m</map_depth>
+      </Map_Size>
+      <region>Ukraine</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBS v2.16 to v2.18</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>9</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>korsun2017</battle_title>
+      </Title>
+      <filename>korsun2017</filename>
+      <picture_link>scenpics/korsun2017.bmp</picture_link>
+      <battle_type>Red Attack</battle_type>
+      <description>huge battalion sized battle 3.5kms-3.5kms. ukr try to stop the flow west, h2h and h versus blue</description>
+      <date>01/06/2017</date>
+      <time_of_day>04:30</time_of_day>
+      <part_of_day>Dawn</part_of_day>
+      <length>02:30</length>
+      <battle_size>Huge</battle_size>
+      <Map_Size>
+         <map_area>12.96 Sq. km</map_area>
+         <map_width>3600 m</map_width>
+         <map_depth>3600 m</map_depth>
+      </Map_Size>
+      <region>Ukraine</region>
+      <environment>Town</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBS v1.04 to v2.10</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>10</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Brutal!</battle_title>
+      </Title>
+      <filename>Brutal</filename>
+      <picture_link>scenpics/Brutal.bmp</picture_link>
+      <battle_type>Red Attack</battle_type>
+      <description>Russian Mechanised Infantry attack the town of Zhorstokyy.  Best played as Blue vs AI.</description>
+      <date>21/08/2017</date>
+      <time_of_day>09:20</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:55</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>1.516 Sq. km</map_area>
+         <map_width>1504 m</map_width>
+         <map_depth>1008 m</map_depth>
+      </Map_Size>
+      <region>Ukraine</region>
+      <environment>Town</environment>
+      <weather>Light Rain</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Wet</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBS v1.00 to v1.02</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>trash</mod_tag>
+         <mod_tag>lawn</mod_tag>
+         <mod_tag>night</mod_tag>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Neighbours From Hell</battle_title>
+      </Title>
+      <filename>Neighbours From Hell</filename>
+      <picture_link>scenpics/Neighbours From Hell.bmp</picture_link>
+      <battle_type>Red Assault</battle_type>
+      <description>Militia of the Donetsk People&apos;s Republic with assistance from Russian Special Forces conduct a dawn raid on a village west of Slovyansk. Play as Blue, Red or H2H.</description>
+      <date>01/06/2017</date>
+      <time_of_day>06:00</time_of_day>
+      <part_of_day>Dawn</part_of_day>
+      <length>01:30</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>1.516 Sq. km</map_area>
+         <map_width>1504 m</map_width>
+         <map_depth>1008 m</map_depth>
+      </Map_Size>
+      <region>Ukraine</region>
+      <environment>Village</environment>
+      <weather>Mist and Rain</weather>
+      <temperature>Cool</temperature>
+      <ground_condition>Damp</ground_condition>
+      <early_intel>Red Force</early_intel>
+      <game_version>CMBS v1.03</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>separatistinfantry</mod_tag>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Morning Coffee</battle_title>
+      </Title>
+      <filename>Morning Coffee</filename>
+      <picture_link>scenpics/Morning Coffee.bmp</picture_link>
+      <battle_type>Red Probe</battle_type>
+      <description>A small Russian armored combat recce patrol launches a pre-dawn raid behind UKR lines to destroy UKR rear area positions.</description>
+      <date>01/06/2017</date>
+      <time_of_day>05:30</time_of_day>
+      <part_of_day>Dawn</part_of_day>
+      <length>01:20</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>2.459 Sq. km</map_area>
+         <map_width>1568 m</map_width>
+         <map_depth>1568 m</map_depth>
+      </Map_Size>
+      <region>Ukraine</region>
+      <environment>Village</environment>
+      <weather>Downpour</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Damp</ground_condition>
+      <early_intel>Red Force</early_intel>
+      <game_version>CMBS v1.00 to v1.02</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Power Hour</battle_title>
+      </Title>
+      <filename>Power-Hour-v2</filename>
+      <picture_link>scenpics/Power-Hour-v2.bmp</picture_link>
+      <battle_type>Blue Assault</battle_type>
+      <description>Aug 10, 2017: TF Warhorse conducts a deliberate attack to penetrate the enemy MLR. H2H; Experienced player reccomended BLU</description>
+      <date>10/08/2017</date>
+      <time_of_day>17:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:45</length>
+      <battle_size>Large</battle_size>
+      <Map_Size>
+         <map_area>6.947 Sq. km</map_area>
+         <map_width>4096 m</map_width>
+         <map_depth>1696 m</map_depth>
+      </Map_Size>
+      <region>Ukraine</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Hot</temperature>
+      <ground_condition>Very Dry</ground_condition>
+      <early_intel>Red Force</early_intel>
+      <game_version>CMBS v1.04 to v2.10</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>night</mod_tag>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Escalation Of Violence</battle_title>
+      </Title>
+      <filename>Escalation of Violence</filename>
+      <picture_link>scenpics/Escalation of Violence.bmp</picture_link>
+      <battle_type>Meeting Engagement</battle_type>
+      <description>US and Russian forces clash in a &quot;quiet&quot; rear area</description>
+      <date>01/06/2017</date>
+      <time_of_day>07:30</time_of_day>
+      <part_of_day>Dawn</part_of_day>
+      <length>01:20</length>
+      <battle_size>Large</battle_size>
+      <Map_Size>
+         <map_area>2.459 Sq. km</map_area>
+         <map_width>1568 m</map_width>
+         <map_depth>1568 m</map_depth>
+      </Map_Size>
+      <region>Ukraine</region>
+      <environment>Town</environment>
+      <weather>Mist</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Damp</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBS v1.00 to v1.02</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>8</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Donetsk Bypass</battle_title>
+      </Title>
+      <filename>Donetsk Bypass</filename>
+      <picture_link>scenpics/Donetsk Bypass.bmp</picture_link>
+      <battle_type>Meeting Engagement</battle_type>
+      <description>Ukrainian Recon Forces Try to Stop a Russian Infiltration Towards Donetsk</description>
+      <date>01/06/2017</date>
+      <time_of_day>01:00</time_of_day>
+      <part_of_day>Night</part_of_day>
+      <length>01:00</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>1.193 Sq. km</map_area>
+         <map_width>1184 m</map_width>
+         <map_depth>1008 m</map_depth>
+      </Map_Size>
+      <region>Ukraine</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBS v1.03</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Kumeiky Engagement</battle_title>
+      </Title>
+      <filename>Kumeiky Engagement (Scipio)</filename>
+      <picture_link>scenpics/Kumeiky Engagement (Scipio).bmp</picture_link>
+      <battle_type>Meeting Engagement</battle_type>
+      <description>A small meeting between mechanized platoons in the small town Kumeiky. Playable either side and any style.</description>
+      <date>09/07/2017</date>
+      <time_of_day>19:40</time_of_day>
+      <part_of_day>Dusk</part_of_day>
+      <length>00:20</length>
+      <battle_size>Tiny</battle_size>
+      <Map_Size>
+         <map_area>0.074 Sq. km</map_area>
+         <map_width>256 m</map_width>
+         <map_depth>288 m</map_depth>
+      </Map_Size>
+      <region>Ukraine</region>
+      <environment>Town</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBS v1.03</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>1</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>City of Death</battle_title>
+      </Title>
+      <filename>BSBP 05 City</filename>
+      <picture_link>scenpics/BSBP 05 City.bmp</picture_link>
+      <battle_type>Red Attack</battle_type>
+      <description>Elements of a Russian Motorized Tactical Group attacks to clear out Ukrainian and US Defenders</description>
+      <date>30/07/2017</date>
+      <time_of_day>04:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>02:00</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>0.653 Sq. km</map_area>
+         <map_width>704 m</map_width>
+         <map_depth>928 m</map_depth>
+      </Map_Size>
+      <region>Ukraine</region>
+      <environment>City</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBS v1.04 to v2.10</game_version>
+      <Modules_Required>
+         <module1>Battle Pack #1</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Objective Delta</battle_title>
+      </Title>
+      <filename>Objective Delta</filename>
+      <picture_link>scenpics/Objective Delta.bmp</picture_link>
+      <battle_type>Blue Attack</battle_type>
+      <description>A US Styker platoon siezes an objective in support of the main effort. Best played as Blue vs AI.</description>
+      <date>15/08/2017</date>
+      <time_of_day>05:05</time_of_day>
+      <part_of_day>Dawn</part_of_day>
+      <length>01:00</length>
+      <battle_size>Small</battle_size>
+      <Map_Size>
+         <map_area>0.774 Sq. km</map_area>
+         <map_width>1008 m</map_width>
+         <map_depth>768 m</map_depth>
+      </Map_Size>
+      <region>Ukraine</region>
+      <environment>Village</environment>
+      <weather>Overcast</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Wet</ground_condition>
+      <early_intel>Blue Force</early_intel>
+      <game_version>CMBS v1.00 to v1.02</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>4</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Rolling Thunder</battle_title>
+      </Title>
+      <filename>Rolling Thunder_v1</filename>
+      <picture_link>scenpics/Rolling Thunder_v1.bmp</picture_link>
+      <battle_type>Blue Probe</battle_type>
+      <description>US Mech company team launches attack against Russian mech unit holding vital junction and bridges. Play US Vs AI; H2H; Rus Vs AI</description>
+      <date>14/07/2017</date>
+      <time_of_day>06:15</time_of_day>
+      <part_of_day>Dawn</part_of_day>
+      <length>01:50</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>2.459 Sq. km</map_area>
+         <map_width>1568 m</map_width>
+         <map_depth>1568 m</map_depth>
+      </Map_Size>
+      <region>Ukraine</region>
+      <environment>Village</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Very Dry</ground_condition>
+      <early_intel>Red Force</early_intel>
+      <game_version>CMBS v1.03</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   </Scenario_List>
+</Scenario_Listing>

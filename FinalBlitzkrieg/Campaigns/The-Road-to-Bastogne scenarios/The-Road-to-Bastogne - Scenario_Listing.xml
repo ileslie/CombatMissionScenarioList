@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="Listing_Layout.xsl" ?>
+
+<Scenario_Listing>
+
+   <Scenario_List>
+
+   <containing_campaign>The Road to Bastogne</containing_campaign>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #02]</number_in_campaign>
+         <battle_title>St Vith the Breakwater</battle_title>
+      </Title>
+      <filename>The-Road-to-Bastogne #02_St Vith the Breakwater</filename>
+      <picture_link>scenpics/The-Road-to-Bastogne2.bmp</picture_link>
+      <battle_type>Axis Attack</battle_type>
+      <description>18th VGD and FBB attacks Saint Vith to secure its road network.</description>
+      <date>21/12/1944</date>
+      <time_of_day>12:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>02:00</length>
+      <battle_size>Huge</battle_size>
+      <Map_Size>
+         <map_area>7.508 Sq. km</map_area>
+         <map_width>3008 m</map_width>
+         <map_depth>2496 m</map_depth>
+      </Map_Size>
+      <region>Ardennes</region>
+      <environment>Town</environment>
+      <weather>Light Fog</weather>
+      <temperature>Freezing</temperature>
+      <ground_condition>Muddy</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFB v1.02 to v2.00</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>10</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #03]</number_in_campaign>
+         <battle_title>Cutting the Escape</battle_title>
+      </Title>
+      <filename>The-Road-to-Bastogne #03_The Attack on Rodt</filename>
+      <picture_link>scenpics/The-Road-to-Bastogne3.bmp</picture_link>
+      <battle_type>Axis Attack</battle_type>
+      <description>Elements of FBB attack Rodt to cut of the american retreat from St Vith towards the west.</description>
+      <date>22/12/1944</date>
+      <time_of_day>09:50</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:30</length>
+      <battle_size>Large</battle_size>
+      <Map_Size>
+         <map_area>4.967 Sq. km</map_area>
+         <map_width>2112 m</map_width>
+         <map_depth>2352 m</map_depth>
+      </Map_Size>
+      <region>Ardennes</region>
+      <environment>Open</environment>
+      <weather>Flurries</weather>
+      <temperature>Freezing</temperature>
+      <ground_condition>Patchy Snow</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFB v1.02 to v2.00</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>9</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #04]</number_in_campaign>
+         <battle_title>Point 525 Vital Ground</battle_title>
+      </Title>
+      <filename>The-Road-to-Bastogne #04_Point 525</filename>
+      <picture_link>scenpics/The-Road-to-Bastogne4.bmp</picture_link>
+      <battle_type>Axis Attack</battle_type>
+      <description>FBB attack towards Point 525 to seize the high ground.</description>
+      <date>22/12/1944</date>
+      <time_of_day>14:35</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:10</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>6.912 Sq. km</map_area>
+         <map_width>2880 m</map_width>
+         <map_depth>2400 m</map_depth>
+      </Map_Size>
+      <region>Ardennes</region>
+      <environment>Open</environment>
+      <weather>Flurries</weather>
+      <temperature>Extreme Cold</temperature>
+      <ground_condition>Patchy Snow</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFB v1.02 to v2.00</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #05]</number_in_campaign>
+         <battle_title>Defend Foy and Recogne</battle_title>
+      </Title>
+      <filename>The-Road-to-Bastogne #05_Defend Foy and Recogne</filename>
+      <picture_link>scenpics/The-Road-to-Bastogne5.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>27-12-1944: FBB defend against American attacks on Foy and Recogne.</description>
+      <date>27/12/1944</date>
+      <time_of_day>08:15</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:20</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>7.491 Sq. km</map_area>
+         <map_width>3040 m</map_width>
+         <map_depth>2464 m</map_depth>
+      </Map_Size>
+      <region>Ardennes</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Extreme Cold</temperature>
+      <ground_condition>Snow</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFB v1.02 to v2.00</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>noville</mod_tag>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #06]</number_in_campaign>
+         <battle_title>Breakthrough to Bastogne</battle_title>
+      </Title>
+      <filename>The-Road-to-Bastogne #06_Breakthrough to Bastogne</filename>
+      <picture_link>scenpics/The-Road-to-Bastogne6.bmp</picture_link>
+      <battle_type>Axis Attack</battle_type>
+      <description>Last chance to capture Bastogne</description>
+      <date>27/12/1944</date>
+      <time_of_day>13:15</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>02:00</length>
+      <battle_size>Large</battle_size>
+      <Map_Size>
+         <map_area>11.139 Sq. km</map_area>
+         <map_width>3040 m</map_width>
+         <map_depth>3664 m</map_depth>
+      </Map_Size>
+      <region>Ardennes</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Extreme Cold</temperature>
+      <ground_condition>Snow</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFB v1.02 to v2.00</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>noville</mod_tag>
+      </Mod_Tags>
+      <size_modifier>9</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #00]</number_in_campaign>
+         <battle_title>Clear Kninelsberg Forest</battle_title>
+      </Title>
+      <filename>The-Road-to-Bastogne #00_Clear Kninelsberg Forest</filename>
+      <picture_link>scenpics/The-Road-to-Bastogne0.bmp</picture_link>
+      <battle_type>Axis Attack</battle_type>
+      <description>As a prelude to the attack on Hunningen, the Kninelsberg forest has to be captured.</description>
+      <date>21/12/1944</date>
+      <time_of_day>01:40</time_of_day>
+      <part_of_day>Night</part_of_day>
+      <length>00:40</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>2.636 Sq. km</map_area>
+         <map_width>2320 m</map_width>
+         <map_depth>1136 m</map_depth>
+      </Map_Size>
+      <region>Ardennes</region>
+      <environment>Open</environment>
+      <weather>Overcast</weather>
+      <temperature>Freezing</temperature>
+      <ground_condition>Muddy</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFB v1.02 to v2.00</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>5</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #01]</number_in_campaign>
+         <battle_title>Hitlers Bodyguard</battle_title>
+      </Title>
+      <filename>The-Road-to-Bastogne #01_Hitlers Bodyguard</filename>
+      <picture_link>scenpics/The-Road-to-Bastogne1.bmp</picture_link>
+      <battle_type>Axis Attack</battle_type>
+      <description>Approaching St. Vith from the Northeast the ridgeline at Hünningen has to be captured.</description>
+      <date>21/12/1944</date>
+      <time_of_day>09:10</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:30</length>
+      <battle_size>Large</battle_size>
+      <Map_Size>
+         <map_area>4.48 Sq. km</map_area>
+         <map_width>2800 m</map_width>
+         <map_depth>1600 m</map_depth>
+      </Map_Size>
+      <region>Ardennes</region>
+      <environment>Open</environment>
+      <weather>Light Fog</weather>
+      <temperature>Freezing</temperature>
+      <ground_condition>Muddy</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFB v1.02 to v2.00</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>9</size_modifier>
+   </Scenario>
+
+   </Scenario_List>
+</Scenario_Listing>

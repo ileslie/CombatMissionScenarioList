@@ -1,0 +1,519 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="Listing_Layout.xsl" ?>
+
+<Scenario_Listing>
+
+   <Scenario_List>
+
+   <containing_campaign>The Lions of Carpiquet</containing_campaign>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #12]</number_in_campaign>
+         <battle_title>Dawn in Hell</battle_title>
+      </Title>
+      <filename>The Lions of Carpiquet #12_Mission 8B Dawn in Hell</filename>
+      <picture_link>scenpics/The Lions of Carpiquet12.bmp</picture_link>
+      <battle_type>Axis Assault</battle_type>
+      <description>Not defined!</description>
+      <date>05/07/1944</date>
+      <time_of_day>08:30</time_of_day>
+      <part_of_day>Dawn</part_of_day>
+      <length>02:00</length>
+      <battle_size>Large</battle_size>
+      <Map_Size>
+         <map_area>1.319 Sq. km</map_area>
+         <map_width>1472 m</map_width>
+         <map_depth>896 m</map_depth>
+      </Map_Size>
+      <region>France</region>
+      <environment>Town</environment>
+      <weather>Clear</weather>
+      <temperature>Hot</temperature>
+      <ground_condition>Very Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBN v3.10 to v3.12</game_version>
+      <Modules_Required>
+         <module1>Commonwealth</module1>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>carpiquet</mod_tag>
+      </Mod_Tags>
+      <size_modifier>9</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #00]</number_in_campaign>
+         <battle_title>Another Patrol</battle_title>
+      </Title>
+      <filename>The Lions of Carpiquet #00_Mission 0 Another Patrol</filename>
+      <picture_link>scenpics/The Lions of Carpiquet0.bmp</picture_link>
+      <battle_type>Allied Probe</battle_type>
+      <description>Not defined!</description>
+      <date>04/07/1944</date>
+      <time_of_day>00:30</time_of_day>
+      <part_of_day>Night</part_of_day>
+      <length>00:30</length>
+      <battle_size>Small</battle_size>
+      <Map_Size>
+         <map_area>0.975 Sq. km</map_area>
+         <map_width>896 m</map_width>
+         <map_depth>1088 m</map_depth>
+      </Map_Size>
+      <region>France</region>
+      <environment>Town</environment>
+      <weather>Light Rain</weather>
+      <temperature>Cool</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBN v3.10 to v3.12</game_version>
+      <Modules_Required>
+         <module1>Commonwealth</module1>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>carpiquet</mod_tag>
+         <mod_tag>rubble</mod_tag>
+      </Mod_Tags>
+      <size_modifier>3</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #05]</number_in_campaign>
+         <battle_title>Out on a Limb</battle_title>
+      </Title>
+      <filename>The Lions of Carpiquet #05_Mission 3 Out on a Limb</filename>
+      <picture_link>scenpics/The Lions of Carpiquet5.bmp</picture_link>
+      <battle_type>Allied Assault</battle_type>
+      <description>Not defined!</description>
+      <date>04/07/1944</date>
+      <time_of_day>12:30</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:20</length>
+      <battle_size>Large</battle_size>
+      <Map_Size>
+         <map_area>1.343 Sq. km</map_area>
+         <map_width>848 m</map_width>
+         <map_depth>1584 m</map_depth>
+      </Map_Size>
+      <region>France</region>
+      <environment>Town</environment>
+      <weather>Hazy</weather>
+      <temperature>Hot</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBN v3.10 to v3.12</game_version>
+      <Modules_Required>
+         <module1>Commonwealth</module1>
+         <module2>Market Garden</module2>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>carpiquet</mod_tag>
+         <mod_tag>rubble</mod_tag>
+      </Mod_Tags>
+      <size_modifier>8</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #07]</number_in_campaign>
+         <battle_title>A Little Out of Reach</battle_title>
+      </Title>
+      <filename>The Lions of Carpiquet #07_Mission 5 A Little Out of Reach</filename>
+      <picture_link>scenpics/The Lions of Carpiquet7.bmp</picture_link>
+      <battle_type>Allied Assault</battle_type>
+      <description>Not defined!</description>
+      <date>04/07/1944</date>
+      <time_of_day>16:30</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>03:00</length>
+      <battle_size>Large</battle_size>
+      <Map_Size>
+         <map_area>4.334 Sq. km</map_area>
+         <map_width>3344 m</map_width>
+         <map_depth>1296 m</map_depth>
+      </Map_Size>
+      <region>France</region>
+      <environment>Open</environment>
+      <weather>Hazy</weather>
+      <temperature>Cool</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBN v3.10 to v3.12</game_version>
+      <Modules_Required>
+         <module1>Commonwealth</module1>
+         <module2>Market Garden</module2>
+         <module3>Vehicle Pack</module3>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>carpiquet</mod_tag>
+         <mod_tag>rubble</mod_tag>
+      </Mod_Tags>
+      <size_modifier>9</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #02]</number_in_campaign>
+         <battle_title>Blackader&apos;s Regret</battle_title>
+      </Title>
+      <filename>The Lions of Carpiquet #02_Mission 1B Blackaders Regret</filename>
+      <picture_link>scenpics/The Lions of Carpiquet2.bmp</picture_link>
+      <battle_type>Allied Assault</battle_type>
+      <description>Not defined!</description>
+      <date>04/07/1944</date>
+      <time_of_day>06:30</time_of_day>
+      <part_of_day>Dawn</part_of_day>
+      <length>03:00</length>
+      <battle_size>Huge</battle_size>
+      <Map_Size>
+         <map_area>2.507 Sq. km</map_area>
+         <map_width>2176 m</map_width>
+         <map_depth>1152 m</map_depth>
+      </Map_Size>
+      <region>France</region>
+      <environment>Town</environment>
+      <weather>Thick Haze</weather>
+      <temperature>Hot</temperature>
+      <ground_condition>Damp</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBN v3.10 to v3.12</game_version>
+      <Modules_Required>
+         <module1>Commonwealth</module1>
+         <module2>Market Garden</module2>
+         <module3>Vehicle Pack</module3>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>carpiquet</mod_tag>
+      </Mod_Tags>
+      <size_modifier>10</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #03]</number_in_campaign>
+         <battle_title>Where Are the Fucking Tanks?</battle_title>
+      </Title>
+      <filename>The Lions of Carpiquet #03_Mission 2A Where Are the Tanks</filename>
+      <picture_link>scenpics/The Lions of Carpiquet3.bmp</picture_link>
+      <battle_type>Allied Assault</battle_type>
+      <description>Not defined!</description>
+      <date>04/07/1944</date>
+      <time_of_day>06:30</time_of_day>
+      <part_of_day>Dawn</part_of_day>
+      <length>03:00</length>
+      <battle_size>Huge</battle_size>
+      <Map_Size>
+         <map_area>4.334 Sq. km</map_area>
+         <map_width>3344 m</map_width>
+         <map_depth>1296 m</map_depth>
+      </Map_Size>
+      <region>France</region>
+      <environment>Open</environment>
+      <weather>Hazy</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Damp</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBN v3.10 to v3.12</game_version>
+      <Modules_Required>
+         <module1>Commonwealth</module1>
+         <module2>Market Garden</module2>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>carpiquet</mod_tag>
+         <mod_tag>rubble</mod_tag>
+      </Mod_Tags>
+      <size_modifier>10</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #06]</number_in_campaign>
+         <battle_title>Digging Them Out</battle_title>
+      </Title>
+      <filename>The Lions of Carpiquet #06_Mission 4 Digging Them Out</filename>
+      <picture_link>scenpics/The Lions of Carpiquet6.bmp</picture_link>
+      <battle_type>Allied Assault</battle_type>
+      <description>Not defined!</description>
+      <date>04/07/1944</date>
+      <time_of_day>11:30</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>02:00</length>
+      <battle_size>Huge</battle_size>
+      <Map_Size>
+         <map_area>2.507 Sq. km</map_area>
+         <map_width>2176 m</map_width>
+         <map_depth>1152 m</map_depth>
+      </Map_Size>
+      <region>France</region>
+      <environment>Town</environment>
+      <weather>Hazy</weather>
+      <temperature>Hot</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBN v3.10 to v3.12</game_version>
+      <Modules_Required>
+         <module1>Commonwealth</module1>
+         <module2>Market Garden</module2>
+         <module3>Vehicle Pack</module3>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>carpiquet</mod_tag>
+      </Mod_Tags>
+      <size_modifier>10</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #08]</number_in_campaign>
+         <battle_title>The Whites of Their Eyes</battle_title>
+      </Title>
+      <filename>The Lions of Carpiquet #08_Mission 6 The Whites of Their Eyes</filename>
+      <picture_link>scenpics/The Lions of Carpiquet8.bmp</picture_link>
+      <battle_type>Axis Assault</battle_type>
+      <description>Not defined!</description>
+      <date>05/07/1944</date>
+      <time_of_day>00:10</time_of_day>
+      <part_of_day>Night</part_of_day>
+      <length>02:00</length>
+      <battle_size>Large</battle_size>
+      <Map_Size>
+         <map_area>1.319 Sq. km</map_area>
+         <map_width>1472 m</map_width>
+         <map_depth>896 m</map_depth>
+      </Map_Size>
+      <region>France</region>
+      <environment>Town</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Very Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBN v3.10 to v3.12</game_version>
+      <Modules_Required>
+         <module1>Commonwealth</module1>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>carpiquet</mod_tag>
+      </Mod_Tags>
+      <size_modifier>9</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #10]</number_in_campaign>
+         <battle_title>Dawn in Hell</battle_title>
+      </Title>
+      <filename>The Lions of Carpiquet #10_Mission 8 Dawn in Hell</filename>
+      <picture_link>scenpics/The Lions of Carpiquet10.bmp</picture_link>
+      <battle_type>Axis Assault</battle_type>
+      <description>Not defined!</description>
+      <date>05/07/1944</date>
+      <time_of_day>08:30</time_of_day>
+      <part_of_day>Dawn</part_of_day>
+      <length>02:00</length>
+      <battle_size>Large</battle_size>
+      <Map_Size>
+         <map_area>1.319 Sq. km</map_area>
+         <map_width>1472 m</map_width>
+         <map_depth>896 m</map_depth>
+      </Map_Size>
+      <region>France</region>
+      <environment>Town</environment>
+      <weather>Clear</weather>
+      <temperature>Hot</temperature>
+      <ground_condition>Very Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBN v3.10 to v3.12</game_version>
+      <Modules_Required>
+         <module1>Commonwealth</module1>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>carpiquet</mod_tag>
+      </Mod_Tags>
+      <size_modifier>9</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #04]</number_in_campaign>
+         <battle_title>Where Are the Fucking Tanks?</battle_title>
+      </Title>
+      <filename>The Lions of Carpiquet #04_Mission 2B Where Are the Tanks</filename>
+      <picture_link>scenpics/The Lions of Carpiquet4.bmp</picture_link>
+      <battle_type>Allied Assault</battle_type>
+      <description>Not defined!</description>
+      <date>04/07/1944</date>
+      <time_of_day>06:30</time_of_day>
+      <part_of_day>Dawn</part_of_day>
+      <length>03:00</length>
+      <battle_size>Huge</battle_size>
+      <Map_Size>
+         <map_area>4.334 Sq. km</map_area>
+         <map_width>3344 m</map_width>
+         <map_depth>1296 m</map_depth>
+      </Map_Size>
+      <region>France</region>
+      <environment>Open</environment>
+      <weather>Hazy</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Damp</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBN v3.10 to v3.12</game_version>
+      <Modules_Required>
+         <module1>Commonwealth</module1>
+         <module2>Market Garden</module2>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>carpiquet</mod_tag>
+         <mod_tag>rubble</mod_tag>
+      </Mod_Tags>
+      <size_modifier>10</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #13]</number_in_campaign>
+         <battle_title>Fingernails</battle_title>
+      </Title>
+      <filename>The Lions of Carpiquet #13_Mission 8C Fingernails</filename>
+      <picture_link>scenpics/The Lions of Carpiquet13.bmp</picture_link>
+      <battle_type>Axis Assault</battle_type>
+      <description>Not defined!</description>
+      <date>05/07/1944</date>
+      <time_of_day>06:30</time_of_day>
+      <part_of_day>Dawn</part_of_day>
+      <length>02:00</length>
+      <battle_size>Large</battle_size>
+      <Map_Size>
+         <map_area>2.507 Sq. km</map_area>
+         <map_width>2176 m</map_width>
+         <map_depth>1152 m</map_depth>
+      </Map_Size>
+      <region>France</region>
+      <environment>Town</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBN v3.10 to v3.12</game_version>
+      <Modules_Required>
+         <module1>Commonwealth</module1>
+         <module2>Vehicle Pack</module2>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>carpiquet</mod_tag>
+      </Mod_Tags>
+      <size_modifier>9</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #11]</number_in_campaign>
+         <battle_title>Dawn in Hell</battle_title>
+      </Title>
+      <filename>The Lions of Carpiquet #11_Mission 8A Dawn in Hell</filename>
+      <picture_link>scenpics/The Lions of Carpiquet11.bmp</picture_link>
+      <battle_type>Axis Assault</battle_type>
+      <description>Not defined!</description>
+      <date>05/07/1944</date>
+      <time_of_day>06:30</time_of_day>
+      <part_of_day>Dawn</part_of_day>
+      <length>02:00</length>
+      <battle_size>Large</battle_size>
+      <Map_Size>
+         <map_area>1.319 Sq. km</map_area>
+         <map_width>1472 m</map_width>
+         <map_depth>896 m</map_depth>
+      </Map_Size>
+      <region>France</region>
+      <environment>Town</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Very Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBN v3.10 to v3.12</game_version>
+      <Modules_Required>
+         <module1>Commonwealth</module1>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>carpiquet</mod_tag>
+      </Mod_Tags>
+      <size_modifier>9</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #01]</number_in_campaign>
+         <battle_title>Blackader&apos;s Regret</battle_title>
+      </Title>
+      <filename>The Lions of Carpiquet #01_Mission 1A Blackaders Regret</filename>
+      <picture_link>scenpics/The Lions of Carpiquet1.bmp</picture_link>
+      <battle_type>Allied Assault</battle_type>
+      <description>Not defined!</description>
+      <date>04/07/1944</date>
+      <time_of_day>06:30</time_of_day>
+      <part_of_day>Dawn</part_of_day>
+      <length>03:00</length>
+      <battle_size>Huge</battle_size>
+      <Map_Size>
+         <map_area>2.507 Sq. km</map_area>
+         <map_width>2176 m</map_width>
+         <map_depth>1152 m</map_depth>
+      </Map_Size>
+      <region>France</region>
+      <environment>Town</environment>
+      <weather>Thick Haze</weather>
+      <temperature>Hot</temperature>
+      <ground_condition>Damp</ground_condition>
+      <early_intel>Allied Force</early_intel>
+      <game_version>CMBN v3.10 to v3.12</game_version>
+      <Modules_Required>
+         <module1>Commonwealth</module1>
+         <module2>Market Garden</module2>
+         <module3>Vehicle Pack</module3>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>carpiquet</mod_tag>
+      </Mod_Tags>
+      <size_modifier>10</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #09]</number_in_campaign>
+         <battle_title>One Mile From Caen</battle_title>
+      </Title>
+      <filename>The Lions of Carpiquet #09_Mission 7 One Mile From Caen</filename>
+      <picture_link>scenpics/The Lions of Carpiquet9.bmp</picture_link>
+      <battle_type>Axis Assault</battle_type>
+      <description>Not defined!</description>
+      <date>05/07/1944</date>
+      <time_of_day>00:10</time_of_day>
+      <part_of_day>Night</part_of_day>
+      <length>01:20</length>
+      <battle_size>Large</battle_size>
+      <Map_Size>
+         <map_area>1.343 Sq. km</map_area>
+         <map_width>848 m</map_width>
+         <map_depth>1584 m</map_depth>
+      </Map_Size>
+      <region>France</region>
+      <environment>Town</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBN v3.10 to v3.12</game_version>
+      <Modules_Required>
+         <module1>Commonwealth</module1>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>carpiquet</mod_tag>
+         <mod_tag>rubble</mod_tag>
+      </Mod_Tags>
+      <size_modifier>8</size_modifier>
+   </Scenario>
+
+   </Scenario_List>
+</Scenario_Listing>

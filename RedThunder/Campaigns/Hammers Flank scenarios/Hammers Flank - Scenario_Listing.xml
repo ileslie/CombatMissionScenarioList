@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="Listing_Layout.xsl" ?>
+
+<Scenario_Listing>
+
+   <Scenario_List>
+
+   <containing_campaign>Hammer&apos;s Flank</containing_campaign>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #02]</number_in_campaign>
+         <battle_title>Osintorf or Bust</battle_title>
+      </Title>
+      <filename>Hammers Flank #02_Hammers Flank Battle 3 Final</filename>
+      <picture_link>scenpics/Hammers Flank2.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>Not defined!</description>
+      <date>22/06/1944</date>
+      <time_of_day>13:15</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:40</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>2.101 Sq. km</map_area>
+         <map_width>1728 m</map_width>
+         <map_depth>1216 m</map_depth>
+      </Map_Size>
+      <region>Soviet Union</region>
+      <environment>Village</environment>
+      <weather>Light Rain</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Damp</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMRT v1.00 to v1.03</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #03]</number_in_campaign>
+         <battle_title>Hot on the Heels</battle_title>
+      </Title>
+      <filename>Hammers Flank #03_Hammers Flank Battle 4 v3</filename>
+      <picture_link>scenpics/Hammers Flank3.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>Not defined!</description>
+      <date>23/06/1944</date>
+      <time_of_day>16:10</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:00</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>1.068 Sq. km</map_area>
+         <map_width>1712 m</map_width>
+         <map_depth>624 m</map_depth>
+      </Map_Size>
+      <region>Soviet Union</region>
+      <environment>Open</environment>
+      <weather>Overcast</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Wet</ground_condition>
+      <early_intel>Axis Force</early_intel>
+      <game_version>CMRT v1.00 to v1.03</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #01]</number_in_campaign>
+         <battle_title>Siezing the Bog</battle_title>
+      </Title>
+      <filename>Hammers Flank #01_Hammers Flank Battle 2 v7b</filename>
+      <picture_link>scenpics/Hammers Flank1.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>Not defined!</description>
+      <date>23/06/1944</date>
+      <time_of_day>10:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:00</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>1.597 Sq. km</map_area>
+         <map_width>1232 m</map_width>
+         <map_depth>1296 m</map_depth>
+      </Map_Size>
+      <region>Soviet Union</region>
+      <environment>Forest</environment>
+      <weather>Light Rain</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Wet</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMRT v1.00 to v1.03</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #04]</number_in_campaign>
+         <battle_title>Stuggies in the Open</battle_title>
+      </Title>
+      <filename>Hammers Flank #04_Hammers Flank Battle 5 Final</filename>
+      <picture_link>scenpics/Hammers Flank4.bmp</picture_link>
+      <battle_type>Axis Attack</battle_type>
+      <description>Ferocious German Counterattack Defended by 3/167th Guards Rifle Regiment</description>
+      <date>24/06/1944</date>
+      <time_of_day>07:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:10</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>3.144 Sq. km</map_area>
+         <map_width>2208 m</map_width>
+         <map_depth>1424 m</map_depth>
+      </Map_Size>
+      <region>Soviet Union</region>
+      <environment>Rough</environment>
+      <weather>Overcast</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMRT v1.00 to v1.03</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #00]</number_in_campaign>
+         <battle_title>crossing the River</battle_title>
+      </Title>
+      <filename>Hammers Flank #00_Hammers Flank Battle 1 v4a</filename>
+      <picture_link>scenpics/Hammers Flank0.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>Soviet assault forces storm the german positions gurding the Sukhodrovka river crossings</description>
+      <date>23/06/1944</date>
+      <time_of_day>06:00</time_of_day>
+      <part_of_day>Dawn</part_of_day>
+      <length>01:20</length>
+      <battle_size>Huge</battle_size>
+      <Map_Size>
+         <map_area>3.128 Sq. km</map_area>
+         <map_width>2080 m</map_width>
+         <map_depth>1504 m</map_depth>
+      </Map_Size>
+      <region>Soviet Union</region>
+      <environment>Forest</environment>
+      <weather>Light Fog and Rain</weather>
+      <temperature>Cool</temperature>
+      <ground_condition>Damp</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMRT v1.00 to v1.03</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>10</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #05]</number_in_campaign>
+         <battle_title>Forest Fighting</battle_title>
+      </Title>
+      <filename>Hammers Flank #05_Hammers Flank Battle 6 v1a</filename>
+      <picture_link>scenpics/Hammers Flank5.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>Not defined!</description>
+      <date>24/06/1944</date>
+      <time_of_day>12:35</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:00</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>2.225 Sq. km</map_area>
+         <map_width>1264 m</map_width>
+         <map_depth>1760 m</map_depth>
+      </Map_Size>
+      <region>Soviet Union</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMRT v1.00 to v1.03</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   </Scenario_List>
+</Scenario_Listing>

@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="Listing_Layout.xsl" ?>
+
+<Scenario_Listing>
+
+   <Scenario_List>
+
+   <containing_campaign>The Push From Dniprodzerhyn&apos;sk</containing_campaign>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #04]</number_in_campaign>
+         <battle_title>Heros of the 205th</battle_title>
+      </Title>
+      <filename>The Push From Dniprodzerhyn&apos;sk #04_RUS MSN 05 Heros of the 205th</filename>
+      <picture_link>scenpics/The Push From Dniprodzerhyn&apos;sk4.bmp</picture_link>
+      <battle_type>Red Attack</battle_type>
+      <description>The 1st Tactical Group, reinforced with the 20th Separate Tank Company, attacks to sieze the Brigade&apos;s primary objective</description>
+      <date>22/06/2017</date>
+      <time_of_day>16:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:40</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>1.805 Sq. km</map_area>
+         <map_width>1504 m</map_width>
+         <map_depth>1200 m</map_depth>
+      </Map_Size>
+      <region>Ukraine</region>
+      <environment>Town</environment>
+      <weather>Overcast</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Red Force</early_intel>
+      <game_version>CMBS v1.04 to v2.10</game_version>
+      <Modules_Required>
+         <module1>Battle Pack #1</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #02]</number_in_campaign>
+         <battle_title>Hammer and Anvil</battle_title>
+      </Title>
+      <filename>The Push From Dniprodzerhyn&apos;sk #02_RUS MSN 03 Hammer and Anvil</filename>
+      <picture_link>scenpics/The Push From Dniprodzerhyn&apos;sk2.bmp</picture_link>
+      <battle_type>Red Attack</battle_type>
+      <description>Russian Armor spearheads the attack West against a Ukrainian Counter Attack</description>
+      <date>17/06/2017</date>
+      <time_of_day>20:00</time_of_day>
+      <part_of_day>Dusk</part_of_day>
+      <length>01:00</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>4.233 Sq. km</map_area>
+         <map_width>2496 m</map_width>
+         <map_depth>1696 m</map_depth>
+      </Map_Size>
+      <region>Ukraine</region>
+      <environment>Open</environment>
+      <weather>Light Rain</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Damp</ground_condition>
+      <early_intel>Red Force</early_intel>
+      <game_version>CMBS v1.04 to v2.10</game_version>
+      <Modules_Required>
+         <module1>Battle Pack #1</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #00]</number_in_campaign>
+         <battle_title>Seek and Destroy</battle_title>
+      </Title>
+      <filename>The Push From Dniprodzerhyn&apos;sk #00_RUS MSN 01 Seek and Destroy</filename>
+      <picture_link>scenpics/The Push From Dniprodzerhyn&apos;sk0.bmp</picture_link>
+      <battle_type>Red Attack</battle_type>
+      <description>Reconnaissance elements of the 205th Motorized Rifle Regiment strike West from Dniprodzerhy&apos;sk</description>
+      <date>15/06/2017</date>
+      <time_of_day>07:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:10</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>1.152 Sq. km</map_area>
+         <map_width>1200 m</map_width>
+         <map_depth>960 m</map_depth>
+      </Map_Size>
+      <region>Ukraine</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Red Force</early_intel>
+      <game_version>CMBS v1.04 to v2.10</game_version>
+      <Modules_Required>
+         <module1>Battle Pack #1</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #03]</number_in_campaign>
+         <battle_title>Highway to Hell</battle_title>
+      </Title>
+      <filename>The Push From Dniprodzerhyn&apos;sk #03_RUS MSN 04 Highway to Hell</filename>
+      <picture_link>scenpics/The Push From Dniprodzerhyn&apos;sk3.bmp</picture_link>
+      <battle_type>Red Assault</battle_type>
+      <description>Elements of the 1st Tactical Group assault to seize a key bridge along Highway H-11</description>
+      <date>20/06/2017</date>
+      <time_of_day>05:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:30</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>0.998 Sq. km</map_area>
+         <map_width>1200 m</map_width>
+         <map_depth>832 m</map_depth>
+      </Map_Size>
+      <region>Ukraine</region>
+      <environment>Town</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Damp</ground_condition>
+      <early_intel>Red Force</early_intel>
+      <game_version>CMBS v1.04 to v2.10</game_version>
+      <Modules_Required>
+         <module1>Battle Pack #1</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #05]</number_in_campaign>
+         <battle_title>The Last Stand of 1st Company</battle_title>
+      </Title>
+      <filename>The Push From Dniprodzerhyn&apos;sk #05_RUS MSN 06 The Last Stand</filename>
+      <picture_link>scenpics/The Push From Dniprodzerhyn&apos;sk5.bmp</picture_link>
+      <battle_type>Blue Attack</battle_type>
+      <description>After the bitter failure to achieve the Brigade Objective, the 205th is in retreat. 1st Company must hold the line in a desperate  rear guard action.</description>
+      <date>23/06/2017</date>
+      <time_of_day>06:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:10</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>1.19 Sq. km</map_area>
+         <map_width>1200 m</map_width>
+         <map_depth>992 m</map_depth>
+      </Map_Size>
+      <region>Ukraine</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Red Force</early_intel>
+      <game_version>CMBS v1.04 to v2.10</game_version>
+      <Modules_Required>
+         <module1>Battle Pack #1</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #01]</number_in_campaign>
+         <battle_title>Grind Them to Dust</battle_title>
+      </Title>
+      <filename>The Push From Dniprodzerhyn&apos;sk #01_RUS MSN 02 Grind Them to Dust</filename>
+      <picture_link>scenpics/The Push From Dniprodzerhyn&apos;sk1.bmp</picture_link>
+      <battle_type>Red Attack</battle_type>
+      <description>The 205th Motorized Rifle Brigade begins it&apos;s push west along the H-11 Highway</description>
+      <date>16/06/2017</date>
+      <time_of_day>05:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:10</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>0.866 Sq. km</map_area>
+         <map_width>1104 m</map_width>
+         <map_depth>784 m</map_depth>
+      </Map_Size>
+      <region>Ukraine</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Red Force</early_intel>
+      <game_version>CMBS v1.04 to v2.10</game_version>
+      <Modules_Required>
+         <module1>Battle Pack #1</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   </Scenario_List>
+</Scenario_Listing>

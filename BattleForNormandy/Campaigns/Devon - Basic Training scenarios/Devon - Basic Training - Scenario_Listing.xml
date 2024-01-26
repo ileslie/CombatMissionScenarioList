@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="Listing_Layout.xsl" ?>
+
+<Scenario_Listing>
+
+   <Scenario_List>
+
+   <containing_campaign>Devon - Basic Training</containing_campaign>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #00]</number_in_campaign>
+         <battle_title>Out on Patrol</battle_title>
+      </Title>
+      <filename>Devon - Basic Training #00_Bn Cmpn 01 Out on Patrol</filename>
+      <picture_link>scenpics/Devon - Basic Training0.bmp</picture_link>
+      <battle_type>Meeting Engagement</battle_type>
+      <description>Learn how to move units in CM:BN while exploring the English countryside.</description>
+      <date>06/06/1944</date>
+      <time_of_day>07:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:15</length>
+      <battle_size>Tiny</battle_size>
+      <Map_Size>
+         <map_area>0.16 Sq. km</map_area>
+         <map_width>400 m</map_width>
+         <map_depth>400 m</map_depth>
+      </Map_Size>
+      <region>France</region>
+      <environment>Open</environment>
+      <weather>Overcast</weather>
+      <temperature>Cool</temperature>
+      <ground_condition>Damp</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>pre-release CMBN v1.00</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>1</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #02]</number_in_campaign>
+         <battle_title>Battle Drill</battle_title>
+      </Title>
+      <filename>Devon - Basic Training #02_Bn Cmpn 03 Battle Drill</filename>
+      <picture_link>scenpics/Devon - Basic Training2.bmp</picture_link>
+      <battle_type>Meeting Engagement</battle_type>
+      <description>Engage in a practice battle drill before the invasion.</description>
+      <date>06/06/1944</date>
+      <time_of_day>17:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:30</length>
+      <battle_size>Tiny</battle_size>
+      <Map_Size>
+         <map_area>0.16 Sq. km</map_area>
+         <map_width>400 m</map_width>
+         <map_depth>400 m</map_depth>
+      </Map_Size>
+      <region>France</region>
+      <environment>Open</environment>
+      <weather>Overcast</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Allied Force</early_intel>
+      <game_version>pre-release CMBN v1.00</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>2</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #01]</number_in_campaign>
+         <battle_title>Firing Range</battle_title>
+      </Title>
+      <filename>Devon - Basic Training #01_Bn Cmpn 02 Firing Range</filename>
+      <picture_link>scenpics/Devon - Basic Training1.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>Firing range to test artillery, Heavy Machineguns, and tanks against static targets.</description>
+      <date>06/06/1944</date>
+      <time_of_day>14:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:20</length>
+      <battle_size>Tiny</battle_size>
+      <Map_Size>
+         <map_area>0.293 Sq. km</map_area>
+         <map_width>704 m</map_width>
+         <map_depth>416 m</map_depth>
+      </Map_Size>
+      <region>France</region>
+      <environment>Open</environment>
+      <weather>Overcast</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>pre-release CMBN v1.00</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>1</size_modifier>
+   </Scenario>
+
+   </Scenario_List>
+</Scenario_Listing>

@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="Listing_Layout.xsl" ?>
+
+<Scenario_Listing>
+
+   <Scenario_List>
+
+   <containing_campaign>Foiling Fustian</containing_campaign>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #04]</number_in_campaign>
+         <battle_title>Death In The Fog</battle_title>
+      </Title>
+      <filename>GL Foiling Fustian #04_FJ Mission 4</filename>
+      <picture_link>scenpics/GL Foiling Fustian4.bmp</picture_link>
+      <battle_type>Meeting Engagement</battle_type>
+      <description>The Britsh mount a suprise nighttime crossing of the Simeto River, gaining a bridgehead on the north bank. In the morning fog the Germans counterattack.</description>
+      <date>16/07/1943</date>
+      <time_of_day>05:30</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:00</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>0.853 Sq. km</map_area>
+         <map_width>784 m</map_width>
+         <map_depth>1088 m</map_depth>
+      </Map_Size>
+      <region>Italy</region>
+      <environment>Open</environment>
+      <weather>Heavy Fog</weather>
+      <temperature>Cold</temperature>
+      <ground_condition>Damp</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFI v1.10</game_version>
+      <Modules_Required>
+         <module1>Gustav Line</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #05]</number_in_campaign>
+         <battle_title>Death In The Fog</battle_title>
+      </Title>
+      <filename>GL Foiling Fustian #05_FJ Mission 4F</filename>
+      <picture_link>scenpics/GL Foiling Fustian5.bmp</picture_link>
+      <battle_type>Meeting Engagement</battle_type>
+      <description>The Britsh mount a suprise nighttime crossing of the Simeto River, gaining a bridgehead on the north bank. In the morning fog the Germans counterattack.</description>
+      <date>16/07/1943</date>
+      <time_of_day>05:30</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:00</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>0.853 Sq. km</map_area>
+         <map_width>784 m</map_width>
+         <map_depth>1088 m</map_depth>
+      </Map_Size>
+      <region>Italy</region>
+      <environment>Open</environment>
+      <weather>Heavy Fog</weather>
+      <temperature>Cold</temperature>
+      <ground_condition>Damp</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFI v1.10</game_version>
+      <Modules_Required>
+         <module1>Gustav Line</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #02]</number_in_campaign>
+         <battle_title>Onslaught</battle_title>
+      </Title>
+      <filename>GL Foiling Fustian #02_FJ Mission 3</filename>
+      <picture_link>scenpics/GL Foiling Fustian2.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>The Durham Light Infantry, complete with tank support, arrives to wrest control of Primosole Birdge.</description>
+      <date>15/07/1943</date>
+      <time_of_day>08:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:35</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>1.248 Sq. km</map_area>
+         <map_width>1200 m</map_width>
+         <map_depth>1040 m</map_depth>
+      </Map_Size>
+      <region>Italy</region>
+      <environment>Open</environment>
+      <weather>Mist</weather>
+      <temperature>Cool</temperature>
+      <ground_condition>Very Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFI v1.10</game_version>
+      <Modules_Required>
+         <module1>Gustav Line</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>5</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #01]</number_in_campaign>
+         <battle_title>Ad Hoc</battle_title>
+      </Title>
+      <filename>GL Foiling Fustian #01_FJ Mission 2</filename>
+      <picture_link>scenpics/GL Foiling Fustian1.bmp</picture_link>
+      <battle_type>Axis Attack</battle_type>
+      <description>Some enterprising Captains round up staff troops and march them south to retake Primosole Bridge.</description>
+      <date>14/07/1943</date>
+      <time_of_day>16:30</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:10</length>
+      <battle_size>Large</battle_size>
+      <Map_Size>
+         <map_area>1.171 Sq. km</map_area>
+         <map_width>1200 m</map_width>
+         <map_depth>976 m</map_depth>
+      </Map_Size>
+      <region>Italy</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Hot</temperature>
+      <ground_condition>Very Dry</ground_condition>
+      <early_intel>Axis Force</early_intel>
+      <game_version>CMFI v1.10</game_version>
+      <Modules_Required>
+         <module1>Gustav Line</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>8</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #00]</number_in_campaign>
+         <battle_title>Rude Awakening</battle_title>
+      </Title>
+      <filename>GL Foiling Fustian #00_FJ Mission 1</filename>
+      <picture_link>scenpics/GL Foiling Fustian0.bmp</picture_link>
+      <battle_type>Allied Probe</battle_type>
+      <description>Fallschirm-MG Bn 1 find themselves right in the middle of the Red Devil drop zones.</description>
+      <date>13/07/1943</date>
+      <time_of_day>22:30</time_of_day>
+      <part_of_day>Night</part_of_day>
+      <length>00:30</length>
+      <battle_size>Small</battle_size>
+      <Map_Size>
+         <map_area>0.204 Sq. km</map_area>
+         <map_width>608 m</map_width>
+         <map_depth>336 m</map_depth>
+      </Map_Size>
+      <region>Italy</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Very Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFI v1.10</game_version>
+      <Modules_Required>
+         <module1>Gustav Line</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>3</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #03]</number_in_campaign>
+         <battle_title>Onslaught</battle_title>
+      </Title>
+      <filename>GL Foiling Fustian #03_FJ Mission 3F</filename>
+      <picture_link>scenpics/GL Foiling Fustian3.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>The Durham Light Infantry, complete with tank support, arrives to wrest control of Primosole Birdge.</description>
+      <date>15/07/1943</date>
+      <time_of_day>08:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:35</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>1.248 Sq. km</map_area>
+         <map_width>1200 m</map_width>
+         <map_depth>1040 m</map_depth>
+      </Map_Size>
+      <region>Italy</region>
+      <environment>Open</environment>
+      <weather>Mist</weather>
+      <temperature>Cool</temperature>
+      <ground_condition>Very Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFI v1.10</game_version>
+      <Modules_Required>
+         <module1>Gustav Line</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>5</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #06]</number_in_campaign>
+         <battle_title>Burning Bridges</battle_title>
+      </Title>
+      <filename>GL Foiling Fustian #06_FJ Mission 5</filename>
+      <picture_link>scenpics/GL Foiling Fustian6.bmp</picture_link>
+      <battle_type>Axis Attack</battle_type>
+      <description>Having determined that the British can no longer be held back, the Fallschirmjäger load up aircraft bombs onto trucks and attempt to detonate them on Primosole Bridge.</description>
+      <date>17/07/1943</date>
+      <time_of_day>06:00</time_of_day>
+      <part_of_day>Dawn</part_of_day>
+      <length>01:00</length>
+      <battle_size>Large</battle_size>
+      <Map_Size>
+         <map_area>0.978 Sq. km</map_area>
+         <map_width>912 m</map_width>
+         <map_depth>1072 m</map_depth>
+      </Map_Size>
+      <region>Italy</region>
+      <environment>Open</environment>
+      <weather>Light Fog</weather>
+      <temperature>Cool</temperature>
+      <ground_condition>Damp</ground_condition>
+      <early_intel>Axis Force</early_intel>
+      <game_version>CMFI v1.10</game_version>
+      <Modules_Required>
+         <module1>Gustav Line</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>8</size_modifier>
+   </Scenario>
+
+   </Scenario_List>
+</Scenario_Listing>

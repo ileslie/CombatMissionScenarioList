@@ -1,0 +1,550 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="Listing_Layout.xsl" ?>
+
+<Scenario_Listing>
+
+   <Scenario_List>
+
+   <containing_campaign>Five Days One Summer</containing_campaign>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #11]</number_in_campaign>
+         <battle_title>Mission 5b Re-open the route Part 2</battle_title>
+      </Title>
+      <filename>BP1 Five Days One Summer #11_Mission5b_Reopen the route Part 2_v11</filename>
+      <picture_link>scenpics/BP1 Five Days One Summer11.bmp</picture_link>
+      <battle_type>Axis Attack</battle_type>
+      <description>22nd July 1944 KG Muhlenkamp seeks to re-open the vital road net at ZERCZYCE and STACJA-NURZEC after Grn.Bat z.b.V. 560 is wiped out. 2000Hrs</description>
+      <date>22/07/1944</date>
+      <time_of_day>20:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>02:30</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>12.032 Sq. km</map_area>
+         <map_width>3008 m</map_width>
+         <map_depth>4000 m</map_depth>
+      </Map_Size>
+      <region>Eastern Europe</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Allied Force</early_intel>
+      <game_version>CMRT v2.10 to v2.13</game_version>
+      <Modules_Required>
+         <module1>Fire and Rubble</module1>
+         <module2>Battle Pack #1</module2>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>nogear</mod_tag>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #13]</number_in_campaign>
+         <battle_title>Mission 5B2 Re-open the route Part 2</battle_title>
+      </Title>
+      <filename>BP1 Five Days One Summer #13_Mission5B_2_Reopen the route Part 2_v2</filename>
+      <picture_link>scenpics/BP1 Five Days One Summer13.bmp</picture_link>
+      <battle_type>Axis Attack</battle_type>
+      <description>23rd July KG Kummel after tactical pause resumes attack on ZERCZYCE and STACJA-NURZEC at dawn with support from gepanzerte gruppe Westphal. 0430Hrs</description>
+      <date>23/07/1944</date>
+      <time_of_day>04:30</time_of_day>
+      <part_of_day>Dawn</part_of_day>
+      <length>02:30</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>12.032 Sq. km</map_area>
+         <map_width>3008 m</map_width>
+         <map_depth>4000 m</map_depth>
+      </Map_Size>
+      <region>Eastern Europe</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Allied Force</early_intel>
+      <game_version>CMRT v2.10 to v2.13</game_version>
+      <Modules_Required>
+         <module1>Fire and Rubble</module1>
+         <module2>Battle Pack #1</module2>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>nogear</mod_tag>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #03]</number_in_campaign>
+         <battle_title>Mission 3a Eliminate the enemy!</battle_title>
+      </Title>
+      <filename>BP1 Five Days One Summer #03_Mission3a_Eliminate the enemy_v5</filename>
+      <picture_link>scenpics/BP1 Five Days One Summer3.bmp</picture_link>
+      <battle_type>Axis Probe</battle_type>
+      <description>18th July 1944 Elements from KG Muhlenkamp attack towards RANI to clear elements from IV Guards Cavalry Corps who have infiltrated overnight. 1500Hrs</description>
+      <date>18/07/1944</date>
+      <time_of_day>15:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>02:30</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>18.24 Sq. km</map_area>
+         <map_width>4560 m</map_width>
+         <map_depth>4000 m</map_depth>
+      </Map_Size>
+      <region>Eastern Europe</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Hot</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMRT v2.10 to v2.13</game_version>
+      <Modules_Required>
+         <module1>Fire and Rubble</module1>
+         <module2>Battle Pack #1</module2>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>nogear</mod_tag>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #10]</number_in_campaign>
+         <battle_title>Mission 5a Free the 560 Part 2</battle_title>
+      </Title>
+      <filename>BP1 Five Days One Summer #10_Mission5a_Free the 560 Part 2_v6</filename>
+      <picture_link>scenpics/BP1 Five Days One Summer10.bmp</picture_link>
+      <battle_type>Axis Attack</battle_type>
+      <description>22nd July 1944 KG Muhlenkamp continues its attack to free the encircled Grn.Bat z.b.V. 560. The villages of ZERCZYCE and STACJA-NURZEC are in sight! 1545Hrs</description>
+      <date>22/07/1944</date>
+      <time_of_day>15:45</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>02:30</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>12.032 Sq. km</map_area>
+         <map_width>3008 m</map_width>
+         <map_depth>4000 m</map_depth>
+      </Map_Size>
+      <region>Eastern Europe</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Hot</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Allied Force</early_intel>
+      <game_version>CMRT v2.10 to v2.13</game_version>
+      <Modules_Required>
+         <module1>Fire and Rubble</module1>
+         <module2>Battle Pack #1</module2>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>nogear</mod_tag>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #05]</number_in_campaign>
+         <battle_title>Mission 3B Eliminate the enemy</battle_title>
+      </Title>
+      <filename>BP1 Five Days One Summer #05_Mission3b_Eliminate the enemy_v4</filename>
+      <picture_link>scenpics/BP1 Five Days One Summer5.bmp</picture_link>
+      <battle_type>Axis Probe</battle_type>
+      <description>18th July 1944 After an unsuccessful attack the day before KG Muhlenkamp attacks once more in an effort to cut the supply lines of the Soviet armoured spearheads. 1745Hrs</description>
+      <date>18/07/1944</date>
+      <time_of_day>17:45</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>02:30</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>18.24 Sq. km</map_area>
+         <map_width>4560 m</map_width>
+         <map_depth>4000 m</map_depth>
+      </Map_Size>
+      <region>Eastern Europe</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Hot</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMRT v2.10 to v2.13</game_version>
+      <Modules_Required>
+         <module1>Fire and Rubble</module1>
+         <module2>Battle Pack #1</module2>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>nogear</mod_tag>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #08]</number_in_campaign>
+         <battle_title>Mission4b Re-open The Route Part 1</battle_title>
+      </Title>
+      <filename>BP1 Five Days One Summer #08_Mission4b_Reopen the route Part 1_v4</filename>
+      <picture_link>scenpics/BP1 Five Days One Summer8.bmp</picture_link>
+      <battle_type>Axis Attack</battle_type>
+      <description>22nd July KG Muhlenkamp attacks NW towards the villages of ZERCZYCE and STACJA-NURZEC to re-open the vital road and rail network at STAJA-NURZEC. 1515Hrs</description>
+      <date>22/07/1944</date>
+      <time_of_day>15:15</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>02:30</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>6.016 Sq. km</map_area>
+         <map_width>3008 m</map_width>
+         <map_depth>2000 m</map_depth>
+      </Map_Size>
+      <region>Eastern Europe</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Hot</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMRT v2.10 to v2.13</game_version>
+      <Modules_Required>
+         <module1>Fire and Rubble</module1>
+         <module2>Battle Pack #1</module2>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>nogear</mod_tag>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #01]</number_in_campaign>
+         <battle_title>Mission 2a The way to the Reich is open!</battle_title>
+      </Title>
+      <filename>BP1 Five Days One Summer #01_Mission2a_The way to the Reich is open_v6</filename>
+      <picture_link>scenpics/BP1 Five Days One Summer1.bmp</picture_link>
+      <battle_type>Axis Probe</battle_type>
+      <description>17th July 1944 KG Muhlenkamp moves out and attacks SE attacking towards PELISZCZE with the aim of cutting off the enemy lead elements at WIDOMLA. 1215Hrs</description>
+      <date>17/07/1944</date>
+      <time_of_day>12:15</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>02:00</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>18.24 Sq. km</map_area>
+         <map_width>4560 m</map_width>
+         <map_depth>4000 m</map_depth>
+      </Map_Size>
+      <region>Eastern Europe</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Hot</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMRT v2.10 to v2.13</game_version>
+      <Modules_Required>
+         <module1>Fire and Rubble</module1>
+         <module2>Battle Pack #1</module2>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>nogear</mod_tag>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #12]</number_in_campaign>
+         <battle_title>Mission 5B1 Resupply</battle_title>
+      </Title>
+      <filename>BP1 Five Days One Summer #12_Mission 5B1_Resupply_v2</filename>
+      <picture_link>scenpics/BP1 Five Days One Summer12.bmp</picture_link>
+      <battle_type>Axis Attack</battle_type>
+      <description>22/23rd July 1944 KG Kummel takes a tactical pause to resupply then move out at dawn to attack enemy forces in STACJA-NURZEC. 1915Hrs</description>
+      <date>22/07/1944</date>
+      <time_of_day>19:15</time_of_day>
+      <part_of_day>Dusk</part_of_day>
+      <length>01:00</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>0.716 Sq. km</map_area>
+         <map_width>688 m</map_width>
+         <map_depth>1040 m</map_depth>
+      </Map_Size>
+      <region>Eastern Europe</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Hot</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMRT v2.10 to v2.13</game_version>
+      <Modules_Required>
+         <module1>Fire and Rubble</module1>
+         <module2>Battle Pack #1</module2>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>nogear</mod_tag>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #06]</number_in_campaign>
+         <battle_title>Mission 3B1 Stopping Batov</battle_title>
+      </Title>
+      <filename>BP1 Five Days One Summer #06_Mission3b1_Stopping Batov_v3</filename>
+      <picture_link>scenpics/BP1 Five Days One Summer6.bmp</picture_link>
+      <battle_type>Axis Attack</battle_type>
+      <description>21st July 1944 After regrouping elements from KG Muhlenkamp quickly move out to intercept armoured spearheads from Batov&apos;s 65th Army. 1630Hrs</description>
+      <date>21/07/1944</date>
+      <time_of_day>16:30</time_of_day>
+      <part_of_day>Dusk</part_of_day>
+      <length>02:30</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>2.944 Sq. km</map_area>
+         <map_width>1600 m</map_width>
+         <map_depth>1840 m</map_depth>
+      </Map_Size>
+      <region>Eastern Europe</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Allied Force</early_intel>
+      <game_version>CMRT v2.10 to v2.13</game_version>
+      <Modules_Required>
+         <module1>Fire and Rubble</module1>
+         <module2>Battle Pack #1</module2>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>nogear</mod_tag>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #02]</number_in_campaign>
+         <battle_title>Mission 2b The way to the Reich is open!</battle_title>
+      </Title>
+      <filename>BP1 Five Days One Summer #02_Mission2b_The way to the Reich is open_v4</filename>
+      <picture_link>scenpics/BP1 Five Days One Summer2.bmp</picture_link>
+      <battle_type>Axis Probe</battle_type>
+      <description>17th July 1944 KG Muhlenkamp attacks SE to prevent the enemy reinforcing his lead elements at WIDOMLA thus cutting them off. 1400Hrs</description>
+      <date>17/07/1944</date>
+      <time_of_day>14:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>02:30</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>18.24 Sq. km</map_area>
+         <map_width>4560 m</map_width>
+         <map_depth>4000 m</map_depth>
+      </Map_Size>
+      <region>Eastern Europe</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Hot</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMRT v2.10 to v2.13</game_version>
+      <Modules_Required>
+         <module1>Fire and Rubble</module1>
+         <module2>Battle Pack #1</module2>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>nogear</mod_tag>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #00]</number_in_campaign>
+         <battle_title>Mission 1 The Toughest Mission</battle_title>
+      </Title>
+      <filename>BP1 Five Days One Summer #00_Mission1_The Toughest Mission_v5</filename>
+      <picture_link>scenpics/BP1 Five Days One Summer0.bmp</picture_link>
+      <battle_type>Axis Probe</battle_type>
+      <description>16th July 1944 Advance elements from KG Muhlenkamp recce a route to KAMIENIC-LITEWSKI and encounter advance elements from the Soviet 9th Tank Corps.</description>
+      <date>16/07/1944</date>
+      <time_of_day>16:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>02:00</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>13.862 Sq. km</map_area>
+         <map_width>3040 m</map_width>
+         <map_depth>4560 m</map_depth>
+      </Map_Size>
+      <region>Eastern Europe</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMRT v2.10 to v2.13</game_version>
+      <Modules_Required>
+         <module1>Fire and Rubble</module1>
+         <module2>Battle Pack #1</module2>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>nogear</mod_tag>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #14]</number_in_campaign>
+         <battle_title>Mission 5c Re-open the route Part 2</battle_title>
+      </Title>
+      <filename>BP1 Five Days One Summer #14_Mission5c_Reopen the route Part 2_v4</filename>
+      <picture_link>scenpics/BP1 Five Days One Summer14.bmp</picture_link>
+      <battle_type>Axis Attack</battle_type>
+      <description>23rd July 1944 Heer Grenadier Batt z.b.v. 560 has been wiped out. After an overnight re-org KG Muhlenkamp resumes the attack at dawn. 0430Hrs</description>
+      <date>23/07/1944</date>
+      <time_of_day>04:30</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>02:30</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>12.032 Sq. km</map_area>
+         <map_width>3008 m</map_width>
+         <map_depth>4000 m</map_depth>
+      </Map_Size>
+      <region>Eastern Europe</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Allied Force</early_intel>
+      <game_version>CMRT v2.10 to v2.13</game_version>
+      <Modules_Required>
+         <module1>Fire and Rubble</module1>
+         <module2>Battle Pack #1</module2>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>nogear</mod_tag>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #07]</number_in_campaign>
+         <battle_title>Mission4a Free the 560 Part 1</battle_title>
+      </Title>
+      <filename>BP1 Five Days One Summer #07_Mission4a_Free the 560 Part 1_v4</filename>
+      <picture_link>scenpics/BP1 Five Days One Summer7.bmp</picture_link>
+      <battle_type>Axis Attack</battle_type>
+      <description>22nd July KG Muhlenkamp attacks NW towards the villages of ZERCZYCE and STACJA-NURZEC to rescue the encircled Grn.Bat. z.b.V. 560. 1200Hrs</description>
+      <date>22/07/1944</date>
+      <time_of_day>12:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>02:30</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>6.016 Sq. km</map_area>
+         <map_width>3008 m</map_width>
+         <map_depth>2000 m</map_depth>
+      </Map_Size>
+      <region>Eastern Europe</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Hot</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMRT v2.10 to v2.13</game_version>
+      <Modules_Required>
+         <module1>Fire and Rubble</module1>
+         <module2>Battle Pack #1</module2>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>nogear</mod_tag>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #09]</number_in_campaign>
+         <battle_title>DECISION POINT</battle_title>
+      </Title>
+      <filename>BP1 Five Days One Summer #09_DECISION_v2</filename>
+      <picture_link>scenpics/BP1 Five Days One Summer9.bmp</picture_link>
+      <battle_type>Axis Attack</battle_type>
+      <description>Player commander has to make a decision on two options: continue immediately with your attack OR resupply and continue attack next day with gep. gruppe &quot;Westphal&quot;</description>
+      <date>22/07/1944</date>
+      <time_of_day>18:40</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:00</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>0.716 Sq. km</map_area>
+         <map_width>688 m</map_width>
+         <map_depth>1040 m</map_depth>
+      </Map_Size>
+      <region>Eastern Europe</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Hot</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMRT v2.10 to v2.13</game_version>
+      <Modules_Required>
+         <module1>Fire and Rubble</module1>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>nogear</mod_tag>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #04]</number_in_campaign>
+         <battle_title>Mission 3a1 Ill met at Dolbizna.</battle_title>
+      </Title>
+      <filename>BP1 Five Days One Summer #04_Mission3a1_Ill met at Dolbizna_v5</filename>
+      <picture_link>scenpics/BP1 Five Days One Summer4.bmp</picture_link>
+      <battle_type>Axis Probe</battle_type>
+      <description>21st July 1944 After regrouping KG Muhlenkamp moves out to intercept armoured elements from Batov&apos;s 65th Army who are heading SW. 1400Hrs</description>
+      <date>21/07/1944</date>
+      <time_of_day>14:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>02:30</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>8 Sq. km</map_area>
+         <map_width>4000 m</map_width>
+         <map_depth>2000 m</map_depth>
+      </Map_Size>
+      <region>Eastern Europe</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Hot</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Allied Force</early_intel>
+      <game_version>CMRT v2.10 to v2.13</game_version>
+      <Modules_Required>
+         <module1>Fire and Rubble</module1>
+         <module2>Battle Pack #1</module2>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>nogear</mod_tag>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   </Scenario_List>
+</Scenario_Listing>

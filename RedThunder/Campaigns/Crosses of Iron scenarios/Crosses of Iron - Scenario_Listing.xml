@@ -1,0 +1,419 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="Listing_Layout.xsl" ?>
+
+<Scenario_Listing>
+
+   <Scenario_List>
+
+   <containing_campaign>The Cross of Iron</containing_campaign>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #00]</number_in_campaign>
+         <battle_title>Hell Unleashed</battle_title>
+      </Title>
+      <filename>Crosses of Iron #00_Hell Unleashed</filename>
+      <picture_link>scenpics/Crosses of Iron0.bmp</picture_link>
+      <battle_type>Allied Assault</battle_type>
+      <description>1 Kompanie sPz Abt 501 is being refitted at a temporary repair station in the sector of the 456th Inf Rg south east of Orsha when the Soviets launch Operation Bagration</description>
+      <date>22/06/1944</date>
+      <time_of_day>05:00</time_of_day>
+      <part_of_day>Dawn</part_of_day>
+      <length>01:00</length>
+      <battle_size>Large</battle_size>
+      <Map_Size>
+         <map_area>1.79 Sq. km</map_area>
+         <map_width>1776 m</map_width>
+         <map_depth>1008 m</map_depth>
+      </Map_Size>
+      <region>Eastern Europe</region>
+      <environment>Forest</environment>
+      <weather>Light Fog</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Axis Force</early_intel>
+      <game_version>CMRT v1.00 to v1.03</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>panzermike</mod_tag>
+      </Mod_Tags>
+      <size_modifier>8</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #08]</number_in_campaign>
+         <battle_title>A Drink for a Thirsty Cat</battle_title>
+      </Title>
+      <filename>Crosses of Iron #08_Drink for a Thirsty Cat</filename>
+      <picture_link>scenpics/Crosses of Iron8.bmp</picture_link>
+      <battle_type>Meeting Engagement</battle_type>
+      <description>Hauptman Clauss leads 1 Platoon and a company of Aufklarung to re-capture a supply depot for badly needed fuel and ammunition.</description>
+      <date>25/06/1944</date>
+      <time_of_day>05:00</time_of_day>
+      <part_of_day>Dawn</part_of_day>
+      <length>00:45</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>1.248 Sq. km</map_area>
+         <map_width>848 m</map_width>
+         <map_depth>1472 m</map_depth>
+      </Map_Size>
+      <region>Eastern Europe</region>
+      <environment>Hills</environment>
+      <weather>Light Fog</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMRT v1.00 to v1.03</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>panzermike</mod_tag>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #07]</number_in_campaign>
+         <battle_title>Clauss&apos;s Dilemma 2</battle_title>
+      </Title>
+      <filename>Crosses of Iron #07_Clauss Dilemma 2</filename>
+      <picture_link>scenpics/Crosses of Iron7.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>Hauptman Clauss must decide to risk one platoon to retake a captured supply depot for badly needed gas and ammunition or to proceed to link up with 3rd platoon at Kopys&apos;</description>
+      <date>24/06/1944</date>
+      <time_of_day>11:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:10</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>0.102 Sq. km</map_area>
+         <map_width>320 m</map_width>
+         <map_depth>320 m</map_depth>
+      </Map_Size>
+      <region>Eastern Europe</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMRT v1.00 to v1.03</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>panzermike</mod_tag>
+      </Mod_Tags>
+      <size_modifier>4</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #02]</number_in_campaign>
+         <battle_title>Clauss&apos;s Dilemma 1</battle_title>
+      </Title>
+      <filename>Crosses of Iron #02_Clauss Dilemma 1</filename>
+      <picture_link>scenpics/Crosses of Iron2.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>Hauptman Clauss must decide to escort the wounded from the 456th to Kopys&apos; or to follow orders and proceed to rescue the trapped artillery regiment.</description>
+      <date>22/06/1944</date>
+      <time_of_day>12:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:10</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>0.102 Sq. km</map_area>
+         <map_width>320 m</map_width>
+         <map_depth>320 m</map_depth>
+      </Map_Size>
+      <region>Eastern Europe</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMRT v1.00 to v1.03</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>panzermike</mod_tag>
+      </Mod_Tags>
+      <size_modifier>4</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #01]</number_in_campaign>
+         <battle_title>Exodus</battle_title>
+      </Title>
+      <filename>Crosses of Iron #01_Exodus</filename>
+      <picture_link>scenpics/Crosses of Iron1.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>1.Kompanie and the remnants of the 456th Inf Rg retreat through heavily wooded terrain in an attempt to cross the river and reach the German lines being formed to the west</description>
+      <date>22/06/1944</date>
+      <time_of_day>10:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:00</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>0.752 Sq. km</map_area>
+         <map_width>1424 m</map_width>
+         <map_depth>528 m</map_depth>
+      </Map_Size>
+      <region>Eastern Europe</region>
+      <environment>Forest</environment>
+      <weather>Mist and Rain</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Damp</ground_condition>
+      <early_intel>Axis Force</early_intel>
+      <game_version>CMRT v1.00 to v1.03</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>panzermike</mod_tag>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #05]</number_in_campaign>
+         <battle_title>Link up at Kopys&apos;</battle_title>
+      </Title>
+      <filename>Crosses of Iron #05_Link Up at Kopys</filename>
+      <picture_link>scenpics/Crosses of Iron5.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>1. Kompanie moves to Kopys&apos; and link up with 3rd Zug and help the battered 25th PzGr&apos;s try and hold the bridge open for additional units to escape across the Deniper.</description>
+      <date>23/06/1944</date>
+      <time_of_day>11:45</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:20</length>
+      <battle_size>Huge</battle_size>
+      <Map_Size>
+         <map_area>3.112 Sq. km</map_area>
+         <map_width>2288 m</map_width>
+         <map_depth>1360 m</map_depth>
+      </Map_Size>
+      <region>Eastern Europe</region>
+      <environment>Rough</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Very Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMRT v1.00 to v1.03</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>panzermike</mod_tag>
+      </Mod_Tags>
+      <size_modifier>10</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #11]</number_in_campaign>
+         <battle_title>Orsha</battle_title>
+      </Title>
+      <filename>Crosses of Iron #11_Orsha</filename>
+      <picture_link>scenpics/Crosses of Iron11.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>1. Kompanie must fight its way into the southern part of Orsha to halt the Soviet assault to take the city.</description>
+      <date>26/06/1944</date>
+      <time_of_day>02:30</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:30</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>0.383 Sq. km</map_area>
+         <map_width>704 m</map_width>
+         <map_depth>544 m</map_depth>
+      </Map_Size>
+      <region>Eastern Europe</region>
+      <environment>City</environment>
+      <weather>Thick Haze</weather>
+      <temperature>Cool</temperature>
+      <ground_condition>Damp</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMRT v1.00 to v1.03</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>panzermike</mod_tag>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #09]</number_in_campaign>
+         <battle_title>Breakthrough (Reinforced)</battle_title>
+      </Title>
+      <filename>Crosses of Iron #09_Breakthrough Reinforced</filename>
+      <picture_link>scenpics/Crosses of Iron9.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>After the successful capture of the depot, 1 Kompanie is fully resupplied with fuel and ammunition and reinforced. They prepare for the breakthrough to Orsha.</description>
+      <date>25/06/1944</date>
+      <time_of_day>23:55</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:10</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>1.829 Sq. km</map_area>
+         <map_width>1216 m</map_width>
+         <map_depth>1504 m</map_depth>
+      </Map_Size>
+      <region>Eastern Europe</region>
+      <environment>Village</environment>
+      <weather>Mist</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMRT v1.00 to v1.03</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>panzermike</mod_tag>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #03]</number_in_campaign>
+         <battle_title>The Hammer and the Sickle</battle_title>
+      </Title>
+      <filename>Crosses of Iron #03_The Hammer and the Sickle</filename>
+      <picture_link>scenpics/Crosses of Iron3.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>1. Kompanie moves to rescue elements of the 25th Artillery Rg trapped without transportaion in a small farming village north of Mogilev</description>
+      <date>22/06/1944</date>
+      <time_of_day>15:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:00</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>0.649 Sq. km</map_area>
+         <map_width>688 m</map_width>
+         <map_depth>944 m</map_depth>
+      </Map_Size>
+      <region>Soviet Union</region>
+      <environment>Village</environment>
+      <weather>Overcast</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Axis Force</early_intel>
+      <game_version>CMRT v1.00 to v1.03</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>panzermike</mod_tag>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #10]</number_in_campaign>
+         <battle_title>Breakthrough</battle_title>
+      </Title>
+      <filename>Crosses of Iron #10_Breakthrough</filename>
+      <picture_link>scenpics/Crosses of Iron10.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>Low on ammunition and fuel Haupt. Clauss must lead 1. Kompanie on a night attack to breakthrough the southern flank of the Soviet encirclement of Orsha.</description>
+      <date>25/06/1944</date>
+      <time_of_day>23:55</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:10</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>1.829 Sq. km</map_area>
+         <map_width>1216 m</map_width>
+         <map_depth>1504 m</map_depth>
+      </Map_Size>
+      <region>Eastern Europe</region>
+      <environment>Village</environment>
+      <weather>Mist</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMRT v1.00 to v1.03</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>panzermike</mod_tag>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #06]</number_in_campaign>
+         <battle_title>Goliath in the Mist</battle_title>
+      </Title>
+      <filename>Crosses of Iron #06_Goliath in the Mist</filename>
+      <picture_link>scenpics/Crosses of Iron6.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>1.Kompanie must prevent elements of the Soviet 63 Gds Heavy Tank Regiment from occupying the high ground east of the 25th Pz Gr&apos;s that are trapped within a small village.</description>
+      <date>24/06/1944</date>
+      <time_of_day>07:10</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:10</length>
+      <battle_size>Large</battle_size>
+      <Map_Size>
+         <map_area>2.261 Sq. km</map_area>
+         <map_width>1936 m</map_width>
+         <map_depth>1168 m</map_depth>
+      </Map_Size>
+      <region>Eastern Europe</region>
+      <environment>Village</environment>
+      <weather>Mist and Rain</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Damp</ground_condition>
+      <early_intel>Allied Force</early_intel>
+      <game_version>CMRT v1.00 to v1.03</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>panzermike</mod_tag>
+      </Mod_Tags>
+      <size_modifier>8</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #04]</number_in_campaign>
+         <battle_title>The Bridge at Kopys&apos;</battle_title>
+      </Title>
+      <filename>Crosses of Iron #04_The Bridge at Kopys</filename>
+      <picture_link>scenpics/Crosses of Iron4.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>1. Kompanie escorts wounded into Kopys&apos; and tries to hold the bridge to allow German forces to escape west over the Dneiper River.</description>
+      <date>22/06/1944</date>
+      <time_of_day>18:45</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:20</length>
+      <battle_size>Huge</battle_size>
+      <Map_Size>
+         <map_area>3.112 Sq. km</map_area>
+         <map_width>2288 m</map_width>
+         <map_depth>1360 m</map_depth>
+      </Map_Size>
+      <region>Eastern Europe</region>
+      <environment>Rough</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Very Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMRT v1.00 to v1.03</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>panzermike</mod_tag>
+      </Mod_Tags>
+      <size_modifier>10</size_modifier>
+   </Scenario>
+
+   </Scenario_List>
+</Scenario_Listing>

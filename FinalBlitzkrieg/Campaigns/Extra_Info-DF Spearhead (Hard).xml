@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scenarios>
+    <scenario author="benpark" filename="DF Spearhead (Hard) #00_DF Spearhead 01 The Bridges.btt" stock="y"/>
+    <scenario author="benpark" filename="DF Spearhead (Hard) #01_DF Spearhead 02 Geisendorf.btt" stock="y"/>
+    <scenario author="benpark" filename="DF Spearhead (Hard) #02_DF Spearhead 03 The Hill.btt" stock="y"/>
+    <scenario author="benpark" filename="DF Spearhead (Hard) #03_DF Spearhead 04 Elsdorf.btt" stock="y"/>
+    <scenario author="benpark" filename="DF Spearhead (Hard) #04_DF Spearhead 05 Autobahn.btt" stock="y"/>
+    <scenario author="benpark" filename="DF Spearhead (Hard) #05_DF Spearhead 06 Erft Kanal.btt" stock="y"/>
+    <scenario author="benpark" filename="DF Spearhead (Hard) #06_DF Spearhead 07 Stommeln.btt" stock="y"/>
+    <scenario author="benpark" filename="DF Spearhead (Hard) #07_DF Spearhead 08 Koln West.btt" stock="y"/>
+    <scenario author="benpark" filename="DF Spearhead (Hard) #08_DF Spearhead 09 Koln East.btt" stock="y"/>
+</scenarios>

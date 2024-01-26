@@ -2,9 +2,6 @@
 **/*.jpg
 **/*.bmp
 **/*.png
-**/*Scenario_Listing.xml
-**/Campaign_Listing.xml
-**/Extra_Info-*.xml
 **/Extra_Info_New.xml
 **/Listing_Layout.xsl
 **/exception.log

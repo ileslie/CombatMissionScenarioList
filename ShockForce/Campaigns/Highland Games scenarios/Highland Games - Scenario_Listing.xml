@@ -1,0 +1,704 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="Listing_Layout.xsl" ?>
+
+<Scenario_Listing>
+
+   <Scenario_List>
+
+   <containing_campaign>Highland Games</containing_campaign>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #09]</number_in_campaign>
+         <battle_title>Mountain Crossing</battle_title>
+      </Title>
+      <filename>Highland Games #09_UK Cmpn 06 Mountain Crossing vA</filename>
+      <picture_link>scenpics/Highland Games9.bmp</picture_link>
+      <battle_type>Blue Attack</battle_type>
+      <description>Clear the M1 between Duma and Qutaife</description>
+      <date>06/07/2008</date>
+      <time_of_day>18:25</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:30</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>3.008 Sq. km</map_area>
+         <map_width>1504 m</map_width>
+         <map_depth>2000 m</map_depth>
+      </Map_Size>
+      <region></region>
+      <environment>Hills</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Very Dry</ground_condition>
+      <early_intel>Blue Force</early_intel>
+      <game_version>Unknown</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>5</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #04]</number_in_campaign>
+         <battle_title>Os Sayqal - Assault</battle_title>
+      </Title>
+      <filename>Highland Games #04_UK Cmpn 18b Helo Raid vA</filename>
+      <picture_link>scenpics/Highland Games4.bmp</picture_link>
+      <battle_type>Blue Assault</battle_type>
+      <description>Assault Os Sayqal Airfield, assisted by detailed recce information.</description>
+      <date>24/06/2008</date>
+      <time_of_day>03:50</time_of_day>
+      <part_of_day>Night</part_of_day>
+      <length>00:35</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>2.976 Sq. km</map_area>
+         <map_width>2000 m</map_width>
+         <map_depth>1488 m</map_depth>
+      </Map_Size>
+      <region></region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Blue Force</early_intel>
+      <game_version>Unknown</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>5</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #14]</number_in_campaign>
+         <battle_title>Martyrs&apos; Square</battle_title>
+      </Title>
+      <filename>Highland Games #14_UK Cmpn 10 Duma vA</filename>
+      <picture_link>scenpics/Highland Games14.bmp</picture_link>
+      <battle_type>Blue Attack</battle_type>
+      <description>Combined British and US forces advance into the centre of Duma</description>
+      <date>14/07/2008</date>
+      <time_of_day>19:00</time_of_day>
+      <part_of_day>Dusk</part_of_day>
+      <length>01:20</length>
+      <battle_size>Small</battle_size>
+      <Map_Size>
+         <map_area>0.215 Sq. km</map_area>
+         <map_width>560 m</map_width>
+         <map_depth>384 m</map_depth>
+      </Map_Size>
+      <region></region>
+      <environment>City</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Very Dry</ground_condition>
+      <early_intel>Blue Force</early_intel>
+      <game_version>Unknown</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>4</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #02]</number_in_campaign>
+         <battle_title>Crossroads</battle_title>
+      </Title>
+      <filename>Highland Games #02_UK Cmpn 02 Crossroads vA</filename>
+      <picture_link>scenpics/Highland Games2.bmp</picture_link>
+      <battle_type>Meeting Engagement</battle_type>
+      <description>B Sqn Group attacks to secure a highway crossroads</description>
+      <date>22/06/2008</date>
+      <time_of_day>17:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:45</length>
+      <battle_size>Large</battle_size>
+      <Map_Size>
+         <map_area>4.178 Sq. km</map_area>
+         <map_width>1920 m</map_width>
+         <map_depth>2176 m</map_depth>
+      </Map_Size>
+      <region></region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Very Dry</ground_condition>
+      <early_intel>Blue Force</early_intel>
+      <game_version>Unknown</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #05]</number_in_campaign>
+         <battle_title>Os Sayqal - Assault</battle_title>
+      </Title>
+      <filename>Highland Games #05_UK Cmpn 18c Helo Raid recce fails vA</filename>
+      <picture_link>scenpics/Highland Games5.bmp</picture_link>
+      <battle_type>Blue Assault</battle_type>
+      <description>Assault Os Sayqal Airfield. The enemy have been alerted by the earlier bungled recce.</description>
+      <date>24/06/2008</date>
+      <time_of_day>04:10</time_of_day>
+      <part_of_day>Night</part_of_day>
+      <length>01:00</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>2.976 Sq. km</map_area>
+         <map_width>2000 m</map_width>
+         <map_depth>1488 m</map_depth>
+      </Map_Size>
+      <region></region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Red Force</early_intel>
+      <game_version>Unknown</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #03]</number_in_campaign>
+         <battle_title>Os Sayqal - Recce</battle_title>
+      </Title>
+      <filename>Highland Games #03_UK Cmpn 18a Helo Raid vA</filename>
+      <picture_link>scenpics/Highland Games3.bmp</picture_link>
+      <battle_type>Blue Probe</battle_type>
+      <description>Reconnoitre Os Sayqal Airfield, prior to a ground assault later tonight</description>
+      <date>23/06/2008</date>
+      <time_of_day>22:30</time_of_day>
+      <part_of_day>Night</part_of_day>
+      <length>00:25</length>
+      <battle_size>Small</battle_size>
+      <Map_Size>
+         <map_area>2.976 Sq. km</map_area>
+         <map_width>2000 m</map_width>
+         <map_depth>1488 m</map_depth>
+      </Map_Size>
+      <region></region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>Unknown</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>2</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #11]</number_in_campaign>
+         <battle_title>Counter Attack</battle_title>
+      </Title>
+      <filename>Highland Games #11_UK Cmpn 08 Counter Attack vA</filename>
+      <picture_link>scenpics/Highland Games11.bmp</picture_link>
+      <battle_type>Red Attack</battle_type>
+      <description>Defend Hela against Syrian counter attack</description>
+      <date>07/07/2008</date>
+      <time_of_day>18:10</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:50</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>2.4 Sq. km</map_area>
+         <map_width>2000 m</map_width>
+         <map_depth>1200 m</map_depth>
+      </Map_Size>
+      <region></region>
+      <environment>Village</environment>
+      <weather>Hazy</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Very Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>Unknown</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #00]</number_in_campaign>
+         <battle_title>Border Crossing</battle_title>
+      </Title>
+      <filename>Highland Games #00_UK Cmpn 00 Border Crossing vA</filename>
+      <picture_link>scenpics/Highland Games0.bmp</picture_link>
+      <battle_type>Blue Attack</battle_type>
+      <description>9/12L attacks the Walid Border Crossing in the opening shot of the campaign</description>
+      <date>20/06/2008</date>
+      <time_of_day>03:55</time_of_day>
+      <part_of_day>Dawn</part_of_day>
+      <length>01:00</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>0.968 Sq. km</map_area>
+         <map_width>1728 m</map_width>
+         <map_depth>560 m</map_depth>
+      </Map_Size>
+      <region></region>
+      <environment>Village</environment>
+      <weather>Hazy</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Very Dry</ground_condition>
+      <early_intel>Blue Force</early_intel>
+      <game_version>Unknown</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #19]</number_in_campaign>
+         <battle_title>Ash Shaykh Miskin</battle_title>
+      </Title>
+      <filename>Highland Games #19_UK Cmpn 16 Ash Shaykh Miskin vA</filename>
+      <picture_link>scenpics/Highland Games19.bmp</picture_link>
+      <battle_type>Red Assault</battle_type>
+      <description>A Coy Gp prepares a hasty blocking position to stop Syrian Forces fleeing to Jordan</description>
+      <date>15/07/2008</date>
+      <time_of_day>09:30</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:30</length>
+      <battle_size>Large</battle_size>
+      <Map_Size>
+         <map_area>1.824 Sq. km</map_area>
+         <map_width>1520 m</map_width>
+         <map_depth>1200 m</map_depth>
+      </Map_Size>
+      <region></region>
+      <environment>Open</environment>
+      <weather>Hazy</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>Unknown</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>9</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #20]</number_in_campaign>
+         <battle_title>Bashar is in our Hearts</battle_title>
+      </Title>
+      <filename>Highland Games #20_UK Cmpn 17 Bashar in Our Hearts vA</filename>
+      <picture_link>scenpics/Highland Games20.bmp</picture_link>
+      <battle_type>Blue Attack</battle_type>
+      <description>B Sqn Gp assaults a ridge just south of Damascus</description>
+      <date>17/07/2008</date>
+      <time_of_day>23:30</time_of_day>
+      <part_of_day>Night</part_of_day>
+      <length>01:00</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>1.44 Sq. km</map_area>
+         <map_width>1200 m</map_width>
+         <map_depth>1200 m</map_depth>
+      </Map_Size>
+      <region></region>
+      <environment>Hills</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>Unknown</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #06]</number_in_campaign>
+         <battle_title>Bagdad Cafe 66</battle_title>
+      </Title>
+      <filename>Highland Games #06_UK Cmpn 03 Cafe66 vA</filename>
+      <picture_link>scenpics/Highland Games6.bmp</picture_link>
+      <battle_type>Red Probe</battle_type>
+      <description>The Higlanders conduct a series of VCPs</description>
+      <date>26/06/2008</date>
+      <time_of_day>18:30</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:40</length>
+      <battle_size>Huge</battle_size>
+      <Map_Size>
+         <map_area>4.874 Sq. km</map_area>
+         <map_width>2176 m</map_width>
+         <map_depth>2240 m</map_depth>
+      </Map_Size>
+      <region></region>
+      <environment>Open</environment>
+      <weather>Thick Haze</weather>
+      <temperature>Hot</temperature>
+      <ground_condition>Very Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>Unknown</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>8</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #12]</number_in_campaign>
+         <battle_title>Courses of Action</battle_title>
+      </Title>
+      <filename>Highland Games #12_UK Cmpn 09 With the US or alone vA</filename>
+      <picture_link>scenpics/Highland Games12.bmp</picture_link>
+      <battle_type>Blue Attack</battle_type>
+      <description>Which way will 7 ARMD BDE progress?</description>
+      <date>08/07/2008</date>
+      <time_of_day>12:30</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:45</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>1.322 Sq. km</map_area>
+         <map_width>1312 m</map_width>
+         <map_depth>1008 m</map_depth>
+      </Map_Size>
+      <region></region>
+      <environment>Village</environment>
+      <weather>Hazy</weather>
+      <temperature>Extreme Heat</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Blue Force</early_intel>
+      <game_version>Unknown</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #16]</number_in_campaign>
+         <battle_title>The Bowling Alley</battle_title>
+      </Title>
+      <filename>Highland Games #16_UK Cmpn 13 Bowling Alley vA</filename>
+      <picture_link>scenpics/Highland Games16.bmp</picture_link>
+      <battle_type>Blue Assault</battle_type>
+      <description>4 SCOTS BG attempt to destroy remnants of the Syrian Army in Western Damascus</description>
+      <date>17/07/2008</date>
+      <time_of_day>22:30</time_of_day>
+      <part_of_day>Night</part_of_day>
+      <length>01:20</length>
+      <battle_size>Huge</battle_size>
+      <Map_Size>
+         <map_area>0.256 Sq. km</map_area>
+         <map_width>640 m</map_width>
+         <map_depth>400 m</map_depth>
+      </Map_Size>
+      <region></region>
+      <environment>City</environment>
+      <weather>Thick Haze</weather>
+      <temperature>Cool</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Blue Force</early_intel>
+      <game_version>Unknown</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>10</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #17]</number_in_campaign>
+         <battle_title>Ambush in the Lava Field</battle_title>
+      </Title>
+      <filename>Highland Games #17_UK Cmpn 14 Volcanic Plateau vA</filename>
+      <picture_link>scenpics/Highland Games17.bmp</picture_link>
+      <battle_type>Blue Attack</battle_type>
+      <description>A patrol from 2 R ANGLIAN has just been ambushed. A Coy move to secure the site and rescue the survivors</description>
+      <date>12/07/2008</date>
+      <time_of_day>16:30</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:30</length>
+      <battle_size>Small</battle_size>
+      <Map_Size>
+         <map_area>1.016 Sq. km</map_area>
+         <map_width>1008 m</map_width>
+         <map_depth>1008 m</map_depth>
+      </Map_Size>
+      <region></region>
+      <environment>Rough</environment>
+      <weather>Clear</weather>
+      <temperature>Extreme Heat</temperature>
+      <ground_condition>Very Dry</ground_condition>
+      <early_intel>Blue Force</early_intel>
+      <game_version>Unknown</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>3</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #18]</number_in_campaign>
+         <battle_title>Narrow Margins</battle_title>
+      </Title>
+      <filename>Highland Games #18_UK Cmpn 15 Druse Hills vA</filename>
+      <picture_link>scenpics/Highland Games18.bmp</picture_link>
+      <battle_type>Blue Attack</battle_type>
+      <description>D Coy Gp clears a pass through the Druze Mountains on the way to As Suwayda</description>
+      <date>13/07/2008</date>
+      <time_of_day>14:30</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:40</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>1.016 Sq. km</map_area>
+         <map_width>1008 m</map_width>
+         <map_depth>1008 m</map_depth>
+      </Map_Size>
+      <region></region>
+      <environment>Hills</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Very Dry</ground_condition>
+      <early_intel>Blue Force</early_intel>
+      <game_version>Unknown</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>5</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #07]</number_in_campaign>
+         <battle_title>Dumayr Riot</battle_title>
+      </Title>
+      <filename>Highland Games #07_UK Cmpn 04 DUMAYR vA</filename>
+      <picture_link>scenpics/Highland Games7.bmp</picture_link>
+      <battle_type>Meeting Engagement</battle_type>
+      <description>Friendly forces are under siege in Dumayr City</description>
+      <date>27/06/2008</date>
+      <time_of_day>23:00</time_of_day>
+      <part_of_day>Night</part_of_day>
+      <length>00:45</length>
+      <battle_size>Large</battle_size>
+      <Map_Size>
+         <map_area>0.317 Sq. km</map_area>
+         <map_width>640 m</map_width>
+         <map_depth>496 m</map_depth>
+      </Map_Size>
+      <region></region>
+      <environment>City</environment>
+      <weather>Hazy</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Red Force</early_intel>
+      <game_version>Unknown</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #08]</number_in_campaign>
+         <battle_title>Sab&apos;Abar</battle_title>
+      </Title>
+      <filename>Highland Games #08_UK Cmpn 05 SabAbar vA</filename>
+      <picture_link>scenpics/Highland Games8.bmp</picture_link>
+      <battle_type>Meeting Engagement</battle_type>
+      <description>The Highlanders escort humanitarian convoys along Highway 2</description>
+      <date>29/06/2008</date>
+      <time_of_day>08:05</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:40</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>1.663 Sq. km</map_area>
+         <map_width>1856 m</map_width>
+         <map_depth>896 m</map_depth>
+      </Map_Size>
+      <region></region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Very Dry</ground_condition>
+      <early_intel>Red Force</early_intel>
+      <game_version>Unknown</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>5</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #15]</number_in_campaign>
+         <battle_title>Going Downtown</battle_title>
+      </Title>
+      <filename>Highland Games #15_UK Cmpn 12 Downtown vA</filename>
+      <picture_link>scenpics/Highland Games15.bmp</picture_link>
+      <battle_type>Red Attack</battle_type>
+      <description>A Coy Gp defends a key access route to Central Damascus</description>
+      <date>15/07/2008</date>
+      <time_of_day>13:30</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:40</length>
+      <battle_size>Large</battle_size>
+      <Map_Size>
+         <map_area>0.516 Sq. km</map_area>
+         <map_width>1008 m</map_width>
+         <map_depth>512 m</map_depth>
+      </Map_Size>
+      <region></region>
+      <environment>City</environment>
+      <weather>Clear</weather>
+      <temperature>Hot</temperature>
+      <ground_condition>Very Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>Unknown</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #01]</number_in_campaign>
+         <battle_title>The Battle of at Tanf</battle_title>
+      </Title>
+      <filename>Highland Games #01_UK Cmpn 01 Battle of At Tanf vA</filename>
+      <picture_link>scenpics/Highland Games1.bmp</picture_link>
+      <battle_type>Blue Assault</battle_type>
+      <description>Desperate Syrian units pose a threat to the Highlanders advance</description>
+      <date>20/06/2008</date>
+      <time_of_day>10:30</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:00</length>
+      <battle_size>Large</battle_size>
+      <Map_Size>
+         <map_area>2.873 Sq. km</map_area>
+         <map_width>1472 m</map_width>
+         <map_depth>1952 m</map_depth>
+      </Map_Size>
+      <region></region>
+      <environment>Open</environment>
+      <weather>Hazy</weather>
+      <temperature>Hot</temperature>
+      <ground_condition>Very Dry</ground_condition>
+      <early_intel>Blue Force</early_intel>
+      <game_version>Unknown</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>8</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #10]</number_in_campaign>
+         <battle_title>Qutaife</battle_title>
+      </Title>
+      <filename>Highland Games #10_UK Cmpn 07 Qutaife vA</filename>
+      <picture_link>scenpics/Highland Games10.bmp</picture_link>
+      <battle_type>Meeting Engagement</battle_type>
+      <description>A Coy Group clears a series of military facilities</description>
+      <date>07/07/2008</date>
+      <time_of_day>14:05</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:40</length>
+      <battle_size>Large</battle_size>
+      <Map_Size>
+         <map_area>4.643 Sq. km</map_area>
+         <map_width>2480 m</map_width>
+         <map_depth>1872 m</map_depth>
+      </Map_Size>
+      <region></region>
+      <environment>Village</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Very Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>Unknown</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #13]</number_in_campaign>
+         <battle_title>Aadra Adversity</battle_title>
+      </Title>
+      <filename>Highland Games #13_UK Cmpn 11 The Suburbs vA</filename>
+      <picture_link>scenpics/Highland Games13.bmp</picture_link>
+      <battle_type>Blue Assault</battle_type>
+      <description>Brits and Yanks team up to clear an industrial park</description>
+      <date>12/07/2008</date>
+      <time_of_day>07:30</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:20</length>
+      <battle_size>Large</battle_size>
+      <Map_Size>
+         <map_area>1.197 Sq. km</map_area>
+         <map_width>1312 m</map_width>
+         <map_depth>912 m</map_depth>
+      </Map_Size>
+      <region></region>
+      <environment>Town</environment>
+      <weather>Thick Haze</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Very Dry</ground_condition>
+      <early_intel>Blue Force</early_intel>
+      <game_version>Unknown</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>8</size_modifier>
+   </Scenario>
+
+   </Scenario_List>
+</Scenario_Listing>

@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="Listing_Layout.xsl" ?>
+
+<Scenario_Listing>
+
+   <Scenario_List>
+
+   <containing_campaign>Training Campaign</containing_campaign>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #02]</number_in_campaign>
+         <battle_title>Panzers on the Move!</battle_title>
+      </Title>
+      <filename>Training Campaign #02_Training Campaign Mission 3</filename>
+      <picture_link>scenpics/Training Campaign2.bmp</picture_link>
+      <battle_type>Axis Attack</battle_type>
+      <description>The Germans counterattack to take West Lutrebois. Defend your positions and counterattack to take out their HQ.</description>
+      <date>30/12/1944</date>
+      <time_of_day>10:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:45</length>
+      <battle_size>Small</battle_size>
+      <Map_Size>
+         <map_area>0.498 Sq. km</map_area>
+         <map_width>944 m</map_width>
+         <map_depth>528 m</map_depth>
+      </Map_Size>
+      <region>Ardennes</region>
+      <environment>Town</environment>
+      <weather>Light Snow</weather>
+      <temperature>Freezing</temperature>
+      <ground_condition>Light Snow</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFB v1.00 to v1.01</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>3</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #03]</number_in_campaign>
+         <battle_title>Shield and Hammer</battle_title>
+      </Title>
+      <filename>Training Campaign #03_Training Campaign Mission 4</filename>
+      <picture_link>scenpics/Training Campaign3.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>American and German forces meet in the middle of Lutrebois in a final battle to determine the owner of the embattled tonw.</description>
+      <date>13/12/1944</date>
+      <time_of_day>14:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:00</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>1.602 Sq. km</map_area>
+         <map_width>1472 m</map_width>
+         <map_depth>1088 m</map_depth>
+      </Map_Size>
+      <region>Ardennes</region>
+      <environment>Town</environment>
+      <weather>Overcast</weather>
+      <temperature>Freezing</temperature>
+      <ground_condition>Light Snow</ground_condition>
+      <early_intel>Allied Force</early_intel>
+      <game_version>CMFB v1.00 to v1.01</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #01]</number_in_campaign>
+         <battle_title>Counterattack at Lutrebois</battle_title>
+      </Title>
+      <filename>Training Campaign #01_Training Campaign Mission 2</filename>
+      <picture_link>scenpics/Training Campaign1.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>134th Infantry Regiment attacks German positions in western Lutrebois.</description>
+      <date>28/12/1944</date>
+      <time_of_day>13:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:45</length>
+      <battle_size>Small</battle_size>
+      <Map_Size>
+         <map_area>0.118 Sq. km</map_area>
+         <map_width>224 m</map_width>
+         <map_depth>528 m</map_depth>
+      </Map_Size>
+      <region>Ardennes</region>
+      <environment>Town</environment>
+      <weather>Overcast</weather>
+      <temperature>Freezing</temperature>
+      <ground_condition>Light Snow</ground_condition>
+      <early_intel>Allied Force</early_intel>
+      <game_version>CMFB v1.00 to v1.01</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>3</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #00]</number_in_campaign>
+         <battle_title>Target Range</battle_title>
+      </Title>
+      <filename>Training Campaign #00_Training Campaign Mission 1</filename>
+      <picture_link>scenpics/Training Campaign0.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>Practice basic movement and combat commands on this training range.</description>
+      <date>23/12/1944</date>
+      <time_of_day>12:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:15</length>
+      <battle_size>Tiny</battle_size>
+      <Map_Size>
+         <map_area>0.209 Sq. km</map_area>
+         <map_width>256 m</map_width>
+         <map_depth>816 m</map_depth>
+      </Map_Size>
+      <region>Ardennes</region>
+      <environment>Open</environment>
+      <weather>Flurries</weather>
+      <temperature>Freezing</temperature>
+      <ground_condition>Light Snow</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFB v1.00 to v1.01</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>1</size_modifier>
+   </Scenario>
+
+   </Scenario_List>
+</Scenario_Listing>

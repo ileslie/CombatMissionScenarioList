@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="Listing_Layout.xsl" ?>
+
+<Scenario_Listing>
+
+   <Scenario_List>
+
+   <containing_campaign>Bastogne Plus One</containing_campaign>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #02]</number_in_campaign>
+         <battle_title>The Encounter After First Win</battle_title>
+      </Title>
+      <filename>BastognePlus #02_encounterR</filename>
+      <picture_link>scenpics/BastognePlus2.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>We have the high ground. We must hold this ridge today. Make every round count boys!</description>
+      <date>14/11/1944</date>
+      <time_of_day>08:20</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>02:00</length>
+      <battle_size>Huge</battle_size>
+      <Map_Size>
+         <map_area>0.171 Sq. km</map_area>
+         <map_width>464 m</map_width>
+         <map_depth>368 m</map_depth>
+      </Map_Size>
+      <region>France</region>
+      <environment>Hills</environment>
+      <weather>Light Rain</weather>
+      <temperature>Cool</temperature>
+      <ground_condition>Patchy Snow</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFB v1.00 to v1.01</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>10</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #04]</number_in_campaign>
+         <battle_title>encounter5R</battle_title>
+      </Title>
+      <filename>BastognePlus #04_encounter5R</filename>
+      <picture_link>scenpics/BastognePlus4.bmp</picture_link>
+      <battle_type>Meeting Engagement</battle_type>
+      <description>Hill country, hard fighting.</description>
+      <date>16/01/1945</date>
+      <time_of_day>12:05</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>02:00</length>
+      <battle_size>Huge</battle_size>
+      <Map_Size>
+         <map_area>0.191 Sq. km</map_area>
+         <map_width>544 m</map_width>
+         <map_depth>352 m</map_depth>
+      </Map_Size>
+      <region>Ardennes</region>
+      <environment>Hills</environment>
+      <weather>Mist</weather>
+      <temperature>Cold</temperature>
+      <ground_condition>Muddy</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFB v1.00 to v1.01</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>10</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #05]</number_in_campaign>
+         <battle_title>encounter5r</battle_title>
+      </Title>
+      <filename>BastognePlus #05_encounter5L</filename>
+      <picture_link>scenpics/BastognePlus5.bmp</picture_link>
+      <battle_type>Axis Assault</battle_type>
+      <description>German counter-attack</description>
+      <date>06/01/1945</date>
+      <time_of_day>09:00</time_of_day>
+      <part_of_day>Dawn</part_of_day>
+      <length>02:00</length>
+      <battle_size>Huge</battle_size>
+      <Map_Size>
+         <map_area>0.212 Sq. km</map_area>
+         <map_width>576 m</map_width>
+         <map_depth>368 m</map_depth>
+      </Map_Size>
+      <region>Germany</region>
+      <environment>Town</environment>
+      <weather>Overcast</weather>
+      <temperature>Cold</temperature>
+      <ground_condition>Snow</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFB v1.00 to v1.01</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>10</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #06]</number_in_campaign>
+         <battle_title>encounter6</battle_title>
+      </Title>
+      <filename>BastognePlus #06_encounter6</filename>
+      <picture_link>scenpics/BastognePlus6.bmp</picture_link>
+      <battle_type>Axis Assault</battle_type>
+      <description>Final battle of the campaign is a full-on tank/infantry battle. To win you must destroy the enemy.</description>
+      <date>16/01/1945</date>
+      <time_of_day>13:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>04:00</length>
+      <battle_size>Huge</battle_size>
+      <Map_Size>
+         <map_area>0.212 Sq. km</map_area>
+         <map_width>576 m</map_width>
+         <map_depth>368 m</map_depth>
+      </Map_Size>
+      <region>Germany</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Cool</temperature>
+      <ground_condition>Muddy</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFB v1.00 to v1.01</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>10</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #03]</number_in_campaign>
+         <battle_title>Encounter4</battle_title>
+      </Title>
+      <filename>BastognePlus #03_encounter4</filename>
+      <picture_link>scenpics/BastognePlus3.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>Across the Rhine and into Germany!</description>
+      <date>06/12/1944</date>
+      <time_of_day>09:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>04:00</length>
+      <battle_size>Huge</battle_size>
+      <Map_Size>
+         <map_area>0.215 Sq. km</map_area>
+         <map_width>560 m</map_width>
+         <map_depth>384 m</map_depth>
+      </Map_Size>
+      <region>Germany</region>
+      <environment>Town</environment>
+      <weather>Clear</weather>
+      <temperature>Cold</temperature>
+      <ground_condition>Light Snow</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFB v1.00 to v1.01</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>10</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #00]</number_in_campaign>
+         <battle_title>The Encounter Escalates</battle_title>
+      </Title>
+      <filename>BastognePlus #00_encounter</filename>
+      <picture_link>scenpics/BastognePlus0.bmp</picture_link>
+      <battle_type>Meeting Engagement</battle_type>
+      <description>Meeting engagement of small units soon becomes a major battle as reinforcements pile in.</description>
+      <date>17/10/1944</date>
+      <time_of_day>16:00</time_of_day>
+      <part_of_day>Dusk</part_of_day>
+      <length>04:00</length>
+      <battle_size>Huge</battle_size>
+      <Map_Size>
+         <map_area>0.2 Sq. km</map_area>
+         <map_width>544 m</map_width>
+         <map_depth>368 m</map_depth>
+      </Map_Size>
+      <region>France</region>
+      <environment>Forest</environment>
+      <weather>Flurries</weather>
+      <temperature>Cold</temperature>
+      <ground_condition>Patchy Snow</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFB v1.00 to v1.01</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>10</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #01]</number_in_campaign>
+         <battle_title>The Encounter After A Loss</battle_title>
+      </Title>
+      <filename>BastognePlus #01_encounterL</filename>
+      <picture_link>scenpics/BastognePlus1.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>The enemy has pushed your force back into some difficult terrain. You must push back today.</description>
+      <date>06/11/1944</date>
+      <time_of_day>08:10</time_of_day>
+      <part_of_day>Dawn</part_of_day>
+      <length>02:00</length>
+      <battle_size>Huge</battle_size>
+      <Map_Size>
+         <map_area>0.209 Sq. km</map_area>
+         <map_width>544 m</map_width>
+         <map_depth>384 m</map_depth>
+      </Map_Size>
+      <region>France</region>
+      <environment>Hills</environment>
+      <weather>Overcast</weather>
+      <temperature>Cold</temperature>
+      <ground_condition>Snow</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFB v1.00 to v1.01</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>10</size_modifier>
+   </Scenario>
+
+   </Scenario_List>
+</Scenario_Listing>

@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="Listing_Layout.xsl" ?>
+
+<Scenario_Listing>
+
+   <Scenario_List>
+
+   <containing_campaign>Task Force 3-69</containing_campaign>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #04]</number_in_campaign>
+         <battle_title>Backs to the Wall</battle_title>
+      </Title>
+      <filename>Task Force 3-69 #04_Task Force 3 69 04 Backs to the Wall 3W</filename>
+      <picture_link>scenpics/Task Force 3-694.bmp</picture_link>
+      <battle_type>Red Assault</battle_type>
+      <description>With a Russian assault bearing down defenses holding a factory complex overlooking Highway E95, Bravo Company races to the rescue.</description>
+      <date>14/07/2017</date>
+      <time_of_day>10:10</time_of_day>
+      <part_of_day>Dawn</part_of_day>
+      <length>02:00</length>
+      <battle_size>Large</battle_size>
+      <Map_Size>
+         <map_area>5.824 Sq. km</map_area>
+         <map_width>2080 m</map_width>
+         <map_depth>2800 m</map_depth>
+      </Map_Size>
+      <region>Ukraine</region>
+      <environment>City</environment>
+      <weather>Light Rain</weather>
+      <temperature>Cool</temperature>
+      <ground_condition>Damp</ground_condition>
+      <early_intel>Blue Force</early_intel>
+      <game_version>CMBS v1.00 to v1.02</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>9</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #03]</number_in_campaign>
+         <battle_title>Poking the Bear</battle_title>
+      </Title>
+      <filename>Task Force 3-69 #03_Task Force 3 69 03 Poking the Bear 2F</filename>
+      <picture_link>scenpics/Task Force 3-693.bmp</picture_link>
+      <battle_type>Red Probe</battle_type>
+      <description>TF Scouts identify a Russian BDE moving along a valley corridor.  How well do &apos;Joint Fires&apos; work?</description>
+      <date>13/07/2017</date>
+      <time_of_day>09:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:20</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>3.582 Sq. km</map_area>
+         <map_width>2112 m</map_width>
+         <map_depth>1696 m</map_depth>
+      </Map_Size>
+      <region>Ukraine</region>
+      <environment>Hills</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Blue Force</early_intel>
+      <game_version>CMBS v1.00 to v1.02</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #06]</number_in_campaign>
+         <battle_title>Vanguard</battle_title>
+      </Title>
+      <filename>Task Force 3-69 #06_Task Force 3 69 05 Vanguard</filename>
+      <picture_link>scenpics/Task Force 3-696.bmp</picture_link>
+      <battle_type>Blue Assault</battle_type>
+      <description>Having stopped the momentum of the Russian advance on E95, Task Force 3-69 attacks to drive the invaders back.</description>
+      <date>16/07/2017</date>
+      <time_of_day>02:00</time_of_day>
+      <part_of_day>Night</part_of_day>
+      <length>02:30</length>
+      <battle_size>Large</battle_size>
+      <Map_Size>
+         <map_area>14.277 Sq. km</map_area>
+         <map_width>3472 m</map_width>
+         <map_depth>4112 m</map_depth>
+      </Map_Size>
+      <region>Ukraine</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Cool</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Blue Force</early_intel>
+      <game_version>CMBS v1.00 to v1.02</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>9</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #05]</number_in_campaign>
+         <battle_title>Backs to the Wall</battle_title>
+      </Title>
+      <filename>Task Force 3-69 #05_Task Force 3 69 04 Backs to the Wall 3F</filename>
+      <picture_link>scenpics/Task Force 3-695.bmp</picture_link>
+      <battle_type>Red Assault</battle_type>
+      <description>With a Russian assault bearing down defenses holding a factory complex overlooking Highway E95, Bravo Company races to the rescue.</description>
+      <date>14/07/2017</date>
+      <time_of_day>10:10</time_of_day>
+      <part_of_day>Dawn</part_of_day>
+      <length>02:00</length>
+      <battle_size>Large</battle_size>
+      <Map_Size>
+         <map_area>5.824 Sq. km</map_area>
+         <map_width>2080 m</map_width>
+         <map_depth>2800 m</map_depth>
+      </Map_Size>
+      <region>Ukraine</region>
+      <environment>City</environment>
+      <weather>Light Rain</weather>
+      <temperature>Cool</temperature>
+      <ground_condition>Damp</ground_condition>
+      <early_intel>Blue Force</early_intel>
+      <game_version>CMBS v1.00 to v1.02</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>9</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #00]</number_in_campaign>
+         <battle_title>Speed and Power</battle_title>
+      </Title>
+      <filename>Task Force 3-69 #00_Task Force 3 69 01 Speed and Power</filename>
+      <picture_link>scenpics/Task Force 3-690.bmp</picture_link>
+      <battle_type>Blue Attack</battle_type>
+      <description>Alpha Company, Task Force 3-69 Armor, moves to stop the Russian advance towards Kydanivka</description>
+      <date>09/07/2017</date>
+      <time_of_day>12:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:00</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>3.032 Sq. km</map_area>
+         <map_width>2016 m</map_width>
+         <map_depth>1504 m</map_depth>
+      </Map_Size>
+      <region>Ukraine</region>
+      <environment>Hills</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBS v1.00 to v1.02</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #02]</number_in_campaign>
+         <battle_title>Poking the Bear</battle_title>
+      </Title>
+      <filename>Task Force 3-69 #02_Task Force 3 69 03 Poking the Bear 2W</filename>
+      <picture_link>scenpics/Task Force 3-692.bmp</picture_link>
+      <battle_type>Red Probe</battle_type>
+      <description>TF Scouts identify a Russian BDE moving along a valley corridor.  How well do &apos;Joint Fires&apos; work?</description>
+      <date>13/07/2017</date>
+      <time_of_day>09:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:20</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>3.582 Sq. km</map_area>
+         <map_width>2112 m</map_width>
+         <map_depth>1696 m</map_depth>
+      </Map_Size>
+      <region>Ukraine</region>
+      <environment>Hills</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Blue Force</early_intel>
+      <game_version>CMBS v1.00 to v1.02</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #01]</number_in_campaign>
+         <battle_title>The Outskirts</battle_title>
+      </Title>
+      <filename>Task Force 3-69 #01_Task Force 3 69 02 The Outskirts</filename>
+      <picture_link>scenpics/Task Force 3-691.bmp</picture_link>
+      <battle_type>Blue Attack</battle_type>
+      <description>Russian forces have established a small foothold in Bila Tserkva. An urban task force has been formed to eject them.</description>
+      <date>10/07/2017</date>
+      <time_of_day>06:15</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:30</length>
+      <battle_size>Small</battle_size>
+      <Map_Size>
+         <map_area>1.21 Sq. km</map_area>
+         <map_width>1200 m</map_width>
+         <map_depth>1008 m</map_depth>
+      </Map_Size>
+      <region>Ukraine</region>
+      <environment>City</environment>
+      <weather>Overcast</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBS v1.00 to v1.02</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>5</size_modifier>
+   </Scenario>
+
+   </Scenario_List>
+</Scenario_Listing>

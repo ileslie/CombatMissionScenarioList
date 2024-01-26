@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="Listing_Layout.xsl" ?>
+
+<Scenario_Listing>
+
+   <Scenario_List>
+
+   <containing_campaign>Blunting The Spear</containing_campaign>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #01]</number_in_campaign>
+         <battle_title>Rout at Radzymin</battle_title>
+      </Title>
+      <filename>Blunting the Spear #01_BTS2 Rout at Radzymin</filename>
+      <picture_link>scenpics/Blunting the Spear1.bmp</picture_link>
+      <battle_type>Axis Attack</battle_type>
+      <description>Elements of KG Christern push to capture Radzymin</description>
+      <date>02/08/1944</date>
+      <time_of_day>14:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:20</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>6.093 Sq. km</map_area>
+         <map_width>2720 m</map_width>
+         <map_depth>2240 m</map_depth>
+      </Map_Size>
+      <region>Eastern Europe</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMRT v1.00 to v1.03</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #00]</number_in_campaign>
+         <battle_title>Across the Rzadza</battle_title>
+      </Title>
+      <filename>Blunting the Spear #00_BTS1 Across the Rzadza</filename>
+      <picture_link>scenpics/Blunting the Spear0.bmp</picture_link>
+      <battle_type>Axis Assault</battle_type>
+      <description>The northern element of KG Christern  look to establish a bridgehead across the Rzadza river.</description>
+      <date>02/08/1944</date>
+      <time_of_day>10:05</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:20</length>
+      <battle_size>Large</battle_size>
+      <Map_Size>
+         <map_area>6.881 Sq. km</map_area>
+         <map_width>2560 m</map_width>
+         <map_depth>2688 m</map_depth>
+      </Map_Size>
+      <region>Eastern Europe</region>
+      <environment>Village</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMRT v1.00 to v1.03</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>8</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #03]</number_in_campaign>
+         <battle_title>Ciemne</battle_title>
+      </Title>
+      <filename>Blunting the Spear #03_BTS4 Ciemne</filename>
+      <picture_link>scenpics/Blunting the Spear3.bmp</picture_link>
+      <battle_type>Axis Attack</battle_type>
+      <description>The Soviets are falling back in disarray.</description>
+      <date>02/08/1944</date>
+      <time_of_day>18:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>02:00</length>
+      <battle_size>Large</battle_size>
+      <Map_Size>
+         <map_area>6.255 Sq. km</map_area>
+         <map_width>2160 m</map_width>
+         <map_depth>2896 m</map_depth>
+      </Map_Size>
+      <region>Eastern Europe</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMRT v1.00 to v1.03</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>9</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #05]</number_in_campaign>
+         <battle_title>Crushing Third Corps</battle_title>
+      </Title>
+      <filename>Blunting the Spear #05_BTS6 Crushing Third Corps</filename>
+      <picture_link>scenpics/Blunting the Spear5.bmp</picture_link>
+      <battle_type>Axis Assault</battle_type>
+      <description>Having driven the Soviet 3rd Tank Corps south into a killing zone, Kampfgruppe Christern moves in for the kill at first light.</description>
+      <date>03/08/1944</date>
+      <time_of_day>05:00</time_of_day>
+      <part_of_day>Dawn</part_of_day>
+      <length>02:00</length>
+      <battle_size>Huge</battle_size>
+      <Map_Size>
+         <map_area>7.149 Sq. km</map_area>
+         <map_width>2864 m</map_width>
+         <map_depth>2496 m</map_depth>
+      </Map_Size>
+      <region>Eastern Europe</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Cool</temperature>
+      <ground_condition>Damp</ground_condition>
+      <early_intel>Allied Force</early_intel>
+      <game_version>CMRT v1.00 to v1.03</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>10</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #02]</number_in_campaign>
+         <battle_title>Dybow Kolonia</battle_title>
+      </Title>
+      <filename>Blunting the Spear #02_BTS3 Dybow Kolonia</filename>
+      <picture_link>scenpics/Blunting the Spear2.bmp</picture_link>
+      <battle_type>Axis Attack</battle_type>
+      <description>KG Christern Left Flank Abteilung attacks parallel to the river to seize Dybow Kolonia and encircle over-extended Soviet Tank Army</description>
+      <date>02/08/1944</date>
+      <time_of_day>14:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:20</length>
+      <battle_size>Large</battle_size>
+      <Map_Size>
+         <map_area>7.344 Sq. km</map_area>
+         <map_width>2816 m</map_width>
+         <map_depth>2608 m</map_depth>
+      </Map_Size>
+      <region>Eastern Europe</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Axis Force</early_intel>
+      <game_version>CMRT v1.00 to v1.03</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>8</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #04]</number_in_campaign>
+         <battle_title>Stary Jankow</battle_title>
+      </Title>
+      <filename>Blunting the Spear #04_BTS5 Stary Jankow</filename>
+      <picture_link>scenpics/Blunting the Spear4.bmp</picture_link>
+      <battle_type>Axis Attack</battle_type>
+      <description>Left Flank continues the drive south towards the village of Stary Jankow.</description>
+      <date>02/08/1944</date>
+      <time_of_day>20:30</time_of_day>
+      <part_of_day>Night</part_of_day>
+      <length>01:30</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>7.541 Sq. km</map_area>
+         <map_width>3296 m</map_width>
+         <map_depth>2288 m</map_depth>
+      </Map_Size>
+      <region>Eastern Europe</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMRT v1.00 to v1.03</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   </Scenario_List>
+</Scenario_Listing>

@@ -1,0 +1,1595 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="Listing_Layout.xsl" ?>
+
+<Scenario_Listing>
+
+   <Scenario_List>
+
+   <containing_campaign>The Road to Montebourg</containing_campaign>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #36]</number_in_campaign>
+         <battle_title>Holding Action v2</battle_title>
+      </Title>
+      <filename>The Road to Montebourg revised #36_Holdingv2</filename>
+      <picture_link>scenpics/The Road to Montebourg revised36.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>Easy Company 2/505 performs a holding attack on German positions  to the north east of le Ham</description>
+      <date>11/06/1944</date>
+      <time_of_day>14:30</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:35</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>0.172 Sq. km</map_area>
+         <map_width>512 m</map_width>
+         <map_depth>336 m</map_depth>
+      </Map_Size>
+      <region>France</region>
+      <environment>Open</environment>
+      <weather>Thick Haze</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Wet</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBN v1.10</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>5</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #09]</number_in_campaign>
+         <battle_title>Le Hamelet</battle_title>
+      </Title>
+      <filename>The Road to Montebourg revised #09_Hamelet WEST</filename>
+      <picture_link>scenpics/The Road to Montebourg revised9.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>2/8 INF F Company assault on Le Hamelet 7th June</description>
+      <date>07/06/1944</date>
+      <time_of_day>12:45</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:00</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>0.269 Sq. km</map_area>
+         <map_width>480 m</map_width>
+         <map_depth>560 m</map_depth>
+      </Map_Size>
+      <region>France</region>
+      <environment>Open</environment>
+      <weather>Thick Haze</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Damp</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBN v1.10</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #26]</number_in_campaign>
+         <battle_title>Neuville au Plain v4</battle_title>
+      </Title>
+      <filename>The Road to Montebourg revised #26_Neuvillev4</filename>
+      <picture_link>scenpics/The Road to Montebourg revised26.bmp</picture_link>
+      <battle_type>Allied Assault</battle_type>
+      <description>2/8 INF assault Neuville au Plain on the 8th June</description>
+      <date>08/06/1944</date>
+      <time_of_day>06:05</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:50</length>
+      <battle_size>Small</battle_size>
+      <Map_Size>
+         <map_area>0.296 Sq. km</map_area>
+         <map_width>560 m</map_width>
+         <map_depth>528 m</map_depth>
+      </Map_Size>
+      <region>France</region>
+      <environment>Village</environment>
+      <weather>Clear</weather>
+      <temperature>Cool</temperature>
+      <ground_condition>Damp</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBN v1.10</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>3</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #01]</number_in_campaign>
+         <battle_title>Where all the Glory Lies</battle_title>
+      </Title>
+      <filename>The Road to Montebourg revised #01_Brecourt</filename>
+      <picture_link>scenpics/The Road to Montebourg revised1.bmp</picture_link>
+      <battle_type>Allied Assault</battle_type>
+      <description>1st Platoon Dog Company 2/505 PIR assaults a German artillery battery on the morning of D-Day</description>
+      <date>06/06/1944</date>
+      <time_of_day>08:35</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:15</length>
+      <battle_size>Tiny</battle_size>
+      <Map_Size>
+         <map_area>0.134 Sq. km</map_area>
+         <map_width>336 m</map_width>
+         <map_depth>400 m</map_depth>
+      </Map_Size>
+      <region>France</region>
+      <environment>Open</environment>
+      <weather>Thick Haze</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Damp</ground_condition>
+      <early_intel>Allied Force</early_intel>
+      <game_version>CMBN v1.10</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>1</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #30]</number_in_campaign>
+         <battle_title>Breakthrough</battle_title>
+      </Title>
+      <filename>The Road to Montebourg revised #30_Breakthrough</filename>
+      <picture_link>scenpics/The Road to Montebourg revised30.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>2/505 drive west across the Montebourg rail line towards le Ham</description>
+      <date>10/06/1944</date>
+      <time_of_day>21:05</time_of_day>
+      <part_of_day>Dusk</part_of_day>
+      <length>01:00</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>0.394 Sq. km</map_area>
+         <map_width>704 m</map_width>
+         <map_depth>560 m</map_depth>
+      </Map_Size>
+      <region>France</region>
+      <environment>Open</environment>
+      <weather>Light Fog and Rain</weather>
+      <temperature>Cool</temperature>
+      <ground_condition>Wet</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBN v1.10</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #35]</number_in_campaign>
+         <battle_title>Holding Action</battle_title>
+      </Title>
+      <filename>The Road to Montebourg revised #35_Holding</filename>
+      <picture_link>scenpics/The Road to Montebourg revised35.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>Easy Company 2/505 performs a holding attack on German positions  to the north east of le Ham</description>
+      <date>11/06/1944</date>
+      <time_of_day>14:30</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:35</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>0.172 Sq. km</map_area>
+         <map_width>512 m</map_width>
+         <map_depth>336 m</map_depth>
+      </Map_Size>
+      <region>France</region>
+      <environment>Open</environment>
+      <weather>Thick Haze</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Wet</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBN v1.10</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>5</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #10]</number_in_campaign>
+         <battle_title>Le Hamelet v2</battle_title>
+      </Title>
+      <filename>The Road to Montebourg revised #10_Hamelet SOUTH</filename>
+      <picture_link>scenpics/The Road to Montebourg revised10.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>2/8 INF E Companyassault on le Hamelet 7th June</description>
+      <date>07/06/1944</date>
+      <time_of_day>12:45</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:00</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>0.269 Sq. km</map_area>
+         <map_width>480 m</map_width>
+         <map_depth>560 m</map_depth>
+      </Map_Size>
+      <region>France</region>
+      <environment>Open</environment>
+      <weather>Thick Haze</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Damp</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBN v1.10</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #12]</number_in_campaign>
+         <battle_title>Le Hamelet v4</battle_title>
+      </Title>
+      <filename>The Road to Montebourg revised #12_Hamelet WESTv3</filename>
+      <picture_link>scenpics/The Road to Montebourg revised12.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>2/8 INF F Company assault on Le Hamelet 7th June</description>
+      <date>07/06/1944</date>
+      <time_of_day>12:45</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:00</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>0.269 Sq. km</map_area>
+         <map_width>480 m</map_width>
+         <map_depth>560 m</map_depth>
+      </Map_Size>
+      <region>France</region>
+      <environment>Open</environment>
+      <weather>Thick Haze</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Damp</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBN v1.10</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #14]</number_in_campaign>
+         <battle_title>Turnbull&apos;s Stand v2</battle_title>
+      </Title>
+      <filename>The Road to Montebourg revised #14_Turnbullv2</filename>
+      <picture_link>scenpics/The Road to Montebourg revised14.bmp</picture_link>
+      <battle_type>Axis Attack</battle_type>
+      <description>Lt Turner Turnbull and 3rd Platoon Company D defend Neuville au Plain against a strong German attack south along N13 towards Ste Mere Eglise</description>
+      <date>06/06/1944</date>
+      <time_of_day>10:30</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:40</length>
+      <battle_size>Small</battle_size>
+      <Map_Size>
+         <map_area>0.448 Sq. km</map_area>
+         <map_width>560 m</map_width>
+         <map_depth>800 m</map_depth>
+      </Map_Size>
+      <region>France</region>
+      <environment>Open</environment>
+      <weather>Hazy</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Very Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBN v1.10</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>3</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #25]</number_in_campaign>
+         <battle_title>Neuville au Plain v3</battle_title>
+      </Title>
+      <filename>The Road to Montebourg revised #25_Neuvillev3</filename>
+      <picture_link>scenpics/The Road to Montebourg revised25.bmp</picture_link>
+      <battle_type>Allied Assault</battle_type>
+      <description>2/8 INF assault Neuville au Plain on the 8th June</description>
+      <date>08/06/1944</date>
+      <time_of_day>15:30</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:50</length>
+      <battle_size>Small</battle_size>
+      <Map_Size>
+         <map_area>0.296 Sq. km</map_area>
+         <map_width>560 m</map_width>
+         <map_depth>528 m</map_depth>
+      </Map_Size>
+      <region>France</region>
+      <environment>Village</environment>
+      <weather>Clear</weather>
+      <temperature>Cool</temperature>
+      <ground_condition>Damp</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBN v1.10</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>3</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #22]</number_in_campaign>
+         <battle_title>The Labrynth v4</battle_title>
+      </Title>
+      <filename>The Road to Montebourg revised #22_Labrynthv4</filename>
+      <picture_link>scenpics/The Road to Montebourg revised22.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>2/8 INF Easy Company</description>
+      <date>07/06/1944</date>
+      <time_of_day>20:35</time_of_day>
+      <part_of_day>Dusk</part_of_day>
+      <length>01:00</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>0.627 Sq. km</map_area>
+         <map_width>560 m</map_width>
+         <map_depth>1120 m</map_depth>
+      </Map_Size>
+      <region>France</region>
+      <environment>Open</environment>
+      <weather>Thick Haze</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Damp</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBN v1.10</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #24]</number_in_campaign>
+         <battle_title>Neuville au Plain v2</battle_title>
+      </Title>
+      <filename>The Road to Montebourg revised #24_Neuvillev2</filename>
+      <picture_link>scenpics/The Road to Montebourg revised24.bmp</picture_link>
+      <battle_type>Allied Assault</battle_type>
+      <description>2/8 INF assault Neuville au Plain on the 8th June</description>
+      <date>08/06/1944</date>
+      <time_of_day>15:30</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:00</length>
+      <battle_size>Small</battle_size>
+      <Map_Size>
+         <map_area>0.296 Sq. km</map_area>
+         <map_width>560 m</map_width>
+         <map_depth>528 m</map_depth>
+      </Map_Size>
+      <region>France</region>
+      <environment>Village</environment>
+      <weather>Clear</weather>
+      <temperature>Cool</temperature>
+      <ground_condition>Damp</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBN v1.10</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>4</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #42]</number_in_campaign>
+         <battle_title>The Farmhouse</battle_title>
+      </Title>
+      <filename>The Road to Montebourg revised #42_Farmhouse</filename>
+      <picture_link>scenpics/The Road to Montebourg revised42.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>1st Platoon 2/8 INF and &apos;friends&apos; perform a quick assault on a farmhouse as a prelude to the main assault on Eroudeville</description>
+      <date>10/06/1944</date>
+      <time_of_day>11:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:30</length>
+      <battle_size>Tiny</battle_size>
+      <Map_Size>
+         <map_area>0.228 Sq. km</map_area>
+         <map_width>528 m</map_width>
+         <map_depth>432 m</map_depth>
+      </Map_Size>
+      <region>France</region>
+      <environment>Open</environment>
+      <weather>Hazy</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Very Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBN v1.10</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>2</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #37]</number_in_campaign>
+         <battle_title>Holding Action v3</battle_title>
+      </Title>
+      <filename>The Road to Montebourg revised #37_Holdingv3</filename>
+      <picture_link>scenpics/The Road to Montebourg revised37.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>Easy Company 2/505 performs a holding attack on German positions  to the north east of le Ham</description>
+      <date>11/06/1944</date>
+      <time_of_day>14:30</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:35</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>0.172 Sq. km</map_area>
+         <map_width>512 m</map_width>
+         <map_depth>336 m</map_depth>
+      </Map_Size>
+      <region>France</region>
+      <environment>Open</environment>
+      <weather>Thick Haze</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Wet</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBN v1.10</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>5</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #43]</number_in_campaign>
+         <battle_title>The Farmhouse v2</battle_title>
+      </Title>
+      <filename>The Road to Montebourg revised #43_Farmhousev2</filename>
+      <picture_link>scenpics/The Road to Montebourg revised43.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>1st Platoon 2/8 INF and &apos;friends&apos; perform a quick assault on a farmhouse as a prelude to the main assault on Eroudeville</description>
+      <date>10/06/1944</date>
+      <time_of_day>11:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:30</length>
+      <battle_size>Tiny</battle_size>
+      <Map_Size>
+         <map_area>0.228 Sq. km</map_area>
+         <map_width>528 m</map_width>
+         <map_depth>432 m</map_depth>
+      </Map_Size>
+      <region>France</region>
+      <environment>Open</environment>
+      <weather>Hazy</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Very Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBN v1.10</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>2</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #06]</number_in_campaign>
+         <battle_title>La Grand Hameau</battle_title>
+      </Title>
+      <filename>The Road to Montebourg revised #06_Hameauv1</filename>
+      <picture_link>scenpics/The Road to Montebourg revised6.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>2/8 INF E Company attacks La Grand Hameau as part of the 8th&apos;s assault on the Georgian Ridge</description>
+      <date>07/06/1944</date>
+      <time_of_day>11:10</time_of_day>
+      <part_of_day>Dawn</part_of_day>
+      <length>00:40</length>
+      <battle_size>Small</battle_size>
+      <Map_Size>
+         <map_area>0.131 Sq. km</map_area>
+         <map_width>272 m</map_width>
+         <map_depth>480 m</map_depth>
+      </Map_Size>
+      <region>France</region>
+      <environment>Open</environment>
+      <weather>Hazy</weather>
+      <temperature>Cool</temperature>
+      <ground_condition>Wet</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBN v1.10</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>3</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #44]</number_in_campaign>
+         <battle_title>Eroudeville</battle_title>
+      </Title>
+      <filename>The Road to Montebourg revised #44_Eroudeville</filename>
+      <picture_link>scenpics/The Road to Montebourg revised44.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>Road to Montebourg campaign finale - 2/8 battle with German counterattack at Eroudeville</description>
+      <date>10/06/1944</date>
+      <time_of_day>20:25</time_of_day>
+      <part_of_day>Dusk</part_of_day>
+      <length>01:30</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>0.968 Sq. km</map_area>
+         <map_width>1008 m</map_width>
+         <map_depth>960 m</map_depth>
+      </Map_Size>
+      <region>France</region>
+      <environment>Open</environment>
+      <weather>Thick Haze</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Damp</ground_condition>
+      <early_intel>Allied Force</early_intel>
+      <game_version>CMBN v1.10</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #27]</number_in_campaign>
+         <battle_title>Neuville au Plain v5</battle_title>
+      </Title>
+      <filename>The Road to Montebourg revised #27_Neuvillev5</filename>
+      <picture_link>scenpics/The Road to Montebourg revised27.bmp</picture_link>
+      <battle_type>Allied Assault</battle_type>
+      <description>2/8 INF assault Neuville au Plain on the 8th June</description>
+      <date>08/06/1944</date>
+      <time_of_day>15:30</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:00</length>
+      <battle_size>Small</battle_size>
+      <Map_Size>
+         <map_area>0.296 Sq. km</map_area>
+         <map_width>560 m</map_width>
+         <map_depth>528 m</map_depth>
+      </Map_Size>
+      <region>France</region>
+      <environment>Village</environment>
+      <weather>Clear</weather>
+      <temperature>Cool</temperature>
+      <ground_condition>Damp</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBN v1.10</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>4</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #00]</number_in_campaign>
+         <battle_title>Beau Guillot</battle_title>
+      </Title>
+      <filename>The Road to Montebourg revised #00_Guillot</filename>
+      <picture_link>scenpics/The Road to Montebourg revised0.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>D-Day Opening mission of the Cherbourg Campaign. E Company 2/8 INF eliminate German fields fortifications at Beau Guillot to the south of Exit  2</description>
+      <date>06/06/1944</date>
+      <time_of_day>07:30</time_of_day>
+      <part_of_day>Dawn</part_of_day>
+      <length>00:50</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>0.346 Sq. km</map_area>
+         <map_width>720 m</map_width>
+         <map_depth>480 m</map_depth>
+      </Map_Size>
+      <region>France</region>
+      <environment>Open</environment>
+      <weather>Thick Haze</weather>
+      <temperature>Cool</temperature>
+      <ground_condition>Damp</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBN v1.10</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #05]</number_in_campaign>
+         <battle_title>Ecoqueneauville v3</battle_title>
+      </Title>
+      <filename>The Road to Montebourg revised #05_Ecoquev3</filename>
+      <picture_link>scenpics/The Road to Montebourg revised5.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>Fox Company 2/8 assaults the village of Ecoqueneuville on the Georgian Ridge</description>
+      <date>07/06/1944</date>
+      <time_of_day>10:50</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:10</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>0.41 Sq. km</map_area>
+         <map_width>640 m</map_width>
+         <map_depth>640 m</map_depth>
+      </Map_Size>
+      <region>France</region>
+      <environment>Village</environment>
+      <weather>Hazy</weather>
+      <temperature>Cool</temperature>
+      <ground_condition>Damp</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBN v1.10</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #32]</number_in_campaign>
+         <battle_title>Orchard Hill</battle_title>
+      </Title>
+      <filename>The Road to Montebourg revised #32_Orchard</filename>
+      <picture_link>scenpics/The Road to Montebourg revised32.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>2/325 assault le Haut du Ham</description>
+      <date>11/06/1944</date>
+      <time_of_day>10:30</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:10</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>0.564 Sq. km</map_area>
+         <map_width>1008 m</map_width>
+         <map_depth>560 m</map_depth>
+      </Map_Size>
+      <region>France</region>
+      <environment>Open</environment>
+      <weather>Hazy</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Very Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBN v1.10</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #17]</number_in_campaign>
+         <battle_title>Les Licornets</battle_title>
+      </Title>
+      <filename>The Road to Montebourg revised #17_Licornetsv3</filename>
+      <picture_link>scenpics/The Road to Montebourg revised17.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>2/505&apos;s attack on German positions to the north of Ste Mere Eglise, late afternoon 7th June. Mission rating - MEDIUM difficulty</description>
+      <date>07/06/1944</date>
+      <time_of_day>20:35</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:20</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>0.475 Sq. km</map_area>
+         <map_width>512 m</map_width>
+         <map_depth>928 m</map_depth>
+      </Map_Size>
+      <region>France</region>
+      <environment>Open</environment>
+      <weather>Thick Haze</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Damp</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBN v1.10</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #23]</number_in_campaign>
+         <battle_title>Neuville au Plain</battle_title>
+      </Title>
+      <filename>The Road to Montebourg revised #23_Neuville</filename>
+      <picture_link>scenpics/The Road to Montebourg revised23.bmp</picture_link>
+      <battle_type>Allied Assault</battle_type>
+      <description>2/8 INF assault Neuville au Plain on the 8th June</description>
+      <date>08/06/1944</date>
+      <time_of_day>06:05</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:50</length>
+      <battle_size>Small</battle_size>
+      <Map_Size>
+         <map_area>0.296 Sq. km</map_area>
+         <map_width>560 m</map_width>
+         <map_depth>528 m</map_depth>
+      </Map_Size>
+      <region>France</region>
+      <environment>Village</environment>
+      <weather>Clear</weather>
+      <temperature>Cool</temperature>
+      <ground_condition>Damp</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBN v1.10</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>3</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #20]</number_in_campaign>
+         <battle_title>The Labrynth v2</battle_title>
+      </Title>
+      <filename>The Road to Montebourg revised #20_Labrynthv2</filename>
+      <picture_link>scenpics/The Road to Montebourg revised20.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>2/8 INF Easy Company</description>
+      <date>07/06/1944</date>
+      <time_of_day>18:35</time_of_day>
+      <part_of_day>Dusk</part_of_day>
+      <length>01:10</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>0.627 Sq. km</map_area>
+         <map_width>560 m</map_width>
+         <map_depth>1120 m</map_depth>
+      </Map_Size>
+      <region>France</region>
+      <environment>Open</environment>
+      <weather>Thick Haze</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Damp</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBN v1.10</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #40]</number_in_campaign>
+         <battle_title>le Ham v3</battle_title>
+      </Title>
+      <filename>The Road to Montebourg revised #40_le Hamv3</filename>
+      <picture_link>scenpics/The Road to Montebourg revised40.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>2/325 assault on the village of le Ham.</description>
+      <date>11/06/1944</date>
+      <time_of_day>18:30</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:20</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>0.301 Sq. km</map_area>
+         <map_width>400 m</map_width>
+         <map_depth>752 m</map_depth>
+      </Map_Size>
+      <region>France</region>
+      <environment>Open</environment>
+      <weather>Thick Haze</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Damp</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>pre-release CMBN v1.00</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #21]</number_in_campaign>
+         <battle_title>The Labrynth v3</battle_title>
+      </Title>
+      <filename>The Road to Montebourg revised #21_Labrynthv3</filename>
+      <picture_link>scenpics/The Road to Montebourg revised21.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>2/8 INF Easy Company</description>
+      <date>07/06/1944</date>
+      <time_of_day>20:35</time_of_day>
+      <part_of_day>Dusk</part_of_day>
+      <length>01:00</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>0.627 Sq. km</map_area>
+         <map_width>560 m</map_width>
+         <map_depth>1120 m</map_depth>
+      </Map_Size>
+      <region>France</region>
+      <environment>Open</environment>
+      <weather>Thick Haze</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Damp</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBN v1.10</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #15]</number_in_campaign>
+         <battle_title>Les Licornets</battle_title>
+      </Title>
+      <filename>The Road to Montebourg revised #15_Licornets</filename>
+      <picture_link>scenpics/The Road to Montebourg revised15.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>2/505&apos;s attack on German positions to the north of Ste Mere Eglise, late afternoon 7th June. Mission rating - MEDIUM difficulty</description>
+      <date>07/06/1944</date>
+      <time_of_day>17:45</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:10</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>0.475 Sq. km</map_area>
+         <map_width>512 m</map_width>
+         <map_depth>928 m</map_depth>
+      </Map_Size>
+      <region>France</region>
+      <environment>Open</environment>
+      <weather>Thick Haze</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Damp</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBN v1.10</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #11]</number_in_campaign>
+         <battle_title>Le Hamelet v3</battle_title>
+      </Title>
+      <filename>The Road to Montebourg revised #11_Hamelet WESTv2</filename>
+      <picture_link>scenpics/The Road to Montebourg revised11.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>2/8 INF F Company assault on Le Hamelet 7th June</description>
+      <date>07/06/1944</date>
+      <time_of_day>12:45</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:00</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>0.269 Sq. km</map_area>
+         <map_width>480 m</map_width>
+         <map_depth>560 m</map_depth>
+      </Map_Size>
+      <region>France</region>
+      <environment>Open</environment>
+      <weather>Thick Haze</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Damp</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBN v1.10</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #46]</number_in_campaign>
+         <battle_title>Eroudeville v3</battle_title>
+      </Title>
+      <filename>The Road to Montebourg revised #46_Eroudevillev3</filename>
+      <picture_link>scenpics/The Road to Montebourg revised46.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>Road to Montebourg campaign finale - 2/8 battle with German counterattack at Eroudeville</description>
+      <date>10/06/1944</date>
+      <time_of_day>20:25</time_of_day>
+      <part_of_day>Dusk</part_of_day>
+      <length>01:30</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>0.968 Sq. km</map_area>
+         <map_width>1008 m</map_width>
+         <map_depth>960 m</map_depth>
+      </Map_Size>
+      <region>France</region>
+      <environment>Open</environment>
+      <weather>Thick Haze</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Damp</ground_condition>
+      <early_intel>Allied Force</early_intel>
+      <game_version>CMBN v1.10</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #04]</number_in_campaign>
+         <battle_title>Ecoqueneauville  v2</battle_title>
+      </Title>
+      <filename>The Road to Montebourg revised #04_Ecoquev2</filename>
+      <picture_link>scenpics/The Road to Montebourg revised4.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>Fox Company 2/8 assaults the village of Ecoqueneuville on the Georgian Ridge</description>
+      <date>07/06/1944</date>
+      <time_of_day>10:50</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:10</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>0.41 Sq. km</map_area>
+         <map_width>640 m</map_width>
+         <map_depth>640 m</map_depth>
+      </Map_Size>
+      <region>France</region>
+      <environment>Village</environment>
+      <weather>Hazy</weather>
+      <temperature>Cool</temperature>
+      <ground_condition>Damp</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBN v1.10</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #41]</number_in_campaign>
+         <battle_title>Ecausseville</battle_title>
+      </Title>
+      <filename>The Road to Montebourg revised #41_Ecausseville</filename>
+      <picture_link>scenpics/The Road to Montebourg revised41.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>E Company 2/8 INF probes the German defences at Ecausseville</description>
+      <date>09/06/1944</date>
+      <time_of_day>14:25</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:00</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>0.263 Sq. km</map_area>
+         <map_width>432 m</map_width>
+         <map_depth>608 m</map_depth>
+      </Map_Size>
+      <region>France</region>
+      <environment>Village</environment>
+      <weather>Hazy</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Very Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBN v1.10</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #39]</number_in_campaign>
+         <battle_title>le Ham v2</battle_title>
+      </Title>
+      <filename>The Road to Montebourg revised #39_le Hamv2</filename>
+      <picture_link>scenpics/The Road to Montebourg revised39.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>2/325 assault on the village of le Ham.</description>
+      <date>11/06/1944</date>
+      <time_of_day>18:30</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:20</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>0.301 Sq. km</map_area>
+         <map_width>400 m</map_width>
+         <map_depth>752 m</map_depth>
+      </Map_Size>
+      <region>France</region>
+      <environment>Open</environment>
+      <weather>Thick Haze</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Damp</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBN v1.10</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #02]</number_in_campaign>
+         <battle_title>Where all the Glory Lies v2</battle_title>
+      </Title>
+      <filename>The Road to Montebourg revised #02_Brecourtv2</filename>
+      <picture_link>scenpics/The Road to Montebourg revised2.bmp</picture_link>
+      <battle_type>Allied Assault</battle_type>
+      <description>1st Platoon Dog Company 2/505 PIR assaults a German artillery battery on the morning of D-Day</description>
+      <date>06/06/1944</date>
+      <time_of_day>08:35</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:15</length>
+      <battle_size>Tiny</battle_size>
+      <Map_Size>
+         <map_area>0.134 Sq. km</map_area>
+         <map_width>336 m</map_width>
+         <map_depth>400 m</map_depth>
+      </Map_Size>
+      <region>France</region>
+      <environment>Open</environment>
+      <weather>Thick Haze</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Damp</ground_condition>
+      <early_intel>Allied Force</early_intel>
+      <game_version>CMBN v1.10</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>1</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #18]</number_in_campaign>
+         <battle_title>Les Licornets v4</battle_title>
+      </Title>
+      <filename>The Road to Montebourg revised #18_Licornetsv4</filename>
+      <picture_link>scenpics/The Road to Montebourg revised18.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>2/505&apos;s attack on German positions to the north of Ste Mere Eglise, late afternoon 7th June. Mission rating - MEDIUM difficulty</description>
+      <date>07/06/1944</date>
+      <time_of_day>20:35</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:20</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>0.475 Sq. km</map_area>
+         <map_width>512 m</map_width>
+         <map_depth>928 m</map_depth>
+      </Map_Size>
+      <region>France</region>
+      <environment>Open</environment>
+      <weather>Thick Haze</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Damp</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBN v1.10</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #07]</number_in_campaign>
+         <battle_title>La Grand Hameau v2</battle_title>
+      </Title>
+      <filename>The Road to Montebourg revised #07_Hameauv2</filename>
+      <picture_link>scenpics/The Road to Montebourg revised7.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>2/8 INF E Company attacks La Grand Hameau as part of the 8th&apos;s assault on the Georgian Ridge</description>
+      <date>07/06/1944</date>
+      <time_of_day>11:10</time_of_day>
+      <part_of_day>Dawn</part_of_day>
+      <length>00:40</length>
+      <battle_size>Small</battle_size>
+      <Map_Size>
+         <map_area>0.131 Sq. km</map_area>
+         <map_width>272 m</map_width>
+         <map_depth>480 m</map_depth>
+      </Map_Size>
+      <region>France</region>
+      <environment>Open</environment>
+      <weather>Hazy</weather>
+      <temperature>Cool</temperature>
+      <ground_condition>Wet</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBN v1.10</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>3</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #31]</number_in_campaign>
+         <battle_title>Stalemate</battle_title>
+      </Title>
+      <filename>The Road to Montebourg revised #31_Stalemate</filename>
+      <picture_link>scenpics/The Road to Montebourg revised31.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>2/505 drive west across the Montebourg rail line towards le Ham</description>
+      <date>10/06/1944</date>
+      <time_of_day>21:05</time_of_day>
+      <part_of_day>Dusk</part_of_day>
+      <length>01:00</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>0.394 Sq. km</map_area>
+         <map_width>704 m</map_width>
+         <map_depth>560 m</map_depth>
+      </Map_Size>
+      <region>France</region>
+      <environment>Open</environment>
+      <weather>Light Fog and Rain</weather>
+      <temperature>Cool</temperature>
+      <ground_condition>Wet</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBN v1.10</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #45]</number_in_campaign>
+         <battle_title>Eroudeville v2</battle_title>
+      </Title>
+      <filename>The Road to Montebourg revised #45_Eroudevillev2</filename>
+      <picture_link>scenpics/The Road to Montebourg revised45.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>Road to Montebourg campaign finale - 2/8 battle with German counterattack at Eroudeville</description>
+      <date>10/06/1944</date>
+      <time_of_day>20:25</time_of_day>
+      <part_of_day>Dusk</part_of_day>
+      <length>01:30</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>0.968 Sq. km</map_area>
+         <map_width>1008 m</map_width>
+         <map_depth>960 m</map_depth>
+      </Map_Size>
+      <region>France</region>
+      <environment>Open</environment>
+      <weather>Thick Haze</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Damp</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBN v1.10</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #08]</number_in_campaign>
+         <battle_title>La Grand Hameau v3</battle_title>
+      </Title>
+      <filename>The Road to Montebourg revised #08_Hameauv3</filename>
+      <picture_link>scenpics/The Road to Montebourg revised8.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>2/8 INF E Company attacks La Grand Hameau as part of the 8th&apos;s assault on the Georgian Ridge</description>
+      <date>07/06/1944</date>
+      <time_of_day>11:10</time_of_day>
+      <part_of_day>Dawn</part_of_day>
+      <length>00:40</length>
+      <battle_size>Small</battle_size>
+      <Map_Size>
+         <map_area>0.131 Sq. km</map_area>
+         <map_width>272 m</map_width>
+         <map_depth>480 m</map_depth>
+      </Map_Size>
+      <region>France</region>
+      <environment>Open</environment>
+      <weather>Hazy</weather>
+      <temperature>Cool</temperature>
+      <ground_condition>Wet</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBN v1.10</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>3</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #38]</number_in_campaign>
+         <battle_title>le Ham</battle_title>
+      </Title>
+      <filename>The Road to Montebourg revised #38_le Ham</filename>
+      <picture_link>scenpics/The Road to Montebourg revised38.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>2/325 assault on the village of le Ham.</description>
+      <date>11/06/1944</date>
+      <time_of_day>18:30</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:20</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>0.301 Sq. km</map_area>
+         <map_width>400 m</map_width>
+         <map_depth>752 m</map_depth>
+      </Map_Size>
+      <region>France</region>
+      <environment>Open</environment>
+      <weather>Thick Haze</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Damp</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>pre-release CMBN v1.00</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #19]</number_in_campaign>
+         <battle_title>The Labrynth v3</battle_title>
+      </Title>
+      <filename>The Road to Montebourg revised #19_Labrynth</filename>
+      <picture_link>scenpics/The Road to Montebourg revised19.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>2/8 INF Easy Company</description>
+      <date>07/06/1944</date>
+      <time_of_day>20:35</time_of_day>
+      <part_of_day>Dusk</part_of_day>
+      <length>01:10</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>0.627 Sq. km</map_area>
+         <map_width>560 m</map_width>
+         <map_depth>1120 m</map_depth>
+      </Map_Size>
+      <region>France</region>
+      <environment>Open</environment>
+      <weather>Thick Haze</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Damp</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBN v1.10</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #29]</number_in_campaign>
+         <battle_title>Hell in the Hedgerows v2</battle_title>
+      </Title>
+      <filename>The Road to Montebourg revised #29_Hellv2</filename>
+      <picture_link>scenpics/The Road to Montebourg revised29.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>2/325 (Glider) attack north  out of Grainville</description>
+      <date>09/06/1944</date>
+      <time_of_day>06:35</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:00</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>0.461 Sq. km</map_area>
+         <map_width>480 m</map_width>
+         <map_depth>960 m</map_depth>
+      </Map_Size>
+      <region>France</region>
+      <environment>Open</environment>
+      <weather>Heavy Rain</weather>
+      <temperature>Cool</temperature>
+      <ground_condition>Damp</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBN v1.10</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #33]</number_in_campaign>
+         <battle_title>Orchard Hill v2</battle_title>
+      </Title>
+      <filename>The Road to Montebourg revised #33_Orchardv2</filename>
+      <picture_link>scenpics/The Road to Montebourg revised33.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>2/325 assault le Haut du Ham</description>
+      <date>11/06/1944</date>
+      <time_of_day>10:30</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:10</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>0.564 Sq. km</map_area>
+         <map_width>1008 m</map_width>
+         <map_depth>560 m</map_depth>
+      </Map_Size>
+      <region>France</region>
+      <environment>Open</environment>
+      <weather>Hazy</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Very Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBN v1.10</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #13]</number_in_campaign>
+         <battle_title>Turnbull&apos;s Stand</battle_title>
+      </Title>
+      <filename>The Road to Montebourg revised #13_Turnbull</filename>
+      <picture_link>scenpics/The Road to Montebourg revised13.bmp</picture_link>
+      <battle_type>Axis Attack</battle_type>
+      <description>Lt Turner Turnbull and 3rd Platoon Company D defend Neuville au Plain against a strong German attack south along N13 towards Ste Mere Eglise</description>
+      <date>06/06/1944</date>
+      <time_of_day>10:30</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:40</length>
+      <battle_size>Small</battle_size>
+      <Map_Size>
+         <map_area>0.448 Sq. km</map_area>
+         <map_width>560 m</map_width>
+         <map_depth>800 m</map_depth>
+      </Map_Size>
+      <region>France</region>
+      <environment>Open</environment>
+      <weather>Hazy</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Very Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBN v1.10</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>3</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #34]</number_in_campaign>
+         <battle_title>Orchard Hill v3</battle_title>
+      </Title>
+      <filename>The Road to Montebourg revised #34_Orchardv3</filename>
+      <picture_link>scenpics/The Road to Montebourg revised34.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>2/325 assault le Haut du Ham</description>
+      <date>11/06/1944</date>
+      <time_of_day>10:30</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:10</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>0.564 Sq. km</map_area>
+         <map_width>1008 m</map_width>
+         <map_depth>560 m</map_depth>
+      </Map_Size>
+      <region>France</region>
+      <environment>Open</environment>
+      <weather>Hazy</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Very Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBN v1.10</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #28]</number_in_campaign>
+         <battle_title>Hell in the Hedgerows</battle_title>
+      </Title>
+      <filename>The Road to Montebourg revised #28_Hell</filename>
+      <picture_link>scenpics/The Road to Montebourg revised28.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>2/325 (Glider) attack north  out of Grainville</description>
+      <date>09/06/1944</date>
+      <time_of_day>06:35</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:00</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>0.461 Sq. km</map_area>
+         <map_width>480 m</map_width>
+         <map_depth>960 m</map_depth>
+      </Map_Size>
+      <region>France</region>
+      <environment>Open</environment>
+      <weather>Heavy Rain</weather>
+      <temperature>Cool</temperature>
+      <ground_condition>Damp</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBN v1.10</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #47]</number_in_campaign>
+         <battle_title>Eroudeville v4</battle_title>
+      </Title>
+      <filename>The Road to Montebourg revised #47_Eroudevillev4</filename>
+      <picture_link>scenpics/The Road to Montebourg revised47.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>Road to Montebourg campaign finale - 2/8 battle with German counterattack at Eroudeville</description>
+      <date>10/06/1944</date>
+      <time_of_day>20:25</time_of_day>
+      <part_of_day>Dusk</part_of_day>
+      <length>01:30</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>0.968 Sq. km</map_area>
+         <map_width>1008 m</map_width>
+         <map_depth>960 m</map_depth>
+      </Map_Size>
+      <region>France</region>
+      <environment>Open</environment>
+      <weather>Thick Haze</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Damp</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBN v1.10</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #03]</number_in_campaign>
+         <battle_title>Ecoqueneauville</battle_title>
+      </Title>
+      <filename>The Road to Montebourg revised #03_Ecoque</filename>
+      <picture_link>scenpics/The Road to Montebourg revised3.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>Fox Company 2/8 assaults the village of Ecoqueneuville on the Georgian Ridge</description>
+      <date>07/06/1944</date>
+      <time_of_day>10:50</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:10</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>0.41 Sq. km</map_area>
+         <map_width>640 m</map_width>
+         <map_depth>640 m</map_depth>
+      </Map_Size>
+      <region>France</region>
+      <environment>Village</environment>
+      <weather>Hazy</weather>
+      <temperature>Cool</temperature>
+      <ground_condition>Damp</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBN v1.10</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #16]</number_in_campaign>
+         <battle_title>Les Licornets v2</battle_title>
+      </Title>
+      <filename>The Road to Montebourg revised #16_Licornetsv2</filename>
+      <picture_link>scenpics/The Road to Montebourg revised16.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>2/505&apos;s attack on German positions to the north of Ste Mere Eglise, late afternoon 7th June. Mission rating - MEDIUM difficulty</description>
+      <date>07/06/1944</date>
+      <time_of_day>17:45</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:10</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>0.475 Sq. km</map_area>
+         <map_width>512 m</map_width>
+         <map_depth>928 m</map_depth>
+      </Map_Size>
+      <region>France</region>
+      <environment>Open</environment>
+      <weather>Thick Haze</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Damp</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBN v1.10</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   </Scenario_List>
+</Scenario_Listing>

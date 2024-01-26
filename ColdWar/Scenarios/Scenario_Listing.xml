@@ -1,0 +1,2135 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="Listing_Layout.xsl" ?>
+
+<Scenario_Listing>
+
+   <Scenario_List>
+
+   <Scenario>
+      <Title>
+         <battle_title>Fox sneak</battle_title>
+      </Title>
+      <filename>Fox Sneak-BLUE vs IA</filename>
+      <picture_link>scenpics/Fox Sneak-BLUE vs IA.bmp</picture_link>
+      <battle_type>Blue Attack</battle_type>
+      <description>Fox company, trap behind enemy line, must resupply </description>
+      <date>08/03/1980</date>
+      <time_of_day>11:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:50</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>8.479 Sq. km</map_area>
+         <map_width>3680 m</map_width>
+         <map_depth>2304 m</map_depth>
+      </Map_Size>
+      <region>Germany</region>
+      <environment>Open</environment>
+      <weather>Light Fog and Rain</weather>
+      <temperature>Cold</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMCW v1.00 to v1.06</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Killing Time at Kirtorf</battle_title>
+      </Title>
+      <filename>Killing time at Kirtorf</filename>
+      <picture_link>scenpics/Killing time at Kirtorf.bmp</picture_link>
+      <battle_type>Red Attack</battle_type>
+      <description>A Soviet motor rifle battalion attack on a hasty U.S. defense. Best played as Blue. </description>
+      <date>21/08/1982</date>
+      <time_of_day>07:50</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:00</length>
+      <battle_size>Large</battle_size>
+      <Map_Size>
+         <map_area>8 Sq. km</map_area>
+         <map_width>4000 m</map_width>
+         <map_depth>2000 m</map_depth>
+      </Map_Size>
+      <region>Germany</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Damp</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMCW v1.00 to v1.06</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>trash</mod_tag>
+         <mod_tag>lawn</mod_tag>
+      </Mod_Tags>
+      <size_modifier>8</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Direction Found</battle_title>
+      </Title>
+      <filename>Direction Found</filename>
+      <picture_link>scenpics/Direction Found.bmp</picture_link>
+      <battle_type>Red Attack</battle_type>
+      <description>A Soviet Infantry Platoon is sent to raid a signal retransmission site. Best played as the Soviet attacker.</description>
+      <date>01/07/1981</date>
+      <time_of_day>09:20</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:30</length>
+      <battle_size>Tiny</battle_size>
+      <Map_Size>
+         <map_area>0.312 Sq. km</map_area>
+         <map_width>672 m</map_width>
+         <map_depth>464 m</map_depth>
+      </Map_Size>
+      <region>Germany</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Axis Force</early_intel>
+      <game_version>CMCW v1.00 to v1.06</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>2</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>NTC If It Ain&apos;t Cav...</battle_title>
+      </Title>
+      <filename>NTC If it ain_t cav</filename>
+      <picture_link>scenpics/NTC If it ain_t cav.bmp</picture_link>
+      <battle_type>Blue Probe</battle_type>
+      <description>NTC 1 Oct 1982 BLUEFOR battalion scout platoon conducts reconnaissance to allow brigade decisive operation freedom of maneuver. Best played as Blue; H2H only. </description>
+      <date>01/10/1982</date>
+      <time_of_day>07:45</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>02:00</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>8 Sq. km</map_area>
+         <map_width>4000 m</map_width>
+         <map_depth>2000 m</map_depth>
+      </Map_Size>
+      <region>National Training Center</region>
+      <environment>Open</environment>
+      <weather>Hazy</weather>
+      <temperature>Cool</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMCW v1.00 to v1.06</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>ntc</mod_tag>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>TRAINING Soviet Tactical Doctrine 1 (MRB)</battle_title>
+      </Title>
+      <filename>TRAINING Soviet Tactical Doctrine 1 (MRB)</filename>
+      <picture_link>scenpics/TRAINING Soviet Tactical Doctrine 1 (MRB).bmp</picture_link>
+      <battle_type>Red Assault</battle_type>
+      <description>Tutorial on how to employ a Soviet motor rifle battalion in a deliberate attack. Soviet player only.</description>
+      <date>25/06/1982</date>
+      <time_of_day>11:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:00</length>
+      <battle_size>Large</battle_size>
+      <Map_Size>
+         <map_area>8 Sq. km</map_area>
+         <map_width>4000 m</map_width>
+         <map_depth>2000 m</map_depth>
+      </Map_Size>
+      <region>Germany</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Axis Force</early_intel>
+      <game_version>CMCW v1.00 to v1.06</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>8</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Amateur Hour</battle_title>
+      </Title>
+      <filename>Amateur Hourv4</filename>
+      <picture_link>scenpics/Amateur Hourv4.bmp</picture_link>
+      <battle_type>Red Attack</battle_type>
+      <description>Comic AAR Scenario. Elements of teh 117th Guards MTR and 15th Guards Tank regiments push through a valley protected by a small US force</description>
+      <date>07/05/1979</date>
+      <time_of_day>06:30</time_of_day>
+      <part_of_day>Dawn</part_of_day>
+      <length>00:40</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>8 Sq. km</map_area>
+         <map_width>4000 m</map_width>
+         <map_depth>2000 m</map_depth>
+      </Map_Size>
+      <region>Germany</region>
+      <environment>Open</environment>
+      <weather>Light Rain</weather>
+      <temperature>Cool</temperature>
+      <ground_condition>Damp</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>pre-release CMCW v1.00</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>trash</mod_tag>
+         <mod_tag>lawn</mod_tag>
+         <mod_tag>stoumont</mod_tag>
+      </Mod_Tags>
+      <size_modifier>5</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Mittelaschenbach Sudden Awakening - 1979</battle_title>
+      </Title>
+      <filename>Mittelaschenbach</filename>
+      <picture_link>scenpics/Mittelaschenbach.bmp</picture_link>
+      <battle_type>Red Assault</battle_type>
+      <description>The Soviet forces have crossed the DDR border and are attempting to move from Oberaschenbach to Mittelaschenbach and onward to Morles, Hofbieber and Fulda.</description>
+      <date>04/03/1979</date>
+      <time_of_day>11:05</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:20</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>8.46 Sq. km</map_area>
+         <map_width>2448 m</map_width>
+         <map_depth>3456 m</map_depth>
+      </Map_Size>
+      <region>Germany</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMCW v1.00 to v1.06</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Route 66</battle_title>
+      </Title>
+      <filename>US Campaign Scenario  Route 66 (Blue or H2H ONLY)</filename>
+      <picture_link>scenpics/US Campaign Scenario  Route 66 (Blue or H2H ONLY).bmp</picture_link>
+      <battle_type>Meeting Engagement</battle_type>
+      <description>US - Soviet Meeting Engagement North of Schluchtern (Blue or H2H)</description>
+      <date>17/07/1982</date>
+      <time_of_day>17:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:30</length>
+      <battle_size>Large</battle_size>
+      <Map_Size>
+         <map_area>12.646 Sq. km</map_area>
+         <map_width>4160 m</map_width>
+         <map_depth>3040 m</map_depth>
+      </Map_Size>
+      <region>Germany</region>
+      <environment>Open</environment>
+      <weather>Overcast</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMCW v1.00 to v1.06</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>9</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>A Beautiful Morning</battle_title>
+      </Title>
+      <filename>A Beautiful Morning</filename>
+      <picture_link>scenpics/A Beautiful Morning.bmp</picture_link>
+      <battle_type>Blue Attack</battle_type>
+      <description>US Task Force attempts to penetrate Soviet lines. Designed and balanced for H2H but also playable both sides vs AI.</description>
+      <date>26/09/1981</date>
+      <time_of_day>08:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:00</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>5.681 Sq. km</map_area>
+         <map_width>2336 m</map_width>
+         <map_depth>2432 m</map_depth>
+      </Map_Size>
+      <region>Germany</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Cool</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMCW v1.00 to v1.06</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Everyone - Get out of Dodge</battle_title>
+      </Title>
+      <filename>Everyone-get out of Dodge</filename>
+      <picture_link>scenpics/Everyone-get out of Dodge.bmp</picture_link>
+      <battle_type>Red Attack</battle_type>
+      <description>US Forces trying to pull back and Excape a closing Encirclement - Bavaria Germany  Best played as US vs AI</description>
+      <date>02/08/1980</date>
+      <time_of_day>11:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:30</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>2.967 Sq. km</map_area>
+         <map_width>1952 m</map_width>
+         <map_depth>1520 m</map_depth>
+      </Map_Size>
+      <region>Germany</region>
+      <environment>Forest</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>pre-release CMCW v1.00</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Kriegsburg 1982</battle_title>
+      </Title>
+      <filename>Kriegsburg 1982</filename>
+      <picture_link>scenpics/Kriegsburg 1982.bmp</picture_link>
+      <battle_type>Red Attack</battle_type>
+      <description>Elements of a U.S. armored cavalry troop and a Soviet MRD clash in a 14-square kilometer Area of Operations.</description>
+      <date>01/07/1982</date>
+      <time_of_day>13:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>02:00</length>
+      <battle_size>Large</battle_size>
+      <Map_Size>
+         <map_area>14.4 Sq. km</map_area>
+         <map_width>3600 m</map_width>
+         <map_depth>4000 m</map_depth>
+      </Map_Size>
+      <region>Germany</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMCW v1.00 to v1.06</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>9</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>A Hill to Die On</battle_title>
+      </Title>
+      <filename>US Campaign Scenario  A Hill to Die On (Blue or H2H ONLY)</filename>
+      <picture_link>scenpics/US Campaign Scenario  A Hill to Die On (Blue or H2H ONLY).bmp</picture_link>
+      <battle_type>Red Assault</battle_type>
+      <description>Soviet Armd Assault on US position near Schweben (Blue or H2H)</description>
+      <date>16/07/1982</date>
+      <time_of_day>16:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:00</length>
+      <battle_size>Large</battle_size>
+      <Map_Size>
+         <map_area>14.016 Sq. km</map_area>
+         <map_width>4000 m</map_width>
+         <map_depth>3504 m</map_depth>
+      </Map_Size>
+      <region>Germany</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Axis Force</early_intel>
+      <game_version>CMCW v1.00 to v1.06</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>trash</mod_tag>
+         <mod_tag>lawn</mod_tag>
+         <mod_tag>stoumont</mod_tag>
+         <mod_tag>warehouse</mod_tag>
+      </Mod_Tags>
+      <size_modifier>8</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Amateur Hour</battle_title>
+      </Title>
+      <filename>Amateur Hour</filename>
+      <picture_link>scenpics/Amateur Hour.bmp</picture_link>
+      <battle_type>Blue Attack</battle_type>
+      <description>Not defined!</description>
+      <date>07/05/1979</date>
+      <time_of_day>06:30</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:30</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>8 Sq. km</map_area>
+         <map_width>4000 m</map_width>
+         <map_depth>2000 m</map_depth>
+      </Map_Size>
+      <region>Germany</region>
+      <environment>Open</environment>
+      <weather>Light Rain</weather>
+      <temperature>Cool</temperature>
+      <ground_condition>Damp</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>pre-release CMCW v1.00</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>trash</mod_tag>
+         <mod_tag>lawn</mod_tag>
+         <mod_tag>stoumont</mod_tag>
+      </Mod_Tags>
+      <size_modifier>5</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Kriegsburg 1980</battle_title>
+      </Title>
+      <filename>Kriegsburg 1980</filename>
+      <picture_link>scenpics/Kriegsburg 1980.bmp</picture_link>
+      <battle_type>Red Attack</battle_type>
+      <description>Elements of a U.S. armored cavalry troop and a Soviet MRD clash in a 14-square kilometer Area of Operations. </description>
+      <date>01/07/1980</date>
+      <time_of_day>13:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>02:00</length>
+      <battle_size>Large</battle_size>
+      <Map_Size>
+         <map_area>14.4 Sq. km</map_area>
+         <map_width>3600 m</map_width>
+         <map_depth>4000 m</map_depth>
+      </Map_Size>
+      <region>Germany</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMCW v1.00 to v1.06</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>9</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Skirmish at Sichenhausen</battle_title>
+      </Title>
+      <filename>Skirmish at Sichenhausen</filename>
+      <picture_link>scenpics/Skirmish at Sichenhausen.bmp</picture_link>
+      <battle_type>Meeting Engagement</battle_type>
+      <description>U.S. and Soviet flank guards clash at Sichenhausen village.</description>
+      <date>01/05/1981</date>
+      <time_of_day>11:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:00</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>2.596 Sq. km</map_area>
+         <map_width>1040 m</map_width>
+         <map_depth>2496 m</map_depth>
+      </Map_Size>
+      <region>Germany</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Cool</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMCW v1.00 to v1.06</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Stem the Tide</battle_title>
+      </Title>
+      <filename>Stem the Tide (Blue or H2H ONLY)</filename>
+      <picture_link>scenpics/Stem the Tide (Blue or H2H ONLY).bmp</picture_link>
+      <battle_type>Meeting Engagement</battle_type>
+      <description>U.S. Army mechanized infantry attempt to stop a Soviet breakthrough. Playable as Blue only. </description>
+      <date>01/03/1982</date>
+      <time_of_day>07:15</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:55</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>1.508 Sq. km</map_area>
+         <map_width>992 m</map_width>
+         <map_depth>1520 m</map_depth>
+      </Map_Size>
+      <region>Germany</region>
+      <environment>Town</environment>
+      <weather>Clear</weather>
+      <temperature>Cool</temperature>
+      <ground_condition>Damp</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMCW v1.00 to v1.06</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Kriegsburg 1979</battle_title>
+      </Title>
+      <filename>Kriegsburg 1979</filename>
+      <picture_link>scenpics/Kriegsburg 1979.bmp</picture_link>
+      <battle_type>Red Attack</battle_type>
+      <description>Elements of a U.S. armored cavalry troop and a Soviet MRD clash in a 14-square kilometer Area of Operations. </description>
+      <date>01/07/1979</date>
+      <time_of_day>13:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>02:00</length>
+      <battle_size>Large</battle_size>
+      <Map_Size>
+         <map_area>14.4 Sq. km</map_area>
+         <map_width>3600 m</map_width>
+         <map_depth>4000 m</map_depth>
+      </Map_Size>
+      <region>Germany</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMCW v1.00 to v1.06</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>9</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Amateur Hour</battle_title>
+      </Title>
+      <filename>Amateur Hour-Test</filename>
+      <picture_link>scenpics/Amateur Hour-Test.bmp</picture_link>
+      <battle_type>Blue Attack</battle_type>
+      <description>Not defined!</description>
+      <date>07/05/1979</date>
+      <time_of_day>06:30</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:30</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>8 Sq. km</map_area>
+         <map_width>4000 m</map_width>
+         <map_depth>2000 m</map_depth>
+      </Map_Size>
+      <region>Germany</region>
+      <environment>Open</environment>
+      <weather>Light Rain</weather>
+      <temperature>Cool</temperature>
+      <ground_condition>Damp</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>pre-release CMCW v1.00</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>trash</mod_tag>
+         <mod_tag>lawn</mod_tag>
+         <mod_tag>stoumont</mod_tag>
+      </Mod_Tags>
+      <size_modifier>5</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>NTC If it ain&apos;t cav...</battle_title>
+      </Title>
+      <filename>NTC If it ain&apos;t cav</filename>
+      <picture_link>scenpics/NTC If it ain&apos;t cav.bmp</picture_link>
+      <battle_type>Blue Probe</battle_type>
+      <description>NTC 1 Oct 1982 BLUEFOR battalion scout platoon conducts reconnaissance to allow brigade decisive operation freedom of maneuver. Best play as Blue vs Red AI; H2H only.</description>
+      <date>01/10/1982</date>
+      <time_of_day>07:45</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>02:00</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>8 Sq. km</map_area>
+         <map_width>4000 m</map_width>
+         <map_depth>2000 m</map_depth>
+      </Map_Size>
+      <region>National Training Center</region>
+      <environment>Open</environment>
+      <weather>Hazy</weather>
+      <temperature>Cool</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMCW v1.00 to v1.06</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>ntc</mod_tag>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Tank Training 1980</battle_title>
+      </Title>
+      <filename>NTC Tank Training 1980</filename>
+      <picture_link>scenpics/NTC Tank Training 1980.bmp</picture_link>
+      <battle_type>Meeting Engagement</battle_type>
+      <description>National Guards vs OPFOR at the NTC. Best played as U.S. or H2H. Tanks featured: M60A2 and M60A1 RISE Passive vs T64. </description>
+      <date>16/05/1980</date>
+      <time_of_day>08:30</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:00</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>7.04 Sq. km</map_area>
+         <map_width>3520 m</map_width>
+         <map_depth>2000 m</map_depth>
+      </Map_Size>
+      <region>National Training Center</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMCW v1.00 to v1.06</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Killing Time at Kirtof</battle_title>
+      </Title>
+      <filename>Killing time at Kirtof</filename>
+      <picture_link>scenpics/Killing time at Kirtof.bmp</picture_link>
+      <battle_type>Red Attack</battle_type>
+      <description>A Soviet MRB attack on a hasty US Team defence. Best played as Blue vs AI</description>
+      <date>21/08/1982</date>
+      <time_of_day>07:50</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:00</length>
+      <battle_size>Large</battle_size>
+      <Map_Size>
+         <map_area>8 Sq. km</map_area>
+         <map_width>4000 m</map_width>
+         <map_depth>2000 m</map_depth>
+      </Map_Size>
+      <region>Germany</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Damp</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>pre-release CMCW v1.00</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>trash</mod_tag>
+         <mod_tag>lawn</mod_tag>
+      </Mod_Tags>
+      <size_modifier>8</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>The Citadel</battle_title>
+      </Title>
+      <filename>US Campaign Scenario  The Citadel (Blue or H2H ONLY)</filename>
+      <picture_link>scenpics/US Campaign Scenario  The Citadel (Blue or H2H ONLY).bmp</picture_link>
+      <battle_type>Red Assault</battle_type>
+      <description>Soviet Assault on US positions above Highway 66 (Blue or H2H)</description>
+      <date>19/07/1982</date>
+      <time_of_day>08:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:30</length>
+      <battle_size>Huge</battle_size>
+      <Map_Size>
+         <map_area>16.646 Sq. km</map_area>
+         <map_width>4080 m</map_width>
+         <map_depth>4080 m</map_depth>
+      </Map_Size>
+      <region>Germany</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMCW v1.00 to v1.06</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>trash</mod_tag>
+         <mod_tag>lawn</mod_tag>
+         <mod_tag>stoumont</mod_tag>
+         <mod_tag>warehouse</mod_tag>
+      </Mod_Tags>
+      <size_modifier>10</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Hamelin-Spear and Shield HvsH</battle_title>
+      </Title>
+      <filename>Hamelin-Spear and Shield HvsH V2</filename>
+      <picture_link>scenpics/Hamelin-Spear and Shield HvsH V2.bmp</picture_link>
+      <battle_type>Red Attack</battle_type>
+      <description>Human vs Human only. Soviet attack on US defensive position. </description>
+      <date>09/05/1981</date>
+      <time_of_day>06:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:30</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>7.838 Sq. km</map_area>
+         <map_width>3888 m</map_width>
+         <map_depth>2016 m</map_depth>
+      </Map_Size>
+      <region>Germany</region>
+      <environment>Open</environment>
+      <weather>Mist</weather>
+      <temperature>Cool</temperature>
+      <ground_condition>Damp</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMCW v1.00 to v1.06</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Bear in the Sun</battle_title>
+      </Title>
+      <filename>US Campaign Scenario  Bear In the Sun (Blue or H2H ONLY)</filename>
+      <picture_link>scenpics/US Campaign Scenario  Bear In the Sun (Blue or H2H ONLY).bmp</picture_link>
+      <battle_type>Red Attack</battle_type>
+      <description>Soviet attack on Neuhof (Blue or H2H). </description>
+      <date>16/07/1982</date>
+      <time_of_day>11:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:00</length>
+      <battle_size>Huge</battle_size>
+      <Map_Size>
+         <map_area>14.4 Sq. km</map_area>
+         <map_width>3600 m</map_width>
+         <map_depth>4000 m</map_depth>
+      </Map_Size>
+      <region>Germany</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Cool</temperature>
+      <ground_condition>Damp</ground_condition>
+      <early_intel>Axis Force</early_intel>
+      <game_version>CMCW v1.00 to v1.06</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>trash</mod_tag>
+         <mod_tag>lawn</mod_tag>
+         <mod_tag>stoumont</mod_tag>
+         <mod_tag>warehouse</mod_tag>
+      </Mod_Tags>
+      <size_modifier>10</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Abatis</battle_title>
+      </Title>
+      <filename>Abatis</filename>
+      <picture_link>scenpics/Abatis.bmp</picture_link>
+      <battle_type>Red Probe</battle_type>
+      <description>US Mechanized Inf attempts to delay Soviet forces moving west. Relatively small scenario, suitable for real time. Preferred H2H, or Red vs AI. </description>
+      <date>16/07/1982</date>
+      <time_of_day>17:10</time_of_day>
+      <part_of_day>Dusk</part_of_day>
+      <length>00:45</length>
+      <battle_size>Small</battle_size>
+      <Map_Size>
+         <map_area>0.625 Sq. km</map_area>
+         <map_width>976 m</map_width>
+         <map_depth>640 m</map_depth>
+      </Map_Size>
+      <region>Germany</region>
+      <environment>Forest</environment>
+      <weather>Light Rain</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Damp</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMCW v1.00 to v1.06</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>3</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Iron Within, Iron Without - HvsH - LowTech</battle_title>
+      </Title>
+      <filename>Iron Within, Iron Without - HvsH - LowTech</filename>
+      <picture_link>scenpics/Iron Within, Iron Without - HvsH - LowTech.bmp</picture_link>
+      <battle_type>Blue Attack</battle_type>
+      <description>Not defined!</description>
+      <date>15/05/1981</date>
+      <time_of_day>08:05</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:00</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>12.612 Sq. km</map_area>
+         <map_width>3312 m</map_width>
+         <map_depth>3808 m</map_depth>
+      </Map_Size>
+      <region>Germany</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Cool</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMCW v1.00 to v1.06</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>SF Bonnland</battle_title>
+      </Title>
+      <filename>SF Bonnland</filename>
+      <picture_link>scenpics/SF Bonnland.bmp</picture_link>
+      <battle_type>Blue Probe</battle_type>
+      <description>A U.S. mechanized company attemps to move past Soviet forces. Playable either side, Blue preferred</description>
+      <date>11/07/1979</date>
+      <time_of_day>06:15</time_of_day>
+      <part_of_day>Dawn</part_of_day>
+      <length>00:30</length>
+      <battle_size>Small</battle_size>
+      <Map_Size>
+         <map_area>0.564 Sq. km</map_area>
+         <map_width>608 m</map_width>
+         <map_depth>928 m</map_depth>
+      </Map_Size>
+      <region>Germany</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Cool</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMCW v1.00 to v1.06</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>3</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>TRAINING Soviet Tactical Doctrine 2 (MRB)</battle_title>
+      </Title>
+      <filename>TRAINING Soviet Tactical Doctrine 2 (MRB).</filename>
+      <picture_link>scenpics/TRAINING Soviet Tactical Doctrine 2 (MRB)..bmp</picture_link>
+      <battle_type>Red Attack</battle_type>
+      <description>Tutorial on how to employ a Soviet Motor Rifle Battalion in the meeting engagement. Soviet player vs Blue AI only. </description>
+      <date>25/06/1982</date>
+      <time_of_day>12:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:00</length>
+      <battle_size>Large</battle_size>
+      <Map_Size>
+         <map_area>8 Sq. km</map_area>
+         <map_width>4000 m</map_width>
+         <map_depth>2000 m</map_depth>
+      </Map_Size>
+      <region>Germany</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMCW v1.00 to v1.06</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>8</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Dollbach Heights</battle_title>
+      </Title>
+      <filename>US Campaign Scenario  Dollbach Heights (Blue or H2H ONLY)</filename>
+      <picture_link>scenpics/US Campaign Scenario  Dollbach Heights (Blue or H2H ONLY).bmp</picture_link>
+      <battle_type>Blue Attack</battle_type>
+      <description>US Interdiction on Soviet Flank near the town of Dollbach (Blue or H2H)</description>
+      <date>16/07/1982</date>
+      <time_of_day>16:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:40</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>5.024 Sq. km</map_area>
+         <map_width>2000 m</map_width>
+         <map_depth>2512 m</map_depth>
+      </Map_Size>
+      <region>Germany</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMCW v1.00 to v1.06</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>5</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>They Own the Night &apos;82</battle_title>
+      </Title>
+      <filename>US Campaign Scenario They Own the Night (Blue of H2H ONLY)</filename>
+      <picture_link>scenpics/US Campaign Scenario They Own the Night (Blue of H2H ONLY).bmp</picture_link>
+      <battle_type>Red Probe</battle_type>
+      <description>Soviet probe outside of Neuhof (Blue or H2H). </description>
+      <date>15/07/1982</date>
+      <time_of_day>02:00</time_of_day>
+      <part_of_day>Night</part_of_day>
+      <length>00:25</length>
+      <battle_size>Tiny</battle_size>
+      <Map_Size>
+         <map_area>0.876 Sq. km</map_area>
+         <map_width>912 m</map_width>
+         <map_depth>960 m</map_depth>
+      </Map_Size>
+      <region>Germany</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Cool</temperature>
+      <ground_condition>Damp</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMCW v1.00 to v1.06</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>trash</mod_tag>
+         <mod_tag>lawn</mod_tag>
+         <mod_tag>stoumont</mod_tag>
+         <mod_tag>warehouse</mod_tag>
+      </Mod_Tags>
+      <size_modifier>1</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Amateur Hour</battle_title>
+      </Title>
+      <filename>Amateur Hourv3</filename>
+      <picture_link>scenpics/Amateur Hourv3.bmp</picture_link>
+      <battle_type>Blue Attack</battle_type>
+      <description>Not defined!</description>
+      <date>07/05/1979</date>
+      <time_of_day>06:30</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:40</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>8 Sq. km</map_area>
+         <map_width>4000 m</map_width>
+         <map_depth>2000 m</map_depth>
+      </Map_Size>
+      <region>Germany</region>
+      <environment>Open</environment>
+      <weather>Light Rain</weather>
+      <temperature>Cool</temperature>
+      <ground_condition>Damp</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>pre-release CMCW v1.00</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>trash</mod_tag>
+         <mod_tag>lawn</mod_tag>
+         <mod_tag>stoumont</mod_tag>
+      </Mod_Tags>
+      <size_modifier>5</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Take the Bridge - 2 Player Only</battle_title>
+      </Title>
+      <filename>TaketheBridgev1</filename>
+      <picture_link>scenpics/TaketheBridgev1.bmp</picture_link>
+      <battle_type>Blue Attack</battle_type>
+      <description>US Rangers try and take a bridge away from Soviet Recon</description>
+      <date>01/07/1982</date>
+      <time_of_day>05:00</time_of_day>
+      <part_of_day>Dawn</part_of_day>
+      <length>00:30</length>
+      <battle_size>Small</battle_size>
+      <Map_Size>
+         <map_area>0.227 Sq. km</map_area>
+         <map_width>592 m</map_width>
+         <map_depth>384 m</map_depth>
+      </Map_Size>
+      <region>Germany</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMCW v1.00 to v1.06</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>trash</mod_tag>
+         <mod_tag>lawn</mod_tag>
+         <mod_tag>trashsoft</mod_tag>
+      </Mod_Tags>
+      <size_modifier>3</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Dr Ivan I presume ?</battle_title>
+      </Title>
+      <filename>Dr Ivan I Presume HvsH</filename>
+      <picture_link>scenpics/Dr Ivan I Presume HvsH.bmp</picture_link>
+      <battle_type>Meeting Engagement</battle_type>
+      <description>US and Soviet reconnaissance troops have an unexpected meeting in a valley west of Hamelin</description>
+      <date>11/05/1981</date>
+      <time_of_day>08:35</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:30</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>5.043 Sq. km</map_area>
+         <map_width>3152 m</map_width>
+         <map_depth>1600 m</map_depth>
+      </Map_Size>
+      <region>Germany</region>
+      <environment>Rough</environment>
+      <weather>Clear</weather>
+      <temperature>Cool</temperature>
+      <ground_condition>Damp</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMCW v1.00 to v1.06</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>The Last Starship</battle_title>
+      </Title>
+      <filename>The Last Starship</filename>
+      <picture_link>scenpics/The Last Starship.bmp</picture_link>
+      <battle_type>Red Attack</battle_type>
+      <description>A surrounded M60A2 Starship company attempts to hold off a Soviet attack.</description>
+      <date>30/09/1981</date>
+      <time_of_day>18:50</time_of_day>
+      <part_of_day>Dusk</part_of_day>
+      <length>01:00</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>7.04 Sq. km</map_area>
+         <map_width>3520 m</map_width>
+         <map_depth>2000 m</map_depth>
+      </Map_Size>
+      <region>National Training Center</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Very Dry</ground_condition>
+      <early_intel>Allied Force</early_intel>
+      <game_version>CMCW v1.00 to v1.06</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Eyes for Eyes</battle_title>
+      </Title>
+      <filename>Eyes for Eyes - Hamelin v1</filename>
+      <picture_link>scenpics/Eyes for Eyes - Hamelin v1.bmp</picture_link>
+      <battle_type>Blue Attack</battle_type>
+      <description>A US recon platoon spot an target of opportuniy. Human vs Human only. </description>
+      <date>09/05/1981</date>
+      <time_of_day>06:00</time_of_day>
+      <part_of_day>Dawn</part_of_day>
+      <length>00:45</length>
+      <battle_size>Small</battle_size>
+      <Map_Size>
+         <map_area>2.252 Sq. km</map_area>
+         <map_width>1328 m</map_width>
+         <map_depth>1696 m</map_depth>
+      </Map_Size>
+      <region>Germany</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Cool</temperature>
+      <ground_condition>Damp</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMCW v1.00 to v1.06</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>3</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Fleeing Altdorf</battle_title>
+      </Title>
+      <filename>Fleeing Altdorf</filename>
+      <picture_link>scenpics/Fleeing Altdorf.bmp</picture_link>
+      <battle_type>Red Attack</battle_type>
+      <description>A U.S. platoon must escape the Soviet steamroller on invasion day. U.S. vs AI or H2H preferred. </description>
+      <date>06/05/1982</date>
+      <time_of_day>16:10</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:40</length>
+      <battle_size>Small</battle_size>
+      <Map_Size>
+         <map_area>0.143 Sq. km</map_area>
+         <map_width>448 m</map_width>
+         <map_depth>320 m</map_depth>
+      </Map_Size>
+      <region>Germany</region>
+      <environment>City</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMCW v1.00 to v1.06</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>3</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>TRAINING Soviet Tactical Doctrine 2 (TB)</battle_title>
+      </Title>
+      <filename>TRAINING Soviet Tactical Doctrine 2 (TB)</filename>
+      <picture_link>scenpics/TRAINING Soviet Tactical Doctrine 2 (TB).bmp</picture_link>
+      <battle_type>Red Attack</battle_type>
+      <description>Tutorial on how to employ a Soviet tank battalion in the meeting engagement. Soviet player only. </description>
+      <date>25/06/1982</date>
+      <time_of_day>12:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:00</length>
+      <battle_size>Large</battle_size>
+      <Map_Size>
+         <map_area>8 Sq. km</map_area>
+         <map_width>4000 m</map_width>
+         <map_depth>2000 m</map_depth>
+      </Map_Size>
+      <region>Germany</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMCW v1.00 to v1.06</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>8</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Kriegsburg 1981</battle_title>
+      </Title>
+      <filename>Kriegsburg 1981</filename>
+      <picture_link>scenpics/Kriegsburg 1981.bmp</picture_link>
+      <battle_type>Red Attack</battle_type>
+      <description>Elements of a U.S. armored cavalry troop and a Soviet MRD clash in a 14-square kilometer Area of Operations.</description>
+      <date>01/07/1981</date>
+      <time_of_day>13:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>02:00</length>
+      <battle_size>Large</battle_size>
+      <Map_Size>
+         <map_area>14.4 Sq. km</map_area>
+         <map_width>3600 m</map_width>
+         <map_depth>4000 m</map_depth>
+      </Map_Size>
+      <region>Germany</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMCW v1.00 to v1.06</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>9</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Czechmate</battle_title>
+      </Title>
+      <filename>Czechmate</filename>
+      <picture_link>scenpics/Czechmate.bmp</picture_link>
+      <battle_type>Red Probe</battle_type>
+      <description>Soviet forces probe the American defenses on the Czech border</description>
+      <date>05/06/1982</date>
+      <time_of_day>11:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:30</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>11.21 Sq. km</map_area>
+         <map_width>4640 m</map_width>
+         <map_depth>2416 m</map_depth>
+      </Map_Size>
+      <region>Germany</region>
+      <environment>Hills</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>pre-release CMCW v1.00</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Fox Break</battle_title>
+      </Title>
+      <filename>Fox Break-BLUE vs IA</filename>
+      <picture_link>scenpics/Fox Break-BLUE vs IA.bmp</picture_link>
+      <battle_type>Blue Attack</battle_type>
+      <description>Hold against soviet attack whil Fox co try to rejoin friendly line</description>
+      <date>16/03/1980</date>
+      <time_of_day>17:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:50</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>7.154 Sq. km</map_area>
+         <map_width>3312 m</map_width>
+         <map_depth>2160 m</map_depth>
+      </Map_Size>
+      <region>Germany</region>
+      <environment>Open</environment>
+      <weather>Mist and Rain</weather>
+      <temperature>Cold</temperature>
+      <ground_condition>Damp</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMCW v1.00 to v1.06</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Unhook the Leash</battle_title>
+      </Title>
+      <filename>US Campaign Scenario Unhook the Leash (Blue or H2H ONLY)</filename>
+      <picture_link>scenpics/US Campaign Scenario Unhook the Leash (Blue or H2H ONLY).bmp</picture_link>
+      <battle_type>Blue Attack</battle_type>
+      <description>U.S attack on Soviet Divisional HQ elements near Wachtersbach (Blue or H2H).</description>
+      <date>19/07/1982</date>
+      <time_of_day>15:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:30</length>
+      <battle_size>Large</battle_size>
+      <Map_Size>
+         <map_area>15.064 Sq. km</map_area>
+         <map_width>3008 m</map_width>
+         <map_depth>5008 m</map_depth>
+      </Map_Size>
+      <region>Germany</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMCW v1.00 to v1.06</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>trash</mod_tag>
+         <mod_tag>lawn</mod_tag>
+         <mod_tag>stoumont</mod_tag>
+         <mod_tag>combat</mod_tag>
+      </Mod_Tags>
+      <size_modifier>9</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Sanity Test</battle_title>
+      </Title>
+      <filename>BasicSanityTest</filename>
+      <picture_link>scenpics/BasicSanityTest.bmp</picture_link>
+      <battle_type>Blue Attack</battle_type>
+      <description>Just the map for sanity test creation</description>
+      <date>01/07/1979</date>
+      <time_of_day>11:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:30</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>2.35 Sq. km</map_area>
+         <map_width>2160 m</map_width>
+         <map_depth>1088 m</map_depth>
+      </Map_Size>
+      <region>Germany</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMCW v1.00 to v1.06</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>5</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Iron Within, Iron Without - HvsH - HighTech</battle_title>
+      </Title>
+      <filename>Iron Within, Iron Without - HvsH - HighTech</filename>
+      <picture_link>scenpics/Iron Within, Iron Without - HvsH - HighTech.bmp</picture_link>
+      <battle_type>Blue Attack</battle_type>
+      <description>Not defined!</description>
+      <date>15/05/1981</date>
+      <time_of_day>08:05</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:00</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>12.612 Sq. km</map_area>
+         <map_width>3312 m</map_width>
+         <map_depth>3808 m</map_depth>
+      </Map_Size>
+      <region>Germany</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Cool</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMCW v1.00 to v1.06</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Racing the Moon &apos;82</battle_title>
+      </Title>
+      <filename>US Campaign Scenario  Racing the Moon (Blue or H2H ONLY)</filename>
+      <picture_link>scenpics/US Campaign Scenario  Racing the Moon (Blue or H2H ONLY).bmp</picture_link>
+      <battle_type>Red Probe</battle_type>
+      <description>U.S. covering force attempts to rescue retreating U.S. force from Soviet lead elements (Blue of H2H). </description>
+      <date>15/07/1982</date>
+      <time_of_day>16:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:40</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>6.632 Sq. km</map_area>
+         <map_width>2512 m</map_width>
+         <map_depth>2640 m</map_depth>
+      </Map_Size>
+      <region>Germany</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Cool</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMCW v1.00 to v1.06</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>trash</mod_tag>
+         <mod_tag>lawn</mod_tag>
+         <mod_tag>stoumont</mod_tag>
+      </Mod_Tags>
+      <size_modifier>5</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>TRAINING Soviet Tactical Doctrine 1 (TB)</battle_title>
+      </Title>
+      <filename>TRAINING Soviet Tactical Doctrine 1 (TB)</filename>
+      <picture_link>scenpics/TRAINING Soviet Tactical Doctrine 1 (TB).bmp</picture_link>
+      <battle_type>Red Assault</battle_type>
+      <description>Tutorial on how to employ a Soviet tank battalion in a deliberate attack. Soviet player only. </description>
+      <date>25/06/1982</date>
+      <time_of_day>11:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:00</length>
+      <battle_size>Large</battle_size>
+      <Map_Size>
+         <map_area>8 Sq. km</map_area>
+         <map_width>4000 m</map_width>
+         <map_depth>2000 m</map_depth>
+      </Map_Size>
+      <region>Germany</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Axis Force</early_intel>
+      <game_version>CMCW v1.00 to v1.06</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>8</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Valley of Ashes</battle_title>
+      </Title>
+      <filename>Valley of Ashes</filename>
+      <picture_link>scenpics/Valley of Ashes.bmp</picture_link>
+      <battle_type>Meeting Engagement</battle_type>
+      <description>U.S. - Soviet meeting engagement at dawn. (Playable either side: U.S. easy, Soviet hard.)</description>
+      <date>14/07/1981</date>
+      <time_of_day>06:00</time_of_day>
+      <part_of_day>Dawn</part_of_day>
+      <length>01:00</length>
+      <battle_size>Large</battle_size>
+      <Map_Size>
+         <map_area>8 Sq. km</map_area>
+         <map_width>4000 m</map_width>
+         <map_depth>2000 m</map_depth>
+      </Map_Size>
+      <region>Germany</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMCW v1.00 to v1.06</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>trash</mod_tag>
+         <mod_tag>lawn</mod_tag>
+      </Mod_Tags>
+      <size_modifier>8</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Between Two Fahrbahns</battle_title>
+      </Title>
+      <filename>Between Two Fahrbahns</filename>
+      <picture_link>scenpics/Between Two Fahrbahns.bmp</picture_link>
+      <battle_type>Red Attack</battle_type>
+      <description>M60A2s attempt to halt the Soviet advance, March 22, 1979. Play either side, Blue preferred.</description>
+      <date>22/03/1979</date>
+      <time_of_day>08:15</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:50</length>
+      <battle_size>Small</battle_size>
+      <Map_Size>
+         <map_area>1.577 Sq. km</map_area>
+         <map_width>2528 m</map_width>
+         <map_depth>624 m</map_depth>
+      </Map_Size>
+      <region>Germany</region>
+      <environment>Open</environment>
+      <weather>Light Rain</weather>
+      <temperature>Cool</temperature>
+      <ground_condition>Damp</ground_condition>
+      <early_intel>Axis Force</early_intel>
+      <game_version>CMCW v1.00 to v1.06</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>3</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Fox Hold-BLEU vs IA</battle_title>
+      </Title>
+      <filename>Fox Hold-BLUE vs IA</filename>
+      <picture_link>scenpics/Fox Hold-BLUE vs IA.bmp</picture_link>
+      <battle_type>Red Attack</battle_type>
+      <description>An isolated US company face a soviet attack</description>
+      <date>07/03/1980</date>
+      <time_of_day>07:30</time_of_day>
+      <part_of_day>Dawn</part_of_day>
+      <length>02:00</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>2.363 Sq. km</map_area>
+         <map_width>1136 m</map_width>
+         <map_depth>2080 m</map_depth>
+      </Map_Size>
+      <region>Germany</region>
+      <environment>Open</environment>
+      <weather>Mist</weather>
+      <temperature>Cold</temperature>
+      <ground_condition>Damp</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMCW v1.00 to v1.06</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Czechmate</battle_title>
+      </Title>
+      <filename>Czechmate Final</filename>
+      <picture_link>scenpics/Czechmate Final.bmp</picture_link>
+      <battle_type>Red Probe</battle_type>
+      <description>Soviet forces probe the American defenses on the Czech border</description>
+      <date>05/06/1982</date>
+      <time_of_day>11:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:40</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>11.21 Sq. km</map_area>
+         <map_width>4640 m</map_width>
+         <map_depth>2416 m</map_depth>
+      </Map_Size>
+      <region>Germany</region>
+      <environment>Hills</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMCW v1.00 to v1.06</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Tank Training 1982</battle_title>
+      </Title>
+      <filename>NTC Tank Training 1982</filename>
+      <picture_link>scenpics/NTC Tank Training 1982.bmp</picture_link>
+      <battle_type>Meeting Engagement</battle_type>
+      <description>National Guards vs OPFOR at the NTC. Best played as U.S. or H2H. Tanks featured: M60A3TTS and M1 Abrams vs T80.</description>
+      <date>16/05/1982</date>
+      <time_of_day>08:30</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:00</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>7.04 Sq. km</map_area>
+         <map_width>3520 m</map_width>
+         <map_depth>2000 m</map_depth>
+      </Map_Size>
+      <region>National Training Center</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMCW v1.00 to v1.06</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Brauersdorf</battle_title>
+      </Title>
+      <filename>Brauersdorf</filename>
+      <picture_link>scenpics/Brauersdorf.bmp</picture_link>
+      <battle_type>Red Attack</battle_type>
+      <description>U.S. Mechanized Infantry position themselves to block a Soviet armored thrust through a village on Budesstrasse 8. Best played as the NATO defender.</description>
+      <date>18/07/1981</date>
+      <time_of_day>00:00</time_of_day>
+      <part_of_day>Night</part_of_day>
+      <length>00:50</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>1.837 Sq. km</map_area>
+         <map_width>1664 m</map_width>
+         <map_depth>1104 m</map_depth>
+      </Map_Size>
+      <region>Germany</region>
+      <environment>Village</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMCW v1.00 to v1.06</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Bad and Worse</battle_title>
+      </Title>
+      <filename>US Campaign Scenario  Bad and Worse (Blue or H2H ONLY)</filename>
+      <picture_link>scenpics/US Campaign Scenario  Bad and Worse (Blue or H2H ONLY).bmp</picture_link>
+      <battle_type>Blue Attack</battle_type>
+      <description>U.S. counterattack near the Kinzig Dam (Blue or H2H). </description>
+      <date>18/07/1982</date>
+      <time_of_day>09:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:00</length>
+      <battle_size>Large</battle_size>
+      <Map_Size>
+         <map_area>7.508 Sq. km</map_area>
+         <map_width>3008 m</map_width>
+         <map_depth>2496 m</map_depth>
+      </Map_Size>
+      <region>Germany</region>
+      <environment>Open</environment>
+      <weather>Light Rain</weather>
+      <temperature>Cool</temperature>
+      <ground_condition>Damp</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMCW v1.00 to v1.06</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>8</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Bumps in the Dark &apos;82</battle_title>
+      </Title>
+      <filename>US Campaign Scenario  Bumps in the Dark (Blue or H2H ONLY)</filename>
+      <picture_link>scenpics/US Campaign Scenario  Bumps in the Dark (Blue or H2H ONLY).bmp</picture_link>
+      <battle_type>Red Attack</battle_type>
+      <description>U.S. screen and withdrawl against Soviet forward security element (Blue or H2H). </description>
+      <date>15/07/1982</date>
+      <time_of_day>18:00</time_of_day>
+      <part_of_day>Dusk</part_of_day>
+      <length>00:25</length>
+      <battle_size>Small</battle_size>
+      <Map_Size>
+         <map_area>0.965 Sq. km</map_area>
+         <map_width>928 m</map_width>
+         <map_depth>1040 m</map_depth>
+      </Map_Size>
+      <region>Germany</region>
+      <environment>Open</environment>
+      <weather>Light Fog</weather>
+      <temperature>Cool</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMCW v1.00 to v1.06</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>2</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>A Miserable Morning</battle_title>
+      </Title>
+      <filename>A Miserable Morning</filename>
+      <picture_link>scenpics/A Miserable Morning.bmp</picture_link>
+      <battle_type>Red Attack</battle_type>
+      <description>Not defined!</description>
+      <date>14/09/1980</date>
+      <time_of_day>08:00</time_of_day>
+      <part_of_day>Dawn</part_of_day>
+      <length>00:30</length>
+      <battle_size>Large</battle_size>
+      <Map_Size>
+         <map_area>4.71 Sq. km</map_area>
+         <map_width>1840 m</map_width>
+         <map_depth>2560 m</map_depth>
+      </Map_Size>
+      <region>Germany</region>
+      <environment>Hills</environment>
+      <weather>Heavy Rain</weather>
+      <temperature>Cool</temperature>
+      <ground_condition>Damp</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMCW v1.00 to v1.06</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Tank Training 1979</battle_title>
+      </Title>
+      <filename>NTC Tank Training 1979</filename>
+      <picture_link>scenpics/NTC Tank Training 1979.bmp</picture_link>
+      <battle_type>Meeting Engagement</battle_type>
+      <description>National Guards vs OPFOR at the NTC. Best played as U.S. or H2H. Tanks featured: M48A5 and M60A1 vs T62. </description>
+      <date>16/05/1979</date>
+      <time_of_day>08:30</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:00</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>7.04 Sq. km</map_area>
+         <map_width>3520 m</map_width>
+         <map_depth>2000 m</map_depth>
+      </Map_Size>
+      <region>National Training Center</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMCW v1.00 to v1.06</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>CC-s01: Baumholder Army Airfield &apos;85</battle_title>
+      </Title>
+      <filename>CC-s01 Baumholder Army Airfield</filename>
+      <picture_link>scenpics/CC-s01 Baumholder Army Airfield.bmp</picture_link>
+      <battle_type>Blue Attack</battle_type>
+      <description>Baumholder Army Airfield has been captured by Soviet Air Assault forces. Play BLUE vs AI Only.</description>
+      <date>04/07/1982</date>
+      <time_of_day>04:30</time_of_day>
+      <part_of_day>Night</part_of_day>
+      <length>00:40</length>
+      <battle_size>Small</battle_size>
+      <Map_Size>
+         <map_area>1.016 Sq. km</map_area>
+         <map_width>1008 m</map_width>
+         <map_depth>1008 m</map_depth>
+      </Map_Size>
+      <region>Germany</region>
+      <environment>Forest</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Allied Force</early_intel>
+      <game_version>CMCW v1.00 to v1.06</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>3</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Rumpenheim Rumpus</battle_title>
+      </Title>
+      <filename>Rumpenheim Rumpus</filename>
+      <picture_link>scenpics/Rumpenheim Rumpus.bmp</picture_link>
+      <battle_type>Red Attack</battle_type>
+      <description>Lead echelons of 1 Guards Tank Army attempt to cross the River Main east of Frankfurt. </description>
+      <date>01/09/1982</date>
+      <time_of_day>11:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:00</length>
+      <battle_size>Huge</battle_size>
+      <Map_Size>
+         <map_area>5.645 Sq. km</map_area>
+         <map_width>2352 m</map_width>
+         <map_depth>2400 m</map_depth>
+      </Map_Size>
+      <region>Germany</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMCW v1.00 to v1.06</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>10</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Rounds of Campari V1</battle_title>
+      </Title>
+      <filename>Rounds of Campari (Red or H2H ONLY)</filename>
+      <picture_link>scenpics/Rounds of Campari (Red or H2H ONLY).bmp</picture_link>
+      <battle_type>Red Assault</battle_type>
+      <description>(Red vs AI or H2H ONLY) - VMF assault on west german Beach</description>
+      <date>01/11/1979</date>
+      <time_of_day>15:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:20</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>1.478 Sq. km</map_area>
+         <map_width>560 m</map_width>
+         <map_depth>2640 m</map_depth>
+      </Map_Size>
+      <region>Germany</region>
+      <environment>Town</environment>
+      <weather>Overcast</weather>
+      <temperature>Cold</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Axis Force</early_intel>
+      <game_version>CMCW v1.00 to v1.06</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Team Yankees First Battle</battle_title>
+      </Title>
+      <filename>Team Yankees First Battle 2.0</filename>
+      <picture_link>scenpics/Team Yankees First Battle 2.0.bmp</picture_link>
+      <battle_type>Red Assault</battle_type>
+      <description>World War III starts and Team Yankee fights its first battle</description>
+      <date>01/08/1982</date>
+      <time_of_day>11:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:30</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>3.797 Sq. km</map_area>
+         <map_width>2608 m</map_width>
+         <map_depth>1456 m</map_depth>
+      </Map_Size>
+      <region>Germany</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMCW v1.00 to v1.06</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>5</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Hunter or Prey</battle_title>
+      </Title>
+      <filename>Hunter or Prey</filename>
+      <picture_link>scenpics/Hunter or Prey.bmp</picture_link>
+      <battle_type>Red Attack</battle_type>
+      <description>Soviet armor attack on a U.S. convoy. Best played as Soviets.</description>
+      <date>16/10/1982</date>
+      <time_of_day>17:30</time_of_day>
+      <part_of_day>Dusk</part_of_day>
+      <length>00:30</length>
+      <battle_size>Small</battle_size>
+      <Map_Size>
+         <map_area>0.546 Sq. km</map_area>
+         <map_width>832 m</map_width>
+         <map_depth>656 m</map_depth>
+      </Map_Size>
+      <region>Germany</region>
+      <environment>Hills</environment>
+      <weather>Clear</weather>
+      <temperature>Cool</temperature>
+      <ground_condition>Damp</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMCW v1.00 to v1.06</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>3</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>The Grieshof Meet and Greet</battle_title>
+      </Title>
+      <filename>Grieshof Meet and Greet</filename>
+      <picture_link>scenpics/Grieshof Meet and Greet.bmp</picture_link>
+      <battle_type>Meeting Engagement</battle_type>
+      <description>Opposing mechanized task forces compete for objectives in the Grieshof Valley. Suitable for all modes of play. Perhaps challenging for Blue Force. </description>
+      <date>01/08/1979</date>
+      <time_of_day>14:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:30</length>
+      <battle_size>Large</battle_size>
+      <Map_Size>
+         <map_area>3.385 Sq. km</map_area>
+         <map_width>1856 m</map_width>
+         <map_depth>1824 m</map_depth>
+      </Map_Size>
+      <region>Germany</region>
+      <environment>Hills</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMCW v1.00 to v1.06</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>9</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Tank Training 1981</battle_title>
+      </Title>
+      <filename>NTC Tank Training 1981</filename>
+      <picture_link>scenpics/NTC Tank Training 1981.bmp</picture_link>
+      <battle_type>Meeting Engagement</battle_type>
+      <description>National Guards vs OPFOR at the NTC. Best played as U.S. or H2H. Tanks featured: M60A2 and M60A3 vs T72. </description>
+      <date>16/05/1981</date>
+      <time_of_day>08:30</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:00</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>7.04 Sq. km</map_area>
+         <map_width>3520 m</map_width>
+         <map_depth>2000 m</map_depth>
+      </Map_Size>
+      <region>National Training Center</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMCW v1.00 to v1.06</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Everyone, Get Out Of Dodge</battle_title>
+      </Title>
+      <filename>Everyone, Get Out Of Dodge</filename>
+      <picture_link>scenpics/Everyone, Get Out Of Dodge.bmp</picture_link>
+      <battle_type>Red Attack</battle_type>
+      <description>U.S. forces try to pull back and escape a closing encirclement. Best played as U.S.</description>
+      <date>02/08/1980</date>
+      <time_of_day>11:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:30</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>2.967 Sq. km</map_area>
+         <map_width>1952 m</map_width>
+         <map_depth>1520 m</map_depth>
+      </Map_Size>
+      <region>Germany</region>
+      <environment>Forest</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMCW v1.00 to v1.06</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Scouts Out!</battle_title>
+      </Title>
+      <filename>Scouts Out</filename>
+      <picture_link>scenpics/Scouts Out.bmp</picture_link>
+      <battle_type>Blue Probe</battle_type>
+      <description>17 October, 1979. A Soviet armored regiment has broken through U.S. lines. A U.S. armored cavalry platoon is tasked with finding them...</description>
+      <date>17/10/1979</date>
+      <time_of_day>08:30</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:20</length>
+      <battle_size>Large</battle_size>
+      <Map_Size>
+         <map_area>4.362 Sq. km</map_area>
+         <map_width>2272 m</map_width>
+         <map_depth>1920 m</map_depth>
+      </Map_Size>
+      <region>Germany</region>
+      <environment>Rough</environment>
+      <weather>Mist</weather>
+      <temperature>Cold</temperature>
+      <ground_condition>Damp</ground_condition>
+      <early_intel>Axis Force</early_intel>
+      <game_version>CMCW v1.00 to v1.06</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>8</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>TRAINING Soviet Tactical Doctrine 2 (MRB)</battle_title>
+      </Title>
+      <filename>TRAINING Soviet Tactical Doctrine 2 (MRB)</filename>
+      <picture_link>scenpics/TRAINING Soviet Tactical Doctrine 2 (MRB).bmp</picture_link>
+      <battle_type>Red Attack</battle_type>
+      <description>Tutorial on how to employ a Soviet motor rifle battalion in the meeting engagement. Soviet player only.</description>
+      <date>25/06/1982</date>
+      <time_of_day>12:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:00</length>
+      <battle_size>Large</battle_size>
+      <Map_Size>
+         <map_area>8 Sq. km</map_area>
+         <map_width>4000 m</map_width>
+         <map_depth>2000 m</map_depth>
+      </Map_Size>
+      <region>Germany</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMCW v1.00 to v1.06</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>8</size_modifier>
+   </Scenario>
+
+   </Scenario_List>
+</Scenario_Listing>

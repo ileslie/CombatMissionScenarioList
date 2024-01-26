@@ -422,6 +422,144 @@
 			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3465</downloadurl>
 		</urls_list>
 	</scenario>
+    <scenario author="author unknown" filename="FR_Arnswalde-1120x768-Town-Assault-01.btt" stock="y"/>
+    <scenario author="author unknown" filename="FR_Arnswalde-1120x768-Town-Attack-01.btt" stock="y"/>
+    <scenario author="author unknown" filename="FR_Arnswalde-1120x768-Town-Probe-01.btt" stock="y"/>
+    <scenario author="author unknown" filename="FR_Arnswalde-1440x1440-Town-Assault-01.btt" stock="y"/>
+    <scenario author="author unknown" filename="FR_Arnswalde-1440x1440-Town-Attack-01.btt" stock="y"/>
+    <scenario author="author unknown" filename="FR_Arnswalde-1440x1440-Town-Probe-01.btt" stock="y"/>
+    <scenario author="author unknown" filename="FR_Arnswalde-1488x1024-Open-Meeting-01.btt" stock="y"/>
+    <scenario author="author unknown" filename="FR_Arnswalde-704x784-Town-Assault-01.btt" stock="y"/>
+    <scenario author="author unknown" filename="FR_Arnswalde-704x784-Town-Attack-01.btt" stock="y"/>
+    <scenario author="author unknown" filename="FR_Arnswalde-704x784-Town-Probe-01.btt" stock="y"/>
+    <scenario author="author unknown" filename="FR_Arnswalde-768x1024-Open-Meeting-01.btt" stock="y"/>
+    <scenario author="author unknown" filename="FR_Arnswalde-960x960-Town-Assault-01.btt" stock="y"/>
+    <scenario author="author unknown" filename="FR_Arnswalde-960x960-Town-Attack-01.btt" stock="y"/>
+    <scenario author="author unknown" filename="FR_Arnswalde-960x960-Town-Probe-01.btt" stock="y"/>
+    <scenario author="author unknown" filename="FR_Balatonfokajar-1136x1136-Town-Meeting-01.btt" stock="y"/>
+    <scenario author="author unknown" filename="FR_Balatonfokajar-1440x1440-Rough-Assault-01.btt" stock="y"/>
+    <scenario author="author unknown" filename="FR_Balatonfokajar-1440x1440-Rough-Attack-01.btt" stock="y"/>
+    <scenario author="author unknown" filename="FR_Balatonfokajar-1440x1440-Rough-Probe-01.btt" stock="y"/>
+    <scenario author="author unknown" filename="FR_Balatonfokajar-1760x1760-Town-Assault-01.btt" stock="y"/>
+    <scenario author="author unknown" filename="FR_Balatonfokajar-1760x1760-Town-Attack-01.btt" stock="y"/>
+    <scenario author="author unknown" filename="FR_Balatonfokajar-1760x1760-Town-Probe-01.btt" stock="y"/>
+    <scenario author="author unknown" filename="FR_Balatonfokajar-2000x2000-Open-Meeting.btt" stock="y"/>
+    <scenario author="author unknown" filename="FR_Baracska-1520x2320_Village-Assault-01.btt" stock="y"/>
+    <scenario author="author unknown" filename="FR_Baracska-1520x2320_Village-Attack-01.btt" stock="y"/>
+    <scenario author="author unknown" filename="FR_Baracska-1520x2320_Village-Meeting-01.btt" stock="y"/>
+    <scenario author="author unknown" filename="FR_Baracska-1520x2320_Village-Probe-01.btt" stock="y"/>
+    <scenario author="author unknown" filename="FR_Batzlow-1040x1040-Forest-Meeting-01.btt" stock="y"/>
+    <scenario author="author unknown" filename="FR_Batzlow-1040x1040-Village-Assault-01.btt" stock="y"/>
+    <scenario author="author unknown" filename="FR_Batzlow-1040x1040-Village-Attack-01.btt" stock="y"/>
+    <scenario author="author unknown" filename="FR_Batzlow-1040x1040-Village-Probe-01.btt" stock="y"/>
+    <scenario author="author unknown" filename="FR_Batzlow-1120x1200-Village-Assault-01.btt" stock="y"/>
+    <scenario author="author unknown" filename="FR_Batzlow-1120x1200-Village-Attack-01.btt" stock="y"/>
+    <scenario author="author unknown" filename="FR_Batzlow-1120x1200-Village-Probe-01.btt" stock="y"/>
+    <scenario author="author unknown" filename="FR_Batzlow-1440x1440-Forest-Assault-01.btt" stock="y"/>
+    <scenario author="author unknown" filename="FR_Batzlow-1440x1440-Forest-Attack-01.btt" stock="y"/>
+    <scenario author="author unknown" filename="FR_Batzlow-1440x1440-Forest-Meeting-01.btt" stock="y"/>
+    <scenario author="author unknown" filename="FR_Batzlow-1440x1440-Forest-Probe-01.btt" stock="y"/>
+    <scenario author="author unknown" filename="FR_Batzlow-1520x1200-Village-Assault-01.btt" stock="y"/>
+    <scenario author="author unknown" filename="FR_Batzlow-1520x1200-Village-Attack-01.btt" stock="y"/>
+    <scenario author="author unknown" filename="FR_Batzlow-1520x1200-Village-Meeting-01.btt" stock="y"/>
+    <scenario author="author unknown" filename="FR_Batzlow-1520x1200-Village-Probe-01.btt" stock="y"/>
+    <scenario author="author unknown" filename="FR_Batzlow-1568x1488-Rough-Assault-01.btt" stock="y"/>
+    <scenario author="author unknown" filename="FR_Batzlow-1568x1488-Rough-Attack-01.btt" stock="y"/>
+    <scenario author="author unknown" filename="FR_Batzlow-1568x1488-Rough-Probe-01.btt" stock="y"/>
+    <scenario author="author unknown" filename="FR_Berlin Z East-560x800-City-Assault-01.btt" stock="y"/>
+    <scenario author="author unknown" filename="FR_Berlin Z East-560x800-City-Attack-01.btt" stock="y"/>
+    <scenario author="author unknown" filename="FR_Berlin Z East-560x800-City-Probe-01.btt" stock="y"/>
+    <scenario author="author unknown" filename="FR_Berlin Z East-720x624-City-Assault-01.btt" stock="y"/>
+    <scenario author="author unknown" filename="FR_Berlin Z East-720x624-City-Attack-01.btt" stock="y"/>
+    <scenario author="author unknown" filename="FR_Berlin Z East-720x624-City-Probe-01.btt" stock="y"/>
+    <scenario author="author unknown" filename="FR_Berlin Z East-848x1088-City-Meeting-01.btt" stock="y"/>
+    <scenario author="author unknown" filename="FR_Berlin Z East-896x896-City-Assault-01.btt" stock="y"/>
+    <scenario author="author unknown" filename="FR_Berlin Z East-896x896-City-Attack-01.btt" stock="y"/>
+    <scenario author="author unknown" filename="FR_Berlin Z East-896x896-City-Probe-01.btt" stock="y"/>
+    <scenario author="author unknown" filename="FR_Berlin Z West-1328x1264-City-River-Assault-01.btt" stock="y"/>
+    <scenario author="author unknown" filename="FR_Berlin Z West-1328x1264-City-River-Attack-01.btt" stock="y"/>
+    <scenario author="author unknown" filename="FR_Berlin Z West-1328x1264-City-River-Probe-01.btt" stock="y"/>
+    <scenario author="author unknown" filename="FR_Berlin Z West-480x480-City-Assault-01.btt" stock="y"/>
+    <scenario author="author unknown" filename="FR_Berlin Z West-480x480-City-Attack-01.btt" stock="y"/>
+    <scenario author="author unknown" filename="FR_Berlin Z West-480x480-City-Probe-01.btt" stock="y"/>
+    <scenario author="author unknown" filename="FR_Berlin Z West-720x1120-City-Assault-01.btt" stock="y"/>
+    <scenario author="author unknown" filename="FR_Berlin Z West-720x1120-City-Attack-01.btt" stock="y"/>
+    <scenario author="author unknown" filename="FR_Berlin Z West-725x816-City-Meeting-01.btt" stock="y"/>
+    <scenario author="author unknown" filename="FR_Brzesc Kujawski-2640x1488-Open-Assault-01.btt" stock="y"/>
+    <scenario author="author unknown" filename="FR_Brzesc Kujawski-2640x1488-Open-Attack-01.btt" stock="y"/>
+    <scenario author="author unknown" filename="FR_Brzesc Kujawski-2640x1488-Open-Meeting-01.btt" stock="y"/>
+    <scenario author="author unknown" filename="FR_Brzesc Kujawski-2640x1488-Open-Probe-01.btt" stock="y"/>
+    <scenario author="author unknown" filename="FR_Budapest Hills-1280x720-Forest-Assault-01.btt" stock="y"/>
+    <scenario author="author unknown" filename="FR_Budapest Hills-1280x720-Forest-Attack-01.btt" stock="y"/>
+    <scenario author="author unknown" filename="FR_Budapest Hills-1280x720-Forest-Probe-01.btt" stock="y"/>
+    <scenario author="author unknown" filename="FR_Bzura River-1920x1008-Village-Assault-01.btt" stock="y"/>
+    <scenario author="author unknown" filename="FR_Bzura River-1920x1008-Village-Attack-01.btt" stock="y"/>
+    <scenario author="author unknown" filename="FR_Bzura River-1920x1008-Village-Probe-01.btt" stock="y"/>
+    <scenario author="author unknown" filename="FR_Feierabend Machen-2000x1440 Village Meeting 01.btt" stock="y"/>
+    <scenario author="author unknown" filename="FR_Feierabend Machen-2000x2000-Village-Assault-01.btt" stock="y"/>
+    <scenario author="author unknown" filename="FR_Feierabend Machen-2000x2000-Village-Attack-01.btt" stock="y"/>
+    <scenario author="author unknown" filename="FR_Feierabend Machen-2000x2000-Village-Probe-01.btt" stock="y"/>
+    <scenario author="author unknown" filename="FR_Hegyikastely-1440x1440-Village-Assault-01.btt" stock="y"/>
+    <scenario author="author unknown" filename="FR_Hegyikastely-1440x1440-Village-Attack-01.btt" stock="y"/>
+    <scenario author="author unknown" filename="FR_Hegyikastely-1440x1440-Village-Probe-01.btt" stock="y"/>
+    <scenario author="author unknown" filename="FR_Hegyikastely-2000x2000-Village-Assault-01.btt" stock="y"/>
+    <scenario author="author unknown" filename="FR_Hegyikastely-2000x2000-Village-Attack-01.btt" stock="y"/>
+    <scenario author="author unknown" filename="FR_Hegyikastely-2000x2000-Village-Probe-01.btt" stock="y"/>
+    <scenario author="author unknown" filename="FR_Hegyikastely-3488x2560-Village-Assault-01.btt" stock="y"/>
+    <scenario author="author unknown" filename="FR_Hegyikastely-3488x2560-Village-Attack-01.btt" stock="y"/>
+    <scenario author="author unknown" filename="FR_Hegyikastely-3488x2560-Village-Probe-01.btt" stock="y"/>
+    <scenario author="author unknown" filename="FR_Katabasis_1184x912-Village-Meeting-01.btt" stock="y"/>
+    <scenario author="author unknown" filename="FR_Marzdorf-1040x1760-Open-Assault-01.btt" stock="y"/>
+    <scenario author="author unknown" filename="FR_Marzdorf-1040x1760-Open-Attack-01.btt" stock="y"/>
+    <scenario author="author unknown" filename="FR_Marzdorf-1040x1760-Open-Probe-01.btt" stock="y"/>
+    <scenario author="author unknown" filename="FR_Marzdorf-1440x1440-Open-Assault-01.btt" stock="y"/>
+    <scenario author="author unknown" filename="FR_Marzdorf-1440x1440-Open-Attack-01.btt" stock="y"/>
+    <scenario author="author unknown" filename="FR_Marzdorf-1440x1440-Open-Probe-01.btt" stock="y"/>
+    <scenario author="author unknown" filename="FR_Marzdorf-3024x2112-Open-Assault-01.btt" stock="y"/>
+    <scenario author="author unknown" filename="FR_Marzdorf-3024x2112-Open-Attack-01.btt" stock="y"/>
+    <scenario author="author unknown" filename="FR_Marzdorf-3024x2112-Open-Probe-01.btt" stock="y"/>
+    <scenario author="author unknown" filename="FR_Marzdorf-800x800-Town-Assault-01.btt" stock="y"/>
+    <scenario author="author unknown" filename="FR_Marzdorf-800x800-Town-Attack-01.btt" stock="y"/>
+    <scenario author="author unknown" filename="FR_Marzdorf-800x800-Town-Probe-01.btt" stock="y"/>
+    <scenario author="author unknown" filename="FR_Muscherin-2000x2000-Open-Assault-01.btt" stock="y"/>
+    <scenario author="author unknown" filename="FR_Muscherin-2000x2000-Open-Attack-01.btt" stock="y"/>
+    <scenario author="author unknown" filename="FR_Muscherin-2000x2000-Open-Probe-01.btt" stock="y"/>
+    <scenario author="author unknown" filename="FR_Muscherin-3008x3040-Open-Assault-01.btt" stock="y"/>
+    <scenario author="author unknown" filename="FR_Muscherin-3008x3040-Open-Attack-01.btt" stock="y"/>
+    <scenario author="author unknown" filename="FR_Muscherin-3008x3040-Open-Meeting-01.btt" stock="y"/>
+    <scenario author="author unknown" filename="FR_Muscherin-3008x3040-Open-Probe-01.btt" stock="y"/>
+    <scenario author="author unknown" filename="FR_Pettend-2000x1824-Village-Assault-01.btt" stock="y"/>
+    <scenario author="author unknown" filename="FR_Pettend-2000x1824-Village-Attack-01.btt" stock="y"/>
+    <scenario author="author unknown" filename="FR_Pettend-2000x1824-Village-Probe-01.btt" stock="y"/>
+    <scenario author="author unknown" filename="FR_Pyritz Lettnin-2144x1680-Town-Open-Meeting-01.btt" stock="y"/>
+    <scenario author="author unknown" filename="FR_Reitwein-1440x1440-Town-Meeting-01.btt" stock="y"/>
+    <scenario author="author unknown" filename="FR_Reitwein-1680x1440-River-Town-Assault-01.btt" stock="y"/>
+    <scenario author="author unknown" filename="FR_Reitwein-1680x1440-River-Town-Attack-01.btt" stock="y"/>
+    <scenario author="author unknown" filename="FR_Reitwein-1680x1440-River-Town-Probe-01.btt" stock="y"/>
+    <scenario author="author unknown" filename="FR_Reitwein-2304x976-Village-Meeting-01.btt" stock="y"/>
+    <scenario author="author unknown" filename="FR_Reitwein-880x880-Village-Open-Assault-01.btt" stock="y"/>
+    <scenario author="author unknown" filename="FR_Reitwein-880x880-Village-Open-Attack-01.btt" stock="y"/>
+    <scenario author="author unknown" filename="FR_Reitwein-880x880-Village-Open-Probe-01.btt" stock="y"/>
+    <scenario author="author unknown" filename="FR_Seregelyes-1760x2320-Town-Assault-01.btt" stock="y"/>
+    <scenario author="author unknown" filename="FR_Seregelyes-1760x2320-Town-Attack-01.btt" stock="y"/>
+    <scenario author="author unknown" filename="FR_Seregelyes-1760x2320-Town-Meeting-01.btt" stock="y"/>
+    <scenario author="author unknown" filename="FR_Seregelyes-1760x2320-Town-Probe-01.btt" stock="y"/>
+    <scenario author="author unknown" filename="FR_Simontornya-1408x704-Village-Meeting-01.btt" stock="y"/>
+    <scenario author="author unknown" filename="FR_Simontornya-1440x1440-Rough-Marsh-Assault-01.btt" stock="y"/>
+    <scenario author="author unknown" filename="FR_Simontornya-1440x1440-Rough-Marsh-Attack-01.btt" stock="y"/>
+    <scenario author="author unknown" filename="FR_Simontornya-1440x1440-Rough-Marsh-Probe-01.btt" stock="y"/>
+    <scenario author="author unknown" filename="FR_Simontornya-1440x2000-Rough-Assault-01.btt" stock="y"/>
+    <scenario author="author unknown" filename="FR_Simontornya-1440x2000-Rough-Attack-01.btt" stock="y"/>
+    <scenario author="author unknown" filename="FR_Simontornya-1440x2000-Rough-Probe-01.btt" stock="y"/>
+    <scenario author="author unknown" filename="FR_Sinimaed Hills-Forest-Village-Assault-01.btt" stock="y"/>
+    <scenario author="author unknown" filename="FR_Sinimaed Hills-Forest-Village-Attack-01.btt" stock="y"/>
+    <scenario author="author unknown" filename="FR_Sinimaed Hills-Forest-Village-Probe-01.btt" stock="y"/>
+    <scenario author="author unknown" filename="FR_The Rites of Spring-2064x2496-Open-Attack-01.btt" stock="y"/>
+    <scenario author="author unknown" filename="FR_The Rites of Spring-2064x2496-Open-Meeting-01.btt" stock="y"/>
+    <scenario author="author unknown" filename="FR_Tukums-1680x1680-Rough-Meeting-01.btt" stock="y"/>
+    <scenario author="author unknown" filename="FR_Vengeance-1008x1120-Village-Assault-01.btt" stock="y"/>
+    <scenario author="author unknown" filename="FR_Vengeance-1008x1120-Village-Attack-01.btt" stock="y"/>
+    <scenario author="author unknown" filename="FR_Vengeance-1008x1120-Village-Probe-01.btt" stock="y"/>
 	
 <!-- 	<scenario author="" filename=""> -->
 <!-- 		<urls_list> -->

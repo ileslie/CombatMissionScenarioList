@@ -1,0 +1,770 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="Listing_Layout.xsl" ?>
+
+<Scenario_Listing>
+
+   <Scenario_List>
+
+   <containing_campaign>Back on Tracks</containing_campaign>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #00]</number_in_campaign>
+         <battle_title>The Dusty Road to Death</battle_title>
+      </Title>
+      <filename>Back on Tracks #00_NATO Dusty</filename>
+      <picture_link>scenpics/Back on Tracks0.bmp</picture_link>
+      <battle_type>Blue Attack</battle_type>
+      <description>The Dutch battlegroup clears the route to Ar Raqqah.</description>
+      <date>20/06/2008</date>
+      <time_of_day>16:40</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>02:00</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>5.962 Sq. km</map_area>
+         <map_width>2192 m</map_width>
+         <map_depth>2720 m</map_depth>
+      </Map_Size>
+      <region></region>
+      <environment>Hills</environment>
+      <weather>Hazy</weather>
+      <temperature>Extreme Heat</temperature>
+      <ground_condition>Very Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>Unknown</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #15]</number_in_campaign>
+         <battle_title>Straight as an Arrow</battle_title>
+      </Title>
+      <filename>Back on Tracks #15_NATO Arrowv1</filename>
+      <picture_link>scenpics/Back on Tracks15.bmp</picture_link>
+      <battle_type>Blue Probe</battle_type>
+      <description>Road sweeping operation.</description>
+      <date>25/06/2008</date>
+      <time_of_day>07:20</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:00</length>
+      <battle_size>Small</battle_size>
+      <Map_Size>
+         <map_area>1.627 Sq. km</map_area>
+         <map_width>3280 m</map_width>
+         <map_depth>496 m</map_depth>
+      </Map_Size>
+      <region></region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Extreme Heat</temperature>
+      <ground_condition>Damp</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>Unknown</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>4</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #21]</number_in_campaign>
+         <battle_title>Kameshli Airfield US version</battle_title>
+      </Title>
+      <filename>Back on Tracks #21_NATO KameshliUS</filename>
+      <picture_link>scenpics/Back on Tracks21.bmp</picture_link>
+      <battle_type>Blue Assault</battle_type>
+      <description>Dutch and American forces assault a military airfield in Kameshli.</description>
+      <date>02/07/2008</date>
+      <time_of_day>09:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>02:30</length>
+      <battle_size>Large</battle_size>
+      <Map_Size>
+         <map_area>1.509 Sq. km</map_area>
+         <map_width>1328 m</map_width>
+         <map_depth>1136 m</map_depth>
+      </Map_Size>
+      <region></region>
+      <environment>Village</environment>
+      <weather>Clear</weather>
+      <temperature>Hot</temperature>
+      <ground_condition>Very Dry</ground_condition>
+      <early_intel>Blue Force</early_intel>
+      <game_version>Unknown</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>9</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #05]</number_in_campaign>
+         <battle_title>A Bridge Across the Euphrates - South version 3</battle_title>
+      </Title>
+      <filename>Back on Tracks #05_NATO Southv3</filename>
+      <picture_link>scenpics/Back on Tracks5.bmp</picture_link>
+      <battle_type>Blue Attack</battle_type>
+      <description>A small Dutch detachment sweeps along the south bank of the Euphrates to capture the southern end of the bridge.</description>
+      <date>21/06/2008</date>
+      <time_of_day>03:30</time_of_day>
+      <part_of_day>Night</part_of_day>
+      <length>01:10</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>2.17 Sq. km</map_area>
+         <map_width>1808 m</map_width>
+         <map_depth>1200 m</map_depth>
+      </Map_Size>
+      <region></region>
+      <environment>Village</environment>
+      <weather>Hazy</weather>
+      <temperature>Hot</temperature>
+      <ground_condition>Damp</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>Unknown</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #06]</number_in_campaign>
+         <battle_title>Trial by Fire</battle_title>
+      </Title>
+      <filename>Back on Tracks #06_NATO Trialv1</filename>
+      <picture_link>scenpics/Back on Tracks6.bmp</picture_link>
+      <battle_type>Red Assault</battle_type>
+      <description>Dutch forces must fend off a major Syrian attack on the northern bridgehead across the Euphrates</description>
+      <date>21/06/2008</date>
+      <time_of_day>04:50</time_of_day>
+      <part_of_day>Dawn</part_of_day>
+      <length>01:20</length>
+      <battle_size>Large</battle_size>
+      <Map_Size>
+         <map_area>0.516 Sq. km</map_area>
+         <map_width>1040 m</map_width>
+         <map_depth>496 m</map_depth>
+      </Map_Size>
+      <region></region>
+      <environment>City</environment>
+      <weather>Thick Haze</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Very Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>Unknown</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>8</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #16]</number_in_campaign>
+         <battle_title>Unexpected Resistance</battle_title>
+      </Title>
+      <filename>Back on Tracks #16_NATO Resistancev1</filename>
+      <picture_link>scenpics/Back on Tracks16.bmp</picture_link>
+      <battle_type>Blue Attack</battle_type>
+      <description>Dutch Spearhead runs into trouble South of At Tibni</description>
+      <date>27/06/2008</date>
+      <time_of_day>15:30</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:45</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>0.325 Sq. km</map_area>
+         <map_width>656 m</map_width>
+         <map_depth>496 m</map_depth>
+      </Map_Size>
+      <region></region>
+      <environment>Rough</environment>
+      <weather>Clear</weather>
+      <temperature>Hot</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Blue Force</early_intel>
+      <game_version>Unknown</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #19]</number_in_campaign>
+         <battle_title>Over the Hill version 2</battle_title>
+      </Title>
+      <filename>Back on Tracks #19_NATO Hillv2</filename>
+      <picture_link>scenpics/Back on Tracks19.bmp</picture_link>
+      <battle_type>Blue Assault</battle_type>
+      <description>Dutch forces attempt to force their way through a Syrian defensive line centered on a hilltop highway</description>
+      <date>02/07/2008</date>
+      <time_of_day>04:40</time_of_day>
+      <part_of_day>Dawn</part_of_day>
+      <length>02:00</length>
+      <battle_size>Large</battle_size>
+      <Map_Size>
+         <map_area>1.818 Sq. km</map_area>
+         <map_width>1696 m</map_width>
+         <map_depth>1072 m</map_depth>
+      </Map_Size>
+      <region></region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Very Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>Unknown</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>9</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #22]</number_in_campaign>
+         <battle_title>Kameshli Airfield version 2</battle_title>
+      </Title>
+      <filename>Back on Tracks #22_NATO Kameshliv2</filename>
+      <picture_link>scenpics/Back on Tracks22.bmp</picture_link>
+      <battle_type>Blue Assault</battle_type>
+      <description>The Dutch battlegroup and American forces assault the military airfield at Kameshli.</description>
+      <date>02/07/2008</date>
+      <time_of_day>09:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>02:30</length>
+      <battle_size>Large</battle_size>
+      <Map_Size>
+         <map_area>1.509 Sq. km</map_area>
+         <map_width>1328 m</map_width>
+         <map_depth>1136 m</map_depth>
+      </Map_Size>
+      <region></region>
+      <environment>Village</environment>
+      <weather>Clear</weather>
+      <temperature>Hot</temperature>
+      <ground_condition>Very Dry</ground_condition>
+      <early_intel>Blue Force</early_intel>
+      <game_version>Unknown</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>9</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #04]</number_in_campaign>
+         <battle_title>A Bridge Across the Euphrates - South version 2</battle_title>
+      </Title>
+      <filename>Back on Tracks #04_NATO Southv2</filename>
+      <picture_link>scenpics/Back on Tracks4.bmp</picture_link>
+      <battle_type>Blue Attack</battle_type>
+      <description>A small Dutch detachment sweeps along the south bank of the Euphrates to capture the southern end of the bridge.</description>
+      <date>21/06/2008</date>
+      <time_of_day>03:30</time_of_day>
+      <part_of_day>Night</part_of_day>
+      <length>01:10</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>2.17 Sq. km</map_area>
+         <map_width>1808 m</map_width>
+         <map_depth>1200 m</map_depth>
+      </Map_Size>
+      <region></region>
+      <environment>Village</environment>
+      <weather>Hazy</weather>
+      <temperature>Hot</temperature>
+      <ground_condition>Damp</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>Unknown</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #08]</number_in_campaign>
+         <battle_title>Trial by Fire version 3</battle_title>
+      </Title>
+      <filename>Back on Tracks #08_NATO Trialv3</filename>
+      <picture_link>scenpics/Back on Tracks8.bmp</picture_link>
+      <battle_type>Red Assault</battle_type>
+      <description>Dutch forces must fend off a major Syrian attack on the northern bridgehead across the Euphrates</description>
+      <date>21/06/2008</date>
+      <time_of_day>04:50</time_of_day>
+      <part_of_day>Dawn</part_of_day>
+      <length>01:20</length>
+      <battle_size>Large</battle_size>
+      <Map_Size>
+         <map_area>0.516 Sq. km</map_area>
+         <map_width>1040 m</map_width>
+         <map_depth>496 m</map_depth>
+      </Map_Size>
+      <region></region>
+      <environment>City</environment>
+      <weather>Thick Haze</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Very Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>Unknown</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>8</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #18]</number_in_campaign>
+         <battle_title>Over the Hill</battle_title>
+      </Title>
+      <filename>Back on Tracks #18_NATO Hillv1</filename>
+      <picture_link>scenpics/Back on Tracks18.bmp</picture_link>
+      <battle_type>Blue Assault</battle_type>
+      <description>Dutch forces attempt to force their way through a Syrian defensive line centered on a hilltop highway</description>
+      <date>02/07/2008</date>
+      <time_of_day>04:40</time_of_day>
+      <part_of_day>Dawn</part_of_day>
+      <length>02:00</length>
+      <battle_size>Large</battle_size>
+      <Map_Size>
+         <map_area>1.818 Sq. km</map_area>
+         <map_width>1696 m</map_width>
+         <map_depth>1072 m</map_depth>
+      </Map_Size>
+      <region></region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Very Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>Unknown</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>9</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #01]</number_in_campaign>
+         <battle_title>A Bridge Across the Euphrates - North</battle_title>
+      </Title>
+      <filename>Back on Tracks #01_NATO Northv1</filename>
+      <picture_link>scenpics/Back on Tracks1.bmp</picture_link>
+      <battle_type>Blue Assault</battle_type>
+      <description>Dutch advance to capture the northern approach to the bridge.</description>
+      <date>21/06/2008</date>
+      <time_of_day>02:30</time_of_day>
+      <part_of_day>Night</part_of_day>
+      <length>02:00</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>2.35 Sq. km</map_area>
+         <map_width>2448 m</map_width>
+         <map_depth>960 m</map_depth>
+      </Map_Size>
+      <region></region>
+      <environment>Open</environment>
+      <weather>Hazy</weather>
+      <temperature>Hot</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>Unknown</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #13]</number_in_campaign>
+         <battle_title>Heartland version 4</battle_title>
+      </Title>
+      <filename>Back on Tracks #13_NATO Heartv4</filename>
+      <picture_link>scenpics/Back on Tracks13.bmp</picture_link>
+      <battle_type>Blue Assault</battle_type>
+      <description>17 NLD BTG assaults a government center in Ar Raqqah.</description>
+      <date>23/06/2008</date>
+      <time_of_day>07:20</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>02:00</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>0.36 Sq. km</map_area>
+         <map_width>704 m</map_width>
+         <map_depth>512 m</map_depth>
+      </Map_Size>
+      <region></region>
+      <environment>City</environment>
+      <weather>Thick Haze</weather>
+      <temperature>Extreme Heat</temperature>
+      <ground_condition>Very Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>Unknown</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #07]</number_in_campaign>
+         <battle_title>Trial by Fire version 2</battle_title>
+      </Title>
+      <filename>Back on Tracks #07_NATO Trialv2</filename>
+      <picture_link>scenpics/Back on Tracks7.bmp</picture_link>
+      <battle_type>Red Assault</battle_type>
+      <description>Dutch forces must fend off a major Syrian attack on the northern bridgehead across the Euphrates</description>
+      <date>21/06/2008</date>
+      <time_of_day>04:50</time_of_day>
+      <part_of_day>Dawn</part_of_day>
+      <length>01:20</length>
+      <battle_size>Large</battle_size>
+      <Map_Size>
+         <map_area>0.516 Sq. km</map_area>
+         <map_width>1040 m</map_width>
+         <map_depth>496 m</map_depth>
+      </Map_Size>
+      <region></region>
+      <environment>City</environment>
+      <weather>Thick Haze</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Very Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>Unknown</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>8</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #09]</number_in_campaign>
+         <battle_title>Trial by Fire version 4</battle_title>
+      </Title>
+      <filename>Back on Tracks #09_NATO Trialv4</filename>
+      <picture_link>scenpics/Back on Tracks9.bmp</picture_link>
+      <battle_type>Red Assault</battle_type>
+      <description>Dutch forces must fend off a major Syrian attack on the northern bridgehead across the Euphrates</description>
+      <date>21/06/2008</date>
+      <time_of_day>04:50</time_of_day>
+      <part_of_day>Dawn</part_of_day>
+      <length>01:20</length>
+      <battle_size>Large</battle_size>
+      <Map_Size>
+         <map_area>0.516 Sq. km</map_area>
+         <map_width>1040 m</map_width>
+         <map_depth>496 m</map_depth>
+      </Map_Size>
+      <region></region>
+      <environment>City</environment>
+      <weather>Thick Haze</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Very Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>Unknown</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>8</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #14]</number_in_campaign>
+         <battle_title>Heartland version 5</battle_title>
+      </Title>
+      <filename>Back on Tracks #14_NATO Heartv5</filename>
+      <picture_link>scenpics/Back on Tracks14.bmp</picture_link>
+      <battle_type>Blue Assault</battle_type>
+      <description>17 NLD BTG assaults a government center in Ar Raqqah.</description>
+      <date>23/06/2008</date>
+      <time_of_day>07:20</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>02:00</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>0.36 Sq. km</map_area>
+         <map_width>704 m</map_width>
+         <map_depth>512 m</map_depth>
+      </Map_Size>
+      <region></region>
+      <environment>City</environment>
+      <weather>Thick Haze</weather>
+      <temperature>Extreme Heat</temperature>
+      <ground_condition>Very Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>Unknown</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #10]</number_in_campaign>
+         <battle_title>Heartland</battle_title>
+      </Title>
+      <filename>Back on Tracks #10_NATO Heartv1</filename>
+      <picture_link>scenpics/Back on Tracks10.bmp</picture_link>
+      <battle_type>Blue Assault</battle_type>
+      <description>17 NLD BTG assaults a government center in Ar Raqqah.</description>
+      <date>23/06/2008</date>
+      <time_of_day>07:20</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>02:00</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>0.36 Sq. km</map_area>
+         <map_width>704 m</map_width>
+         <map_depth>512 m</map_depth>
+      </Map_Size>
+      <region></region>
+      <environment>City</environment>
+      <weather>Thick Haze</weather>
+      <temperature>Extreme Heat</temperature>
+      <ground_condition>Very Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>Unknown</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #17]</number_in_campaign>
+         <battle_title>Unexpected Resistance</battle_title>
+      </Title>
+      <filename>Back on Tracks #17_NATO Resistancev2</filename>
+      <picture_link>scenpics/Back on Tracks17.bmp</picture_link>
+      <battle_type>Blue Attack</battle_type>
+      <description>Dutch Spearhead runs into trouble South of At Tibni</description>
+      <date>27/06/2008</date>
+      <time_of_day>15:30</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:45</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>0.325 Sq. km</map_area>
+         <map_width>656 m</map_width>
+         <map_depth>496 m</map_depth>
+      </Map_Size>
+      <region></region>
+      <environment>Rough</environment>
+      <weather>Clear</weather>
+      <temperature>Hot</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Blue Force</early_intel>
+      <game_version>Unknown</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #20]</number_in_campaign>
+         <battle_title>Kameshli Airfield</battle_title>
+      </Title>
+      <filename>Back on Tracks #20_NATO Kameshliv1</filename>
+      <picture_link>scenpics/Back on Tracks20.bmp</picture_link>
+      <battle_type>Blue Assault</battle_type>
+      <description>The Dutch battlegroup and American forces assault the military airfield at Kameshli.</description>
+      <date>02/07/2008</date>
+      <time_of_day>09:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>02:30</length>
+      <battle_size>Large</battle_size>
+      <Map_Size>
+         <map_area>1.509 Sq. km</map_area>
+         <map_width>1328 m</map_width>
+         <map_depth>1136 m</map_depth>
+      </Map_Size>
+      <region></region>
+      <environment>Village</environment>
+      <weather>Clear</weather>
+      <temperature>Hot</temperature>
+      <ground_condition>Very Dry</ground_condition>
+      <early_intel>Blue Force</early_intel>
+      <game_version>Unknown</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>9</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #02]</number_in_campaign>
+         <battle_title>A Bridge Across the Euphrates - North version 2</battle_title>
+      </Title>
+      <filename>Back on Tracks #02_NATO Northv2</filename>
+      <picture_link>scenpics/Back on Tracks2.bmp</picture_link>
+      <battle_type>Blue Assault</battle_type>
+      <description>Dutch advance to capture the northern approach to the bridge.</description>
+      <date>21/06/2008</date>
+      <time_of_day>02:30</time_of_day>
+      <part_of_day>Night</part_of_day>
+      <length>02:00</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>2.35 Sq. km</map_area>
+         <map_width>2448 m</map_width>
+         <map_depth>960 m</map_depth>
+      </Map_Size>
+      <region></region>
+      <environment>Open</environment>
+      <weather>Hazy</weather>
+      <temperature>Hot</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>Unknown</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #11]</number_in_campaign>
+         <battle_title>Heartland version 2</battle_title>
+      </Title>
+      <filename>Back on Tracks #11_NATO Heartv2</filename>
+      <picture_link>scenpics/Back on Tracks11.bmp</picture_link>
+      <battle_type>Blue Assault</battle_type>
+      <description>17 NLD BTG assaults a government center in Ar Raqqah.</description>
+      <date>23/06/2008</date>
+      <time_of_day>07:20</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>02:00</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>0.36 Sq. km</map_area>
+         <map_width>704 m</map_width>
+         <map_depth>512 m</map_depth>
+      </Map_Size>
+      <region></region>
+      <environment>City</environment>
+      <weather>Thick Haze</weather>
+      <temperature>Extreme Heat</temperature>
+      <ground_condition>Very Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>Unknown</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #12]</number_in_campaign>
+         <battle_title>Heartland version 3</battle_title>
+      </Title>
+      <filename>Back on Tracks #12_NATO Heartv3</filename>
+      <picture_link>scenpics/Back on Tracks12.bmp</picture_link>
+      <battle_type>Blue Assault</battle_type>
+      <description>17 NLD BTG assaults a government center in Ar Raqqah.</description>
+      <date>23/06/2008</date>
+      <time_of_day>07:20</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>02:00</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>0.36 Sq. km</map_area>
+         <map_width>704 m</map_width>
+         <map_depth>512 m</map_depth>
+      </Map_Size>
+      <region></region>
+      <environment>City</environment>
+      <weather>Thick Haze</weather>
+      <temperature>Extreme Heat</temperature>
+      <ground_condition>Very Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>Unknown</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #03]</number_in_campaign>
+         <battle_title>A Bridge Across the Euphrates - South</battle_title>
+      </Title>
+      <filename>Back on Tracks #03_NATO Southv1</filename>
+      <picture_link>scenpics/Back on Tracks3.bmp</picture_link>
+      <battle_type>Blue Attack</battle_type>
+      <description>A small Dutch detachment sweeps along the south bank of the Euphrates to capture the southern end of the bridge.</description>
+      <date>21/06/2008</date>
+      <time_of_day>03:30</time_of_day>
+      <part_of_day>Night</part_of_day>
+      <length>01:10</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>2.17 Sq. km</map_area>
+         <map_width>1808 m</map_width>
+         <map_depth>1200 m</map_depth>
+      </Map_Size>
+      <region></region>
+      <environment>Village</environment>
+      <weather>Hazy</weather>
+      <temperature>Hot</temperature>
+      <ground_condition>Damp</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>Unknown</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   </Scenario_List>
+</Scenario_Listing>

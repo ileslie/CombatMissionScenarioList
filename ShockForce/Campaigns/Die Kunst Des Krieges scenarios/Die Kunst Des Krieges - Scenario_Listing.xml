@@ -1,0 +1,770 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="Listing_Layout.xsl" ?>
+
+<Scenario_Listing>
+
+   <Scenario_List>
+
+   <containing_campaign>Die Kunst des Krieges</containing_campaign>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #03]</number_in_campaign>
+         <battle_title>Al Bab</battle_title>
+      </Title>
+      <filename>Die Kunst Des Krieges #03_NATO Al Babv1</filename>
+      <picture_link>scenpics/Die Kunst Des Krieges3.bmp</picture_link>
+      <battle_type>Blue Attack</battle_type>
+      <description>Mission 3 of the German Campaign</description>
+      <date>18/06/2008</date>
+      <time_of_day>17:45</time_of_day>
+      <part_of_day>Dusk</part_of_day>
+      <length>02:00</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>2.177 Sq. km</map_area>
+         <map_width>1008 m</map_width>
+         <map_depth>2160 m</map_depth>
+      </Map_Size>
+      <region></region>
+      <environment>Village</environment>
+      <weather>Hazy</weather>
+      <temperature>Hot</temperature>
+      <ground_condition>Very Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>Unknown</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #10]</number_in_campaign>
+         <battle_title>Mission 6 Fields Of Fire version 2</battle_title>
+      </Title>
+      <filename>Die Kunst Des Krieges #10_NATO Fieldsv2</filename>
+      <picture_link>scenpics/Die Kunst Des Krieges10.bmp</picture_link>
+      <battle_type>Red Attack</battle_type>
+      <description>19th June. During poor weather elements from Kampfgruppe Fischer scramble to intercept a surprise raid by a Syrian armoured force.</description>
+      <date>19/06/2008</date>
+      <time_of_day>13:15</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:45</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>2.184 Sq. km</map_area>
+         <map_width>1728 m</map_width>
+         <map_depth>1264 m</map_depth>
+      </Map_Size>
+      <region></region>
+      <environment>Open</environment>
+      <weather>Thick Haze</weather>
+      <temperature>Extreme Heat</temperature>
+      <ground_condition>Very Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>Unknown</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #11]</number_in_campaign>
+         <battle_title>The Factory</battle_title>
+      </Title>
+      <filename>Die Kunst Des Krieges #11_NATO Factoryv1</filename>
+      <picture_link>scenpics/Die Kunst Des Krieges11.bmp</picture_link>
+      <battle_type>Blue Attack</battle_type>
+      <description>German forces assault a large industrial park infested with determined defenders.</description>
+      <date>20/06/2008</date>
+      <time_of_day>05:30</time_of_day>
+      <part_of_day>Dawn</part_of_day>
+      <length>02:00</length>
+      <battle_size>Large</battle_size>
+      <Map_Size>
+         <map_area>1.062 Sq. km</map_area>
+         <map_width>976 m</map_width>
+         <map_depth>1088 m</map_depth>
+      </Map_Size>
+      <region></region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Blue Force</early_intel>
+      <game_version>Unknown</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>9</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #02]</number_in_campaign>
+         <battle_title>Ghost Towns version 2</battle_title>
+      </Title>
+      <filename>Die Kunst Des Krieges #02_NATO Ghostv2</filename>
+      <picture_link>scenpics/Die Kunst Des Krieges2.bmp</picture_link>
+      <battle_type>Blue Attack</battle_type>
+      <description>2nd mission of the German Campaign</description>
+      <date>18/06/2008</date>
+      <time_of_day>07:15</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:20</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>3.456 Sq. km</map_area>
+         <map_width>1728 m</map_width>
+         <map_depth>2000 m</map_depth>
+      </Map_Size>
+      <region></region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Hot</temperature>
+      <ground_condition>Very Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>Unknown</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #00]</number_in_campaign>
+         <battle_title>The Borders Are Burning</battle_title>
+      </Title>
+      <filename>Die Kunst Des Krieges #00_NATO Borders</filename>
+      <picture_link>scenpics/Die Kunst Des Krieges0.bmp</picture_link>
+      <battle_type>Blue Attack</battle_type>
+      <description>Opening mission of the German Campaign</description>
+      <date>17/06/2008</date>
+      <time_of_day>05:35</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:10</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>1.631 Sq. km</map_area>
+         <map_width>1120 m</map_width>
+         <map_depth>1456 m</map_depth>
+      </Map_Size>
+      <region></region>
+      <environment>Village</environment>
+      <weather>Hazy</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Very Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>Unknown</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #15]</number_in_campaign>
+         <battle_title>Mission 9 Panzer Hurra!</battle_title>
+      </Title>
+      <filename>Die Kunst Des Krieges #15_NATO Assanv1</filename>
+      <picture_link>scenpics/Die Kunst Des Krieges15.bmp</picture_link>
+      <battle_type>Meeting Engagement</battle_type>
+      <description>20th June: Kampfgruppe Dietrich (2./PzGrn 112 with two Zug from 4./Pz 104) advances to contact with armoured elements from a Republican Guard Battlegroup.</description>
+      <date>20/06/2008</date>
+      <time_of_day>02:00</time_of_day>
+      <part_of_day>Night</part_of_day>
+      <length>02:00</length>
+      <battle_size>Huge</battle_size>
+      <Map_Size>
+         <map_area>6.835 Sq. km</map_area>
+         <map_width>2400 m</map_width>
+         <map_depth>2848 m</map_depth>
+      </Map_Size>
+      <region></region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Hot</temperature>
+      <ground_condition>Very Dry</ground_condition>
+      <early_intel>Red Force</early_intel>
+      <game_version>Unknown</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>10</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #19]</number_in_campaign>
+         <battle_title>The Fortress</battle_title>
+      </Title>
+      <filename>Die Kunst Des Krieges #19_NATO Fortress</filename>
+      <picture_link>scenpics/Die Kunst Des Krieges19.bmp</picture_link>
+      <battle_type>Blue Attack</battle_type>
+      <description>3 Panzer Grenadier Company must clear a defended town.</description>
+      <date>24/06/2008</date>
+      <time_of_day>18:25</time_of_day>
+      <part_of_day>Dusk</part_of_day>
+      <length>01:40</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>2.742 Sq. km</map_area>
+         <map_width>1664 m</map_width>
+         <map_depth>1648 m</map_depth>
+      </Map_Size>
+      <region></region>
+      <environment>Town</environment>
+      <weather>Clear</weather>
+      <temperature>Extreme Heat</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Red Force</early_intel>
+      <game_version>Unknown</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #20]</number_in_campaign>
+         <battle_title>Jabal Zayn al Abidin</battle_title>
+      </Title>
+      <filename>Die Kunst Des Krieges #20_NATO Jabal</filename>
+      <picture_link>scenpics/Die Kunst Des Krieges20.bmp</picture_link>
+      <battle_type>Blue Assault</battle_type>
+      <description>German forces assault a hill north of Hama.</description>
+      <date>15/07/2008</date>
+      <time_of_day>05:05</time_of_day>
+      <part_of_day>Dawn</part_of_day>
+      <length>02:00</length>
+      <battle_size>Large</battle_size>
+      <Map_Size>
+         <map_area>4 Sq. km</map_area>
+         <map_width>2000 m</map_width>
+         <map_depth>2000 m</map_depth>
+      </Map_Size>
+      <region></region>
+      <environment>Forest</environment>
+      <weather>Clear</weather>
+      <temperature>Cool</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Blue Force</early_intel>
+      <game_version>Unknown</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>9</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #04]</number_in_campaign>
+         <battle_title>Al Bab version 2</battle_title>
+      </Title>
+      <filename>Die Kunst Des Krieges #04_NATO Al Babv2</filename>
+      <picture_link>scenpics/Die Kunst Des Krieges4.bmp</picture_link>
+      <battle_type>Blue Attack</battle_type>
+      <description>Mission 3 of the German Campaign</description>
+      <date>18/06/2008</date>
+      <time_of_day>19:45</time_of_day>
+      <part_of_day>Dusk</part_of_day>
+      <length>02:00</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>2.177 Sq. km</map_area>
+         <map_width>1008 m</map_width>
+         <map_depth>2160 m</map_depth>
+      </Map_Size>
+      <region></region>
+      <environment>Village</environment>
+      <weather>Hazy</weather>
+      <temperature>Hot</temperature>
+      <ground_condition>Very Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>Unknown</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #21]</number_in_campaign>
+         <battle_title>Kuhnheit!</battle_title>
+      </Title>
+      <filename>Die Kunst Des Krieges #21_NATO Audacity</filename>
+      <picture_link>scenpics/Die Kunst Des Krieges21.bmp</picture_link>
+      <battle_type>Blue Attack</battle_type>
+      <description>14th mission of the German Campaign</description>
+      <date>18/06/2008</date>
+      <time_of_day>04:50</time_of_day>
+      <part_of_day>Dawn</part_of_day>
+      <length>01:40</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>1.175 Sq. km</map_area>
+         <map_width>816 m</map_width>
+         <map_depth>1440 m</map_depth>
+      </Map_Size>
+      <region></region>
+      <environment>Town</environment>
+      <weather>Clear</weather>
+      <temperature>Hot</temperature>
+      <ground_condition>Very Dry</ground_condition>
+      <early_intel>Blue Force</early_intel>
+      <game_version>Unknown</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #09]</number_in_campaign>
+         <battle_title>Mission 6 Fields Of Fire</battle_title>
+      </Title>
+      <filename>Die Kunst Des Krieges #09_NATO Fieldsv1</filename>
+      <picture_link>scenpics/Die Kunst Des Krieges9.bmp</picture_link>
+      <battle_type>Red Attack</battle_type>
+      <description>19th June. During poor weather elements from Kampfgruppe Fischer scramble to intercept a surprise raid by a Syrian armoured force.</description>
+      <date>19/06/2008</date>
+      <time_of_day>13:15</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:45</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>2.184 Sq. km</map_area>
+         <map_width>1728 m</map_width>
+         <map_depth>1264 m</map_depth>
+      </Map_Size>
+      <region></region>
+      <environment>Open</environment>
+      <weather>Thick Haze</weather>
+      <temperature>Extreme Heat</temperature>
+      <ground_condition>Very Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>Unknown</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #13]</number_in_campaign>
+         <battle_title>Reservoir Ridge</battle_title>
+      </Title>
+      <filename>Die Kunst Des Krieges #13_NATO Reservoir</filename>
+      <picture_link>scenpics/Die Kunst Des Krieges13.bmp</picture_link>
+      <battle_type>Blue Assault</battle_type>
+      <description>Reserve infantry units make a stand in the northwest hills</description>
+      <date>20/06/2008</date>
+      <time_of_day>04:25</time_of_day>
+      <part_of_day>Dawn</part_of_day>
+      <length>01:00</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>1.012 Sq. km</map_area>
+         <map_width>1072 m</map_width>
+         <map_depth>944 m</map_depth>
+      </Map_Size>
+      <region></region>
+      <environment>Open</environment>
+      <weather>Thick Haze</weather>
+      <temperature>Cool</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Red Force</early_intel>
+      <game_version>Unknown</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #14]</number_in_campaign>
+         <battle_title>Decision - Aleppo or Hama</battle_title>
+      </Title>
+      <filename>Die Kunst Des Krieges #14_NATO Decision</filename>
+      <picture_link>scenpics/Die Kunst Des Krieges14.bmp</picture_link>
+      <battle_type>Blue Attack</battle_type>
+      <description>A simple decision must be made here. Which branch of the campaign do you wish to follow?</description>
+      <date>01/05/2008</date>
+      <time_of_day>06:10</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:30</length>
+      <battle_size>Tiny</battle_size>
+      <Map_Size>
+         <map_area>0.043 Sq. km</map_area>
+         <map_width>208 m</map_width>
+         <map_depth>208 m</map_depth>
+      </Map_Size>
+      <region></region>
+      <environment>Open</environment>
+      <weather>Thick Haze</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Very Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>Unknown</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>2</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #22]</number_in_campaign>
+         <battle_title>Brucke nach Walhalla!</battle_title>
+      </Title>
+      <filename>Die Kunst Des Krieges #22_NATO Valhalla</filename>
+      <picture_link>scenpics/Die Kunst Des Krieges22.bmp</picture_link>
+      <battle_type>Blue Attack</battle_type>
+      <description>Final mission of the German Campaign - Hama branch</description>
+      <date>27/06/2008</date>
+      <time_of_day>09:45</time_of_day>
+      <part_of_day>Dawn</part_of_day>
+      <length>01:10</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>0.16 Sq. km</map_area>
+         <map_width>400 m</map_width>
+         <map_depth>400 m</map_depth>
+      </Map_Size>
+      <region></region>
+      <environment>City</environment>
+      <weather>Thick Haze</weather>
+      <temperature>Extreme Heat</temperature>
+      <ground_condition>Very Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>Unknown</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #08]</number_in_campaign>
+         <battle_title>Syrian Gambit version 2</battle_title>
+      </Title>
+      <filename>Die Kunst Des Krieges #08_NATO Gambitv2</filename>
+      <picture_link>scenpics/Die Kunst Des Krieges8.bmp</picture_link>
+      <battle_type>Meeting Engagement</battle_type>
+      <description>Panzergrenadier and Recon elements clash with Syrian armor and mech infantry.</description>
+      <date>18/06/2008</date>
+      <time_of_day>05:05</time_of_day>
+      <part_of_day>Dawn</part_of_day>
+      <length>01:00</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>3.991 Sq. km</map_area>
+         <map_width>2096 m</map_width>
+         <map_depth>1904 m</map_depth>
+      </Map_Size>
+      <region></region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>Unknown</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #17]</number_in_campaign>
+         <battle_title>Mission 10 Nicht Kleckern, Klotzen!</battle_title>
+      </Title>
+      <filename>Die Kunst Des Krieges #17_NATO Mashraf</filename>
+      <picture_link>scenpics/Die Kunst Des Krieges17.bmp</picture_link>
+      <battle_type>Blue Assault</battle_type>
+      <description>22nd June. Kampfgruppe &apos;REGEN&apos; launches an attack against Republican Guard blocking positions to secure the main road from ALEPPO/BARDAH.</description>
+      <date>22/06/2008</date>
+      <time_of_day>04:15</time_of_day>
+      <part_of_day>Dawn</part_of_day>
+      <length>02:00</length>
+      <battle_size>Huge</battle_size>
+      <Map_Size>
+         <map_area>6.336 Sq. km</map_area>
+         <map_width>2400 m</map_width>
+         <map_depth>2640 m</map_depth>
+      </Map_Size>
+      <region></region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Hot</temperature>
+      <ground_condition>Very Dry</ground_condition>
+      <early_intel>Blue Force</early_intel>
+      <game_version>Unknown</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>10</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #01]</number_in_campaign>
+         <battle_title>Ghost Towns</battle_title>
+      </Title>
+      <filename>Die Kunst Des Krieges #01_NATO Ghostv1</filename>
+      <picture_link>scenpics/Die Kunst Des Krieges1.bmp</picture_link>
+      <battle_type>Blue Attack</battle_type>
+      <description>2nd mission of the German Campaign</description>
+      <date>18/06/2008</date>
+      <time_of_day>07:15</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:20</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>3.456 Sq. km</map_area>
+         <map_width>1728 m</map_width>
+         <map_depth>2000 m</map_depth>
+      </Map_Size>
+      <region></region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Hot</temperature>
+      <ground_condition>Very Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>Unknown</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #05]</number_in_campaign>
+         <battle_title>Al Bab version 3</battle_title>
+      </Title>
+      <filename>Die Kunst Des Krieges #05_NATO Al Babv3</filename>
+      <picture_link>scenpics/Die Kunst Des Krieges5.bmp</picture_link>
+      <battle_type>Blue Attack</battle_type>
+      <description>Mission 3 of the German Campaign</description>
+      <date>18/06/2008</date>
+      <time_of_day>17:45</time_of_day>
+      <part_of_day>Dusk</part_of_day>
+      <length>02:00</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>2.177 Sq. km</map_area>
+         <map_width>1008 m</map_width>
+         <map_depth>2160 m</map_depth>
+      </Map_Size>
+      <region></region>
+      <environment>Village</environment>
+      <weather>Hazy</weather>
+      <temperature>Hot</temperature>
+      <ground_condition>Very Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>Unknown</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #06]</number_in_campaign>
+         <battle_title>Minakh Airfield</battle_title>
+      </Title>
+      <filename>Die Kunst Des Krieges #06_NATO Minakh</filename>
+      <picture_link>scenpics/Die Kunst Des Krieges6.bmp</picture_link>
+      <battle_type>Blue Attack</battle_type>
+      <description>4th mission of the German campaign</description>
+      <date>18/06/2008</date>
+      <time_of_day>02:00</time_of_day>
+      <part_of_day>Night</part_of_day>
+      <length>01:20</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>1.958 Sq. km</map_area>
+         <map_width>1440 m</map_width>
+         <map_depth>1360 m</map_depth>
+      </Map_Size>
+      <region></region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Cool</temperature>
+      <ground_condition>Very Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>Unknown</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #07]</number_in_campaign>
+         <battle_title>Syrian Gambit</battle_title>
+      </Title>
+      <filename>Die Kunst Des Krieges #07_NATO Gambitv1</filename>
+      <picture_link>scenpics/Die Kunst Des Krieges7.bmp</picture_link>
+      <battle_type>Meeting Engagement</battle_type>
+      <description>Panzergrenadier and Recon elements clash with Syrian armor and mech infantry.</description>
+      <date>18/06/2008</date>
+      <time_of_day>05:05</time_of_day>
+      <part_of_day>Dawn</part_of_day>
+      <length>01:00</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>3.991 Sq. km</map_area>
+         <map_width>2096 m</map_width>
+         <map_depth>1904 m</map_depth>
+      </Map_Size>
+      <region></region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>Unknown</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #16]</number_in_campaign>
+         <battle_title>Mission 9 Panzer Hurra! version 2</battle_title>
+      </Title>
+      <filename>Die Kunst Des Krieges #16_NATO Assanv2</filename>
+      <picture_link>scenpics/Die Kunst Des Krieges16.bmp</picture_link>
+      <battle_type>Meeting Engagement</battle_type>
+      <description>20th June: Kampfgruppe Dietrich (2./PzGrn 112 with two Zug from 4./Pz 104) advances to contact with armoured elements from a Republican Guard Battlegroup.</description>
+      <date>20/06/2008</date>
+      <time_of_day>02:00</time_of_day>
+      <part_of_day>Night</part_of_day>
+      <length>02:00</length>
+      <battle_size>Huge</battle_size>
+      <Map_Size>
+         <map_area>6.835 Sq. km</map_area>
+         <map_width>2400 m</map_width>
+         <map_depth>2848 m</map_depth>
+      </Map_Size>
+      <region></region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Hot</temperature>
+      <ground_condition>Very Dry</ground_condition>
+      <early_intel>Red Force</early_intel>
+      <game_version>Unknown</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>10</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #12]</number_in_campaign>
+         <battle_title>The Factory</battle_title>
+      </Title>
+      <filename>Die Kunst Des Krieges #12_NATO Factoryv2</filename>
+      <picture_link>scenpics/Die Kunst Des Krieges12.bmp</picture_link>
+      <battle_type>Blue Attack</battle_type>
+      <description>German forces assault a large industrial park infested with determined defenders.</description>
+      <date>20/06/2008</date>
+      <time_of_day>21:30</time_of_day>
+      <part_of_day>Dawn</part_of_day>
+      <length>02:00</length>
+      <battle_size>Large</battle_size>
+      <Map_Size>
+         <map_area>1.062 Sq. km</map_area>
+         <map_width>976 m</map_width>
+         <map_depth>1088 m</map_depth>
+      </Map_Size>
+      <region></region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Blue Force</early_intel>
+      <game_version>Unknown</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>9</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #18]</number_in_campaign>
+         <battle_title>A Night at the Sheraton</battle_title>
+      </Title>
+      <filename>Die Kunst Des Krieges #18_NATO Sheraton</filename>
+      <picture_link>scenpics/Die Kunst Des Krieges18.bmp</picture_link>
+      <battle_type>Blue Assault</battle_type>
+      <description>German forces advance through the city center of Aleppo as collapsing Syrian forces mount a desperate final defense.</description>
+      <date>26/06/2008</date>
+      <time_of_day>02:30</time_of_day>
+      <part_of_day>Night</part_of_day>
+      <length>01:30</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>0.161 Sq. km</map_area>
+         <map_width>560 m</map_width>
+         <map_depth>288 m</map_depth>
+      </Map_Size>
+      <region></region>
+      <environment>City</environment>
+      <weather>Clear</weather>
+      <temperature>Cool</temperature>
+      <ground_condition>Very Dry</ground_condition>
+      <early_intel>Blue Force</early_intel>
+      <game_version>Unknown</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   </Scenario_List>
+</Scenario_Listing>

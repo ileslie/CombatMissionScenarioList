@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="Listing_Layout.xsl" ?>
+
+<Scenario_Listing>
+
+   <Scenario_List>
+
+   <containing_campaign>Regaining The Initiative</containing_campaign>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #03]</number_in_campaign>
+         <battle_title>Impasse scenarios/Rokossovkys_Impasse #03_CMRT Meat Grinder V1</battle_title>
+      </Title>
+      <filename>Rokossovkys_Impasse #03_CMRT Meat Grinder V1</filename>
+      <picture_link>scenpics/Rokossovkys_Impasse3.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>Not defined!</description>
+      <date>01/07/1944</date>
+      <time_of_day>18:00</time_of_day>
+      <part_of_day>Night</part_of_day>
+      <length>02:00</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>3.395 Sq. km</map_area>
+         <map_width>2384 m</map_width>
+         <map_depth>1424 m</map_depth>
+      </Map_Size>
+      <region>Eastern Europe</region>
+      <environment>Open</environment>
+      <weather>Mist</weather>
+      <temperature>Cool</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMRT v1.00 to v1.03</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #01]</number_in_campaign>
+         <battle_title>Night Patrol</battle_title>
+      </Title>
+      <filename>Rokossovkys_Impasse #01_CMRT Night Patrol V1</filename>
+      <picture_link>scenpics/Rokossovkys_Impasse1.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>Soviets send out a patrol to test enemy strength.</description>
+      <date>01/07/1944</date>
+      <time_of_day>01:30</time_of_day>
+      <part_of_day>Night</part_of_day>
+      <length>01:00</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>3.267 Sq. km</map_area>
+         <map_width>1856 m</map_width>
+         <map_depth>1760 m</map_depth>
+      </Map_Size>
+      <region>Eastern Europe</region>
+      <environment>Forest</environment>
+      <weather>Overcast</weather>
+      <temperature>Cool</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMRT v1.00 to v1.03</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #00]</number_in_campaign>
+         <battle_title>Ivan&apos;s Eyes</battle_title>
+      </Title>
+      <filename>Rokossovkys_Impasse #00_CMRT Ivans Eyes V1</filename>
+      <picture_link>scenpics/Rokossovkys_Impasse0.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>Russian drive changes direction and the Germans are forced to reply.</description>
+      <date>30/06/1944</date>
+      <time_of_day>09:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>02:00</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>3.267 Sq. km</map_area>
+         <map_width>1856 m</map_width>
+         <map_depth>1760 m</map_depth>
+      </Map_Size>
+      <region>Eastern Europe</region>
+      <environment>Forest</environment>
+      <weather>Heavy Fog</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMRT v1.00 to v1.03</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #02]</number_in_campaign>
+         <battle_title>Romistrov&apos;s Onslaught</battle_title>
+      </Title>
+      <filename>Rokossovkys_Impasse #02_CMRT Ivans Onslaught V1</filename>
+      <picture_link>scenpics/Rokossovkys_Impasse2.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>German armored force must stop the tide.</description>
+      <date>01/07/1944</date>
+      <time_of_day>09:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>02:00</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>3.094 Sq. km</map_area>
+         <map_width>2448 m</map_width>
+         <map_depth>1264 m</map_depth>
+      </Map_Size>
+      <region>Eastern Europe</region>
+      <environment>Open</environment>
+      <weather>Mist</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMRT v1.00 to v1.03</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   </Scenario_List>
+</Scenario_Listing>

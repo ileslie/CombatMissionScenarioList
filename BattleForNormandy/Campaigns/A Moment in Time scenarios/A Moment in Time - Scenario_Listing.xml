@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="Listing_Layout.xsl" ?>
+
+<Scenario_Listing>
+
+   <Scenario_List>
+
+   <containing_campaign>A Moment in Time</containing_campaign>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #02]</number_in_campaign>
+         <battle_title>In The Zone</battle_title>
+      </Title>
+      <filename>A Moment in Time #02_MG Ger 03 In The Zone v10</filename>
+      <picture_link>scenpics/A Moment in Time2.bmp</picture_link>
+      <battle_type>Axis Attack</battle_type>
+      <description>Push the Americans back to overrun their landing zones.</description>
+      <date>19/09/1944</date>
+      <time_of_day>10:20</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:40</length>
+      <battle_size>Small</battle_size>
+      <Map_Size>
+         <map_area>0.237 Sq. km</map_area>
+         <map_width>672 m</map_width>
+         <map_depth>352 m</map_depth>
+      </Map_Size>
+      <region>Holland</region>
+      <environment>Village</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Damp</ground_condition>
+      <early_intel>Axis Force</early_intel>
+      <game_version>CMBN v2.10</game_version>
+      <Modules_Required>
+         <module1>Market Garden</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>3</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #01]</number_in_campaign>
+         <battle_title>On The Brink</battle_title>
+      </Title>
+      <filename>A Moment in Time #01_MG Ger 02 On The Brink v12</filename>
+      <picture_link>scenpics/A Moment in Time1.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>KG Möller holds Den Brink on the western outskirts of Arnhem</description>
+      <date>19/09/1944</date>
+      <time_of_day>10:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:40</length>
+      <battle_size>Small</battle_size>
+      <Map_Size>
+         <map_area>0.349 Sq. km</map_area>
+         <map_width>624 m</map_width>
+         <map_depth>560 m</map_depth>
+      </Map_Size>
+      <region>Holland</region>
+      <environment>Rough</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBN v2.10</game_version>
+      <Modules_Required>
+         <module1>Market Garden</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>3</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #00]</number_in_campaign>
+         <battle_title>School Daze</battle_title>
+      </Title>
+      <filename>A Moment in Time #00_MG Ger 01 School Daze v10</filename>
+      <picture_link>scenpics/A Moment in Time0.bmp</picture_link>
+      <battle_type>Axis Attack</battle_type>
+      <description>Crush the British forces holding out east of the Anhem Bridge</description>
+      <date>19/09/1944</date>
+      <time_of_day>10:10</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:50</length>
+      <battle_size>Small</battle_size>
+      <Map_Size>
+         <map_area>0.218 Sq. km</map_area>
+         <map_width>400 m</map_width>
+         <map_depth>544 m</map_depth>
+      </Map_Size>
+      <region>Holland</region>
+      <environment>City</environment>
+      <weather>Thick Haze</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Damp</ground_condition>
+      <early_intel>Axis Force</early_intel>
+      <game_version>CMBN v2.10</game_version>
+      <Modules_Required>
+         <module1>Market Garden</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>3</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #05]</number_in_campaign>
+         <battle_title>A Sonny Day</battle_title>
+      </Title>
+      <filename>A Moment in Time #05_MG Ger 06 Sonny Day v11</filename>
+      <picture_link>scenpics/A Moment in Time5.bmp</picture_link>
+      <battle_type>Axis Attack</battle_type>
+      <description>Lead elements of 107th Panzer Brigade break in at Son</description>
+      <date>19/09/1944</date>
+      <time_of_day>10:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:00</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>0.601 Sq. km</map_area>
+         <map_width>816 m</map_width>
+         <map_depth>736 m</map_depth>
+      </Map_Size>
+      <region>Holland</region>
+      <environment>Village</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Wet</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBN v2.10</game_version>
+      <Modules_Required>
+         <module1>Market Garden</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #04]</number_in_campaign>
+         <battle_title>Hell&apos;s Highway</battle_title>
+      </Title>
+      <filename>A Moment in Time #04_MG Ger 05 Hells Highway v10</filename>
+      <picture_link>scenpics/A Moment in Time4.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>A scratch force of trainee Fallschirmjägers has set up an ambush in the forest.</description>
+      <date>19/09/1944</date>
+      <time_of_day>10:10</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:50</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>0.913 Sq. km</map_area>
+         <map_width>1392 m</map_width>
+         <map_depth>656 m</map_depth>
+      </Map_Size>
+      <region>Holland</region>
+      <environment>Open</environment>
+      <weather>Mist</weather>
+      <temperature>Cool</temperature>
+      <ground_condition>Damp</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBN v2.10</game_version>
+      <Modules_Required>
+         <module1>Market Garden</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #03]</number_in_campaign>
+         <battle_title>A bridge over troubled waters</battle_title>
+      </Title>
+      <filename>A Moment in Time #03_MG Ger 04 Bridge over Troubled Waters v10</filename>
+      <picture_link>scenpics/A Moment in Time3.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>82nd Airborne are attempting to secure Bridge 10</description>
+      <date>19/09/1944</date>
+      <time_of_day>06:30</time_of_day>
+      <part_of_day>Dawn</part_of_day>
+      <length>00:45</length>
+      <battle_size>Small</battle_size>
+      <Map_Size>
+         <map_area>0.733 Sq. km</map_area>
+         <map_width>848 m</map_width>
+         <map_depth>864 m</map_depth>
+      </Map_Size>
+      <region>Holland</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBN v2.10</game_version>
+      <Modules_Required>
+         <module1>Market Garden</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>3</size_modifier>
+   </Scenario>
+
+   </Scenario_List>
+</Scenario_Listing>

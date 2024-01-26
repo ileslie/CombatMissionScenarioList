@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="Listing_Layout.xsl" ?>
+
+<Scenario_Listing>
+
+   <Scenario_List>
+
+   <containing_campaign>NTC 1982 - Training In The Desert</containing_campaign>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #06]</number_in_campaign>
+         <battle_title>Counterattack in Red Pass</battle_title>
+      </Title>
+      <filename>NTC 1982 Training In The Desert #06_NTC_2B_CounterAttack_v03</filename>
+      <picture_link>scenpics/NTC 1982 Training In The Desert6.bmp</picture_link>
+      <battle_type>Blue Attack</battle_type>
+      <description>Conduct a Counterattack in Red Pass</description>
+      <date>21/07/1982</date>
+      <time_of_day>13:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:45</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>9.048 Sq. km</map_area>
+         <map_width>3008 m</map_width>
+         <map_depth>3008 m</map_depth>
+      </Map_Size>
+      <region>National Training Center</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Allied Force</early_intel>
+      <game_version>CMCW v1.00 to v1.06</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #04]</number_in_campaign>
+         <battle_title>Decision Point Defend In Zone</battle_title>
+      </Title>
+      <filename>NTC 1982 Training In The Desert #04_NTC_Decision Point 2_v03</filename>
+      <picture_link>scenpics/NTC 1982 Training In The Desert4.bmp</picture_link>
+      <battle_type>Blue Attack</battle_type>
+      <description>Choose your course of action! Conduct a Delay in Sector OR Conduct a Counterattack!</description>
+      <date>21/07/1982</date>
+      <time_of_day>12:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:10</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>0.092 Sq. km</map_area>
+         <map_width>304 m</map_width>
+         <map_depth>304 m</map_depth>
+      </Map_Size>
+      <region>National Training Center</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMCW v1.00 to v1.06</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>4</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #05]</number_in_campaign>
+         <battle_title>Delay in Red Pass</battle_title>
+      </Title>
+      <filename>NTC 1982 Training In The Desert #05_NTC_2A_Delay_v16</filename>
+      <picture_link>scenpics/NTC 1982 Training In The Desert5.bmp</picture_link>
+      <battle_type>Blue Attack</battle_type>
+      <description>Perform a Delay Operation in Red Pass</description>
+      <date>21/07/1982</date>
+      <time_of_day>13:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:45</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>9.048 Sq. km</map_area>
+         <map_width>3008 m</map_width>
+         <map_depth>3008 m</map_depth>
+      </Map_Size>
+      <region>National Training Center</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Allied Force</early_intel>
+      <game_version>CMCW v1.00 to v1.06</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #03]</number_in_campaign>
+         <battle_title>NTC 1Ab PURSUIT</battle_title>
+      </Title>
+      <filename>NTC 1982 Training In The Desert #03_NTC_DP1_b_PURSUIT_v08</filename>
+      <picture_link>scenpics/NTC 1982 Training In The Desert3.bmp</picture_link>
+      <battle_type>Blue Attack</battle_type>
+      <description>PURSUIT BATTLE - Pursue and Destroy the enemy FSE</description>
+      <date>19/07/1982</date>
+      <time_of_day>13:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:40</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>8 Sq. km</map_area>
+         <map_width>4000 m</map_width>
+         <map_depth>2000 m</map_depth>
+      </Map_Size>
+      <region>National Training Center</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Hot</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMCW v1.00 to v1.06</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>ntc</mod_tag>
+      </Mod_Tags>
+      <size_modifier>5</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #00]</number_in_campaign>
+         <battle_title>NTC Decision Point 1</battle_title>
+      </Title>
+      <filename>NTC 1982 Training In The Desert #00_NTC_Decision Point_v10</filename>
+      <picture_link>scenpics/NTC 1982 Training In The Desert0.bmp</picture_link>
+      <battle_type>Blue Attack</battle_type>
+      <description>Choose your course of action! Hasty Attack OR Spoiling Attack?</description>
+      <date>19/07/1982</date>
+      <time_of_day>08:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:30</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>0.397 Sq. km</map_area>
+         <map_width>800 m</map_width>
+         <map_depth>496 m</map_depth>
+      </Map_Size>
+      <region>National Training Center</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Hot</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMCW v1.00 to v1.06</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>5</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #01]</number_in_campaign>
+         <battle_title>NTC 1A Hasty Attack</battle_title>
+      </Title>
+      <filename>NTC 1982 Training In The Desert #01_NTC_DP1A_HASTY ATTACK_v12</filename>
+      <picture_link>scenpics/NTC 1982 Training In The Desert1.bmp</picture_link>
+      <battle_type>Blue Attack</battle_type>
+      <description>BLUEFOR Company Team conducts a hasty attack against OPFOR FSE north of Brown Pass. Play as BLUE Vs RED AI ONLY.</description>
+      <date>19/07/1982</date>
+      <time_of_day>09:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:40</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>8 Sq. km</map_area>
+         <map_width>4000 m</map_width>
+         <map_depth>2000 m</map_depth>
+      </Map_Size>
+      <region>National Training Center</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Hot</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMCW v1.00 to v1.06</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>ntc</mod_tag>
+      </Mod_Tags>
+      <size_modifier>5</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #02]</number_in_campaign>
+         <battle_title>NTC 1B Spoiling attack in Brown Pass</battle_title>
+      </Title>
+      <filename>NTC 1982 Training In The Desert #02_NTC_DP1B_Spoiling Attack in Brown Pass_v06</filename>
+      <picture_link>scenpics/NTC 1982 Training In The Desert2.bmp</picture_link>
+      <battle_type>Blue Probe</battle_type>
+      <description>BLUEFOR Company Team conducts a spoiling attack to prevent enemy FSE combining and deploying in Brown Pass. Play as BLUE Vs RED AI only.</description>
+      <date>19/07/1982</date>
+      <time_of_day>09:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:45</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>8 Sq. km</map_area>
+         <map_width>4000 m</map_width>
+         <map_depth>2000 m</map_depth>
+      </Map_Size>
+      <region>National Training Center</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Hot</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Axis Force</early_intel>
+      <game_version>CMCW v1.00 to v1.06</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>ntc</mod_tag>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   </Scenario_List>
+</Scenario_Listing>

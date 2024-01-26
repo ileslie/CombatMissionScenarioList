@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scenarios>
+    <scenario author="Mike Raymond" filename="BulgePlusOne #00_encounter.btt" stock="y"/>
+    <scenario author="Mike Raymond" filename="BulgePlusOne #01_encounterL.btt" stock="y"/>
+    <scenario author="Mike Raymond" filename="BulgePlusOne #02_encounterR.btt" stock="y"/>
+    <scenario author="Mike Raymond" filename="BulgePlusOne #03_encounter4.btt" stock="y"/>
+    <scenario author="Mike Raymond" filename="BulgePlusOne #04_encounter5R.btt" stock="y"/>
+    <scenario author="Mike Raymond" filename="BulgePlusOne #05_encounter5L.btt" stock="y"/>
+    <scenario author="Mike Raymond" filename="BulgePlusOne #06_encounter6.btt" stock="y"/>
+</scenarios>

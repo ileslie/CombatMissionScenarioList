@@ -12,7 +12,7 @@ shift
 cd "%GAMENAME%\Campaigns"
 FOR /D %%p IN (*.*) DO (IF NOT "%%p" == "campaignpics" (echo will look in "%%p"))
 @echo Generating...
-FOR /D %%p IN (*.*) DO (IF NOT "%%p" == "campaignpics" (set TEMPNAME=%%p&set NAME=!TEMPNAME:~0,-10!&java -jar ..\..\ParseShotCutLinks.jar -btt -dir="%%p" -xmlout="Extra_Info-!NAME!.xml"))
+FOR /D %%p IN (*.*) DO (IF NOT "%%p" == "campaignpics" (set TEMPNAME=%%p&set NAME=!TEMPNAME:~0,-10!&java -jar ..\..\ParseShortCutLinks.jar -btt -dir="%%p" -xmlout="Extra_Info-!NAME!.xml"))
 cd ..\..
 @echo.
 

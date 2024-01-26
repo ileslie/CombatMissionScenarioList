@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scenarios>
+    <scenario author="Mike Raymond" filename="BastognePlus #00_encounter.btt" stock="y"/>
+    <scenario author="Mike Raymond" filename="BastognePlus #01_encounterL.btt" stock="y"/>
+    <scenario author="Mike Raymond" filename="BastognePlus #02_encounterR.btt" stock="y"/>
+    <scenario author="Mike Raymond" filename="BastognePlus #03_encounter4.btt" stock="y"/>
+    <scenario author="Mike Raymond" filename="BastognePlus #04_encounter5R.btt" stock="y"/>
+    <scenario author="Mike Raymond" filename="BastognePlus #05_encounter5L.btt" stock="y"/>
+    <scenario author="Mike Raymond" filename="BastognePlus #06_encounter6.btt" stock="y"/>
+</scenarios>

@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="Listing_Layout.xsl" ?>
+
+<Scenario_Listing>
+
+   <Scenario_List>
+
+   <containing_campaign>Rollbahn D</containing_campaign>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #03]</number_in_campaign>
+         <battle_title>Breakthrough at Buchholz</battle_title>
+      </Title>
+      <filename>RollbahnD 0-48 Stunden #03_s2a</filename>
+      <picture_link>scenpics/RollbahnD 0-48 Stunden3.bmp</picture_link>
+      <battle_type>Axis Attack</battle_type>
+      <description>Clear the Buchholz area for the Spitze</description>
+      <date>17/12/1944</date>
+      <time_of_day>04:30</time_of_day>
+      <part_of_day>Dawn</part_of_day>
+      <length>02:00</length>
+      <battle_size>Large</battle_size>
+      <Map_Size>
+         <map_area>2.806 Sq. km</map_area>
+         <map_width>1808 m</map_width>
+         <map_depth>1552 m</map_depth>
+      </Map_Size>
+      <region>Ardennes</region>
+      <environment>Open</environment>
+      <weather>Flurries</weather>
+      <temperature>Freezing</temperature>
+      <ground_condition>Patchy Snow</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFB v2.03</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>ardennes</mod_tag>
+         <mod_tag>snow</mod_tag>
+      </Mod_Tags>
+      <size_modifier>9</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #01]</number_in_campaign>
+         <battle_title>Leaving Lanzerath</battle_title>
+      </Title>
+      <filename>RollbahnD 0-48 Stunden #01_s1</filename>
+      <picture_link>scenpics/RollbahnD 0-48 Stunden1.bmp</picture_link>
+      <battle_type>Axis Probe</battle_type>
+      <description>9./Regiment 3./Fallshirmjager Division attack on Lanzerath</description>
+      <date>14/12/1944</date>
+      <time_of_day>14:30</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:30</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>2.304 Sq. km</map_area>
+         <map_width>1440 m</map_width>
+         <map_depth>1600 m</map_depth>
+      </Map_Size>
+      <region>Ardennes</region>
+      <environment>Hills</environment>
+      <weather>Light Fog</weather>
+      <temperature>Freezing</temperature>
+      <ground_condition>Patchy Snow</ground_condition>
+      <early_intel>Axis Force</early_intel>
+      <game_version>CMFB v2.03</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>germany</mod_tag>
+         <mod_tag>snow</mod_tag>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #00]</number_in_campaign>
+         <battle_title>Murky Merlscheid</battle_title>
+      </Title>
+      <filename>RollbahnD 0-48 Stunden #00_sa</filename>
+      <picture_link>scenpics/RollbahnD 0-48 Stunden0.bmp</picture_link>
+      <battle_type>Axis Attack</battle_type>
+      <description>1st clash for the Fallshirmjager</description>
+      <date>16/12/1944</date>
+      <time_of_day>09:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:45</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>0.205 Sq. km</map_area>
+         <map_width>512 m</map_width>
+         <map_depth>400 m</map_depth>
+      </Map_Size>
+      <region>Ardennes</region>
+      <environment>Open</environment>
+      <weather>Heavy Fog</weather>
+      <temperature>Freezing</temperature>
+      <ground_condition>Patchy Snow</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFB v2.03</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>germany</mod_tag>
+         <mod_tag>snow</mod_tag>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #04]</number_in_campaign>
+         <battle_title>Hurrying Through Honsfeld</battle_title>
+      </Title>
+      <filename>RollbahnD 0-48 Stunden #04_s2b</filename>
+      <picture_link>scenpics/RollbahnD 0-48 Stunden4.bmp</picture_link>
+      <battle_type>Axis Attack</battle_type>
+      <description>Advance NW through Honsfeld</description>
+      <date>17/12/1944</date>
+      <time_of_day>05:30</time_of_day>
+      <part_of_day>Dawn</part_of_day>
+      <length>01:00</length>
+      <battle_size>Large</battle_size>
+      <Map_Size>
+         <map_area>1.358 Sq. km</map_area>
+         <map_width>1248 m</map_width>
+         <map_depth>1088 m</map_depth>
+      </Map_Size>
+      <region>Ardennes</region>
+      <environment>Open</environment>
+      <weather>Flurries</weather>
+      <temperature>Freezing</temperature>
+      <ground_condition>Patchy Snow</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFB v2.03</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>ardennes</mod_tag>
+         <mod_tag>snow</mod_tag>
+      </Mod_Tags>
+      <size_modifier>8</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #06]</number_in_campaign>
+         <battle_title>Butchers Of Baugnez</battle_title>
+      </Title>
+      <filename>RollbahnD 0-48 Stunden #06_s4</filename>
+      <picture_link>scenpics/RollbahnD 0-48 Stunden6.bmp</picture_link>
+      <battle_type>Axis Probe</battle_type>
+      <description>Gepanzertze Peiper continues its drive west</description>
+      <date>17/12/1944</date>
+      <time_of_day>13:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>03:00</length>
+      <battle_size>Huge</battle_size>
+      <Map_Size>
+         <map_area>15.872 Sq. km</map_area>
+         <map_width>3968 m</map_width>
+         <map_depth>4000 m</map_depth>
+      </Map_Size>
+      <region>Ardennes</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Cold</temperature>
+      <ground_condition>Muddy</ground_condition>
+      <early_intel>Allied Force</early_intel>
+      <game_version>CMFB v2.03</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>ligneuville</mod_tag>
+         <mod_tag>ardennes</mod_tag>
+         <mod_tag>muddy</mod_tag>
+      </Mod_Tags>
+      <size_modifier>10</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #02]</number_in_campaign>
+         <battle_title>Minen The Gap</battle_title>
+      </Title>
+      <filename>RollbahnD 0-48 Stunden #02_s0</filename>
+      <picture_link>scenpics/RollbahnD 0-48 Stunden2.bmp</picture_link>
+      <battle_type>Axis Probe</battle_type>
+      <description>Peipers Spitze advances to link up with the Fallshirmjager</description>
+      <date>16/12/1944</date>
+      <time_of_day>17:00</time_of_day>
+      <part_of_day>Dusk</part_of_day>
+      <length>00:45</length>
+      <battle_size>Large</battle_size>
+      <Map_Size>
+         <map_area>6.182 Sq. km</map_area>
+         <map_width>2800 m</map_width>
+         <map_depth>2208 m</map_depth>
+      </Map_Size>
+      <region>Ardennes</region>
+      <environment>Open</environment>
+      <weather>Heavy Fog</weather>
+      <temperature>Freezing</temperature>
+      <ground_condition>Patchy Snow</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFB v2.03</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>germany</mod_tag>
+         <mod_tag>snow</mod_tag>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #05]</number_in_campaign>
+         <battle_title>Bull-in-gen China Shop</battle_title>
+      </Title>
+      <filename>RollbahnD 0-48 Stunden #05_s3</filename>
+      <picture_link>scenpics/RollbahnD 0-48 Stunden5.bmp</picture_link>
+      <battle_type>Axis Attack</battle_type>
+      <description>KG Peiper hunts for the Fuel Dump</description>
+      <date>18/12/1944</date>
+      <time_of_day>07:00</time_of_day>
+      <part_of_day>Dawn</part_of_day>
+      <length>03:00</length>
+      <battle_size>Huge</battle_size>
+      <Map_Size>
+         <map_area>9.472 Sq. km</map_area>
+         <map_width>3200 m</map_width>
+         <map_depth>2960 m</map_depth>
+      </Map_Size>
+      <region>Ardennes</region>
+      <environment>Open</environment>
+      <weather>Overcast</weather>
+      <temperature>Cold</temperature>
+      <ground_condition>Patchy Snow</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFB v2.03</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>ardennes</mod_tag>
+         <mod_tag>muddy</mod_tag>
+      </Mod_Tags>
+      <size_modifier>10</size_modifier>
+   </Scenario>
+
+   </Scenario_List>
+</Scenario_Listing>

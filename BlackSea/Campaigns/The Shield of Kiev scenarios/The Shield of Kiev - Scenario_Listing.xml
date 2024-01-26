@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="Listing_Layout.xsl" ?>
+
+<Scenario_Listing>
+
+   <Scenario_List>
+
+   <containing_campaign>The Shield of Kiev</containing_campaign>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #02]</number_in_campaign>
+         <battle_title>Attack on Zalissya</battle_title>
+      </Title>
+      <filename>The Shield of Kiev #02_The Shield of Kiev Mission 2 1F</filename>
+      <picture_link>scenpics/The Shield of Kiev2.bmp</picture_link>
+      <battle_type>Blue Attack</battle_type>
+      <description>After destroying the Russian screen, 3rd Battalion Tactical Group continues the advance, smashing into Russiand defenses centered on a small town.</description>
+      <date>28/06/2017</date>
+      <time_of_day>09:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:30</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>1.344 Sq. km</map_area>
+         <map_width>944 m</map_width>
+         <map_depth>1424 m</map_depth>
+      </Map_Size>
+      <region>Unknown</region>
+      <environment>Village</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Blue Force</early_intel>
+      <game_version>Unknown(137)</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #01]</number_in_campaign>
+         <battle_title>Attack on Zalissya</battle_title>
+      </Title>
+      <filename>The Shield of Kiev #01_The Shield of Kiev Mission 2</filename>
+      <picture_link>scenpics/The Shield of Kiev1.bmp</picture_link>
+      <battle_type>Blue Attack</battle_type>
+      <description>After destroying the Russian screen, 3rd Battalion Tactical Group continues the advance, smashing into Russiand defenses centered on a small town.</description>
+      <date>28/06/2017</date>
+      <time_of_day>09:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:30</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>1.344 Sq. km</map_area>
+         <map_width>944 m</map_width>
+         <map_depth>1424 m</map_depth>
+      </Map_Size>
+      <region>Unknown</region>
+      <environment>Village</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Blue Force</early_intel>
+      <game_version>Unknown(139)</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #04]</number_in_campaign>
+         <battle_title>For Some Desperate Glory</battle_title>
+      </Title>
+      <filename>The Shield of Kiev #04_The Shield of Kiev Mission 4</filename>
+      <picture_link>scenpics/The Shield of Kiev4.bmp</picture_link>
+      <battle_type>Blue Assault</battle_type>
+      <description>The Battalion Tactical Group prepares for the their day&apos;s ultimate objective: the liberation of their base from Russian hands.</description>
+      <date>28/06/2017</date>
+      <time_of_day>17:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>03:00</length>
+      <battle_size>Large</battle_size>
+      <Map_Size>
+         <map_area>4.802 Sq. km</map_area>
+         <map_width>1776 m</map_width>
+         <map_depth>2704 m</map_depth>
+      </Map_Size>
+      <region>Unknown</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Hot</temperature>
+      <ground_condition>Very Dry</ground_condition>
+      <early_intel>Blue Force</early_intel>
+      <game_version>Unknown(137)</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>9</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #05]</number_in_campaign>
+         <battle_title>For Some Desperate Glory</battle_title>
+      </Title>
+      <filename>The Shield of Kiev #05_The Shield of Kiev Mission 4 3F</filename>
+      <picture_link>scenpics/The Shield of Kiev5.bmp</picture_link>
+      <battle_type>Blue Assault</battle_type>
+      <description>The Battalion Tactical Group prepares for the their day&apos;s ultimate objective: the liberation of their base from Russian hands.</description>
+      <date>28/06/2017</date>
+      <time_of_day>17:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>03:00</length>
+      <battle_size>Large</battle_size>
+      <Map_Size>
+         <map_area>4.802 Sq. km</map_area>
+         <map_width>1776 m</map_width>
+         <map_depth>2704 m</map_depth>
+      </Map_Size>
+      <region>Unknown</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Hot</temperature>
+      <ground_condition>Very Dry</ground_condition>
+      <early_intel>Blue Force</early_intel>
+      <game_version>Unknown(137)</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>9</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #00]</number_in_campaign>
+         <battle_title>Dawn Attack</battle_title>
+      </Title>
+      <filename>The Shield of Kiev #00_The Shield of Kiev Mission 1</filename>
+      <picture_link>scenpics/The Shield of Kiev0.bmp</picture_link>
+      <battle_type>Blue Probe</battle_type>
+      <description>The Ukraine counterattack seeks to dismantle the Russian Screen along side the E95 highway.</description>
+      <date>28/06/2017</date>
+      <time_of_day>06:15</time_of_day>
+      <part_of_day>Dawn</part_of_day>
+      <length>00:45</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>2.516 Sq. km</map_area>
+         <map_width>1008 m</map_width>
+         <map_depth>2496 m</map_depth>
+      </Map_Size>
+      <region>Ukraine</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Cool</temperature>
+      <ground_condition>Damp</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBS v1.00 to v1.02</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #03]</number_in_campaign>
+         <battle_title>Parks and Retaliation</battle_title>
+      </Title>
+      <filename>The Shield of Kiev #03_The Shield of Kiev Mission 3</filename>
+      <picture_link>scenpics/The Shield of Kiev3.bmp</picture_link>
+      <battle_type>Blue Attack</battle_type>
+      <description>1st Company must clear a blocking position on the highway north, opening the way for the brigade.</description>
+      <date>28/06/2017</date>
+      <time_of_day>14:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:00</length>
+      <battle_size>Tiny</battle_size>
+      <Map_Size>
+         <map_area>0.55 Sq. km</map_area>
+         <map_width>688 m</map_width>
+         <map_depth>800 m</map_depth>
+      </Map_Size>
+      <region>Unknown</region>
+      <environment>Village</environment>
+      <weather>Hazy</weather>
+      <temperature>Hot</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>Unknown(137)</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>3</size_modifier>
+   </Scenario>
+
+   </Scenario_List>
+</Scenario_Listing>

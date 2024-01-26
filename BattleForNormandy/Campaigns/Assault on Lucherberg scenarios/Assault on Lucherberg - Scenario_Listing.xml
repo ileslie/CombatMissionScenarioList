@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="Listing_Layout.xsl" ?>
+
+<Scenario_Listing>
+
+   <Scenario_List>
+
+   <containing_campaign>Dec 1944 - Assault on Lucherberg V1-0</containing_campaign>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #00]</number_in_campaign>
+         <battle_title>Dec 2-3 44 U.S. Night Attack</battle_title>
+      </Title>
+      <filename>Assault on Lucherberg #00_Lucherberg B1</filename>
+      <picture_link>scenpics/Assault on Lucherberg0.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>415th U.S. Infantry attacks Lucherberg with 2 infantry companies in front and 1 infantry company as a second wave.</description>
+      <date>07/08/1944</date>
+      <time_of_day>00:00</time_of_day>
+      <part_of_day>Night</part_of_day>
+      <length>02:30</length>
+      <battle_size>Huge</battle_size>
+      <Map_Size>
+         <map_area>7.03 Sq. km</map_area>
+         <map_width>3184 m</map_width>
+         <map_depth>2208 m</map_depth>
+      </Map_Size>
+      <region>France</region>
+      <environment>Village</environment>
+      <weather>Overcast</weather>
+      <temperature>Cool</temperature>
+      <ground_condition>Muddy</ground_condition>
+      <early_intel>Allied Force</early_intel>
+      <game_version>CMBN v1.01</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>10</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #02]</number_in_campaign>
+         <battle_title>Dec 3 Allied Attack</battle_title>
+      </Title>
+      <filename>Assault on Lucherberg #02_Lucherberg B3</filename>
+      <picture_link>scenpics/Assault on Lucherberg2.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>F/415 and L/415 reinforce I/415 and assault Lucherberg</description>
+      <date>07/08/1944</date>
+      <time_of_day>16:30</time_of_day>
+      <part_of_day>Dawn</part_of_day>
+      <length>01:00</length>
+      <battle_size>Large</battle_size>
+      <Map_Size>
+         <map_area>2.991 Sq. km</map_area>
+         <map_width>1584 m</map_width>
+         <map_depth>1888 m</map_depth>
+      </Map_Size>
+      <region>France</region>
+      <environment>Village</environment>
+      <weather>Light Rain</weather>
+      <temperature>Cool</temperature>
+      <ground_condition>Muddy</ground_condition>
+      <early_intel>Allied Force</early_intel>
+      <game_version>CMBN v1.01</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>8</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #03]</number_in_campaign>
+         <battle_title>Dec 4 German Counter-Attack</battle_title>
+      </Title>
+      <filename>Assault on Lucherberg #03_Lucherberg B4</filename>
+      <picture_link>scenpics/Assault on Lucherberg3.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>Lucherberg is in our hands - we expect the Germans to couner-attack anytime.</description>
+      <date>08/08/1944</date>
+      <time_of_day>04:00</time_of_day>
+      <part_of_day>Dawn</part_of_day>
+      <length>00:30</length>
+      <battle_size>Large</battle_size>
+      <Map_Size>
+         <map_area>2.991 Sq. km</map_area>
+         <map_width>1584 m</map_width>
+         <map_depth>1888 m</map_depth>
+      </Map_Size>
+      <region>France</region>
+      <environment>Village</environment>
+      <weather>Heavy Rain</weather>
+      <temperature>Cool</temperature>
+      <ground_condition>Muddy</ground_condition>
+      <early_intel>Allied Force</early_intel>
+      <game_version>CMBN v1.01</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #06]</number_in_campaign>
+         <battle_title>Dec 5 Final German Attack</battle_title>
+      </Title>
+      <filename>Assault on Lucherberg #06_Lucherberg B7</filename>
+      <picture_link>scenpics/Assault on Lucherberg6.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>The Germans will do everything to take Lucherberg back!</description>
+      <date>08/08/1944</date>
+      <time_of_day>06:30</time_of_day>
+      <part_of_day>Dawn</part_of_day>
+      <length>01:10</length>
+      <battle_size>Large</battle_size>
+      <Map_Size>
+         <map_area>2.991 Sq. km</map_area>
+         <map_width>1584 m</map_width>
+         <map_depth>1888 m</map_depth>
+      </Map_Size>
+      <region>France</region>
+      <environment>Village</environment>
+      <weather>Overcast</weather>
+      <temperature>Cool</temperature>
+      <ground_condition>Muddy</ground_condition>
+      <early_intel>Allied Force</early_intel>
+      <game_version>CMBN v1.01</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>8</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #01]</number_in_campaign>
+         <battle_title>Dec 3 German Dawn Counterattack</battle_title>
+      </Title>
+      <filename>Assault on Lucherberg #01_Lucherberg B2</filename>
+      <picture_link>scenpics/Assault on Lucherberg1.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>II./Grenadierregiment 404 leads a counterattack on Lucherberg</description>
+      <date>07/08/1944</date>
+      <time_of_day>06:00</time_of_day>
+      <part_of_day>Dawn</part_of_day>
+      <length>00:35</length>
+      <battle_size>Large</battle_size>
+      <Map_Size>
+         <map_area>2.991 Sq. km</map_area>
+         <map_width>1584 m</map_width>
+         <map_depth>1888 m</map_depth>
+      </Map_Size>
+      <region>France</region>
+      <environment>Village</environment>
+      <weather>Overcast</weather>
+      <temperature>Cool</temperature>
+      <ground_condition>Muddy</ground_condition>
+      <early_intel>Allied Force</early_intel>
+      <game_version>CMBN v1.01</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #05]</number_in_campaign>
+         <battle_title>Dec 4/5 Flush out</battle_title>
+      </Title>
+      <filename>Assault on Lucherberg #05_Lucherberg B6</filename>
+      <picture_link>scenpics/Assault on Lucherberg5.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>L/415 and F/415 flush out the last Germans from Lucherberg</description>
+      <date>08/08/1944</date>
+      <time_of_day>22:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:00</length>
+      <battle_size>Large</battle_size>
+      <Map_Size>
+         <map_area>2.991 Sq. km</map_area>
+         <map_width>1584 m</map_width>
+         <map_depth>1888 m</map_depth>
+      </Map_Size>
+      <region>France</region>
+      <environment>Village</environment>
+      <weather>Downpour</weather>
+      <temperature>Cool</temperature>
+      <ground_condition>Muddy</ground_condition>
+      <early_intel>Allied Force</early_intel>
+      <game_version>CMBN v1.01</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>8</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #04]</number_in_campaign>
+         <battle_title>Dec 4 Counter-Attack!!!</battle_title>
+      </Title>
+      <filename>Assault on Lucherberg #04_Lucherberg B5</filename>
+      <picture_link>scenpics/Assault on Lucherberg4.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>Motor sounds! Another German counter-attack? With tanks?</description>
+      <date>08/08/1944</date>
+      <time_of_day>14:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:40</length>
+      <battle_size>Large</battle_size>
+      <Map_Size>
+         <map_area>2.991 Sq. km</map_area>
+         <map_width>1584 m</map_width>
+         <map_depth>1888 m</map_depth>
+      </Map_Size>
+      <region>France</region>
+      <environment>Village</environment>
+      <weather>Downpour</weather>
+      <temperature>Cool</temperature>
+      <ground_condition>Muddy</ground_condition>
+      <early_intel>Allied Force</early_intel>
+      <game_version>CMBN v1.01</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   </Scenario_List>
+</Scenario_Listing>

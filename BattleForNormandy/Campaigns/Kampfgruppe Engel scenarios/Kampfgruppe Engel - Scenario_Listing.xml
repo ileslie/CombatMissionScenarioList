@@ -1,0 +1,1133 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="Listing_Layout.xsl" ?>
+
+<Scenario_Listing>
+
+   <Scenario_List>
+
+   <containing_campaign>Kampfgruppe Engel</containing_campaign>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #13]</number_in_campaign>
+         <battle_title>Guardian Angels</battle_title>
+      </Title>
+      <filename>Kampfgruppe Engel #13_KG Engel Guardian Angels</filename>
+      <picture_link>scenpics/Kampfgruppe Engel13.bmp</picture_link>
+      <battle_type>Allied Assault</battle_type>
+      <description>Kampfgruppe Engel must hold the line against a Canadian attack aimed at St. Lambert-sur-Dives while their comrades make good their escape to the Seine River.</description>
+      <date>20/08/1944</date>
+      <time_of_day>20:15</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:50</length>
+      <battle_size>Large</battle_size>
+      <Map_Size>
+         <map_area>1.203 Sq. km</map_area>
+         <map_width>800 m</map_width>
+         <map_depth>1504 m</map_depth>
+      </Map_Size>
+      <region>France</region>
+      <environment>Village</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Axis Force</early_intel>
+      <game_version>CMBN v1.10</game_version>
+      <Modules_Required>
+         <module1>Commonwealth</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #24]</number_in_campaign>
+         <battle_title>The Last Kilometer</battle_title>
+      </Title>
+      <filename>Kampfgruppe Engel #24_KG Engel The Last Kilometer A1FA2F</filename>
+      <picture_link>scenpics/Kampfgruppe Engel24.bmp</picture_link>
+      <battle_type>Axis Probe</battle_type>
+      <description>KG Engel attempts to exfiltrate out of the Falaise Pocket past the Poles</description>
+      <date>21/08/1944</date>
+      <time_of_day>03:10</time_of_day>
+      <part_of_day>Night</part_of_day>
+      <length>01:10</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>0.968 Sq. km</map_area>
+         <map_width>1440 m</map_width>
+         <map_depth>672 m</map_depth>
+      </Map_Size>
+      <region>France</region>
+      <environment>Open</environment>
+      <weather>Light Rain</weather>
+      <temperature>Cool</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBN v1.10</game_version>
+      <Modules_Required>
+         <module1>Commonwealth</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #03]</number_in_campaign>
+         <battle_title>Tiger Poaching</battle_title>
+      </Title>
+      <filename>Kampfgruppe Engel #03_KG Engel Tiger Poaching</filename>
+      <picture_link>scenpics/Kampfgruppe Engel3.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>Kampfgruppe Engel must retreat to the safety of the Geoffern Forest before being crushed under overwhelming numbers.</description>
+      <date>17/08/1944</date>
+      <time_of_day>20:10</time_of_day>
+      <part_of_day>Dusk</part_of_day>
+      <length>01:00</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>1.604 Sq. km</map_area>
+         <map_width>1392 m</map_width>
+         <map_depth>1152 m</map_depth>
+      </Map_Size>
+      <region>France</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Allied Force</early_intel>
+      <game_version>CMBN v3.10 to v3.12</game_version>
+      <Modules_Required>
+         <module1>Commonwealth</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #19]</number_in_campaign>
+         <battle_title>Guardian Angels</battle_title>
+      </Title>
+      <filename>Kampfgruppe Engel #19_KG Engel Guardian Angels A1F5F</filename>
+      <picture_link>scenpics/Kampfgruppe Engel19.bmp</picture_link>
+      <battle_type>Allied Assault</battle_type>
+      <description>Kampfgruppe Engel must hold the line against a Canadian attack aimed at St. Lambert-sur-Dives while their comrades make good their escape to the Seine River.</description>
+      <date>20/08/1944</date>
+      <time_of_day>20:15</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:50</length>
+      <battle_size>Large</battle_size>
+      <Map_Size>
+         <map_area>1.203 Sq. km</map_area>
+         <map_width>800 m</map_width>
+         <map_depth>1504 m</map_depth>
+      </Map_Size>
+      <region>France</region>
+      <environment>Village</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Axis Force</early_intel>
+      <game_version>CMBN v1.10</game_version>
+      <Modules_Required>
+         <module1>Commonwealth</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #22]</number_in_campaign>
+         <battle_title>The Last Kilometer</battle_title>
+      </Title>
+      <filename>Kampfgruppe Engel #22_KG Engel The Last Kilometer A1WA2F</filename>
+      <picture_link>scenpics/Kampfgruppe Engel22.bmp</picture_link>
+      <battle_type>Axis Probe</battle_type>
+      <description>KG Engel attempts to exfiltrate out of the Falaise Pocket past the Poles</description>
+      <date>21/08/1944</date>
+      <time_of_day>03:10</time_of_day>
+      <part_of_day>Night</part_of_day>
+      <length>01:10</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>0.968 Sq. km</map_area>
+         <map_width>1440 m</map_width>
+         <map_depth>672 m</map_depth>
+      </Map_Size>
+      <region>France</region>
+      <environment>Open</environment>
+      <weather>Light Rain</weather>
+      <temperature>Cool</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBN v1.10</game_version>
+      <Modules_Required>
+         <module1>Commonwealth</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #27]</number_in_campaign>
+         <battle_title>Deliverence</battle_title>
+      </Title>
+      <filename>Kampfgruppe Engel #27_KG Engel Deliverence A1FA2W</filename>
+      <picture_link>scenpics/Kampfgruppe Engel27.bmp</picture_link>
+      <battle_type>Axis Assault</battle_type>
+      <description>Kampfgruppe Engel, having almost escaped the Pocket, slams into an unexpected Polish force dug in on the high ground.</description>
+      <date>21/08/1944</date>
+      <time_of_day>07:30</time_of_day>
+      <part_of_day>Dawn</part_of_day>
+      <length>01:00</length>
+      <battle_size>Large</battle_size>
+      <Map_Size>
+         <map_area>0.919 Sq. km</map_area>
+         <map_width>1104 m</map_width>
+         <map_depth>832 m</map_depth>
+      </Map_Size>
+      <region>France</region>
+      <environment>Hills</environment>
+      <weather>Downpour</weather>
+      <temperature>Cool</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBN v1.10</game_version>
+      <Modules_Required>
+         <module1>Commonwealth</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>8</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #29]</number_in_campaign>
+         <battle_title>Last Stand</battle_title>
+      </Title>
+      <filename>Kampfgruppe Engel #29_KG Engel Last Stand</filename>
+      <picture_link>scenpics/Kampfgruppe Engel29.bmp</picture_link>
+      <battle_type>Axis Assault</battle_type>
+      <description>Kampfgruppe Engel is doomed to destruction. They can only make a last stand now and buy time for other German units to escape.</description>
+      <date>21/08/1944</date>
+      <time_of_day>10:30</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:45</length>
+      <battle_size>Large</battle_size>
+      <Map_Size>
+         <map_area>0.812 Sq. km</map_area>
+         <map_width>976 m</map_width>
+         <map_depth>832 m</map_depth>
+      </Map_Size>
+      <region>France</region>
+      <environment>Hills</environment>
+      <weather>Clear</weather>
+      <temperature>Cool</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBN v1.10</game_version>
+      <Modules_Required>
+         <module1>Commonwealth</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #18]</number_in_campaign>
+         <battle_title>Guardian Angels</battle_title>
+      </Title>
+      <filename>Kampfgruppe Engel #18_KG Engel Guardian Angels A1F4F</filename>
+      <picture_link>scenpics/Kampfgruppe Engel18.bmp</picture_link>
+      <battle_type>Allied Assault</battle_type>
+      <description>Kampfgruppe Engel must hold the line against a Canadian attack aimed at St. Lambert-sur-Dives while their comrades make good their escape to the Seine River.</description>
+      <date>20/08/1944</date>
+      <time_of_day>20:15</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:50</length>
+      <battle_size>Large</battle_size>
+      <Map_Size>
+         <map_area>1.203 Sq. km</map_area>
+         <map_width>800 m</map_width>
+         <map_depth>1504 m</map_depth>
+      </Map_Size>
+      <region>France</region>
+      <environment>Village</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Axis Force</early_intel>
+      <game_version>CMBN v1.10</game_version>
+      <Modules_Required>
+         <module1>Commonwealth</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #04]</number_in_campaign>
+         <battle_title>Tiger Poaching</battle_title>
+      </Title>
+      <filename>Kampfgruppe Engel #04_KG Engel Tiger Poaching 1F</filename>
+      <picture_link>scenpics/Kampfgruppe Engel4.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>Kampfgruppe Engel must retreat to the safety of the Geoffern Forest before being crushed under overwhelming numbers.</description>
+      <date>17/08/1944</date>
+      <time_of_day>20:10</time_of_day>
+      <part_of_day>Dusk</part_of_day>
+      <length>01:00</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>1.604 Sq. km</map_area>
+         <map_width>1392 m</map_width>
+         <map_depth>1152 m</map_depth>
+      </Map_Size>
+      <region>France</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Allied Force</early_intel>
+      <game_version>CMBN v3.10 to v3.12</game_version>
+      <Modules_Required>
+         <module1>Commonwealth</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #05]</number_in_campaign>
+         <battle_title>Tiger Poaching</battle_title>
+      </Title>
+      <filename>Kampfgruppe Engel #05_KG Engel Tiger Poaching 2F</filename>
+      <picture_link>scenpics/Kampfgruppe Engel5.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>Kampfgruppe Engel must retreat to the safety of the Geoffern Forest before being crushed under overwhelming numbers.</description>
+      <date>17/08/1944</date>
+      <time_of_day>20:10</time_of_day>
+      <part_of_day>Dusk</part_of_day>
+      <length>01:00</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>1.604 Sq. km</map_area>
+         <map_width>1392 m</map_width>
+         <map_depth>1152 m</map_depth>
+      </Map_Size>
+      <region>France</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Allied Force</early_intel>
+      <game_version>CMBN v3.10 to v3.12</game_version>
+      <Modules_Required>
+         <module1>Commonwealth</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #21]</number_in_campaign>
+         <battle_title>The Last Kilometer</battle_title>
+      </Title>
+      <filename>Kampfgruppe Engel #21_KG Engel The Last Kilometer</filename>
+      <picture_link>scenpics/Kampfgruppe Engel21.bmp</picture_link>
+      <battle_type>Axis Probe</battle_type>
+      <description>KG Engel attempts to exfiltrate out of the Falaise Pocket past the Poles</description>
+      <date>21/08/1944</date>
+      <time_of_day>03:10</time_of_day>
+      <part_of_day>Night</part_of_day>
+      <length>01:10</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>0.968 Sq. km</map_area>
+         <map_width>1440 m</map_width>
+         <map_depth>672 m</map_depth>
+      </Map_Size>
+      <region>France</region>
+      <environment>Open</environment>
+      <weather>Light Rain</weather>
+      <temperature>Cool</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBN v1.10</game_version>
+      <Modules_Required>
+         <module1>Commonwealth</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #16]</number_in_campaign>
+         <battle_title>Guardian Angels</battle_title>
+      </Title>
+      <filename>Kampfgruppe Engel #16_KG Engel Guardian Angels 4F5F</filename>
+      <picture_link>scenpics/Kampfgruppe Engel16.bmp</picture_link>
+      <battle_type>Allied Assault</battle_type>
+      <description>Kampfgruppe Engel must hold the line against a Canadian attack aimed at St. Lambert-sur-Dives while their comrades make good their escape to the Seine River.</description>
+      <date>20/08/1944</date>
+      <time_of_day>20:15</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:50</length>
+      <battle_size>Large</battle_size>
+      <Map_Size>
+         <map_area>1.203 Sq. km</map_area>
+         <map_width>800 m</map_width>
+         <map_depth>1504 m</map_depth>
+      </Map_Size>
+      <region>France</region>
+      <environment>Village</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Axis Force</early_intel>
+      <game_version>CMBN v1.10</game_version>
+      <Modules_Required>
+         <module1>Commonwealth</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #06]</number_in_campaign>
+         <battle_title>Tiger Poaching</battle_title>
+      </Title>
+      <filename>Kampfgruppe Engel #06_KG Engel Tiger Poaching 1F2F</filename>
+      <picture_link>scenpics/Kampfgruppe Engel6.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>Kampfgruppe Engel must retreat to the safety of the Geoffern Forest before being crushed under overwhelming numbers.</description>
+      <date>17/08/1944</date>
+      <time_of_day>20:10</time_of_day>
+      <part_of_day>Dusk</part_of_day>
+      <length>01:00</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>1.604 Sq. km</map_area>
+         <map_width>1392 m</map_width>
+         <map_depth>1152 m</map_depth>
+      </Map_Size>
+      <region>France</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Allied Force</early_intel>
+      <game_version>CMBN v3.10 to v3.12</game_version>
+      <Modules_Required>
+         <module1>Commonwealth</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #15]</number_in_campaign>
+         <battle_title>Guardian Angels</battle_title>
+      </Title>
+      <filename>Kampfgruppe Engel #15_KG Engel Guardian Angels 5F</filename>
+      <picture_link>scenpics/Kampfgruppe Engel15.bmp</picture_link>
+      <battle_type>Allied Assault</battle_type>
+      <description>Kampfgruppe Engel must hold the line against a Canadian attack aimed at St. Lambert-sur-Dives while their comrades make good their escape to the Seine River.</description>
+      <date>20/08/1944</date>
+      <time_of_day>20:15</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:50</length>
+      <battle_size>Large</battle_size>
+      <Map_Size>
+         <map_area>1.203 Sq. km</map_area>
+         <map_width>800 m</map_width>
+         <map_depth>1504 m</map_depth>
+      </Map_Size>
+      <region>France</region>
+      <environment>Village</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Axis Force</early_intel>
+      <game_version>CMBN v1.10</game_version>
+      <Modules_Required>
+         <module1>Commonwealth</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #09]</number_in_campaign>
+         <battle_title>Crossing the Dives</battle_title>
+      </Title>
+      <filename>Kampfgruppe Engel #09_KG Engel Crossing the Dives</filename>
+      <picture_link>scenpics/Kampfgruppe Engel9.bmp</picture_link>
+      <battle_type>Axis Assault</battle_type>
+      <description>Kampfgruppe Engel must wrest the Dives River crossing at St.Lambert-sur-Dives with haste so that German units can use it to evacuate to the east.</description>
+      <date>20/08/1944</date>
+      <time_of_day>10:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:20</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>0.845 Sq. km</map_area>
+         <map_width>1200 m</map_width>
+         <map_depth>704 m</map_depth>
+      </Map_Size>
+      <region>France</region>
+      <environment>Village</environment>
+      <weather>Mist</weather>
+      <temperature>Cool</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBN v1.10</game_version>
+      <Modules_Required>
+         <module1>Commonwealth</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #12]</number_in_campaign>
+         <battle_title>Crossing the Dives</battle_title>
+      </Title>
+      <filename>Kampfgruppe Engel #12_KG Engel Crossing the Dives A1F4F</filename>
+      <picture_link>scenpics/Kampfgruppe Engel12.bmp</picture_link>
+      <battle_type>Axis Assault</battle_type>
+      <description>Kampfgruppe Engel must wrest the Dives River crossing at St.Lambert-sur-Dives with haste so that German units can use it to evacuate to the east.</description>
+      <date>20/08/1944</date>
+      <time_of_day>10:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:20</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>0.845 Sq. km</map_area>
+         <map_width>1200 m</map_width>
+         <map_depth>704 m</map_depth>
+      </Map_Size>
+      <region>France</region>
+      <environment>Village</environment>
+      <weather>Mist</weather>
+      <temperature>Cool</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBN v1.10</game_version>
+      <Modules_Required>
+         <module1>Commonwealth</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #23]</number_in_campaign>
+         <battle_title>The Last Kilometer</battle_title>
+      </Title>
+      <filename>Kampfgruppe Engel #23_KG Engel The Last Kilometer A1FA2W</filename>
+      <picture_link>scenpics/Kampfgruppe Engel23.bmp</picture_link>
+      <battle_type>Axis Probe</battle_type>
+      <description>KG Engel attempts to exfiltrate out of the Falaise Pocket past the Poles</description>
+      <date>21/08/1944</date>
+      <time_of_day>03:10</time_of_day>
+      <part_of_day>Night</part_of_day>
+      <length>01:10</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>0.968 Sq. km</map_area>
+         <map_width>1440 m</map_width>
+         <map_depth>672 m</map_depth>
+      </Map_Size>
+      <region>France</region>
+      <environment>Open</environment>
+      <weather>Light Rain</weather>
+      <temperature>Cool</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBN v1.10</game_version>
+      <Modules_Required>
+         <module1>Commonwealth</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #08]</number_in_campaign>
+         <battle_title>Hunters In The Mist</battle_title>
+      </Title>
+      <filename>Kampfgruppe Engel #08_KG Engel Hunters In The Mist A1F</filename>
+      <picture_link>scenpics/Kampfgruppe Engel8.bmp</picture_link>
+      <battle_type>Meeting Engagement</battle_type>
+      <description>Enroute to the Dives River, Kampfgruppe Engel collides with a Canadian armoured force intent on reaching Chambois.</description>
+      <date>20/08/1944</date>
+      <time_of_day>07:30</time_of_day>
+      <part_of_day>Dawn</part_of_day>
+      <length>01:30</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>3.747 Sq. km</map_area>
+         <map_width>1904 m</map_width>
+         <map_depth>1968 m</map_depth>
+      </Map_Size>
+      <region>France</region>
+      <environment>Open</environment>
+      <weather>Mist</weather>
+      <temperature>Cool</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBN v3.10 to v3.12</game_version>
+      <Modules_Required>
+         <module1>Commonwealth</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #02]</number_in_campaign>
+         <battle_title>King of the Hill</battle_title>
+      </Title>
+      <filename>Kampfgruppe Engel #02_KG Engel King of the Hill 1F</filename>
+      <picture_link>scenpics/Kampfgruppe Engel2.bmp</picture_link>
+      <battle_type>Axis Assault</battle_type>
+      <description>After clearing the 90th ID Cavalry screen, Kampfgruppe Engel assaults le-Bourg-St-Leonard.</description>
+      <date>16/08/1944</date>
+      <time_of_day>21:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:30</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>1.201 Sq. km</map_area>
+         <map_width>1088 m</map_width>
+         <map_depth>1104 m</map_depth>
+      </Map_Size>
+      <region>France</region>
+      <environment>Town</environment>
+      <weather>Clear</weather>
+      <temperature>Hot</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Axis Force</early_intel>
+      <game_version>CMBN v1.10</game_version>
+      <Modules_Required>
+         <module1>Commonwealth</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #14]</number_in_campaign>
+         <battle_title>Guardian Angels</battle_title>
+      </Title>
+      <filename>Kampfgruppe Engel #14_KG Engel Guardian Angels 4F</filename>
+      <picture_link>scenpics/Kampfgruppe Engel14.bmp</picture_link>
+      <battle_type>Allied Assault</battle_type>
+      <description>Kampfgruppe Engel must hold the line against a Canadian attack aimed at St. Lambert-sur-Dives while their comrades make good their escape to the Seine River.</description>
+      <date>20/08/1944</date>
+      <time_of_day>20:15</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:50</length>
+      <battle_size>Large</battle_size>
+      <Map_Size>
+         <map_area>1.203 Sq. km</map_area>
+         <map_width>800 m</map_width>
+         <map_depth>1504 m</map_depth>
+      </Map_Size>
+      <region>France</region>
+      <environment>Village</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Axis Force</early_intel>
+      <game_version>CMBN v1.10</game_version>
+      <Modules_Required>
+         <module1>Commonwealth</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #07]</number_in_campaign>
+         <battle_title>Hunters In The Mist</battle_title>
+      </Title>
+      <filename>Kampfgruppe Engel #07_KG Engel Hunters In The Mist</filename>
+      <picture_link>scenpics/Kampfgruppe Engel7.bmp</picture_link>
+      <battle_type>Meeting Engagement</battle_type>
+      <description>Enroute to the Dives River, Kampfgruppe Engel collides with a Canadian armoured force intent on reaching Chambois.</description>
+      <date>20/08/1944</date>
+      <time_of_day>07:30</time_of_day>
+      <part_of_day>Dawn</part_of_day>
+      <length>01:30</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>3.747 Sq. km</map_area>
+         <map_width>1904 m</map_width>
+         <map_depth>1968 m</map_depth>
+      </Map_Size>
+      <region>France</region>
+      <environment>Open</environment>
+      <weather>Mist</weather>
+      <temperature>Cool</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBN v3.10 to v3.12</game_version>
+      <Modules_Required>
+         <module1>Commonwealth</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #17]</number_in_campaign>
+         <battle_title>Guardian Angels</battle_title>
+      </Title>
+      <filename>Kampfgruppe Engel #17_KG Engel Guardian Angels A1F</filename>
+      <picture_link>scenpics/Kampfgruppe Engel17.bmp</picture_link>
+      <battle_type>Allied Assault</battle_type>
+      <description>Kampfgruppe Engel must hold the line against a Canadian attack aimed at St. Lambert-sur-Dives while their comrades make good their escape to the Seine River.</description>
+      <date>20/08/1944</date>
+      <time_of_day>20:15</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:50</length>
+      <battle_size>Large</battle_size>
+      <Map_Size>
+         <map_area>1.203 Sq. km</map_area>
+         <map_width>800 m</map_width>
+         <map_depth>1504 m</map_depth>
+      </Map_Size>
+      <region>France</region>
+      <environment>Village</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Axis Force</early_intel>
+      <game_version>CMBN v1.10</game_version>
+      <Modules_Required>
+         <module1>Commonwealth</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #32]</number_in_campaign>
+         <battle_title>Last Stand</battle_title>
+      </Title>
+      <filename>Kampfgruppe Engel #32_KG Engel Last Stand A1FA2F</filename>
+      <picture_link>scenpics/Kampfgruppe Engel32.bmp</picture_link>
+      <battle_type>Axis Assault</battle_type>
+      <description>Kampfgruppe Engel is doomed to destruction. They can only make a last stand now and buy time for other German units to escape.</description>
+      <date>21/08/1944</date>
+      <time_of_day>10:30</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:45</length>
+      <battle_size>Large</battle_size>
+      <Map_Size>
+         <map_area>0.812 Sq. km</map_area>
+         <map_width>976 m</map_width>
+         <map_depth>832 m</map_depth>
+      </Map_Size>
+      <region>France</region>
+      <environment>Hills</environment>
+      <weather>Clear</weather>
+      <temperature>Cool</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBN v1.10</game_version>
+      <Modules_Required>
+         <module1>Commonwealth</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #25]</number_in_campaign>
+         <battle_title>Deliverence</battle_title>
+      </Title>
+      <filename>Kampfgruppe Engel #25_KG Engel Deliverence</filename>
+      <picture_link>scenpics/Kampfgruppe Engel25.bmp</picture_link>
+      <battle_type>Axis Assault</battle_type>
+      <description>Kampfgruppe Engel, having almost escaped the Pocket, slams into an unexpected Polish force dug in on the high ground.</description>
+      <date>21/08/1944</date>
+      <time_of_day>07:30</time_of_day>
+      <part_of_day>Dawn</part_of_day>
+      <length>01:00</length>
+      <battle_size>Large</battle_size>
+      <Map_Size>
+         <map_area>0.919 Sq. km</map_area>
+         <map_width>1104 m</map_width>
+         <map_depth>832 m</map_depth>
+      </Map_Size>
+      <region>France</region>
+      <environment>Hills</environment>
+      <weather>Downpour</weather>
+      <temperature>Cool</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBN v1.10</game_version>
+      <Modules_Required>
+         <module1>Commonwealth</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>8</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #26]</number_in_campaign>
+         <battle_title>Deliverence</battle_title>
+      </Title>
+      <filename>Kampfgruppe Engel #26_KG Engel Deliverence A1WA2F</filename>
+      <picture_link>scenpics/Kampfgruppe Engel26.bmp</picture_link>
+      <battle_type>Axis Assault</battle_type>
+      <description>Kampfgruppe Engel, having almost escaped the Pocket, slams into an unexpected Polish force dug in on the high ground.</description>
+      <date>21/08/1944</date>
+      <time_of_day>07:30</time_of_day>
+      <part_of_day>Dawn</part_of_day>
+      <length>01:00</length>
+      <battle_size>Large</battle_size>
+      <Map_Size>
+         <map_area>0.919 Sq. km</map_area>
+         <map_width>1104 m</map_width>
+         <map_depth>832 m</map_depth>
+      </Map_Size>
+      <region>France</region>
+      <environment>Hills</environment>
+      <weather>Downpour</weather>
+      <temperature>Cool</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBN v1.10</game_version>
+      <Modules_Required>
+         <module1>Commonwealth</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>8</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #10]</number_in_campaign>
+         <battle_title>Crossing the Dives</battle_title>
+      </Title>
+      <filename>Kampfgruppe Engel #10_KG Engel Crossing the Dives 4F</filename>
+      <picture_link>scenpics/Kampfgruppe Engel10.bmp</picture_link>
+      <battle_type>Axis Assault</battle_type>
+      <description>Kampfgruppe Engel must wrest the Dives River crossing at St.Lambert-sur-Dives with haste so that German units can use it to evacuate to the east.</description>
+      <date>20/08/1944</date>
+      <time_of_day>10:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:20</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>0.845 Sq. km</map_area>
+         <map_width>1200 m</map_width>
+         <map_depth>704 m</map_depth>
+      </Map_Size>
+      <region>France</region>
+      <environment>Village</environment>
+      <weather>Mist</weather>
+      <temperature>Cool</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBN v1.10</game_version>
+      <Modules_Required>
+         <module1>Commonwealth</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #11]</number_in_campaign>
+         <battle_title>Crossing the Dives</battle_title>
+      </Title>
+      <filename>Kampfgruppe Engel #11_KG Engel Crossing the Dives A1F</filename>
+      <picture_link>scenpics/Kampfgruppe Engel11.bmp</picture_link>
+      <battle_type>Axis Assault</battle_type>
+      <description>Kampfgruppe Engel must wrest the Dives River crossing at St.Lambert-sur-Dives with haste so that German units can use it to evacuate to the east.</description>
+      <date>20/08/1944</date>
+      <time_of_day>10:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:20</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>0.845 Sq. km</map_area>
+         <map_width>1200 m</map_width>
+         <map_depth>704 m</map_depth>
+      </Map_Size>
+      <region>France</region>
+      <environment>Village</environment>
+      <weather>Mist</weather>
+      <temperature>Cool</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBN v1.10</game_version>
+      <Modules_Required>
+         <module1>Commonwealth</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #31]</number_in_campaign>
+         <battle_title>Last Stand</battle_title>
+      </Title>
+      <filename>Kampfgruppe Engel #31_KG Engel Last Stand A1FA2W</filename>
+      <picture_link>scenpics/Kampfgruppe Engel31.bmp</picture_link>
+      <battle_type>Axis Assault</battle_type>
+      <description>Kampfgruppe Engel is doomed to destruction. They can only make a last stand now and buy time for other German units to escape.</description>
+      <date>21/08/1944</date>
+      <time_of_day>10:30</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:45</length>
+      <battle_size>Large</battle_size>
+      <Map_Size>
+         <map_area>0.812 Sq. km</map_area>
+         <map_width>976 m</map_width>
+         <map_depth>832 m</map_depth>
+      </Map_Size>
+      <region>France</region>
+      <environment>Hills</environment>
+      <weather>Clear</weather>
+      <temperature>Cool</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBN v1.10</game_version>
+      <Modules_Required>
+         <module1>Commonwealth</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #20]</number_in_campaign>
+         <battle_title>Guardian Angels</battle_title>
+      </Title>
+      <filename>Kampfgruppe Engel #20_KG Engel Guardian Angels A1F4F5F</filename>
+      <picture_link>scenpics/Kampfgruppe Engel20.bmp</picture_link>
+      <battle_type>Allied Assault</battle_type>
+      <description>Kampfgruppe Engel must hold the line against a Canadian attack aimed at St. Lambert-sur-Dives while their comrades make good their escape to the Seine River.</description>
+      <date>20/08/1944</date>
+      <time_of_day>20:15</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:50</length>
+      <battle_size>Large</battle_size>
+      <Map_Size>
+         <map_area>1.203 Sq. km</map_area>
+         <map_width>800 m</map_width>
+         <map_depth>1504 m</map_depth>
+      </Map_Size>
+      <region>France</region>
+      <environment>Village</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Axis Force</early_intel>
+      <game_version>CMBN v1.10</game_version>
+      <Modules_Required>
+         <module1>Commonwealth</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #28]</number_in_campaign>
+         <battle_title>Deliverence</battle_title>
+      </Title>
+      <filename>Kampfgruppe Engel #28_KG Engel Deliverence A1FA2F</filename>
+      <picture_link>scenpics/Kampfgruppe Engel28.bmp</picture_link>
+      <battle_type>Axis Assault</battle_type>
+      <description>Kampfgruppe Engel, having almost escaped the Pocket, slams into an unexpected Polish force dug in on the high ground.</description>
+      <date>21/08/1944</date>
+      <time_of_day>07:30</time_of_day>
+      <part_of_day>Dawn</part_of_day>
+      <length>01:00</length>
+      <battle_size>Large</battle_size>
+      <Map_Size>
+         <map_area>0.919 Sq. km</map_area>
+         <map_width>1104 m</map_width>
+         <map_depth>832 m</map_depth>
+      </Map_Size>
+      <region>France</region>
+      <environment>Hills</environment>
+      <weather>Downpour</weather>
+      <temperature>Cool</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBN v1.10</game_version>
+      <Modules_Required>
+         <module1>Commonwealth</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>8</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #00]</number_in_campaign>
+         <battle_title>le Chateau</battle_title>
+      </Title>
+      <filename>Kampfgruppe Engel #00_KG Engel le Chateau</filename>
+      <picture_link>scenpics/Kampfgruppe Engel0.bmp</picture_link>
+      <battle_type>Axis Attack</battle_type>
+      <description>Kampfgruppe Engel attacks an American cavalry screen in preparation for the assault on le Bourg-St-Leonard</description>
+      <date>16/08/1944</date>
+      <time_of_day>14:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:00</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>1.321 Sq. km</map_area>
+         <map_width>1072 m</map_width>
+         <map_depth>1232 m</map_depth>
+      </Map_Size>
+      <region>France</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBN v1.10</game_version>
+      <Modules_Required>
+         <module1>Commonwealth</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #30]</number_in_campaign>
+         <battle_title>Last Stand</battle_title>
+      </Title>
+      <filename>Kampfgruppe Engel #30_KG Engel Last Stand A1WA2F</filename>
+      <picture_link>scenpics/Kampfgruppe Engel30.bmp</picture_link>
+      <battle_type>Axis Assault</battle_type>
+      <description>Kampfgruppe Engel is doomed to destruction. They can only make a last stand now and buy time for other German units to escape.</description>
+      <date>21/08/1944</date>
+      <time_of_day>10:30</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:45</length>
+      <battle_size>Large</battle_size>
+      <Map_Size>
+         <map_area>0.812 Sq. km</map_area>
+         <map_width>976 m</map_width>
+         <map_depth>832 m</map_depth>
+      </Map_Size>
+      <region>France</region>
+      <environment>Hills</environment>
+      <weather>Clear</weather>
+      <temperature>Cool</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBN v1.10</game_version>
+      <Modules_Required>
+         <module1>Commonwealth</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #01]</number_in_campaign>
+         <battle_title>King of the Hill</battle_title>
+      </Title>
+      <filename>Kampfgruppe Engel #01_KG Engel King of the Hill</filename>
+      <picture_link>scenpics/Kampfgruppe Engel1.bmp</picture_link>
+      <battle_type>Axis Assault</battle_type>
+      <description>After clearing the 90th ID Cavalry screen, Kampfgruppe Engel assaults le-Bourg-St-Leonard.</description>
+      <date>16/08/1944</date>
+      <time_of_day>16:45</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:30</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>1.201 Sq. km</map_area>
+         <map_width>1088 m</map_width>
+         <map_depth>1104 m</map_depth>
+      </Map_Size>
+      <region>France</region>
+      <environment>Town</environment>
+      <weather>Clear</weather>
+      <temperature>Hot</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Axis Force</early_intel>
+      <game_version>CMBN v1.10</game_version>
+      <Modules_Required>
+         <module1>Commonwealth</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   </Scenario_List>
+</Scenario_Listing>

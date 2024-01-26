@@ -1,0 +1,434 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="Listing_Layout.xsl" ?>
+
+<Scenario_Listing>
+
+   <Scenario_List>
+
+   <containing_campaign>US Campaign (1979)</containing_campaign>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #02]</number_in_campaign>
+         <battle_title>They Own the Night &apos;79</battle_title>
+      </Title>
+      <filename>Lions of Cantigny (1979) #02_US Scenario 1Cv79</filename>
+      <picture_link>scenpics/Lions of Cantigny (1979)2.bmp</picture_link>
+      <battle_type>Red Probe</battle_type>
+      <description>Soviet Probe outside of Neuhof</description>
+      <date>15/07/1979</date>
+      <time_of_day>02:00</time_of_day>
+      <part_of_day>Night</part_of_day>
+      <length>00:25</length>
+      <battle_size>Tiny</battle_size>
+      <Map_Size>
+         <map_area>0.876 Sq. km</map_area>
+         <map_width>912 m</map_width>
+         <map_depth>960 m</map_depth>
+      </Map_Size>
+      <region>Germany</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Cool</temperature>
+      <ground_condition>Damp</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMCW v1.00 to v1.06</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>trash</mod_tag>
+         <mod_tag>lawn</mod_tag>
+         <mod_tag>stoumont</mod_tag>
+         <mod_tag>warehouse</mod_tag>
+      </Mod_Tags>
+      <size_modifier>1</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #04]</number_in_campaign>
+         <battle_title>Bear in the Mist &apos;79</battle_title>
+      </Title>
+      <filename>Lions of Cantigny (1979) #04_US Scenario 2Bv79</filename>
+      <picture_link>scenpics/Lions of Cantigny (1979)4.bmp</picture_link>
+      <battle_type>Red Attack</battle_type>
+      <description>Soviet Attack on Neuhof</description>
+      <date>16/07/1979</date>
+      <time_of_day>08:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:00</length>
+      <battle_size>Large</battle_size>
+      <Map_Size>
+         <map_area>14.4 Sq. km</map_area>
+         <map_width>3600 m</map_width>
+         <map_depth>4000 m</map_depth>
+      </Map_Size>
+      <region>Germany</region>
+      <environment>Open</environment>
+      <weather>Mist</weather>
+      <temperature>Cool</temperature>
+      <ground_condition>Damp</ground_condition>
+      <early_intel>Allied Force</early_intel>
+      <game_version>CMCW v1.00 to v1.06</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>trash</mod_tag>
+         <mod_tag>lawn</mod_tag>
+         <mod_tag>stoumont</mod_tag>
+         <mod_tag>warehouse</mod_tag>
+      </Mod_Tags>
+      <size_modifier>8</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #07]</number_in_campaign>
+         <battle_title>Route 66 &apos;79</battle_title>
+      </Title>
+      <filename>Lions of Cantigny (1979) #07_US Scenario 5Av79</filename>
+      <picture_link>scenpics/Lions of Cantigny (1979)7.bmp</picture_link>
+      <battle_type>Meeting Engagement</battle_type>
+      <description>US - Soviet Meeting Engagement</description>
+      <date>17/07/1979</date>
+      <time_of_day>17:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:30</length>
+      <battle_size>Large</battle_size>
+      <Map_Size>
+         <map_area>12.646 Sq. km</map_area>
+         <map_width>4160 m</map_width>
+         <map_depth>3040 m</map_depth>
+      </Map_Size>
+      <region>Germany</region>
+      <environment>Open</environment>
+      <weather>Overcast</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMCW v1.00 to v1.06</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>9</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #11]</number_in_campaign>
+         <battle_title>Unhook The Leash &apos;79</battle_title>
+      </Title>
+      <filename>Lions of Cantigny (1979) #11_US Scenario 8v79</filename>
+      <picture_link>scenpics/Lions of Cantigny (1979)11.bmp</picture_link>
+      <battle_type>Blue Attack</battle_type>
+      <description>US Attack on Soviet Divisional HQ Elements</description>
+      <date>19/07/1979</date>
+      <time_of_day>15:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:30</length>
+      <battle_size>Large</battle_size>
+      <Map_Size>
+         <map_area>15.064 Sq. km</map_area>
+         <map_width>3008 m</map_width>
+         <map_depth>5008 m</map_depth>
+      </Map_Size>
+      <region>Germany</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMCW v1.00 to v1.06</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>trash</mod_tag>
+         <mod_tag>lawn</mod_tag>
+         <mod_tag>stoumont</mod_tag>
+         <mod_tag>combat</mod_tag>
+      </Mod_Tags>
+      <size_modifier>9</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #05]</number_in_campaign>
+         <battle_title>A Hill to Die On &apos;79</battle_title>
+      </Title>
+      <filename>Lions of Cantigny (1979) #05_US Scenario 3v79</filename>
+      <picture_link>scenpics/Lions of Cantigny (1979)5.bmp</picture_link>
+      <battle_type>Red Assault</battle_type>
+      <description>Soviet Armd Assault do or die stand for TF Dragon near Schweben</description>
+      <date>16/07/1979</date>
+      <time_of_day>16:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:00</length>
+      <battle_size>Large</battle_size>
+      <Map_Size>
+         <map_area>14.016 Sq. km</map_area>
+         <map_width>4000 m</map_width>
+         <map_depth>3504 m</map_depth>
+      </Map_Size>
+      <region>Germany</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Allied Force</early_intel>
+      <game_version>CMCW v1.00 to v1.06</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>trash</mod_tag>
+         <mod_tag>lawn</mod_tag>
+         <mod_tag>stoumont</mod_tag>
+         <mod_tag>warehouse</mod_tag>
+      </Mod_Tags>
+      <size_modifier>8</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #06]</number_in_campaign>
+         <battle_title>Dollbach Heights &apos;79</battle_title>
+      </Title>
+      <filename>Lions of Cantigny (1979) #06_US Scenario 4v79</filename>
+      <picture_link>scenpics/Lions of Cantigny (1979)6.bmp</picture_link>
+      <battle_type>Blue Attack</battle_type>
+      <description>US Interdiction on Soviet Flank near Dollbach</description>
+      <date>16/07/1979</date>
+      <time_of_day>16:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:40</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>5.024 Sq. km</map_area>
+         <map_width>2000 m</map_width>
+         <map_depth>2512 m</map_depth>
+      </Map_Size>
+      <region>Germany</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMCW v1.00 to v1.06</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>5</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #10]</number_in_campaign>
+         <battle_title>The Citadel &apos;79</battle_title>
+      </Title>
+      <filename>Lions of Cantigny (1979) #10_US Scenario 7v79</filename>
+      <picture_link>scenpics/Lions of Cantigny (1979)10.bmp</picture_link>
+      <battle_type>Red Assault</battle_type>
+      <description>Soviet Assault on US positions above Highway 66</description>
+      <date>19/07/1979</date>
+      <time_of_day>08:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:30</length>
+      <battle_size>Huge</battle_size>
+      <Map_Size>
+         <map_area>16.646 Sq. km</map_area>
+         <map_width>4080 m</map_width>
+         <map_depth>4080 m</map_depth>
+      </Map_Size>
+      <region>Germany</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Allied Force</early_intel>
+      <game_version>CMCW v1.00 to v1.06</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>trash</mod_tag>
+         <mod_tag>lawn</mod_tag>
+         <mod_tag>stoumont</mod_tag>
+         <mod_tag>warehouse</mod_tag>
+      </Mod_Tags>
+      <size_modifier>10</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #03]</number_in_campaign>
+         <battle_title>Bear in the Sun &apos;79</battle_title>
+      </Title>
+      <filename>Lions of Cantigny (1979) #03_US Scenario 2Av79</filename>
+      <picture_link>scenpics/Lions of Cantigny (1979)3.bmp</picture_link>
+      <battle_type>Red Attack</battle_type>
+      <description>Soviet Attack on Neuhof</description>
+      <date>16/07/1979</date>
+      <time_of_day>11:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:00</length>
+      <battle_size>Large</battle_size>
+      <Map_Size>
+         <map_area>14.4 Sq. km</map_area>
+         <map_width>3600 m</map_width>
+         <map_depth>4000 m</map_depth>
+      </Map_Size>
+      <region>Germany</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Cool</temperature>
+      <ground_condition>Damp</ground_condition>
+      <early_intel>Allied Force</early_intel>
+      <game_version>CMCW v1.00 to v1.06</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>trash</mod_tag>
+         <mod_tag>lawn</mod_tag>
+         <mod_tag>stoumont</mod_tag>
+         <mod_tag>warehouse</mod_tag>
+      </Mod_Tags>
+      <size_modifier>8</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #09]</number_in_campaign>
+         <battle_title>Bad and Worse &apos;79</battle_title>
+      </Title>
+      <filename>Lions of Cantigny (1979) #09_US Scenario 6v79</filename>
+      <picture_link>scenpics/Lions of Cantigny (1979)9.bmp</picture_link>
+      <battle_type>Blue Attack</battle_type>
+      <description>US Counter-Attack near the Kenzig Dam</description>
+      <date>18/07/1979</date>
+      <time_of_day>09:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:00</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>7.508 Sq. km</map_area>
+         <map_width>3008 m</map_width>
+         <map_depth>2496 m</map_depth>
+      </Map_Size>
+      <region>Germany</region>
+      <environment>Open</environment>
+      <weather>Light Rain</weather>
+      <temperature>Cool</temperature>
+      <ground_condition>Damp</ground_condition>
+      <early_intel>Allied Force</early_intel>
+      <game_version>CMCW v1.00 to v1.06</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #00]</number_in_campaign>
+         <battle_title>Racing the Moon &apos;79</battle_title>
+      </Title>
+      <filename>Lions of Cantigny (1979) #00_US Scenario 1Av79</filename>
+      <picture_link>scenpics/Lions of Cantigny (1979)0.bmp</picture_link>
+      <battle_type>Red Probe</battle_type>
+      <description>Soviet Lead Element Probe while in pursuit of retreating US forces</description>
+      <date>15/07/1979</date>
+      <time_of_day>16:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:45</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>6.632 Sq. km</map_area>
+         <map_width>2512 m</map_width>
+         <map_depth>2640 m</map_depth>
+      </Map_Size>
+      <region>Germany</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Cool</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMCW v1.00 to v1.06</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>trash</mod_tag>
+         <mod_tag>lawn</mod_tag>
+         <mod_tag>stoumont</mod_tag>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #08]</number_in_campaign>
+         <battle_title>Route 66B &apos;79</battle_title>
+      </Title>
+      <filename>Lions of Cantigny (1979) #08_US Scenario 5Bv79</filename>
+      <picture_link>scenpics/Lions of Cantigny (1979)8.bmp</picture_link>
+      <battle_type>Meeting Engagement</battle_type>
+      <description>US - Soviet Meeting Engagement</description>
+      <date>17/07/1979</date>
+      <time_of_day>17:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:30</length>
+      <battle_size>Large</battle_size>
+      <Map_Size>
+         <map_area>12.646 Sq. km</map_area>
+         <map_width>4160 m</map_width>
+         <map_depth>3040 m</map_depth>
+      </Map_Size>
+      <region>Germany</region>
+      <environment>Open</environment>
+      <weather>Overcast</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMCW v1.00 to v1.06</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>9</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #01]</number_in_campaign>
+         <battle_title>Bumps in the Dark &apos;79</battle_title>
+      </Title>
+      <filename>Lions of Cantigny (1979) #01_US Scenario 1Bv79</filename>
+      <picture_link>scenpics/Lions of Cantigny (1979)1.bmp</picture_link>
+      <battle_type>Red Probe</battle_type>
+      <description>US screen and withdrawl at dusk</description>
+      <date>15/07/1979</date>
+      <time_of_day>18:00</time_of_day>
+      <part_of_day>Dusk</part_of_day>
+      <length>00:25</length>
+      <battle_size>Small</battle_size>
+      <Map_Size>
+         <map_area>0.965 Sq. km</map_area>
+         <map_width>928 m</map_width>
+         <map_depth>1040 m</map_depth>
+      </Map_Size>
+      <region>Germany</region>
+      <environment>Open</environment>
+      <weather>Light Fog</weather>
+      <temperature>Cool</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMCW v1.00 to v1.06</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>2</size_modifier>
+   </Scenario>
+
+   </Scenario_List>
+</Scenario_Listing>

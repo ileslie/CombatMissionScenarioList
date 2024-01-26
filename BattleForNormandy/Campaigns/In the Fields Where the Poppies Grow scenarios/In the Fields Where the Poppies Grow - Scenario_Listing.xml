@@ -1,0 +1,506 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="Listing_Layout.xsl" ?>
+
+<Scenario_Listing>
+
+   <Scenario_List>
+
+   <containing_campaign>In The Fields Where The Poppies Grow</containing_campaign>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #10]</number_in_campaign>
+         <battle_title>Bunker Hill</battle_title>
+      </Title>
+      <filename>In the Fields Where the Poppies Grow #10_Bunker Hill</filename>
+      <picture_link>scenpics/In the Fields Where the Poppies Grow10.bmp</picture_link>
+      <battle_type>Allied Assault</battle_type>
+      <description>A Company has been sent to assist elements of the 2nd Inf Rg attached to the 5th Inf Div that are pinned down by a German bunker complex overlooking a road.</description>
+      <date>15/08/1944</date>
+      <time_of_day>13:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:45</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>0.397 Sq. km</map_area>
+         <map_width>800 m</map_width>
+         <map_depth>496 m</map_depth>
+      </Map_Size>
+      <region>France</region>
+      <environment>Hills</environment>
+      <weather>Light Fog and Rain</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Wet</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBN v3.10 to v3.12</game_version>
+      <Modules_Required>
+         <module1>Commonwealth</module1>
+         <module2>Vehicle Pack</module2>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>mikepanther</mod_tag>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #00]</number_in_campaign>
+         <battle_title>The Crossroads</battle_title>
+      </Title>
+      <filename>In the Fields Where the Poppies Grow #00_The Crossroads</filename>
+      <picture_link>scenpics/In the Fields Where the Poppies Grow0.bmp</picture_link>
+      <battle_type>Allied Probe</battle_type>
+      <description>1st Platoon, A Company, 31st Tank Bn, 7th Armored Div is tasked with rescuing survivors of the 87th Cav Recon Squadron at a crossroads near the French town of La Loup.</description>
+      <date>11/08/1944</date>
+      <time_of_day>08:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:00</length>
+      <battle_size>Large</battle_size>
+      <Map_Size>
+         <map_area>2.047 Sq. km</map_area>
+         <map_width>2064 m</map_width>
+         <map_depth>992 m</map_depth>
+      </Map_Size>
+      <region>France</region>
+      <environment>Rough</environment>
+      <weather>Light Fog</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Damp</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBN v3.10 to v3.12</game_version>
+      <Modules_Required>
+         <module1>Commonwealth or Market Garden</module1>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>mikepanther</mod_tag>
+      </Mod_Tags>
+      <size_modifier>8</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #03]</number_in_campaign>
+         <battle_title>Mr. LeFluer&apos;s Farm</battle_title>
+      </Title>
+      <filename>In the Fields Where the Poppies Grow #03_Mr Lefluers Farm NonCommit</filename>
+      <picture_link>scenpics/In the Fields Where the Poppies Grow3.bmp</picture_link>
+      <battle_type>Axis Assault</battle_type>
+      <description>Ist Platoon and the remnants of the 87th Cav and 23rf Inf fall back and take up defensive positions around an abandoned farm.</description>
+      <date>11/08/1944</date>
+      <time_of_day>11:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:40</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>2.047 Sq. km</map_area>
+         <map_width>2064 m</map_width>
+         <map_depth>992 m</map_depth>
+      </Map_Size>
+      <region>France</region>
+      <environment>Rough</environment>
+      <weather>Light Fog and Rain</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Damp</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBN v3.10 to v3.12</game_version>
+      <Modules_Required>
+         <module1>Commonwealth or Market Garden</module1>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>mikepanther</mod_tag>
+      </Mod_Tags>
+      <size_modifier>5</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #02]</number_in_campaign>
+         <battle_title>Mr. LeFluer&apos;s Farm</battle_title>
+      </Title>
+      <filename>In the Fields Where the Poppies Grow #02_Mr Lefluers Farm Commit</filename>
+      <picture_link>scenpics/In the Fields Where the Poppies Grow2.bmp</picture_link>
+      <battle_type>Axis Assault</battle_type>
+      <description>Ist Platoon and the remnants of the 87th Cav and 23rf Inf fall back and take up defensive positions around an abandoned farm.</description>
+      <date>11/08/1944</date>
+      <time_of_day>11:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:40</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>2.047 Sq. km</map_area>
+         <map_width>2064 m</map_width>
+         <map_depth>992 m</map_depth>
+      </Map_Size>
+      <region>France</region>
+      <environment>Rough</environment>
+      <weather>Light Fog and Rain</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Damp</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBN v3.10 to v3.12</game_version>
+      <Modules_Required>
+         <module1>Commonwealth or Market Garden</module1>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>mikepanther</mod_tag>
+      </Mod_Tags>
+      <size_modifier>5</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #06]</number_in_campaign>
+         <battle_title>The Road</battle_title>
+      </Title>
+      <filename>In the Fields Where the Poppies Grow #06_The Road</filename>
+      <picture_link>scenpics/In the Fields Where the Poppies Grow6.bmp</picture_link>
+      <battle_type>Allied Probe</battle_type>
+      <description>A Company has been ordered to move up a dangerous road to secure a small village and bridge to protect the left flank of the 7th Armored as it moves towards Chartres.</description>
+      <date>13/08/1944</date>
+      <time_of_day>13:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:00</length>
+      <battle_size>Large</battle_size>
+      <Map_Size>
+         <map_area>1.183 Sq. km</map_area>
+         <map_width>704 m</map_width>
+         <map_depth>1680 m</map_depth>
+      </Map_Size>
+      <region>France</region>
+      <environment>Forest</environment>
+      <weather>Heavy Fog</weather>
+      <temperature>Cool</temperature>
+      <ground_condition>Damp</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBN v3.10 to v3.12</game_version>
+      <Modules_Required>
+         <module1>Commonwealth</module1>
+         <module2>Market Garden</module2>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>mikepanther</mod_tag>
+      </Mod_Tags>
+      <size_modifier>8</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #11]</number_in_campaign>
+         <battle_title>Bunker Hill</battle_title>
+      </Title>
+      <filename>In the Fields Where the Poppies Grow #11_Bunker Hill reinforced</filename>
+      <picture_link>scenpics/In the Fields Where the Poppies Grow11.bmp</picture_link>
+      <battle_type>Allied Assault</battle_type>
+      <description>A Company has been sent to assist elements of the 2nd Inf Rg attached to the 5th Inf Div that are pinned down by a German bunker complex overlooking a road.</description>
+      <date>15/08/1944</date>
+      <time_of_day>13:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:45</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>0.397 Sq. km</map_area>
+         <map_width>800 m</map_width>
+         <map_depth>496 m</map_depth>
+      </Map_Size>
+      <region>France</region>
+      <environment>Hills</environment>
+      <weather>Light Fog and Rain</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Wet</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBN v3.10 to v3.12</game_version>
+      <Modules_Required>
+         <module1>Commonwealth</module1>
+         <module2>Vehicle Pack</module2>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>mikepanther</mod_tag>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #08]</number_in_campaign>
+         <battle_title>Command Decision B</battle_title>
+      </Title>
+      <filename>In the Fields Where the Poppies Grow #08_Command Decision B</filename>
+      <picture_link>scenpics/In the Fields Where the Poppies Grow8.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>You must decide to go for the depot for supplies and refitting or to continue forward to the next mission.</description>
+      <date>14/08/1944</date>
+      <time_of_day>09:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:10</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>0.102 Sq. km</map_area>
+         <map_width>320 m</map_width>
+         <map_depth>320 m</map_depth>
+      </Map_Size>
+      <region>France</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBN v3.10 to v3.12</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>mikepanther</mod_tag>
+      </Mod_Tags>
+      <size_modifier>4</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #04]</number_in_campaign>
+         <battle_title>Tiger! Tiger!</battle_title>
+      </Title>
+      <filename>In the Fields Where the Poppies Grow #04_Tiger Tiger</filename>
+      <picture_link>scenpics/In the Fields Where the Poppies Grow4.bmp</picture_link>
+      <battle_type>Allied Assault</battle_type>
+      <description>A Company must flush out a Tiger tank and its supporting infantry covering a vital road junction.</description>
+      <date>12/08/1944</date>
+      <time_of_day>08:30</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:45</length>
+      <battle_size>Small</battle_size>
+      <Map_Size>
+         <map_area>0.414 Sq. km</map_area>
+         <map_width>784 m</map_width>
+         <map_depth>528 m</map_depth>
+      </Map_Size>
+      <region>France</region>
+      <environment>Rough</environment>
+      <weather>Heavy Fog</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Damp</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBN v3.10 to v3.12</game_version>
+      <Modules_Required>
+         <module1>Commonwealth</module1>
+         <module2>Market Garden</module2>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>mikepanther</mod_tag>
+      </Mod_Tags>
+      <size_modifier>3</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #12]</number_in_campaign>
+         <battle_title>Encounter at Loire</battle_title>
+      </Title>
+      <filename>In the Fields Where the Poppies Grow #12_Encounter at Loire</filename>
+      <picture_link>scenpics/In the Fields Where the Poppies Grow12.bmp</picture_link>
+      <battle_type>Allied Assault</battle_type>
+      <description>A Company is ordered by Major Thompson to turn southeast and attack the German forces holding the village of Loire.</description>
+      <date>15/08/1944</date>
+      <time_of_day>16:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:00</length>
+      <battle_size>Large</battle_size>
+      <Map_Size>
+         <map_area>1.413 Sq. km</map_area>
+         <map_width>1280 m</map_width>
+         <map_depth>1104 m</map_depth>
+      </Map_Size>
+      <region>France</region>
+      <environment>Village</environment>
+      <weather>Thick Haze</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Damp</ground_condition>
+      <early_intel>Allied Force</early_intel>
+      <game_version>CMBN v3.10 to v3.12</game_version>
+      <Modules_Required>
+         <module1>Commonwealth</module1>
+         <module2>Market Garden</module2>
+         <module3>Vehicle Pack</module3>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>mikepanther</mod_tag>
+      </Mod_Tags>
+      <size_modifier>8</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #01]</number_in_campaign>
+         <battle_title>Command Decision 1</battle_title>
+      </Title>
+      <filename>In the Fields Where the Poppies Grow #01_Command Decision A</filename>
+      <picture_link>scenpics/In the Fields Where the Poppies Grow1.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>You must decide to commit 2nd platoon or to hold them back.</description>
+      <date>12/08/1944</date>
+      <time_of_day>09:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:10</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>0.102 Sq. km</map_area>
+         <map_width>320 m</map_width>
+         <map_depth>320 m</map_depth>
+      </Map_Size>
+      <region>France</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBN v3.10 to v3.12</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>mikepanther</mod_tag>
+      </Mod_Tags>
+      <size_modifier>4</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #09]</number_in_campaign>
+         <battle_title>Dance with the Devil</battle_title>
+      </Title>
+      <filename>In the Fields Where the Poppies Grow #09_Dance with the Devil</filename>
+      <picture_link>scenpics/In the Fields Where the Poppies Grow9.bmp</picture_link>
+      <battle_type>Meeting Engagement</battle_type>
+      <description>A Company is pulled off the line for resupply and refit from its losses. !st platoon is enroute to pick up replacements when it runs into 2 platoons of German tanks.</description>
+      <date>14/08/1944</date>
+      <time_of_day>09:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:45</length>
+      <battle_size>Small</battle_size>
+      <Map_Size>
+         <map_area>0.358 Sq. km</map_area>
+         <map_width>448 m</map_width>
+         <map_depth>800 m</map_depth>
+      </Map_Size>
+      <region>France</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Damp</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBN v3.10 to v3.12</game_version>
+      <Modules_Required>
+         <module1>Market Garden</module1>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>mikepanther</mod_tag>
+      </Mod_Tags>
+      <size_modifier>3</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #05]</number_in_campaign>
+         <battle_title>The Bridge Over the Eure</battle_title>
+      </Title>
+      <filename>In the Fields Where the Poppies Grow #05_The Bridge Over the Eure</filename>
+      <picture_link>scenpics/In the Fields Where the Poppies Grow5.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>A Company moves south to capture a bridge over the Eure river before the Germans can destroy it.</description>
+      <date>13/08/1944</date>
+      <time_of_day>07:00</time_of_day>
+      <part_of_day>Dawn</part_of_day>
+      <length>01:00</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>0.346 Sq. km</map_area>
+         <map_width>432 m</map_width>
+         <map_depth>800 m</map_depth>
+      </Map_Size>
+      <region>France</region>
+      <environment>Town</environment>
+      <weather>Light Fog and Rain</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Wet</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBN v3.10 to v3.12</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>mikepanther</mod_tag>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #07]</number_in_campaign>
+         <battle_title>A View to a Kill</battle_title>
+      </Title>
+      <filename>In the Fields Where the Poppies Grow #07_A View to a Kill</filename>
+      <picture_link>scenpics/In the Fields Where the Poppies Grow7.bmp</picture_link>
+      <battle_type>Meeting Engagement</battle_type>
+      <description>A Co has been given immediate orders to move east to block a German counterattack aimed at the highground around the Monastary of St. Victor.</description>
+      <date>13/08/1944</date>
+      <time_of_day>21:00</time_of_day>
+      <part_of_day>Night</part_of_day>
+      <length>01:00</length>
+      <battle_size>Large</battle_size>
+      <Map_Size>
+         <map_area>2.628 Sq. km</map_area>
+         <map_width>1888 m</map_width>
+         <map_depth>1392 m</map_depth>
+      </Map_Size>
+      <region>France</region>
+      <environment>Hills</environment>
+      <weather>Light Fog</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Damp</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBN v3.10 to v3.12</game_version>
+      <Modules_Required>
+         <module1>Commonwealth</module1>
+         <module2>Market Garden</module2>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>mikepanther</mod_tag>
+      </Mod_Tags>
+      <size_modifier>8</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #13]</number_in_campaign>
+         <battle_title>Chartres</battle_title>
+      </Title>
+      <filename>In the Fields Where the Poppies Grow #13_Chartres</filename>
+      <picture_link>scenpics/In the Fields Where the Poppies Grow13.bmp</picture_link>
+      <battle_type>Allied Assault</battle_type>
+      <description>A Company links up with the rest of the 31st Tank Bn to support the 23rd Arm Inf as they attack through the suburb of Luisant on the outskirts of Chartres.</description>
+      <date>16/08/1944</date>
+      <time_of_day>20:30</time_of_day>
+      <part_of_day>Dusk</part_of_day>
+      <length>00:20</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>0.437 Sq. km</map_area>
+         <map_width>976 m</map_width>
+         <map_depth>448 m</map_depth>
+      </Map_Size>
+      <region>France</region>
+      <environment>City</environment>
+      <weather>Dense Fog</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Damp</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBN v3.10 to v3.12</game_version>
+      <Modules_Required>
+         <module1>Commonwealth</module1>
+         <module2>Market Garden</module2>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>mikepanther</mod_tag>
+      </Mod_Tags>
+      <size_modifier>4</size_modifier>
+   </Scenario>
+
+   </Scenario_List>
+</Scenario_Listing>

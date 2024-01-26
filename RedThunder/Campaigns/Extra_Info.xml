@@ -1,39 +1,65 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <scenarios>
-	<scenario author="information unavailable" filename="Blunting the Spear.cam" stock="y" />
-	<scenario author="information unavailable" filename="Crosses of Iron.cam" stock="y" />
-	<scenario author="information unavailable" filename="Hammers Flank.cam" stock="y" />
-	<scenario author="information unavailable" filename="Thunder Over Ponyri.cam">
+	<scenario author="ChrisND, Steve" filename="Blunting the Spear.cam" stock="y" />
+	<scenario author="dragonwynn" filename="Crosses of Iron.cam">
+	   <additional_info>Download links for campaigns found on the community forum are the responsibility of the author. 
+	   </additional_info>
+	   <urls_list>
+	       <downloadurl primary="y" who="Battle Front Community">https://community.battlefront.com/topic/117934-new-cmrt-campaign-the-cross-of-iron</downloadurl>
+	   </urls_list>
+	</scenario>
+	<scenario author="Steve" filename="Hammers Flank.cam" stock="y" />
+	<scenario author="dragonwynn" filename="Thunder Over Ponyri.cam">
+	   <additional_info>Download links for campaigns found on the community forum are the responsibility of the author. 
+	   </additional_info>
 		<urls_list>
-			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3403</downloadurl>
+			<downloadurl primary="y" who="Battle Front Community">https://community.battlefront.com/topic/124657-thunder-over-ponyri-campaign/</downloadurl>
 		</urls_list>
 	</scenario>
-	<scenario author="information unavailable" filename="Training Campaign.cam" stock="y" />
-	<scenario author="George MC" filename="CMRT Kampfgruppe von Schroif_v4.cam">
+	<scenario author="ChrisND" filename="Training Campaign.cam" stock="y" />
+	<scenario author="George MC" filename="CMRT Kampfgruppe von Schroif_v6.cam">
 		<urls_list>
-			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-campaigns/kampfgruppe-von-schroif-cmrt-campaign/</infourl>
-			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/CMRT_KGr_von%20Schroif_v4.zip</downloadurl>
+			<downloadurl primary="y" who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-campaigns/kampfgruppe-von-schroif-cmrt-campaign/</downloadurl>
 		</urls_list>
 	</scenario>
 	<scenario author="Chris McCain (The Phantom)" filename="Rokossovkys_Impasse.cam">
 		<urls_list>
-			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-campaigns/rokossovkys-impasse-cmrt-campaign/</infourl>
-			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/Rokossovkys_Impasse.zip</downloadurl>
+			<downloadurl primary="y" who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-campaigns/rokossovkys-impasse-cmrt-campaign/</downloadurl>
 		</urls_list>
 	</scenario>
 	<scenario author="Lille Fiskerby" filename="The Road to Minsk.cam">
 		<urls_list>
-			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-campaigns/the-road-to-minsk-cmrt-campaign/</infourl>
-			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/The-Road-to-Minsk.zip</downloadurl>
+			<downloadurl primary="y" who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-campaigns/the-road-to-minsk-cmrt-campaign/</downloadurl>
 		</urls_list>
 	</scenario>
 	<scenario author="Lille Fiskerby" filename="The Relief of Army Group North.cam">
 		<urls_list>
-			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-campaigns/the-relief-of-army-group-north-campaign/</infourl>
-			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/The-Relief-of-Army-Group-North.zip</downloadurl>
+			<downloadurl primary="y" who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-campaigns/the-relief-of-army-group-north-campaign/</downloadurl>
 		</urls_list>
 	</scenario>
-
+    <scenario author="MOS-96B2P" filename="Alarmeinheiten.cam">
+        <urls_list>
+            <downloadurl primary="y" who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-campaigns/cmrt-mini-campaign-alarmeinheiten/</downloadurl>
+        </urls_list>
+    </scenario>
+    <scenario author="Lille Fiskerby" filename="FR Breakthrough to Kovel.cam">
+        <urls_list>
+            <downloadurl primary="y" who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-campaigns/fr-breakthrough-to-kovel/</downloadurl>
+        </urls_list>
+    </scenario>
+    <scenario author="AndreasP" filename="Kampfgruppe Bauer v1-2.cam">
+        <urls_list>
+            <downloadurl primary="y" who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-campaigns/cmrt-kampfgruppe-bauer-1943/</downloadurl>
+        </urls_list>
+    </scenario>
+    <scenario author="George MC" filename="BP1 Five Days One Summer.cam" stock="y"/>
+    <scenario author="George MC" filename="BP1 Tigers at Ogledow.cam" stock="y"/>
+    <scenario author="benpark" filename="FR Broken Shields.cam" stock="y"/>
+    <scenario author="benpark" filename="FR Night at the Opera Axis.cam" stock="y"/>
+    <scenario author="benpark" filename="FR Night at the Opera Soviet.cam" stock="y"/>
+    <scenario author="benpark" filename="FR The Battle of Tukums.cam" stock="y"/>
+    <scenario author="benpark" filename="FR To Berlin.cam" stock="y"/>
+    
 <!-- 	<scenario author="" filename=""> -->
 <!-- 		<urls_list> -->
 <!-- 			<infourl who="Scenario Depot"></infourl> -->

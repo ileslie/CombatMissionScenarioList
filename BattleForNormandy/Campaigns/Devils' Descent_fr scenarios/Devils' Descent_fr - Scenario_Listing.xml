@@ -1,0 +1,638 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="Listing_Layout.xsl" ?>
+
+<Scenario_Listing>
+
+   <Scenario_List>
+
+   <containing_campaign>Devils&apos; Descent version Française</containing_campaign>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #07]</number_in_campaign>
+         <battle_title>Bridge to Somewhere</battle_title>
+      </Title>
+      <filename>Devils&apos; Descent_fr #07_DDCam 05FS_fr</filename>
+      <picture_link>scenpics/Devils&apos; Descent_fr7.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>C Company, 1/508 PIR seizes a bridge on D-Day.</description>
+      <date>06/06/1944</date>
+      <time_of_day>04:30</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:30</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>0.113 Sq. km</map_area>
+         <map_width>320 m</map_width>
+         <map_depth>352 m</map_depth>
+      </Map_Size>
+      <region>France</region>
+      <environment>Open</environment>
+      <weather>Overcast</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Damp</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBN v1.00</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>5</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #16]</number_in_campaign>
+         <battle_title>One Last Time</battle_title>
+      </Title>
+      <filename>Devils&apos; Descent_fr #16_DDCam 08F_fr</filename>
+      <picture_link>scenpics/Devils&apos; Descent_fr16.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>C Company, 1/508 PIR links up with 2/505 PIR.</description>
+      <date>06/06/1944</date>
+      <time_of_day>08:30</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:30</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>0.34 Sq. km</map_area>
+         <map_width>608 m</map_width>
+         <map_depth>560 m</map_depth>
+      </Map_Size>
+      <region>France</region>
+      <environment>Open</environment>
+      <weather>Overcast</weather>
+      <temperature>Cool</temperature>
+      <ground_condition>Damp</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBN v1.00</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>5</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #03]</number_in_campaign>
+         <battle_title>The Bells are Calling</battle_title>
+      </Title>
+      <filename>Devils&apos; Descent_fr #03_DDCam 03J_fr</filename>
+      <picture_link>scenpics/Devils&apos; Descent_fr3.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>C Company, 1/508 PIR seizes a village whose church tower has a commanding view over its surroundings.</description>
+      <date>06/06/1944</date>
+      <time_of_day>04:30</time_of_day>
+      <part_of_day>Night</part_of_day>
+      <length>01:00</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>0.135 Sq. km</map_area>
+         <map_width>368 m</map_width>
+         <map_depth>368 m</map_depth>
+      </Map_Size>
+      <region>France</region>
+      <environment>Town</environment>
+      <weather>Overcast</weather>
+      <temperature>Cool</temperature>
+      <ground_condition>Wet</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBN v1.00</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #14]</number_in_campaign>
+         <battle_title>Stem the Tide</battle_title>
+      </Title>
+      <filename>Devils&apos; Descent_fr #14_DDCam 07F_fr</filename>
+      <picture_link>scenpics/Devils&apos; Descent_fr14.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>C Company, 1/508 PIR ambushes German forces moving to attack Sainte-Mère-Église.</description>
+      <date>06/06/1944</date>
+      <time_of_day>07:45</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:30</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>0.192 Sq. km</map_area>
+         <map_width>480 m</map_width>
+         <map_depth>400 m</map_depth>
+      </Map_Size>
+      <region>France</region>
+      <environment>Open</environment>
+      <weather>Overcast</weather>
+      <temperature>Cool</temperature>
+      <ground_condition>Damp</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBN v1.00</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>5</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #12]</number_in_campaign>
+         <battle_title>Déjà Vu</battle_title>
+      </Title>
+      <filename>Devils&apos; Descent_fr #12_DDCam 06JF_fr</filename>
+      <picture_link>scenpics/Devils&apos; Descent_fr12.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>C Company, 1/508 PIR retakes a village they left earlier in the day.</description>
+      <date>06/06/1944</date>
+      <time_of_day>07:00</time_of_day>
+      <part_of_day>Dawn</part_of_day>
+      <length>00:30</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>0.224 Sq. km</map_area>
+         <map_width>608 m</map_width>
+         <map_depth>368 m</map_depth>
+      </Map_Size>
+      <region>France</region>
+      <environment>Town</environment>
+      <weather>Overcast</weather>
+      <temperature>Cool</temperature>
+      <ground_condition>Wet</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBN v1.00</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>5</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #11]</number_in_campaign>
+         <battle_title>Our Turn Now</battle_title>
+      </Title>
+      <filename>Devils&apos; Descent_fr #11_DDCam 06FS_fr</filename>
+      <picture_link>scenpics/Devils&apos; Descent_fr11.bmp</picture_link>
+      <battle_type>Axis Assault</battle_type>
+      <description>Airborne forces defend a village until reinforcements can arrive.</description>
+      <date>06/06/1944</date>
+      <time_of_day>07:00</time_of_day>
+      <part_of_day>Dawn</part_of_day>
+      <length>00:30</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>0.224 Sq. km</map_area>
+         <map_width>608 m</map_width>
+         <map_depth>368 m</map_depth>
+      </Map_Size>
+      <region>France</region>
+      <environment>Town</environment>
+      <weather>Overcast</weather>
+      <temperature>Cool</temperature>
+      <ground_condition>Wet</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBN v1.00</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>5</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #15]</number_in_campaign>
+         <battle_title>Stem the Tide</battle_title>
+      </Title>
+      <filename>Devils&apos; Descent_fr #15_DDCam 07S_fr</filename>
+      <picture_link>scenpics/Devils&apos; Descent_fr15.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>C Company, 1/508 PIR ambushes German forces moving to attack Sainte-Mère-Église.</description>
+      <date>06/06/1944</date>
+      <time_of_day>07:45</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:30</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>0.192 Sq. km</map_area>
+         <map_width>480 m</map_width>
+         <map_depth>400 m</map_depth>
+      </Map_Size>
+      <region>France</region>
+      <environment>Open</environment>
+      <weather>Overcast</weather>
+      <temperature>Cool</temperature>
+      <ground_condition>Damp</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBN v1.00</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>5</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #01]</number_in_campaign>
+         <battle_title>Waiting for Spurgin</battle_title>
+      </Title>
+      <filename>Devils&apos; Descent_fr #01_DDCam 02_fr</filename>
+      <picture_link>scenpics/Devils&apos; Descent_fr1.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>Decide whether to wait for the arrival of Spurgin&apos;s 1st Platoon or attack a village now.</description>
+      <date>06/06/1944</date>
+      <time_of_day>02:55</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:10</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>0.043 Sq. km</map_area>
+         <map_width>208 m</map_width>
+         <map_depth>208 m</map_depth>
+      </Map_Size>
+      <region>France</region>
+      <environment>Open</environment>
+      <weather>Overcast</weather>
+      <temperature>Cool</temperature>
+      <ground_condition>Wet</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBN v1.00</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>4</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #17]</number_in_campaign>
+         <battle_title>One Last Time</battle_title>
+      </Title>
+      <filename>Devils&apos; Descent_fr #17_DDCam 08S_fr</filename>
+      <picture_link>scenpics/Devils&apos; Descent_fr17.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>C Company, 1/508 PIR links up with 2/505 PIR.</description>
+      <date>06/06/1944</date>
+      <time_of_day>08:30</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:30</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>0.34 Sq. km</map_area>
+         <map_width>608 m</map_width>
+         <map_depth>560 m</map_depth>
+      </Map_Size>
+      <region>France</region>
+      <environment>Open</environment>
+      <weather>Overcast</weather>
+      <temperature>Cool</temperature>
+      <ground_condition>Damp</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBN v1.00</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>5</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #05]</number_in_campaign>
+         <battle_title>No Platoon Left Behind</battle_title>
+      </Title>
+      <filename>Devils&apos; Descent_fr #05_DDCam 04J_fr</filename>
+      <picture_link>scenpics/Devils&apos; Descent_fr5.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>Decide whether to leave a platoon in the village or take your entire company to attack a bridge.</description>
+      <date>06/06/1944</date>
+      <time_of_day>05:15</time_of_day>
+      <part_of_day>Dawn</part_of_day>
+      <length>00:10</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>0.043 Sq. km</map_area>
+         <map_width>208 m</map_width>
+         <map_depth>208 m</map_depth>
+      </Map_Size>
+      <region>France</region>
+      <environment>Town</environment>
+      <weather>Overcast</weather>
+      <temperature>Cool</temperature>
+      <ground_condition>Wet</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBN v1.00</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>4</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #02]</number_in_campaign>
+         <battle_title>The Bells are Calling</battle_title>
+      </Title>
+      <filename>Devils&apos; Descent_fr #02_DDCam 03F_fr</filename>
+      <picture_link>scenpics/Devils&apos; Descent_fr2.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>C Company, 1/508 PIR seizes a village whose church tower has a commanding view over its surroundings.</description>
+      <date>06/06/1944</date>
+      <time_of_day>02:55</time_of_day>
+      <part_of_day>Night</part_of_day>
+      <length>01:00</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>0.135 Sq. km</map_area>
+         <map_width>368 m</map_width>
+         <map_depth>368 m</map_depth>
+      </Map_Size>
+      <region>France</region>
+      <environment>Town</environment>
+      <weather>Overcast</weather>
+      <temperature>Cool</temperature>
+      <ground_condition>Wet</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBN v1.00</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #10]</number_in_campaign>
+         <battle_title>Déjà Vu</battle_title>
+      </Title>
+      <filename>Devils&apos; Descent_fr #10_DDCam 06FF_fr</filename>
+      <picture_link>scenpics/Devils&apos; Descent_fr10.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>C Company, 1/508 PIR retakes a village they left earlier in the day.</description>
+      <date>06/06/1944</date>
+      <time_of_day>07:00</time_of_day>
+      <part_of_day>Dawn</part_of_day>
+      <length>00:30</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>0.224 Sq. km</map_area>
+         <map_width>608 m</map_width>
+         <map_depth>368 m</map_depth>
+      </Map_Size>
+      <region>France</region>
+      <environment>Town</environment>
+      <weather>Overcast</weather>
+      <temperature>Cool</temperature>
+      <ground_condition>Wet</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBN v1.00</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>5</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #00]</number_in_campaign>
+         <battle_title>The Devils Have Landed</battle_title>
+      </Title>
+      <filename>Devils&apos; Descent_fr #00_DDCam 01_fr</filename>
+      <picture_link>scenpics/Devils&apos; Descent_fr0.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>Elements of Company C, 1/508 PIR seize a farm complex on D-Day.</description>
+      <date>06/06/1944</date>
+      <time_of_day>02:25</time_of_day>
+      <part_of_day>Night</part_of_day>
+      <length>00:40</length>
+      <battle_size>Tiny</battle_size>
+      <Map_Size>
+         <map_area>0.107 Sq. km</map_area>
+         <map_width>352 m</map_width>
+         <map_depth>304 m</map_depth>
+      </Map_Size>
+      <region>France</region>
+      <environment>Village</environment>
+      <weather>Overcast</weather>
+      <temperature>Cool</temperature>
+      <ground_condition>Wet</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBN v1.00</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>2</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #18]</number_in_campaign>
+         <battle_title>A Job Well Done</battle_title>
+      </Title>
+      <filename>Devils&apos; Descent_fr #18_DDCam 09_fr</filename>
+      <picture_link>scenpics/Devils&apos; Descent_fr18.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>Captain Evans is debriefed by the CO of 2/505 PIR.</description>
+      <date>06/06/1944</date>
+      <time_of_day>09:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:10</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>0.043 Sq. km</map_area>
+         <map_width>208 m</map_width>
+         <map_depth>208 m</map_depth>
+      </Map_Size>
+      <region>France</region>
+      <environment>Open</environment>
+      <weather>Overcast</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Very Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBN v1.00</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>4</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #09]</number_in_campaign>
+         <battle_title>Bridge to Somewhere</battle_title>
+      </Title>
+      <filename>Devils&apos; Descent_fr #09_DDCam 05JS_fr</filename>
+      <picture_link>scenpics/Devils&apos; Descent_fr9.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>C Company, 1/508 PIR seizes a bridge on D-Day.</description>
+      <date>06/06/1944</date>
+      <time_of_day>05:40</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:30</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>0.113 Sq. km</map_area>
+         <map_width>320 m</map_width>
+         <map_depth>352 m</map_depth>
+      </Map_Size>
+      <region>France</region>
+      <environment>Open</environment>
+      <weather>Overcast</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Damp</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBN v1.00</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>5</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #13]</number_in_campaign>
+         <battle_title>Our Turn Now</battle_title>
+      </Title>
+      <filename>Devils&apos; Descent_fr #13_DDCam 06JS_fr</filename>
+      <picture_link>scenpics/Devils&apos; Descent_fr13.bmp</picture_link>
+      <battle_type>Axis Assault</battle_type>
+      <description>Airborne forces defend a village until reinforcements can arrive.</description>
+      <date>06/06/1944</date>
+      <time_of_day>07:00</time_of_day>
+      <part_of_day>Dawn</part_of_day>
+      <length>00:30</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>0.224 Sq. km</map_area>
+         <map_width>608 m</map_width>
+         <map_depth>368 m</map_depth>
+      </Map_Size>
+      <region>France</region>
+      <environment>Town</environment>
+      <weather>Overcast</weather>
+      <temperature>Cool</temperature>
+      <ground_condition>Wet</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBN v1.00</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>5</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #04]</number_in_campaign>
+         <battle_title>No Platoon Left Behind</battle_title>
+      </Title>
+      <filename>Devils&apos; Descent_fr #04_DDCam 04F_fr</filename>
+      <picture_link>scenpics/Devils&apos; Descent_fr4.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>Decide whether to leave a platoon in the village or take your entire company to attack a bridge.</description>
+      <date>06/06/1944</date>
+      <time_of_day>03:45</time_of_day>
+      <part_of_day>Dawn</part_of_day>
+      <length>00:10</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>0.043 Sq. km</map_area>
+         <map_width>208 m</map_width>
+         <map_depth>208 m</map_depth>
+      </Map_Size>
+      <region>France</region>
+      <environment>Town</environment>
+      <weather>Overcast</weather>
+      <temperature>Cool</temperature>
+      <ground_condition>Wet</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBN v1.00</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>4</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #08]</number_in_campaign>
+         <battle_title>Bridge to Somewhere</battle_title>
+      </Title>
+      <filename>Devils&apos; Descent_fr #08_DDCam 05JF_fr</filename>
+      <picture_link>scenpics/Devils&apos; Descent_fr8.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>C Company, 1/508 PIR seizes a bridge on D-Day.</description>
+      <date>06/06/1944</date>
+      <time_of_day>05:40</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:30</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>0.113 Sq. km</map_area>
+         <map_width>320 m</map_width>
+         <map_depth>352 m</map_depth>
+      </Map_Size>
+      <region>France</region>
+      <environment>Open</environment>
+      <weather>Overcast</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Damp</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBN v1.00</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>5</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #06]</number_in_campaign>
+         <battle_title>Bridge to Somewhere</battle_title>
+      </Title>
+      <filename>Devils&apos; Descent_fr #06_DDCam 05FF_fr</filename>
+      <picture_link>scenpics/Devils&apos; Descent_fr6.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>C Company, 1/508 PIR seizes a bridge on D-Day.</description>
+      <date>06/06/1944</date>
+      <time_of_day>04:30</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:30</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>0.113 Sq. km</map_area>
+         <map_width>320 m</map_width>
+         <map_depth>352 m</map_depth>
+      </Map_Size>
+      <region>France</region>
+      <environment>Open</environment>
+      <weather>Overcast</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Damp</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBN v1.00</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>5</size_modifier>
+   </Scenario>
+
+   </Scenario_List>
+</Scenario_Listing>

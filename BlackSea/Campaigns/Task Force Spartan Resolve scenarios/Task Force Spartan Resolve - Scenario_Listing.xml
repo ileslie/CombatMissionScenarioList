@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="Listing_Layout.xsl" ?>
+
+<Scenario_Listing>
+
+   <Scenario_List>
+
+   <containing_campaign>Task Force Spartan Resolve</containing_campaign>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #05]</number_in_campaign>
+         <battle_title>Blood in the Streets</battle_title>
+      </Title>
+      <filename>Task Force Spartan Resolve #05_TF SR 06 Blood in the Streets 4W</filename>
+      <picture_link>scenpics/Task Force Spartan Resolve5.bmp</picture_link>
+      <battle_type>Red Assault</battle_type>
+      <description>Elements of the UKR 30th Mech Brigade and Attack Company conduct a desperate rear guard action in the center of Chapajevka</description>
+      <date>13/06/2017</date>
+      <time_of_day>06:30</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:20</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>0.866 Sq. km</map_area>
+         <map_width>1152 m</map_width>
+         <map_depth>752 m</map_depth>
+      </Map_Size>
+      <region>Ukraine</region>
+      <environment>City</environment>
+      <weather>Overcast</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Damp</ground_condition>
+      <early_intel>Red Force</early_intel>
+      <game_version>CMBS v1.03</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>173rd</mod_tag>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #07]</number_in_campaign>
+         <battle_title>Lock Shields</battle_title>
+      </Title>
+      <filename>Task Force Spartan Resolve #07_TF SR 07 Lock Shields</filename>
+      <picture_link>scenpics/Task Force Spartan Resolve7.bmp</picture_link>
+      <battle_type>Red Assault</battle_type>
+      <description>Attack Company and elements of 30th Mech Brigade must defend the outskirts of Cherkasy against a Russian assault</description>
+      <date>16/06/2017</date>
+      <time_of_day>07:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:30</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>1.71 Sq. km</map_area>
+         <map_width>1696 m</map_width>
+         <map_depth>1008 m</map_depth>
+      </Map_Size>
+      <region>Ukraine</region>
+      <environment>Village</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Red Force</early_intel>
+      <game_version>CMBS v1.03</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>173rd</mod_tag>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #00]</number_in_campaign>
+         <battle_title>We Own the Night</battle_title>
+      </Title>
+      <filename>Task Force Spartan Resolve #00_TF SR 01 We Own the Night</filename>
+      <picture_link>scenpics/Task Force Spartan Resolve0.bmp</picture_link>
+      <battle_type>Blue Attack</battle_type>
+      <description>1st Platoon, Attack Company, sets out on a night combat patrol to conduct an ambush and raid enemy forces</description>
+      <date>02/06/2017</date>
+      <time_of_day>01:00</time_of_day>
+      <part_of_day>Night</part_of_day>
+      <length>01:30</length>
+      <battle_size>Small</battle_size>
+      <Map_Size>
+         <map_area>1.402 Sq. km</map_area>
+         <map_width>1168 m</map_width>
+         <map_depth>1200 m</map_depth>
+      </Map_Size>
+      <region>Ukraine</region>
+      <environment>Forest</environment>
+      <weather>Overcast</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Damp</ground_condition>
+      <early_intel>Blue Force</early_intel>
+      <game_version>CMBS v1.03</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>173rd</mod_tag>
+      </Mod_Tags>
+      <size_modifier>5</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #06]</number_in_campaign>
+         <battle_title>Blood in the Streets</battle_title>
+      </Title>
+      <filename>Task Force Spartan Resolve #06_TF SR 06 Blood in the Streets 4F</filename>
+      <picture_link>scenpics/Task Force Spartan Resolve6.bmp</picture_link>
+      <battle_type>Red Assault</battle_type>
+      <description>Elements of the UKR 30th Mech Brigade and Attack Company conduct a desperate rear guard action in the center of Chapajevka</description>
+      <date>13/06/2017</date>
+      <time_of_day>06:30</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:20</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>0.866 Sq. km</map_area>
+         <map_width>1152 m</map_width>
+         <map_depth>752 m</map_depth>
+      </Map_Size>
+      <region>Ukraine</region>
+      <environment>City</environment>
+      <weather>Overcast</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Damp</ground_condition>
+      <early_intel>Red Force</early_intel>
+      <game_version>CMBS v1.03</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>173rd</mod_tag>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #04]</number_in_campaign>
+         <battle_title>Acts of Valor</battle_title>
+      </Title>
+      <filename>Task Force Spartan Resolve #04_TF SR 05 Acts of Valor</filename>
+      <picture_link>scenpics/Task Force Spartan Resolve4.bmp</picture_link>
+      <battle_type>Blue Attack</battle_type>
+      <description>30th Mech Brigade Recon Company, with a TF Spartan Resolve Advisor Team, conduct a surprise attack against the flank of the Russian 23rd Motorized Rifle Brigade</description>
+      <date>10/06/2017</date>
+      <time_of_day>06:00</time_of_day>
+      <part_of_day>Dawn</part_of_day>
+      <length>01:30</length>
+      <battle_size>Large</battle_size>
+      <Map_Size>
+         <map_area>1.581 Sq. km</map_area>
+         <map_width>1568 m</map_width>
+         <map_depth>1008 m</map_depth>
+      </Map_Size>
+      <region>Ukraine</region>
+      <environment>Town</environment>
+      <weather>Overcast</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Damp</ground_condition>
+      <early_intel>Blue Force</early_intel>
+      <game_version>CMBS v1.03</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>173rd</mod_tag>
+      </Mod_Tags>
+      <size_modifier>9</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #03]</number_in_campaign>
+         <battle_title>By the Dawn&apos;s Early Light</battle_title>
+      </Title>
+      <filename>Task Force Spartan Resolve #03_TF SR 04 By the Dawns Early Light</filename>
+      <picture_link>scenpics/Task Force Spartan Resolve3.bmp</picture_link>
+      <battle_type>Blue Assault</battle_type>
+      <description>Attack Company conducts a surprize night assault against Russian forces preparing for their next offensive</description>
+      <date>09/06/2017</date>
+      <time_of_day>03:30</time_of_day>
+      <part_of_day>Night</part_of_day>
+      <length>01:30</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>1.102 Sq. km</map_area>
+         <map_width>1680 m</map_width>
+         <map_depth>656 m</map_depth>
+      </Map_Size>
+      <region>Ukraine</region>
+      <environment>Town</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Blue Force</early_intel>
+      <game_version>CMBS v1.03</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>173rd</mod_tag>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #02]</number_in_campaign>
+         <battle_title>War Angel Down</battle_title>
+      </Title>
+      <filename>Task Force Spartan Resolve #02_TF SR 03 War Angel Down</filename>
+      <picture_link>scenpics/Task Force Spartan Resolve2.bmp</picture_link>
+      <battle_type>Blue Probe</battle_type>
+      <description>Elements of Alpha Troop, 1st Squadron, 91st Cavalry, are scrambled to rescue a downed F-16 pilot before she is captured by Russian Forces</description>
+      <date>06/06/2017</date>
+      <time_of_day>04:30</time_of_day>
+      <part_of_day>Dawn</part_of_day>
+      <length>01:10</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>1.072 Sq. km</map_area>
+         <map_width>848 m</map_width>
+         <map_depth>1264 m</map_depth>
+      </Map_Size>
+      <region>Ukraine</region>
+      <environment>Village</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Blue Force</early_intel>
+      <game_version>CMBS v1.03</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>173rd</mod_tag>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #01]</number_in_campaign>
+         <battle_title>The Maelstrom</battle_title>
+      </Title>
+      <filename>Task Force Spartan Resolve #01_TF SR 02 The Maelstrom</filename>
+      <picture_link>scenpics/Task Force Spartan Resolve1.bmp</picture_link>
+      <battle_type>Blue Attack</battle_type>
+      <description>Elements of Attack Company reinforce units of the 30th Mechanized Brigade defending the outskirts of Chapajevka</description>
+      <date>05/06/2017</date>
+      <time_of_day>06:30</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:20</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>2.903 Sq. km</map_area>
+         <map_width>2240 m</map_width>
+         <map_depth>1296 m</map_depth>
+      </Map_Size>
+      <region>Ukraine</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Red Force</early_intel>
+      <game_version>CMBS v1.03</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>173rd</mod_tag>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   </Scenario_List>
+</Scenario_Listing>

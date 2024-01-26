@@ -1,0 +1,419 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="Listing_Layout.xsl" ?>
+
+<Scenario_Listing>
+
+   <Scenario_List>
+
+   <containing_campaign>The Charge of the Stryker Brigade</containing_campaign>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #05]</number_in_campaign>
+         <battle_title>When Titans Clash</battle_title>
+      </Title>
+      <filename>The Charge of the Stryker Brigade #05_TF 2CR 05 When Titans Clash EW</filename>
+      <picture_link>scenpics/The Charge of the Stryker Brigade5.bmp</picture_link>
+      <battle_type>Meeting Engagement</battle_type>
+      <description>Ghost Troop runs head long into the lead echelon of the 205th Motorized Rifle Brigade</description>
+      <date>15/07/2017</date>
+      <time_of_day>20:00</time_of_day>
+      <part_of_day>Dusk</part_of_day>
+      <length>01:20</length>
+      <battle_size>Large</battle_size>
+      <Map_Size>
+         <map_area>2.532 Sq. km</map_area>
+         <map_width>1840 m</map_width>
+         <map_depth>1376 m</map_depth>
+      </Map_Size>
+      <region>Ukraine</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Blue Force</early_intel>
+      <game_version>CMBS v1.04 to v2.10</game_version>
+      <Modules_Required>
+         <module1>Battle Pack #1</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>8</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #06]</number_in_campaign>
+         <battle_title>The Rocket&apos;s Red Glare</battle_title>
+      </Title>
+      <filename>The Charge of the Stryker Brigade #06_TF 2CR 06 The Rockets Red Glare</filename>
+      <picture_link>scenpics/The Charge of the Stryker Brigade6.bmp</picture_link>
+      <battle_type>Blue Attack</battle_type>
+      <description>Eagle Troop carries the fight forward against elements of the 205th Motorized Rifle Brigade</description>
+      <date>17/07/2017</date>
+      <time_of_day>04:30</time_of_day>
+      <part_of_day>Dawn</part_of_day>
+      <length>01:30</length>
+      <battle_size>Large</battle_size>
+      <Map_Size>
+         <map_area>2.011 Sq. km</map_area>
+         <map_width>1632 m</map_width>
+         <map_depth>1232 m</map_depth>
+      </Map_Size>
+      <region>Ukraine</region>
+      <environment>Village</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Blue Force</early_intel>
+      <game_version>CMBS v1.04 to v2.10</game_version>
+      <Modules_Required>
+         <module1>Battle Pack #1</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>9</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #07]</number_in_campaign>
+         <battle_title>The Rocket&apos;s Red Glare</battle_title>
+      </Title>
+      <filename>The Charge of the Stryker Brigade #07_TF 2CR 06 The Rockets Red Glare EW</filename>
+      <picture_link>scenpics/The Charge of the Stryker Brigade7.bmp</picture_link>
+      <battle_type>Blue Attack</battle_type>
+      <description>Eagle Troop carries the fight forward against elements of the 205th Motorized Rifle Brigade</description>
+      <date>17/07/2017</date>
+      <time_of_day>04:30</time_of_day>
+      <part_of_day>Dawn</part_of_day>
+      <length>01:30</length>
+      <battle_size>Large</battle_size>
+      <Map_Size>
+         <map_area>2.011 Sq. km</map_area>
+         <map_width>1632 m</map_width>
+         <map_depth>1232 m</map_depth>
+      </Map_Size>
+      <region>Ukraine</region>
+      <environment>Village</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Blue Force</early_intel>
+      <game_version>CMBS v1.04 to v2.10</game_version>
+      <Modules_Required>
+         <module1>Battle Pack #1</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>9</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #04]</number_in_campaign>
+         <battle_title>When Titans Clash</battle_title>
+      </Title>
+      <filename>The Charge of the Stryker Brigade #04_TF 2CR 05 When Titans Clash</filename>
+      <picture_link>scenpics/The Charge of the Stryker Brigade4.bmp</picture_link>
+      <battle_type>Meeting Engagement</battle_type>
+      <description>Ghost Troop runs head long into the lead echelon of the 205th Motorized Rifle Brigade</description>
+      <date>15/07/2017</date>
+      <time_of_day>20:00</time_of_day>
+      <part_of_day>Dusk</part_of_day>
+      <length>01:20</length>
+      <battle_size>Large</battle_size>
+      <Map_Size>
+         <map_area>2.532 Sq. km</map_area>
+         <map_width>1840 m</map_width>
+         <map_depth>1376 m</map_depth>
+      </Map_Size>
+      <region>Ukraine</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Blue Force</early_intel>
+      <game_version>CMBS v1.04 to v2.10</game_version>
+      <Modules_Required>
+         <module1>Battle Pack #1</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>8</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #11]</number_in_campaign>
+         <battle_title>Front Towards Enemy</battle_title>
+      </Title>
+      <filename>The Charge of the Stryker Brigade #11_TF 2CR 09 Front Towards Enemy</filename>
+      <picture_link>scenpics/The Charge of the Stryker Brigade11.bmp</picture_link>
+      <battle_type>Blue Attack</battle_type>
+      <description>Ghost Troop, reinforced by a section of M1A2 tanks, assaults the western edge of Kremenchuk</description>
+      <date>30/07/2017</date>
+      <time_of_day>06:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:50</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>0.653 Sq. km</map_area>
+         <map_width>704 m</map_width>
+         <map_depth>928 m</map_depth>
+      </Map_Size>
+      <region>Ukraine</region>
+      <environment>City</environment>
+      <weather>Overcast</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Blue Force</early_intel>
+      <game_version>CMBS v1.04 to v2.10</game_version>
+      <Modules_Required>
+         <module1>Battle Pack #1</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #09]</number_in_campaign>
+         <battle_title>The Cav has arrived</battle_title>
+      </Title>
+      <filename>The Charge of the Stryker Brigade #09_TF 2CR 07 The Cav Has Arrived EW</filename>
+      <picture_link>scenpics/The Charge of the Stryker Brigade9.bmp</picture_link>
+      <battle_type>Blue Attack</battle_type>
+      <description>Elements of Ghost Troop race to reinforce a surrounded Airborne unit before it is too late.</description>
+      <date>19/07/2017</date>
+      <time_of_day>06:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:20</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>0.778 Sq. km</map_area>
+         <map_width>992 m</map_width>
+         <map_depth>784 m</map_depth>
+      </Map_Size>
+      <region>Ukraine</region>
+      <environment>Town</environment>
+      <weather>Light Rain</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Damp</ground_condition>
+      <early_intel>Blue Force</early_intel>
+      <game_version>CMBS v1.04 to v2.10</game_version>
+      <Modules_Required>
+         <module1>Battle Pack #1</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #10]</number_in_campaign>
+         <battle_title>Rifle Work</battle_title>
+      </Title>
+      <filename>The Charge of the Stryker Brigade #10_TF 2CR 08 Rifle Work</filename>
+      <picture_link>scenpics/The Charge of the Stryker Brigade10.bmp</picture_link>
+      <battle_type>Blue Attack</battle_type>
+      <description>Elements of Eagle Troop, supported by Charlie Company, 1-505 Airborne, conduct a surprise dawn attack against Russian forces defending the outskirts of Kremenchuk</description>
+      <date>22/07/2017</date>
+      <time_of_day>04:30</time_of_day>
+      <part_of_day>Dawn</part_of_day>
+      <length>01:30</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>1.881 Sq. km</map_area>
+         <map_width>1488 m</map_width>
+         <map_depth>1264 m</map_depth>
+      </Map_Size>
+      <region>Ukraine</region>
+      <environment>Town</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Blue Force</early_intel>
+      <game_version>CMBS v1.04 to v2.10</game_version>
+      <Modules_Required>
+         <module1>Battle Pack #1</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #02]</number_in_campaign>
+         <battle_title>No Fear</battle_title>
+      </Title>
+      <filename>The Charge of the Stryker Brigade #02_TF 2CR 03 No Fear</filename>
+      <picture_link>scenpics/The Charge of the Stryker Brigade2.bmp</picture_link>
+      <battle_type>Blue Attack</battle_type>
+      <description>Elements of Fox Troop attack to seize an alternate crossing point as the Squadron is forced to find alternate routes to contiue the advance</description>
+      <date>10/07/2017</date>
+      <time_of_day>06:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:00</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>0.934 Sq. km</map_area>
+         <map_width>912 m</map_width>
+         <map_depth>1024 m</map_depth>
+      </Map_Size>
+      <region>Ukraine</region>
+      <environment>Village</environment>
+      <weather>Overcast</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Damp</ground_condition>
+      <early_intel>Blue Force</early_intel>
+      <game_version>CMBS v1.04 to v2.10</game_version>
+      <Modules_Required>
+         <module1>Battle Pack #1</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #08]</number_in_campaign>
+         <battle_title>The Cav has arrived</battle_title>
+      </Title>
+      <filename>The Charge of the Stryker Brigade #08_TF 2CR 07 The Cav Has Arrived</filename>
+      <picture_link>scenpics/The Charge of the Stryker Brigade8.bmp</picture_link>
+      <battle_type>Blue Attack</battle_type>
+      <description>Elements of Ghost Troop race to reinforce a surrounded Airborne unit before it is too late.</description>
+      <date>19/07/2017</date>
+      <time_of_day>06:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:20</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>0.778 Sq. km</map_area>
+         <map_width>992 m</map_width>
+         <map_depth>784 m</map_depth>
+      </Map_Size>
+      <region>Ukraine</region>
+      <environment>Town</environment>
+      <weather>Light Rain</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Damp</ground_condition>
+      <early_intel>Blue Force</early_intel>
+      <game_version>CMBS v1.04 to v2.10</game_version>
+      <Modules_Required>
+         <module1>Battle Pack #1</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #01]</number_in_campaign>
+         <battle_title>Let&apos;s Roll</battle_title>
+      </Title>
+      <filename>The Charge of the Stryker Brigade #01_TF 2CR 02 Lets Roll</filename>
+      <picture_link>scenpics/The Charge of the Stryker Brigade1.bmp</picture_link>
+      <battle_type>Blue Assault</battle_type>
+      <description>Eagle Troop assaults the Russian forces in the town of Stepansti to secure two bridges and key terrain</description>
+      <date>06/07/2017</date>
+      <time_of_day>04:30</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>02:00</length>
+      <battle_size>Large</battle_size>
+      <Map_Size>
+         <map_area>2.876 Sq. km</map_area>
+         <map_width>1696 m</map_width>
+         <map_depth>1696 m</map_depth>
+      </Map_Size>
+      <region>Ukraine</region>
+      <environment>Town</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Blue Force</early_intel>
+      <game_version>CMBS v1.04 to v2.10</game_version>
+      <Modules_Required>
+         <module1>Battle Pack #1</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>9</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #00]</number_in_campaign>
+         <battle_title>Always Ready</battle_title>
+      </Title>
+      <filename>The Charge of the Stryker Brigade #00_TF 2CR 01 Always Ready</filename>
+      <picture_link>scenpics/The Charge of the Stryker Brigade0.bmp</picture_link>
+      <battle_type>Blue Probe</battle_type>
+      <description>TF 2/2CR&apos;s Scout Platoon leads the way into the town of Pylyava, securing bridges for follow-on forces</description>
+      <date>04/07/2017</date>
+      <time_of_day>05:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:20</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>2.38 Sq. km</map_area>
+         <map_width>1792 m</map_width>
+         <map_depth>1328 m</map_depth>
+      </Map_Size>
+      <region>Ukraine</region>
+      <environment>Village</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Blue Force</early_intel>
+      <game_version>CMBS v1.04 to v2.10</game_version>
+      <Modules_Required>
+         <module1>Battle Pack #1</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #03]</number_in_campaign>
+         <battle_title>The Eagle</battle_title>
+      </Title>
+      <filename>The Charge of the Stryker Brigade #03_TF 2CR 04 The Eagle</filename>
+      <picture_link>scenpics/The Charge of the Stryker Brigade3.bmp</picture_link>
+      <battle_type>Blue Attack</battle_type>
+      <description>Fox Troop goes on the offensive to assault elements of a Russian reconnaissance battalion </description>
+      <date>14/07/2017</date>
+      <time_of_day>05:00</time_of_day>
+      <part_of_day>Dawn</part_of_day>
+      <length>01:40</length>
+      <battle_size>Large</battle_size>
+      <Map_Size>
+         <map_area>1.381 Sq. km</map_area>
+         <map_width>1392 m</map_width>
+         <map_depth>992 m</map_depth>
+      </Map_Size>
+      <region>Ukraine</region>
+      <environment>Hills</environment>
+      <weather>Light Rain</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Damp</ground_condition>
+      <early_intel>Blue Force</early_intel>
+      <game_version>CMBS v1.04 to v2.10</game_version>
+      <Modules_Required>
+         <module1>Battle Pack #1</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>9</size_modifier>
+   </Scenario>
+
+   </Scenario_List>
+</Scenario_Listing>

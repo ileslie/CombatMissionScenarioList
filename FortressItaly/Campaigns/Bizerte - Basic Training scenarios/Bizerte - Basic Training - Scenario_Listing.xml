@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="Listing_Layout.xsl" ?>
+
+<Scenario_Listing>
+
+   <Scenario_List>
+
+   <containing_campaign>Bizerte - Basic Training</containing_campaign>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #00]</number_in_campaign>
+         <battle_title>Maneuvers</battle_title>
+      </Title>
+      <filename>Bizerte - Basic Training #00_Fi Cmpn 11 Maneuvers</filename>
+      <picture_link>scenpics/Bizerte - Basic Training0.bmp</picture_link>
+      <battle_type>Meeting Engagement</battle_type>
+      <description>Learn the basics of Combat Mission Movement Commands on a patrol.</description>
+      <date>09/07/1943</date>
+      <time_of_day>17:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:30</length>
+      <battle_size>Tiny</battle_size>
+      <Map_Size>
+         <map_area>0.16 Sq. km</map_area>
+         <map_width>400 m</map_width>
+         <map_depth>400 m</map_depth>
+      </Map_Size>
+      <region>Italy</region>
+      <environment>Open</environment>
+      <weather>Hazy</weather>
+      <temperature>Hot</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Allied Force</early_intel>
+      <game_version>CMFI v1.00</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>2</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #02]</number_in_campaign>
+         <battle_title>Combat Training</battle_title>
+      </Title>
+      <filename>Bizerte - Basic Training #02_Fi Cmpn 13 Combat Training</filename>
+      <picture_link>scenpics/Bizerte - Basic Training2.bmp</picture_link>
+      <battle_type>Meeting Engagement</battle_type>
+      <description>Engage in a practice battle drill before the invasion.</description>
+      <date>09/07/1943</date>
+      <time_of_day>17:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:30</length>
+      <battle_size>Tiny</battle_size>
+      <Map_Size>
+         <map_area>0.16 Sq. km</map_area>
+         <map_width>400 m</map_width>
+         <map_depth>400 m</map_depth>
+      </Map_Size>
+      <region>Italy</region>
+      <environment>Open</environment>
+      <weather>Hazy</weather>
+      <temperature>Hot</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Allied Force</early_intel>
+      <game_version>CMFI v1.00</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>2</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #01]</number_in_campaign>
+         <battle_title>Firing Range</battle_title>
+      </Title>
+      <filename>Bizerte - Basic Training #01_Fi Cmpn 12 Target Practice</filename>
+      <picture_link>scenpics/Bizerte - Basic Training1.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>Firing range to test artillery, Heavy Machineguns, and tanks against static targets.</description>
+      <date>09/07/1943</date>
+      <time_of_day>14:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:30</length>
+      <battle_size>Tiny</battle_size>
+      <Map_Size>
+         <map_area>0.319 Sq. km</map_area>
+         <map_width>768 m</map_width>
+         <map_depth>416 m</map_depth>
+      </Map_Size>
+      <region>Italy</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFI v1.00</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>2</size_modifier>
+   </Scenario>
+
+   </Scenario_List>
+</Scenario_Listing>

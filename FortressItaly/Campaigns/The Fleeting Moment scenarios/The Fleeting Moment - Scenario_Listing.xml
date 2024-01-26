@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="Listing_Layout.xsl" ?>
+
+<Scenario_Listing>
+
+   <Scenario_List>
+
+   <containing_campaign>The Fleeting Moment</containing_campaign>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #00]</number_in_campaign>
+         <battle_title>Forming Up</battle_title>
+      </Title>
+      <filename>The Fleeting Moment #00_IT 01 Forming Up v17</filename>
+      <picture_link>scenpics/The Fleeting Moment0.bmp</picture_link>
+      <battle_type>Axis Probe</battle_type>
+      <description>Clearing the start line for the Livorno Battlegroup</description>
+      <date>11/07/1943</date>
+      <time_of_day>04:00</time_of_day>
+      <part_of_day>Night</part_of_day>
+      <length>00:30</length>
+      <battle_size>Small</battle_size>
+      <Map_Size>
+         <map_area>0.508 Sq. km</map_area>
+         <map_width>992 m</map_width>
+         <map_depth>512 m</map_depth>
+      </Map_Size>
+      <region>Italy</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFI v1.00</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>3</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #03]</number_in_campaign>
+         <battle_title>A Day at the Beach</battle_title>
+      </Title>
+      <filename>The Fleeting Moment #03_IT 04 Day at the Beach v15</filename>
+      <picture_link>scenpics/The Fleeting Moment3.bmp</picture_link>
+      <battle_type>Axis Attack</battle_type>
+      <description>The Livorno Battlegroup punches through to the beach at Gela</description>
+      <date>11/07/1943</date>
+      <time_of_day>12:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:30</length>
+      <battle_size>Huge</battle_size>
+      <Map_Size>
+         <map_area>1.474 Sq. km</map_area>
+         <map_width>912 m</map_width>
+         <map_depth>1616 m</map_depth>
+      </Map_Size>
+      <region>Italy</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Hot</temperature>
+      <ground_condition>Very Dry</ground_condition>
+      <early_intel>Axis Force</early_intel>
+      <game_version>CMFI v1.00</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>10</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #02]</number_in_campaign>
+         <battle_title>The Plains of Gela</battle_title>
+      </Title>
+      <filename>The Fleeting Moment #02_IT 03 Plains of Gela v17</filename>
+      <picture_link>scenpics/The Fleeting Moment2.bmp</picture_link>
+      <battle_type>Axis Attack</battle_type>
+      <description>The Livorno Battlegroup must slip around the Americans and continue on to Gela</description>
+      <date>11/07/1943</date>
+      <time_of_day>09:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:50</length>
+      <battle_size>Large</battle_size>
+      <Map_Size>
+         <map_area>1.784 Sq. km</map_area>
+         <map_width>1104 m</map_width>
+         <map_depth>1616 m</map_depth>
+      </Map_Size>
+      <region>Italy</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Very Dry</ground_condition>
+      <early_intel>Axis Force</early_intel>
+      <game_version>CMFI v1.00</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #01]</number_in_campaign>
+         <battle_title>Dawn</battle_title>
+      </Title>
+      <filename>The Fleeting Moment #01_IT 02 Dawn v20</filename>
+      <picture_link>scenpics/The Fleeting Moment1.bmp</picture_link>
+      <battle_type>Axis Attack</battle_type>
+      <description>The Battlegroup&apos;s attack towards Gela gets underway</description>
+      <date>11/07/1943</date>
+      <time_of_day>06:00</time_of_day>
+      <part_of_day>Dawn</part_of_day>
+      <length>00:50</length>
+      <battle_size>Large</battle_size>
+      <Map_Size>
+         <map_area>1.149 Sq. km</map_area>
+         <map_width>1088 m</map_width>
+         <map_depth>1056 m</map_depth>
+      </Map_Size>
+      <region>Italy</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Very Dry</ground_condition>
+      <early_intel>Axis Force</early_intel>
+      <game_version>CMFI v1.00</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #05]</number_in_campaign>
+         <battle_title>Lake Disueri</battle_title>
+      </Title>
+      <filename>The Fleeting Moment #05_IT 06 Lake Disueri v15</filename>
+      <picture_link>scenpics/The Fleeting Moment5.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>The Italo-German forces on Sicily are on the run.</description>
+      <date>17/07/1943</date>
+      <time_of_day>19:50</time_of_day>
+      <part_of_day>Dusk</part_of_day>
+      <length>01:00</length>
+      <battle_size>Large</battle_size>
+      <Map_Size>
+         <map_area>1.534 Sq. km</map_area>
+         <map_width>1296 m</map_width>
+         <map_depth>1184 m</map_depth>
+      </Map_Size>
+      <region>Italy</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Very Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFI v1.00</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>8</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #04]</number_in_campaign>
+         <battle_title>Chiesa Madre</battle_title>
+      </Title>
+      <filename>The Fleeting Moment #04_IT 05 Chiesa Madre v10</filename>
+      <picture_link>scenpics/The Fleeting Moment4.bmp</picture_link>
+      <battle_type>Axis Attack</battle_type>
+      <description>The Livorno Battlegroup retakes the centre of Gela</description>
+      <date>11/07/1943</date>
+      <time_of_day>16:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:10</length>
+      <battle_size>Small</battle_size>
+      <Map_Size>
+         <map_area>0.083 Sq. km</map_area>
+         <map_width>304 m</map_width>
+         <map_depth>272 m</map_depth>
+      </Map_Size>
+      <region>Italy</region>
+      <environment>City</environment>
+      <weather>Clear</weather>
+      <temperature>Hot</temperature>
+      <ground_condition>Very Dry</ground_condition>
+      <early_intel>Axis Force</early_intel>
+      <game_version>CMFI v1.00</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>4</size_modifier>
+   </Scenario>
+
+   </Scenario_List>
+</Scenario_Listing>

@@ -1,0 +1,1091 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="Listing_Layout.xsl" ?>
+
+<Campaign_Listing>
+
+   <Campaign_List>
+
+      <Campaign>
+
+         <title>US Campaign (1982)</title>
+         <filename>Lions of Cantigny (1982)</filename>
+         <picture_link>campaignpics/Lions of Cantigny (1982).bmp</picture_link>
+         <description>US Campaign between Fulda and Hanau to stop Soviet advance</description>
+         <date_range>
+           <earliest_date>15/08/1982</earliest_date>
+           <latest_date>19/08/1982</latest_date>
+         </date_range>
+         <region_list>
+           <region>Germany</region>
+         </region_list>
+         <campaign_tree_link>campaignpics/US Campaign (1982)_Tree.png</campaign_tree_link>
+         <game_version>CMCW v1.00 to v1.06</game_version>
+         <Modules_Required>
+         </Modules_Required>
+
+         <Campaign_Decision_Block>
+            <Scenario_Title>
+               <number_in_campaign>[Campaign Battle #00]</number_in_campaign>
+               <battle_title>Racing the Moon</battle_title>
+            </Scenario_Title>
+            <filename>Lions of Cantigny (1982) #00_US Scenario 1A</filename>
+            <win_threshold>Minor Victory</win_threshold>
+            <next_battle_win>#01</next_battle_win>
+            <next_battle_lose>#02</next_battle_lose>
+            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
+            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
+            <blue_refit>0</blue_refit>
+            <blue_repair_vehicle>0</blue_repair_vehicle>
+            <blue_resupply>0</blue_resupply>
+            <blue_rest>0</blue_rest>
+            <red_refit>0</red_refit>
+            <red_repair_vehicle>0</red_repair_vehicle>
+            <red_resupply>0</red_resupply>
+            <red_rest>0</red_rest>
+         </Campaign_Decision_Block>
+
+         <Campaign_Decision_Block>
+            <Scenario_Title>
+               <number_in_campaign>[Campaign Battle #01]</number_in_campaign>
+               <battle_title>Bumps in the Dark</battle_title>
+            </Scenario_Title>
+            <filename>Lions of Cantigny (1982) #01_US Scenario 1B</filename>
+            <win_threshold>Minor Victory</win_threshold>
+            <next_battle_win>#03</next_battle_win>
+            <next_battle_lose>#04</next_battle_lose>
+            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
+            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
+            <blue_refit>0</blue_refit>
+            <blue_repair_vehicle>0</blue_repair_vehicle>
+            <blue_resupply>20</blue_resupply>
+            <blue_rest>0</blue_rest>
+            <red_refit>0</red_refit>
+            <red_repair_vehicle>0</red_repair_vehicle>
+            <red_resupply>0</red_resupply>
+            <red_rest>0</red_rest>
+         </Campaign_Decision_Block>
+
+         <Campaign_Decision_Block>
+            <Scenario_Title>
+               <number_in_campaign>[Campaign Battle #02]</number_in_campaign>
+               <battle_title>They Own the Night</battle_title>
+            </Scenario_Title>
+            <filename>Lions of Cantigny (1982) #02_US Scenario 1C</filename>
+            <win_threshold>Minor Victory</win_threshold>
+            <next_battle_win>#04</next_battle_win>
+            <next_battle_lose>Campaign End</next_battle_lose>
+            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
+            <maximum_allowed_victory>Total Defeat</maximum_allowed_victory>
+            <blue_refit>0</blue_refit>
+            <blue_repair_vehicle>0</blue_repair_vehicle>
+            <blue_resupply>20</blue_resupply>
+            <blue_rest>0</blue_rest>
+            <red_refit>0</red_refit>
+            <red_repair_vehicle>0</red_repair_vehicle>
+            <red_resupply>0</red_resupply>
+            <red_rest>0</red_rest>
+         </Campaign_Decision_Block>
+
+         <Campaign_Decision_Block>
+            <Scenario_Title>
+               <number_in_campaign>[Campaign Battle #03]</number_in_campaign>
+               <battle_title>Bear in the Sun</battle_title>
+            </Scenario_Title>
+            <filename>Lions of Cantigny (1982) #03_US Scenario 2A</filename>
+            <win_threshold>Minor Victory</win_threshold>
+            <next_battle_win>#06</next_battle_win>
+            <next_battle_lose>#05</next_battle_lose>
+            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
+            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
+            <blue_refit>30</blue_refit>
+            <blue_repair_vehicle>30</blue_repair_vehicle>
+            <blue_resupply>50</blue_resupply>
+            <blue_rest>90</blue_rest>
+            <red_refit>0</red_refit>
+            <red_repair_vehicle>0</red_repair_vehicle>
+            <red_resupply>0</red_resupply>
+            <red_rest>0</red_rest>
+         </Campaign_Decision_Block>
+
+         <Campaign_Decision_Block>
+            <Scenario_Title>
+               <number_in_campaign>[Campaign Battle #04]</number_in_campaign>
+               <battle_title>Bear in the Mist</battle_title>
+            </Scenario_Title>
+            <filename>Lions of Cantigny (1982) #04_US Scenario 2B</filename>
+            <win_threshold>Minor Victory</win_threshold>
+            <next_battle_win>#06</next_battle_win>
+            <next_battle_lose>#05</next_battle_lose>
+            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
+            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
+            <blue_refit>50</blue_refit>
+            <blue_repair_vehicle>50</blue_repair_vehicle>
+            <blue_resupply>20</blue_resupply>
+            <blue_rest>30</blue_rest>
+            <red_refit>0</red_refit>
+            <red_repair_vehicle>0</red_repair_vehicle>
+            <red_resupply>0</red_resupply>
+            <red_rest>0</red_rest>
+         </Campaign_Decision_Block>
+
+         <Campaign_Decision_Block>
+            <Scenario_Title>
+               <number_in_campaign>[Campaign Battle #05]</number_in_campaign>
+               <battle_title>A Hill to Die On</battle_title>
+            </Scenario_Title>
+            <filename>Lions of Cantigny (1982) #05_US Scenario 3</filename>
+            <win_threshold>Draw</win_threshold>
+            <next_battle_win>#08</next_battle_win>
+            <next_battle_lose>Campaign End</next_battle_lose>
+            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
+            <maximum_allowed_victory>Major Defeat</maximum_allowed_victory>
+            <blue_refit>50</blue_refit>
+            <blue_repair_vehicle>50</blue_repair_vehicle>
+            <blue_resupply>50</blue_resupply>
+            <blue_rest>50</blue_rest>
+            <red_refit>0</red_refit>
+            <red_repair_vehicle>0</red_repair_vehicle>
+            <red_resupply>0</red_resupply>
+            <red_rest>0</red_rest>
+         </Campaign_Decision_Block>
+
+         <Campaign_Decision_Block>
+            <Scenario_Title>
+               <number_in_campaign>[Campaign Battle #06]</number_in_campaign>
+               <battle_title>Dollbach Heights</battle_title>
+            </Scenario_Title>
+            <filename>Lions of Cantigny (1982) #06_US Scenario 4</filename>
+            <win_threshold>Minor Victory</win_threshold>
+            <next_battle_win>#07</next_battle_win>
+            <next_battle_lose>#08</next_battle_lose>
+            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
+            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
+            <blue_refit>0</blue_refit>
+            <blue_repair_vehicle>0</blue_repair_vehicle>
+            <blue_resupply>20</blue_resupply>
+            <blue_rest>30</blue_rest>
+            <red_refit>0</red_refit>
+            <red_repair_vehicle>0</red_repair_vehicle>
+            <red_resupply>0</red_resupply>
+            <red_rest>0</red_rest>
+         </Campaign_Decision_Block>
+
+         <Campaign_Decision_Block>
+            <Scenario_Title>
+               <number_in_campaign>[Campaign Battle #07]</number_in_campaign>
+               <battle_title>Route 66</battle_title>
+            </Scenario_Title>
+            <filename>Lions of Cantigny (1982) #07_US Scenario 5A</filename>
+            <win_threshold>Tactical Victory</win_threshold>
+            <next_battle_win>#09</next_battle_win>
+            <next_battle_lose>Campaign End</next_battle_lose>
+            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
+            <maximum_allowed_victory>Draw</maximum_allowed_victory>
+            <blue_refit>75</blue_refit>
+            <blue_repair_vehicle>75</blue_repair_vehicle>
+            <blue_resupply>75</blue_resupply>
+            <blue_rest>75</blue_rest>
+            <red_refit>0</red_refit>
+            <red_repair_vehicle>0</red_repair_vehicle>
+            <red_resupply>0</red_resupply>
+            <red_rest>0</red_rest>
+         </Campaign_Decision_Block>
+
+         <Campaign_Decision_Block>
+            <Scenario_Title>
+               <number_in_campaign>[Campaign Battle #08]</number_in_campaign>
+               <battle_title>Route 66</battle_title>
+            </Scenario_Title>
+            <filename>Lions of Cantigny (1982) #08_US Scenario 5B</filename>
+            <win_threshold>Tactical Victory</win_threshold>
+            <next_battle_win>#09</next_battle_win>
+            <next_battle_lose>Campaign End</next_battle_lose>
+            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
+            <maximum_allowed_victory>Minor Defeat</maximum_allowed_victory>
+            <blue_refit>50</blue_refit>
+            <blue_repair_vehicle>50</blue_repair_vehicle>
+            <blue_resupply>50</blue_resupply>
+            <blue_rest>75</blue_rest>
+            <red_refit>0</red_refit>
+            <red_repair_vehicle>0</red_repair_vehicle>
+            <red_resupply>0</red_resupply>
+            <red_rest>0</red_rest>
+         </Campaign_Decision_Block>
+
+         <Campaign_Decision_Block>
+            <Scenario_Title>
+               <number_in_campaign>[Campaign Battle #09]</number_in_campaign>
+               <battle_title>Bad and Worse</battle_title>
+            </Scenario_Title>
+            <filename>Lions of Cantigny (1982) #09_US Scenario 6</filename>
+            <win_threshold>Minor Victory</win_threshold>
+            <next_battle_win>#10</next_battle_win>
+            <next_battle_lose>Campaign End</next_battle_lose>
+            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
+            <maximum_allowed_victory>Minor Victory</maximum_allowed_victory>
+            <blue_refit>25</blue_refit>
+            <blue_repair_vehicle>25</blue_repair_vehicle>
+            <blue_resupply>25</blue_resupply>
+            <blue_rest>75</blue_rest>
+            <red_refit>0</red_refit>
+            <red_repair_vehicle>0</red_repair_vehicle>
+            <red_resupply>0</red_resupply>
+            <red_rest>0</red_rest>
+         </Campaign_Decision_Block>
+
+         <Campaign_Decision_Block>
+            <Scenario_Title>
+               <number_in_campaign>[Campaign Battle #10]</number_in_campaign>
+               <battle_title>The Citadel</battle_title>
+            </Scenario_Title>
+            <filename>Lions of Cantigny (1982) #10_US Scenario 7</filename>
+            <win_threshold>Minor Victory</win_threshold>
+            <next_battle_win>#11</next_battle_win>
+            <next_battle_lose>Campaign End</next_battle_lose>
+            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
+            <maximum_allowed_victory>Minor Victory</maximum_allowed_victory>
+            <blue_refit>100</blue_refit>
+            <blue_repair_vehicle>100</blue_repair_vehicle>
+            <blue_resupply>100</blue_resupply>
+            <blue_rest>100</blue_rest>
+            <red_refit>0</red_refit>
+            <red_repair_vehicle>0</red_repair_vehicle>
+            <red_resupply>0</red_resupply>
+            <red_rest>0</red_rest>
+         </Campaign_Decision_Block>
+
+         <Campaign_Decision_Block>
+            <Scenario_Title>
+               <number_in_campaign>[Campaign Battle #11]</number_in_campaign>
+               <battle_title>Unhook The Leash</battle_title>
+            </Scenario_Title>
+            <filename>Lions of Cantigny (1982) #11_US Scenario 8</filename>
+            <win_threshold>Tactical Victory</win_threshold>
+            <next_battle_win>Campaign End</next_battle_win>
+            <next_battle_lose>Campaign End</next_battle_lose>
+            <minimum_required_victory>Total Victory</minimum_required_victory>
+            <maximum_allowed_victory>Major Victory</maximum_allowed_victory>
+            <blue_refit>0</blue_refit>
+            <blue_repair_vehicle>0</blue_repair_vehicle>
+            <blue_resupply>0</blue_resupply>
+            <blue_rest>0</blue_rest>
+            <red_refit>0</red_refit>
+            <red_repair_vehicle>0</red_repair_vehicle>
+            <red_resupply>0</red_resupply>
+            <red_rest>0</red_rest>
+         </Campaign_Decision_Block>
+
+      </Campaign>
+      <Campaign>
+
+         <title>Nuke and Bypass</title>
+         <filename>Ride of the 120th (March or Die)</filename>
+         <picture_link>campaignpics/Ride of the 120th (March or Die).bmp</picture_link>
+         <description>Soviet Advance and Exit</description>
+         <date_range>
+           <earliest_date>14/08/1980</earliest_date>
+           <latest_date>14/08/1982</latest_date>
+         </date_range>
+         <region_list>
+           <region>Germany</region>
+         </region_list>
+         <campaign_tree_link>campaignpics/Nuke and Bypass_Tree.png</campaign_tree_link>
+         <game_version>CMCW v1.00 to v1.06</game_version>
+         <Modules_Required>
+         </Modules_Required>
+
+         <Campaign_Decision_Block>
+            <Scenario_Title>
+               <number_in_campaign>[Campaign Battle #00]</number_in_campaign>
+               <battle_title>Greatest Dawn</battle_title>
+            </Scenario_Title>
+            <filename>Ride of the 120th (March or Die) #00_Soviet Scenario 1</filename>
+            <win_threshold>Minor Victory</win_threshold>
+            <next_battle_win>#01</next_battle_win>
+            <next_battle_lose>Campaign End</next_battle_lose>
+            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
+            <maximum_allowed_victory>Total Defeat</maximum_allowed_victory>
+            <blue_refit>0</blue_refit>
+            <blue_repair_vehicle>0</blue_repair_vehicle>
+            <blue_resupply>0</blue_resupply>
+            <blue_rest>0</blue_rest>
+            <red_refit>0</red_refit>
+            <red_repair_vehicle>0</red_repair_vehicle>
+            <red_resupply>20</red_resupply>
+            <red_rest>20</red_rest>
+         </Campaign_Decision_Block>
+
+         <Campaign_Decision_Block>
+            <Scenario_Title>
+               <number_in_campaign>[Campaign Battle #01]</number_in_campaign>
+               <battle_title>The Cauldron</battle_title>
+            </Scenario_Title>
+            <filename>Ride of the 120th (March or Die) #01_Soviet Scenario 2A</filename>
+            <win_threshold>Tactical Victory</win_threshold>
+            <next_battle_win>#02</next_battle_win>
+            <next_battle_lose>Campaign End</next_battle_lose>
+            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
+            <maximum_allowed_victory>Major Defeat</maximum_allowed_victory>
+            <blue_refit>0</blue_refit>
+            <blue_repair_vehicle>0</blue_repair_vehicle>
+            <blue_resupply>0</blue_resupply>
+            <blue_rest>0</blue_rest>
+            <red_refit>0</red_refit>
+            <red_repair_vehicle>0</red_repair_vehicle>
+            <red_resupply>20</red_resupply>
+            <red_rest>20</red_rest>
+         </Campaign_Decision_Block>
+
+         <Campaign_Decision_Block>
+            <Scenario_Title>
+               <number_in_campaign>[Campaign Battle #02]</number_in_campaign>
+               <battle_title>Nuke and Bypass</battle_title>
+            </Scenario_Title>
+            <filename>Ride of the 120th (March or Die) #02_Soviet Scenario 3A</filename>
+            <win_threshold>Minor Victory</win_threshold>
+            <next_battle_win>#03</next_battle_win>
+            <next_battle_lose>Campaign End</next_battle_lose>
+            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
+            <maximum_allowed_victory>Major Defeat</maximum_allowed_victory>
+            <blue_refit>0</blue_refit>
+            <blue_repair_vehicle>0</blue_repair_vehicle>
+            <blue_resupply>0</blue_resupply>
+            <blue_rest>0</blue_rest>
+            <red_refit>0</red_refit>
+            <red_repair_vehicle>0</red_repair_vehicle>
+            <red_resupply>30</red_resupply>
+            <red_rest>30</red_rest>
+         </Campaign_Decision_Block>
+
+         <Campaign_Decision_Block>
+            <Scenario_Title>
+               <number_in_campaign>[Campaign Battle #03]</number_in_campaign>
+               <battle_title>Valley of the Headhunters</battle_title>
+            </Scenario_Title>
+            <filename>Ride of the 120th (March or Die) #03_Soviet Scenario 4A</filename>
+            <win_threshold>Minor Victory</win_threshold>
+            <next_battle_win>#04</next_battle_win>
+            <next_battle_lose>Campaign End</next_battle_lose>
+            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
+            <maximum_allowed_victory>Minor Defeat</maximum_allowed_victory>
+            <blue_refit>0</blue_refit>
+            <blue_repair_vehicle>0</blue_repair_vehicle>
+            <blue_resupply>0</blue_resupply>
+            <blue_rest>0</blue_rest>
+            <red_refit>0</red_refit>
+            <red_repair_vehicle>20</red_repair_vehicle>
+            <red_resupply>30</red_resupply>
+            <red_rest>30</red_rest>
+         </Campaign_Decision_Block>
+
+         <Campaign_Decision_Block>
+            <Scenario_Title>
+               <number_in_campaign>[Campaign Battle #04]</number_in_campaign>
+               <battle_title>Pebble in My Shoe</battle_title>
+            </Scenario_Title>
+            <filename>Ride of the 120th (March or Die) #04_Soviet Scenario 5</filename>
+            <win_threshold>Tactical Victory</win_threshold>
+            <next_battle_win>#05</next_battle_win>
+            <next_battle_lose>Campaign End</next_battle_lose>
+            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
+            <maximum_allowed_victory>Minor Victory</maximum_allowed_victory>
+            <blue_refit>0</blue_refit>
+            <blue_repair_vehicle>0</blue_repair_vehicle>
+            <blue_resupply>0</blue_resupply>
+            <blue_rest>0</blue_rest>
+            <red_refit>0</red_refit>
+            <red_repair_vehicle>0</red_repair_vehicle>
+            <red_resupply>30</red_resupply>
+            <red_rest>30</red_rest>
+         </Campaign_Decision_Block>
+
+         <Campaign_Decision_Block>
+            <Scenario_Title>
+               <number_in_campaign>[Campaign Battle #05]</number_in_campaign>
+               <battle_title>Last Charge of the 120th</battle_title>
+            </Scenario_Title>
+            <filename>Ride of the 120th (March or Die) #05_Soviet Scenario 6</filename>
+            <win_threshold>Minor Victory</win_threshold>
+            <next_battle_win>Campaign End</next_battle_win>
+            <next_battle_lose>Campaign End</next_battle_lose>
+            <minimum_required_victory>Total Victory</minimum_required_victory>
+            <maximum_allowed_victory>Major Victory</maximum_allowed_victory>
+            <blue_refit>0</blue_refit>
+            <blue_repair_vehicle>0</blue_repair_vehicle>
+            <blue_resupply>0</blue_resupply>
+            <blue_rest>0</blue_rest>
+            <red_refit>0</red_refit>
+            <red_repair_vehicle>0</red_repair_vehicle>
+            <red_resupply>0</red_resupply>
+            <red_rest>0</red_rest>
+         </Campaign_Decision_Block>
+
+      </Campaign>
+      <Campaign>
+
+         <title>NTC 1982 - Training In The Desert</title>
+         <filename>NTC 1982 Training In The Desert</filename>
+         <picture_link>campaignpics/NTC 1982 Training In The Desert.bmp</picture_link>
+         <description>Take command of Company Team B in one of the very early NTC rotations against a crack OPFOR mech force. Play as BLUEFOR vs OPFOR only.</description>
+         <date_range>
+           <earliest_date>19/08/1982</earliest_date>
+           <latest_date>21/08/1982</latest_date>
+         </date_range>
+         <region_list>
+           <region>National Training Center</region>
+         </region_list>
+         <campaign_tree_link>campaignpics/NTC 1982 - Training In The Desert_Tree.png</campaign_tree_link>
+         <game_version>CMCW v1.00 to v1.06</game_version>
+         <Modules_Required>
+         </Modules_Required>
+
+         <Campaign_Decision_Block>
+            <Scenario_Title>
+               <number_in_campaign>[Campaign Battle #00]</number_in_campaign>
+               <battle_title>NTC Decision Point 1</battle_title>
+            </Scenario_Title>
+            <filename>NTC 1982 Training In The Desert #00_NTC_Decision Point_v10</filename>
+            <win_threshold>Total Victory</win_threshold>
+            <next_battle_win>#01</next_battle_win>
+            <next_battle_lose>#02</next_battle_lose>
+            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
+            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
+            <blue_refit>0</blue_refit>
+            <blue_repair_vehicle>0</blue_repair_vehicle>
+            <blue_resupply>0</blue_resupply>
+            <blue_rest>0</blue_rest>
+            <red_refit>0</red_refit>
+            <red_repair_vehicle>0</red_repair_vehicle>
+            <red_resupply>0</red_resupply>
+            <red_rest>0</red_rest>
+         </Campaign_Decision_Block>
+
+         <Campaign_Decision_Block>
+            <Scenario_Title>
+               <number_in_campaign>[Campaign Battle #01]</number_in_campaign>
+               <battle_title>NTC 1A Hasty Attack</battle_title>
+            </Scenario_Title>
+            <filename>NTC 1982 Training In The Desert #01_NTC_DP1A_HASTY ATTACK_v12</filename>
+            <win_threshold>Draw</win_threshold>
+            <next_battle_win>#03</next_battle_win>
+            <next_battle_lose>#04</next_battle_lose>
+            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
+            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
+            <blue_refit>0</blue_refit>
+            <blue_repair_vehicle>0</blue_repair_vehicle>
+            <blue_resupply>0</blue_resupply>
+            <blue_rest>0</blue_rest>
+            <red_refit>0</red_refit>
+            <red_repair_vehicle>0</red_repair_vehicle>
+            <red_resupply>0</red_resupply>
+            <red_rest>0</red_rest>
+         </Campaign_Decision_Block>
+
+         <Campaign_Decision_Block>
+            <Scenario_Title>
+               <number_in_campaign>[Campaign Battle #02]</number_in_campaign>
+               <battle_title>NTC 1B Spoiling attack in Brown Pass</battle_title>
+            </Scenario_Title>
+            <filename>NTC 1982 Training In The Desert #02_NTC_DP1B_Spoiling Attack in Brown Pass_v06</filename>
+            <win_threshold>Draw</win_threshold>
+            <next_battle_win>#03</next_battle_win>
+            <next_battle_lose>#04</next_battle_lose>
+            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
+            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
+            <blue_refit>0</blue_refit>
+            <blue_repair_vehicle>0</blue_repair_vehicle>
+            <blue_resupply>0</blue_resupply>
+            <blue_rest>0</blue_rest>
+            <red_refit>0</red_refit>
+            <red_repair_vehicle>0</red_repair_vehicle>
+            <red_resupply>0</red_resupply>
+            <red_rest>0</red_rest>
+         </Campaign_Decision_Block>
+
+         <Campaign_Decision_Block>
+            <Scenario_Title>
+               <number_in_campaign>[Campaign Battle #03]</number_in_campaign>
+               <battle_title>NTC 1Ab PURSUIT</battle_title>
+            </Scenario_Title>
+            <filename>NTC 1982 Training In The Desert #03_NTC_DP1_b_PURSUIT_v08</filename>
+            <win_threshold>Total Victory</win_threshold>
+            <next_battle_win>#04</next_battle_win>
+            <next_battle_lose>#04</next_battle_lose>
+            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
+            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
+            <blue_refit>0</blue_refit>
+            <blue_repair_vehicle>0</blue_repair_vehicle>
+            <blue_resupply>20</blue_resupply>
+            <blue_rest>0</blue_rest>
+            <red_refit>20</red_refit>
+            <red_repair_vehicle>20</red_repair_vehicle>
+            <red_resupply>20</red_resupply>
+            <red_rest>0</red_rest>
+         </Campaign_Decision_Block>
+
+         <Campaign_Decision_Block>
+            <Scenario_Title>
+               <number_in_campaign>[Campaign Battle #04]</number_in_campaign>
+               <battle_title>Decision Point Defend In Zone</battle_title>
+            </Scenario_Title>
+            <filename>NTC 1982 Training In The Desert #04_NTC_Decision Point 2_v03</filename>
+            <win_threshold>Major Victory</win_threshold>
+            <next_battle_win>#05</next_battle_win>
+            <next_battle_lose>#06</next_battle_lose>
+            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
+            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
+            <blue_refit>0</blue_refit>
+            <blue_repair_vehicle>0</blue_repair_vehicle>
+            <blue_resupply>0</blue_resupply>
+            <blue_rest>0</blue_rest>
+            <red_refit>0</red_refit>
+            <red_repair_vehicle>0</red_repair_vehicle>
+            <red_resupply>0</red_resupply>
+            <red_rest>0</red_rest>
+         </Campaign_Decision_Block>
+
+         <Campaign_Decision_Block>
+            <Scenario_Title>
+               <number_in_campaign>[Campaign Battle #05]</number_in_campaign>
+               <battle_title>Delay in Red Pass</battle_title>
+            </Scenario_Title>
+            <filename>NTC 1982 Training In The Desert #05_NTC_2A_Delay_v16</filename>
+            <win_threshold>Minor Victory</win_threshold>
+            <next_battle_win>Campaign End</next_battle_win>
+            <next_battle_lose>Campaign End</next_battle_lose>
+            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
+            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
+            <blue_refit>75</blue_refit>
+            <blue_repair_vehicle>75</blue_repair_vehicle>
+            <blue_resupply>50</blue_resupply>
+            <blue_rest>100</blue_rest>
+            <red_refit>0</red_refit>
+            <red_repair_vehicle>0</red_repair_vehicle>
+            <red_resupply>0</red_resupply>
+            <red_rest>0</red_rest>
+         </Campaign_Decision_Block>
+
+         <Campaign_Decision_Block>
+            <Scenario_Title>
+               <number_in_campaign>[Campaign Battle #06]</number_in_campaign>
+               <battle_title>Counterattack in Red Pass</battle_title>
+            </Scenario_Title>
+            <filename>NTC 1982 Training In The Desert #06_NTC_2B_CounterAttack_v03</filename>
+            <win_threshold>Tactical Victory</win_threshold>
+            <next_battle_win>Campaign End</next_battle_win>
+            <next_battle_lose>Campaign End</next_battle_lose>
+            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
+            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
+            <blue_refit>75</blue_refit>
+            <blue_repair_vehicle>75</blue_repair_vehicle>
+            <blue_resupply>50</blue_resupply>
+            <blue_rest>100</blue_rest>
+            <red_refit>0</red_refit>
+            <red_repair_vehicle>0</red_repair_vehicle>
+            <red_resupply>0</red_resupply>
+            <red_rest>0</red_rest>
+         </Campaign_Decision_Block>
+
+      </Campaign>
+      <Campaign>
+
+         <title>US Campaign (1979)</title>
+         <filename>Lions of Cantigny (1979)</filename>
+         <picture_link>campaignpics/Lions of Cantigny (1979).bmp</picture_link>
+         <description>US Campaign 1979 stop the Soviet advance between Fulda and Hanau</description>
+         <date_range>
+           <earliest_date>15/08/1979</earliest_date>
+           <latest_date>19/08/1979</latest_date>
+         </date_range>
+         <region_list>
+           <region>Germany</region>
+         </region_list>
+         <campaign_tree_link>campaignpics/US Campaign (1979)_Tree.png</campaign_tree_link>
+         <game_version>CMCW v1.00 to v1.06</game_version>
+         <Modules_Required>
+         </Modules_Required>
+
+         <Campaign_Decision_Block>
+            <Scenario_Title>
+               <number_in_campaign>[Campaign Battle #00]</number_in_campaign>
+               <battle_title>Racing the Moon &apos;79</battle_title>
+            </Scenario_Title>
+            <filename>Lions of Cantigny (1979) #00_US Scenario 1Av79</filename>
+            <win_threshold>Minor Victory</win_threshold>
+            <next_battle_win>#01</next_battle_win>
+            <next_battle_lose>#02</next_battle_lose>
+            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
+            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
+            <blue_refit>0</blue_refit>
+            <blue_repair_vehicle>0</blue_repair_vehicle>
+            <blue_resupply>0</blue_resupply>
+            <blue_rest>0</blue_rest>
+            <red_refit>0</red_refit>
+            <red_repair_vehicle>0</red_repair_vehicle>
+            <red_resupply>0</red_resupply>
+            <red_rest>0</red_rest>
+         </Campaign_Decision_Block>
+
+         <Campaign_Decision_Block>
+            <Scenario_Title>
+               <number_in_campaign>[Campaign Battle #01]</number_in_campaign>
+               <battle_title>Bumps in the Dark &apos;79</battle_title>
+            </Scenario_Title>
+            <filename>Lions of Cantigny (1979) #01_US Scenario 1Bv79</filename>
+            <win_threshold>Minor Victory</win_threshold>
+            <next_battle_win>#03</next_battle_win>
+            <next_battle_lose>#04</next_battle_lose>
+            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
+            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
+            <blue_refit>0</blue_refit>
+            <blue_repair_vehicle>0</blue_repair_vehicle>
+            <blue_resupply>20</blue_resupply>
+            <blue_rest>0</blue_rest>
+            <red_refit>0</red_refit>
+            <red_repair_vehicle>0</red_repair_vehicle>
+            <red_resupply>0</red_resupply>
+            <red_rest>0</red_rest>
+         </Campaign_Decision_Block>
+
+         <Campaign_Decision_Block>
+            <Scenario_Title>
+               <number_in_campaign>[Campaign Battle #02]</number_in_campaign>
+               <battle_title>They Own the Night &apos;79</battle_title>
+            </Scenario_Title>
+            <filename>Lions of Cantigny (1979) #02_US Scenario 1Cv79</filename>
+            <win_threshold>Minor Victory</win_threshold>
+            <next_battle_win>#04</next_battle_win>
+            <next_battle_lose>Campaign End</next_battle_lose>
+            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
+            <maximum_allowed_victory>Total Defeat</maximum_allowed_victory>
+            <blue_refit>0</blue_refit>
+            <blue_repair_vehicle>0</blue_repair_vehicle>
+            <blue_resupply>20</blue_resupply>
+            <blue_rest>0</blue_rest>
+            <red_refit>0</red_refit>
+            <red_repair_vehicle>0</red_repair_vehicle>
+            <red_resupply>0</red_resupply>
+            <red_rest>0</red_rest>
+         </Campaign_Decision_Block>
+
+         <Campaign_Decision_Block>
+            <Scenario_Title>
+               <number_in_campaign>[Campaign Battle #03]</number_in_campaign>
+               <battle_title>Bear in the Sun &apos;79</battle_title>
+            </Scenario_Title>
+            <filename>Lions of Cantigny (1979) #03_US Scenario 2Av79</filename>
+            <win_threshold>Minor Victory</win_threshold>
+            <next_battle_win>#06</next_battle_win>
+            <next_battle_lose>#05</next_battle_lose>
+            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
+            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
+            <blue_refit>30</blue_refit>
+            <blue_repair_vehicle>30</blue_repair_vehicle>
+            <blue_resupply>50</blue_resupply>
+            <blue_rest>90</blue_rest>
+            <red_refit>0</red_refit>
+            <red_repair_vehicle>0</red_repair_vehicle>
+            <red_resupply>0</red_resupply>
+            <red_rest>0</red_rest>
+         </Campaign_Decision_Block>
+
+         <Campaign_Decision_Block>
+            <Scenario_Title>
+               <number_in_campaign>[Campaign Battle #04]</number_in_campaign>
+               <battle_title>Bear in the Mist &apos;79</battle_title>
+            </Scenario_Title>
+            <filename>Lions of Cantigny (1979) #04_US Scenario 2Bv79</filename>
+            <win_threshold>Minor Victory</win_threshold>
+            <next_battle_win>#06</next_battle_win>
+            <next_battle_lose>#05</next_battle_lose>
+            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
+            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
+            <blue_refit>50</blue_refit>
+            <blue_repair_vehicle>50</blue_repair_vehicle>
+            <blue_resupply>20</blue_resupply>
+            <blue_rest>30</blue_rest>
+            <red_refit>0</red_refit>
+            <red_repair_vehicle>0</red_repair_vehicle>
+            <red_resupply>0</red_resupply>
+            <red_rest>0</red_rest>
+         </Campaign_Decision_Block>
+
+         <Campaign_Decision_Block>
+            <Scenario_Title>
+               <number_in_campaign>[Campaign Battle #05]</number_in_campaign>
+               <battle_title>A Hill to Die On &apos;79</battle_title>
+            </Scenario_Title>
+            <filename>Lions of Cantigny (1979) #05_US Scenario 3v79</filename>
+            <win_threshold>Draw</win_threshold>
+            <next_battle_win>#08</next_battle_win>
+            <next_battle_lose>Campaign End</next_battle_lose>
+            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
+            <maximum_allowed_victory>Total Defeat</maximum_allowed_victory>
+            <blue_refit>50</blue_refit>
+            <blue_repair_vehicle>50</blue_repair_vehicle>
+            <blue_resupply>50</blue_resupply>
+            <blue_rest>50</blue_rest>
+            <red_refit>0</red_refit>
+            <red_repair_vehicle>0</red_repair_vehicle>
+            <red_resupply>0</red_resupply>
+            <red_rest>0</red_rest>
+         </Campaign_Decision_Block>
+
+         <Campaign_Decision_Block>
+            <Scenario_Title>
+               <number_in_campaign>[Campaign Battle #06]</number_in_campaign>
+               <battle_title>Dollbach Heights &apos;79</battle_title>
+            </Scenario_Title>
+            <filename>Lions of Cantigny (1979) #06_US Scenario 4v79</filename>
+            <win_threshold>Minor Victory</win_threshold>
+            <next_battle_win>#07</next_battle_win>
+            <next_battle_lose>#08</next_battle_lose>
+            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
+            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
+            <blue_refit>0</blue_refit>
+            <blue_repair_vehicle>0</blue_repair_vehicle>
+            <blue_resupply>20</blue_resupply>
+            <blue_rest>30</blue_rest>
+            <red_refit>0</red_refit>
+            <red_repair_vehicle>0</red_repair_vehicle>
+            <red_resupply>0</red_resupply>
+            <red_rest>0</red_rest>
+         </Campaign_Decision_Block>
+
+         <Campaign_Decision_Block>
+            <Scenario_Title>
+               <number_in_campaign>[Campaign Battle #07]</number_in_campaign>
+               <battle_title>Route 66 &apos;79</battle_title>
+            </Scenario_Title>
+            <filename>Lions of Cantigny (1979) #07_US Scenario 5Av79</filename>
+            <win_threshold>Tactical Victory</win_threshold>
+            <next_battle_win>#09</next_battle_win>
+            <next_battle_lose>Campaign End</next_battle_lose>
+            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
+            <maximum_allowed_victory>Draw</maximum_allowed_victory>
+            <blue_refit>75</blue_refit>
+            <blue_repair_vehicle>75</blue_repair_vehicle>
+            <blue_resupply>75</blue_resupply>
+            <blue_rest>75</blue_rest>
+            <red_refit>0</red_refit>
+            <red_repair_vehicle>0</red_repair_vehicle>
+            <red_resupply>0</red_resupply>
+            <red_rest>0</red_rest>
+         </Campaign_Decision_Block>
+
+         <Campaign_Decision_Block>
+            <Scenario_Title>
+               <number_in_campaign>[Campaign Battle #08]</number_in_campaign>
+               <battle_title>Route 66B &apos;79</battle_title>
+            </Scenario_Title>
+            <filename>Lions of Cantigny (1979) #08_US Scenario 5Bv79</filename>
+            <win_threshold>Tactical Victory</win_threshold>
+            <next_battle_win>#09</next_battle_win>
+            <next_battle_lose>Campaign End</next_battle_lose>
+            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
+            <maximum_allowed_victory>Minor Defeat</maximum_allowed_victory>
+            <blue_refit>50</blue_refit>
+            <blue_repair_vehicle>50</blue_repair_vehicle>
+            <blue_resupply>50</blue_resupply>
+            <blue_rest>75</blue_rest>
+            <red_refit>0</red_refit>
+            <red_repair_vehicle>0</red_repair_vehicle>
+            <red_resupply>0</red_resupply>
+            <red_rest>0</red_rest>
+         </Campaign_Decision_Block>
+
+         <Campaign_Decision_Block>
+            <Scenario_Title>
+               <number_in_campaign>[Campaign Battle #09]</number_in_campaign>
+               <battle_title>Bad and Worse &apos;79</battle_title>
+            </Scenario_Title>
+            <filename>Lions of Cantigny (1979) #09_US Scenario 6v79</filename>
+            <win_threshold>Minor Victory</win_threshold>
+            <next_battle_win>#10</next_battle_win>
+            <next_battle_lose>Campaign End</next_battle_lose>
+            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
+            <maximum_allowed_victory>Minor Victory</maximum_allowed_victory>
+            <blue_refit>25</blue_refit>
+            <blue_repair_vehicle>25</blue_repair_vehicle>
+            <blue_resupply>25</blue_resupply>
+            <blue_rest>75</blue_rest>
+            <red_refit>0</red_refit>
+            <red_repair_vehicle>0</red_repair_vehicle>
+            <red_resupply>0</red_resupply>
+            <red_rest>0</red_rest>
+         </Campaign_Decision_Block>
+
+         <Campaign_Decision_Block>
+            <Scenario_Title>
+               <number_in_campaign>[Campaign Battle #10]</number_in_campaign>
+               <battle_title>The Citadel &apos;79</battle_title>
+            </Scenario_Title>
+            <filename>Lions of Cantigny (1979) #10_US Scenario 7v79</filename>
+            <win_threshold>Minor Victory</win_threshold>
+            <next_battle_win>#11</next_battle_win>
+            <next_battle_lose>Campaign End</next_battle_lose>
+            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
+            <maximum_allowed_victory>Minor Victory</maximum_allowed_victory>
+            <blue_refit>100</blue_refit>
+            <blue_repair_vehicle>100</blue_repair_vehicle>
+            <blue_resupply>100</blue_resupply>
+            <blue_rest>100</blue_rest>
+            <red_refit>0</red_refit>
+            <red_repair_vehicle>0</red_repair_vehicle>
+            <red_resupply>0</red_resupply>
+            <red_rest>0</red_rest>
+         </Campaign_Decision_Block>
+
+         <Campaign_Decision_Block>
+            <Scenario_Title>
+               <number_in_campaign>[Campaign Battle #11]</number_in_campaign>
+               <battle_title>Unhook The Leash &apos;79</battle_title>
+            </Scenario_Title>
+            <filename>Lions of Cantigny (1979) #11_US Scenario 8v79</filename>
+            <win_threshold>Tactical Victory</win_threshold>
+            <next_battle_win>Campaign End</next_battle_win>
+            <next_battle_lose>Campaign End</next_battle_lose>
+            <minimum_required_victory>Total Victory</minimum_required_victory>
+            <maximum_allowed_victory>Major Victory</maximum_allowed_victory>
+            <blue_refit>0</blue_refit>
+            <blue_repair_vehicle>0</blue_repair_vehicle>
+            <blue_resupply>0</blue_resupply>
+            <blue_rest>0</blue_rest>
+            <red_refit>0</red_refit>
+            <red_repair_vehicle>0</red_repair_vehicle>
+            <red_resupply>0</red_resupply>
+            <red_rest>0</red_rest>
+         </Campaign_Decision_Block>
+
+      </Campaign>
+      <Campaign>
+
+         <title>Soviet Campaign - Standard</title>
+         <filename>Ride of the 120th</filename>
+         <picture_link>campaignpics/Ride of the 120th.bmp</picture_link>
+         <description>Based on Soviet 120th MRR advance to Alsfeld in the first 48 hours of the war</description>
+         <date_range>
+           <earliest_date>14/08/1980</earliest_date>
+           <latest_date>14/08/1982</latest_date>
+         </date_range>
+         <region_list>
+           <region>Germany</region>
+         </region_list>
+         <campaign_tree_link>campaignpics/Soviet Campaign - Standard_Tree.png</campaign_tree_link>
+         <game_version>CMCW v1.00 to v1.06</game_version>
+         <Modules_Required>
+         </Modules_Required>
+
+         <Campaign_Decision_Block>
+            <Scenario_Title>
+               <number_in_campaign>[Campaign Battle #00]</number_in_campaign>
+               <battle_title>Greatest Dawn</battle_title>
+            </Scenario_Title>
+            <filename>Ride of the 120th #00_Soviet Scenario 1</filename>
+            <win_threshold>Minor Victory</win_threshold>
+            <next_battle_win>#01</next_battle_win>
+            <next_battle_lose>#02</next_battle_lose>
+            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
+            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
+            <blue_refit>0</blue_refit>
+            <blue_repair_vehicle>0</blue_repair_vehicle>
+            <blue_resupply>0</blue_resupply>
+            <blue_rest>0</blue_rest>
+            <red_refit>0</red_refit>
+            <red_repair_vehicle>0</red_repair_vehicle>
+            <red_resupply>20</red_resupply>
+            <red_rest>20</red_rest>
+         </Campaign_Decision_Block>
+
+         <Campaign_Decision_Block>
+            <Scenario_Title>
+               <number_in_campaign>[Campaign Battle #01]</number_in_campaign>
+               <battle_title>The Cauldron</battle_title>
+            </Scenario_Title>
+            <filename>Ride of the 120th #01_Soviet Scenario 2</filename>
+            <win_threshold>Tactical Victory</win_threshold>
+            <next_battle_win>#03</next_battle_win>
+            <next_battle_lose>#04</next_battle_lose>
+            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
+            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
+            <blue_refit>0</blue_refit>
+            <blue_repair_vehicle>0</blue_repair_vehicle>
+            <blue_resupply>0</blue_resupply>
+            <blue_rest>0</blue_rest>
+            <red_refit>10</red_refit>
+            <red_repair_vehicle>10</red_repair_vehicle>
+            <red_resupply>20</red_resupply>
+            <red_rest>20</red_rest>
+         </Campaign_Decision_Block>
+
+         <Campaign_Decision_Block>
+            <Scenario_Title>
+               <number_in_campaign>[Campaign Battle #02]</number_in_campaign>
+               <battle_title>The Cauldron</battle_title>
+            </Scenario_Title>
+            <filename>Ride of the 120th #02_Soviet Scenario 2A</filename>
+            <win_threshold>Tactical Victory</win_threshold>
+            <next_battle_win>#03</next_battle_win>
+            <next_battle_lose>Campaign End</next_battle_lose>
+            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
+            <maximum_allowed_victory>Major Defeat</maximum_allowed_victory>
+            <blue_refit>0</blue_refit>
+            <blue_repair_vehicle>0</blue_repair_vehicle>
+            <blue_resupply>0</blue_resupply>
+            <blue_rest>0</blue_rest>
+            <red_refit>0</red_refit>
+            <red_repair_vehicle>0</red_repair_vehicle>
+            <red_resupply>20</red_resupply>
+            <red_rest>20</red_rest>
+         </Campaign_Decision_Block>
+
+         <Campaign_Decision_Block>
+            <Scenario_Title>
+               <number_in_campaign>[Campaign Battle #03]</number_in_campaign>
+               <battle_title>Nuke and Bypass</battle_title>
+            </Scenario_Title>
+            <filename>Ride of the 120th #03_Soviet Scenario 3</filename>
+            <win_threshold>Minor Victory</win_threshold>
+            <next_battle_win>#05</next_battle_win>
+            <next_battle_lose>#06</next_battle_lose>
+            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
+            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
+            <blue_refit>0</blue_refit>
+            <blue_repair_vehicle>0</blue_repair_vehicle>
+            <blue_resupply>0</blue_resupply>
+            <blue_rest>0</blue_rest>
+            <red_refit>20</red_refit>
+            <red_repair_vehicle>20</red_repair_vehicle>
+            <red_resupply>30</red_resupply>
+            <red_rest>30</red_rest>
+         </Campaign_Decision_Block>
+
+         <Campaign_Decision_Block>
+            <Scenario_Title>
+               <number_in_campaign>[Campaign Battle #04]</number_in_campaign>
+               <battle_title>Nuke and Bypass</battle_title>
+            </Scenario_Title>
+            <filename>Ride of the 120th #04_Soviet Scenario 3A</filename>
+            <win_threshold>Minor Victory</win_threshold>
+            <next_battle_win>#05</next_battle_win>
+            <next_battle_lose>Campaign End</next_battle_lose>
+            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
+            <maximum_allowed_victory>Major Defeat</maximum_allowed_victory>
+            <blue_refit>0</blue_refit>
+            <blue_repair_vehicle>0</blue_repair_vehicle>
+            <blue_resupply>0</blue_resupply>
+            <blue_rest>0</blue_rest>
+            <red_refit>10</red_refit>
+            <red_repair_vehicle>10</red_repair_vehicle>
+            <red_resupply>20</red_resupply>
+            <red_rest>30</red_rest>
+         </Campaign_Decision_Block>
+
+         <Campaign_Decision_Block>
+            <Scenario_Title>
+               <number_in_campaign>[Campaign Battle #05]</number_in_campaign>
+               <battle_title>Valley of the Headhunters</battle_title>
+            </Scenario_Title>
+            <filename>Ride of the 120th #05_Soviet Scenario 4</filename>
+            <win_threshold>Minor Victory</win_threshold>
+            <next_battle_win>#07</next_battle_win>
+            <next_battle_lose>#08</next_battle_lose>
+            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
+            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
+            <blue_refit>0</blue_refit>
+            <blue_repair_vehicle>0</blue_repair_vehicle>
+            <blue_resupply>0</blue_resupply>
+            <blue_rest>0</blue_rest>
+            <red_refit>20</red_refit>
+            <red_repair_vehicle>20</red_repair_vehicle>
+            <red_resupply>30</red_resupply>
+            <red_rest>30</red_rest>
+         </Campaign_Decision_Block>
+
+         <Campaign_Decision_Block>
+            <Scenario_Title>
+               <number_in_campaign>[Campaign Battle #06]</number_in_campaign>
+               <battle_title>Valley of the Headhunters</battle_title>
+            </Scenario_Title>
+            <filename>Ride of the 120th #06_Soviet Scenario 4A</filename>
+            <win_threshold>Minor Victory</win_threshold>
+            <next_battle_win>#07</next_battle_win>
+            <next_battle_lose>Campaign End</next_battle_lose>
+            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
+            <maximum_allowed_victory>Minor Defeat</maximum_allowed_victory>
+            <blue_refit>0</blue_refit>
+            <blue_repair_vehicle>0</blue_repair_vehicle>
+            <blue_resupply>0</blue_resupply>
+            <blue_rest>0</blue_rest>
+            <red_refit>10</red_refit>
+            <red_repair_vehicle>10</red_repair_vehicle>
+            <red_resupply>20</red_resupply>
+            <red_rest>30</red_rest>
+         </Campaign_Decision_Block>
+
+         <Campaign_Decision_Block>
+            <Scenario_Title>
+               <number_in_campaign>[Campaign Battle #07]</number_in_campaign>
+               <battle_title>Pebble in My Shoe</battle_title>
+            </Scenario_Title>
+            <filename>Ride of the 120th #07_Soviet Scenario 5</filename>
+            <win_threshold>Tactical Victory</win_threshold>
+            <next_battle_win>#09</next_battle_win>
+            <next_battle_lose>Campaign End</next_battle_lose>
+            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
+            <maximum_allowed_victory>Minor Victory</maximum_allowed_victory>
+            <blue_refit>0</blue_refit>
+            <blue_repair_vehicle>0</blue_repair_vehicle>
+            <blue_resupply>0</blue_resupply>
+            <blue_rest>0</blue_rest>
+            <red_refit>20</red_refit>
+            <red_repair_vehicle>20</red_repair_vehicle>
+            <red_resupply>30</red_resupply>
+            <red_rest>30</red_rest>
+         </Campaign_Decision_Block>
+
+         <Campaign_Decision_Block>
+            <Scenario_Title>
+               <number_in_campaign>[Campaign Battle #08]</number_in_campaign>
+               <battle_title>Pebble in My Shoe</battle_title>
+            </Scenario_Title>
+            <filename>Ride of the 120th #08_Soviet Scenario 5A</filename>
+            <win_threshold>Tactical Victory</win_threshold>
+            <next_battle_win>#09</next_battle_win>
+            <next_battle_lose>Campaign End</next_battle_lose>
+            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
+            <maximum_allowed_victory>Minor Defeat</maximum_allowed_victory>
+            <blue_refit>0</blue_refit>
+            <blue_repair_vehicle>0</blue_repair_vehicle>
+            <blue_resupply>0</blue_resupply>
+            <blue_rest>0</blue_rest>
+            <red_refit>10</red_refit>
+            <red_repair_vehicle>10</red_repair_vehicle>
+            <red_resupply>20</red_resupply>
+            <red_rest>30</red_rest>
+         </Campaign_Decision_Block>
+
+         <Campaign_Decision_Block>
+            <Scenario_Title>
+               <number_in_campaign>[Campaign Battle #09]</number_in_campaign>
+               <battle_title>Last Charge of the 120th</battle_title>
+            </Scenario_Title>
+            <filename>Ride of the 120th #09_Soviet Scenario 6</filename>
+            <win_threshold>Minor Victory</win_threshold>
+            <next_battle_win>Campaign End</next_battle_win>
+            <next_battle_lose>Campaign End</next_battle_lose>
+            <minimum_required_victory>Total Victory</minimum_required_victory>
+            <maximum_allowed_victory>Major Victory</maximum_allowed_victory>
+            <blue_refit>0</blue_refit>
+            <blue_repair_vehicle>0</blue_repair_vehicle>
+            <blue_resupply>0</blue_resupply>
+            <blue_rest>0</blue_rest>
+            <red_refit>0</red_refit>
+            <red_repair_vehicle>0</red_repair_vehicle>
+            <red_resupply>0</red_resupply>
+            <red_rest>0</red_rest>
+         </Campaign_Decision_Block>
+
+      </Campaign>
+   </Campaign_List>
+</Campaign_Listing>

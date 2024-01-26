@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="Listing_Layout.xsl" ?>
+
+<Scenario_Listing>
+
+   <Scenario_List>
+
+   <containing_campaign>CMFR The Battle of Tukums</containing_campaign>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #03]</number_in_campaign>
+         <battle_title>Unleashed</battle_title>
+      </Title>
+      <filename>FR The Battle of Tukums #03_3AUnleashed</filename>
+      <picture_link>scenpics/FR The Battle of Tukums3.bmp</picture_link>
+      <battle_type>Meeting Engagement</battle_type>
+      <description>Mission 3. The Soviets counterattack while Stratchwitz orders his main force to Riga.</description>
+      <date>20/08/1944</date>
+      <time_of_day>11:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>03:00</length>
+      <battle_size>Huge</battle_size>
+      <Map_Size>
+         <map_area>6.4 Sq. km</map_area>
+         <map_width>3200 m</map_width>
+         <map_depth>2000 m</map_depth>
+      </Map_Size>
+      <region>Eastern Europe</region>
+      <environment>Rough</environment>
+      <weather>Clear</weather>
+      <temperature>Hot</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>pre-release CMRT v2.10</game_version>
+      <Modules_Required>
+         <module1>Fire and Rubble</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>10</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #02]</number_in_campaign>
+         <battle_title>Tukums</battle_title>
+      </Title>
+      <filename>FR The Battle of Tukums #02_2BTukums</filename>
+      <picture_link>scenpics/FR The Battle of Tukums2.bmp</picture_link>
+      <battle_type>Axis Attack</battle_type>
+      <description>Mission 2. Strachwitz leads the east bank force into the heart of Tukums.</description>
+      <date>20/08/1944</date>
+      <time_of_day>08:30</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>02:30</length>
+      <battle_size>Huge</battle_size>
+      <Map_Size>
+         <map_area>2.944 Sq. km</map_area>
+         <map_width>1472 m</map_width>
+         <map_depth>2000 m</map_depth>
+      </Map_Size>
+      <region>Eastern Europe</region>
+      <environment>Rough</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>pre-release CMRT v2.10</game_version>
+      <Modules_Required>
+         <module1>Fire and Rubble</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>10</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #01]</number_in_campaign>
+         <battle_title>Tukums</battle_title>
+      </Title>
+      <filename>FR The Battle of Tukums #01_2ATukums</filename>
+      <picture_link>scenpics/FR The Battle of Tukums1.bmp</picture_link>
+      <battle_type>Axis Attack</battle_type>
+      <description>Mission 2. Strachwitz leads the east bank force into the heart of Tukums.</description>
+      <date>20/08/1944</date>
+      <time_of_day>08:30</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>02:30</length>
+      <battle_size>Huge</battle_size>
+      <Map_Size>
+         <map_area>2.944 Sq. km</map_area>
+         <map_width>1472 m</map_width>
+         <map_depth>2000 m</map_depth>
+      </Map_Size>
+      <region>Eastern Europe</region>
+      <environment>Rough</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>pre-release CMRT v2.10</game_version>
+      <Modules_Required>
+         <module1>Fire and Rubble</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>10</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #00]</number_in_campaign>
+         <battle_title>Planes, Trains and Panzers</battle_title>
+      </Title>
+      <filename>FR The Battle of Tukums #00_1Planes Trains and Panzers</filename>
+      <picture_link>scenpics/FR The Battle of Tukums0.bmp</picture_link>
+      <battle_type>Axis Attack</battle_type>
+      <description>Mission 1. SS Panzer Brigade Gross pushes up the west bank towards the Tukums train station.</description>
+      <date>20/08/1944</date>
+      <time_of_day>08:30</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>02:00</length>
+      <battle_size>Large</battle_size>
+      <Map_Size>
+         <map_area>1.6 Sq. km</map_area>
+         <map_width>800 m</map_width>
+         <map_depth>2000 m</map_depth>
+      </Map_Size>
+      <region>Eastern Europe</region>
+      <environment>Rough</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>pre-release CMRT v2.10</game_version>
+      <Modules_Required>
+         <module1>Fire and Rubble</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>9</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #04]</number_in_campaign>
+         <battle_title>Unleashed</battle_title>
+      </Title>
+      <filename>FR The Battle of Tukums #04_3BUnleashed</filename>
+      <picture_link>scenpics/FR The Battle of Tukums4.bmp</picture_link>
+      <battle_type>Meeting Engagement</battle_type>
+      <description>Mission 3. The Soviets counterattack while Stratchwitz orders his main force to Riga.</description>
+      <date>20/08/1944</date>
+      <time_of_day>11:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>03:00</length>
+      <battle_size>Huge</battle_size>
+      <Map_Size>
+         <map_area>6.4 Sq. km</map_area>
+         <map_width>3200 m</map_width>
+         <map_depth>2000 m</map_depth>
+      </Map_Size>
+      <region>Eastern Europe</region>
+      <environment>Rough</environment>
+      <weather>Clear</weather>
+      <temperature>Hot</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>pre-release CMRT v2.10</game_version>
+      <Modules_Required>
+         <module1>Fire and Rubble</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>10</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #05]</number_in_campaign>
+         <battle_title>Unleashed</battle_title>
+      </Title>
+      <filename>FR The Battle of Tukums #05_3CUnleashed</filename>
+      <picture_link>scenpics/FR The Battle of Tukums5.bmp</picture_link>
+      <battle_type>Meeting Engagement</battle_type>
+      <description>Mission 3. The Soviets counterattack while Stratchwitz orders his main force to Riga.</description>
+      <date>20/08/1944</date>
+      <time_of_day>11:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>03:00</length>
+      <battle_size>Huge</battle_size>
+      <Map_Size>
+         <map_area>6.4 Sq. km</map_area>
+         <map_width>3200 m</map_width>
+         <map_depth>2000 m</map_depth>
+      </Map_Size>
+      <region>Eastern Europe</region>
+      <environment>Rough</environment>
+      <weather>Clear</weather>
+      <temperature>Hot</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>pre-release CMRT v2.10</game_version>
+      <Modules_Required>
+         <module1>Fire and Rubble</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>10</size_modifier>
+   </Scenario>
+
+   </Scenario_List>
+</Scenario_Listing>

@@ -1,0 +1,3253 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="Listing_Layout.xsl" ?>
+
+<Scenario_Listing>
+
+   <Scenario_List>
+
+   <Scenario>
+      <Title>
+         <battle_title>Probe At Stavelot</battle_title>
+      </Title>
+      <filename>CMFB SN13 Probe at Stavelot</filename>
+      <picture_link>scenpics/CMFB SN13 Probe at Stavelot.bmp</picture_link>
+      <battle_type>Axis Assault</battle_type>
+      <description>The Amis attempt to capture the Bridge</description>
+      <date>18/12/1944</date>
+      <time_of_day>15:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:00</length>
+      <battle_size>Large</battle_size>
+      <Map_Size>
+         <map_area>8.433 Sq. km</map_area>
+         <map_width>3904 m</map_width>
+         <map_depth>2160 m</map_depth>
+      </Map_Size>
+      <region>Ardennes</region>
+      <environment>Town</environment>
+      <weather>Overcast</weather>
+      <temperature>Cold</temperature>
+      <ground_condition>Muddy</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFB v2.03</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>stavelot</mod_tag>
+         <mod_tag>ardennes</mod_tag>
+         <mod_tag>muddy</mod_tag>
+      </Mod_Tags>
+      <size_modifier>8</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Chaos at Ferme Diedenhove</battle_title>
+      </Title>
+      <filename>Chaos at Ferme Diedenhove</filename>
+      <picture_link>scenpics/Chaos at Ferme Diedenhove.bmp</picture_link>
+      <battle_type>Axis Assault</battle_type>
+      <description>Stop the German advance towards the Meuse River.</description>
+      <date>17/12/1944</date>
+      <time_of_day>10:15</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:10</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>1.081 Sq. km</map_area>
+         <map_width>1008 m</map_width>
+         <map_depth>1072 m</map_depth>
+      </Map_Size>
+      <region>Ardennes</region>
+      <environment>Forest</environment>
+      <weather>Clear</weather>
+      <temperature>Freezing</temperature>
+      <ground_condition>Light Snow</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFB v1.00 to v1.01</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Chewin them up at Cheneux</battle_title>
+      </Title>
+      <filename>CMFB SN20 Chewin them up at Cheneux</filename>
+      <picture_link>scenpics/CMFB SN20 Chewin them up at Cheneux.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>Ami Counter Attack</description>
+      <date>20/12/1944</date>
+      <time_of_day>14:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:30</length>
+      <battle_size>Huge</battle_size>
+      <Map_Size>
+         <map_area>0.879 Sq. km</map_area>
+         <map_width>1056 m</map_width>
+         <map_depth>832 m</map_depth>
+      </Map_Size>
+      <region>Ardennes</region>
+      <environment>Open</environment>
+      <weather>Heavy Fog</weather>
+      <temperature>Cold</temperature>
+      <ground_condition>Muddy</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFB v2.03</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>ardennes</mod_tag>
+         <mod_tag>muddy</mod_tag>
+      </Mod_Tags>
+      <size_modifier>10</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Last Man Out</battle_title>
+      </Title>
+      <filename>Last Man Out</filename>
+      <picture_link>scenpics/Last Man Out.bmp</picture_link>
+      <battle_type>Axis Probe</battle_type>
+      <description>Remnants of the 17th Armored Infantry Bn attempt to escape from Herrlisheim</description>
+      <date>18/01/1945</date>
+      <time_of_day>09:00</time_of_day>
+      <part_of_day>Dawn</part_of_day>
+      <length>00:35</length>
+      <battle_size>Small</battle_size>
+      <Map_Size>
+         <map_area>0.506 Sq. km</map_area>
+         <map_width>736 m</map_width>
+         <map_depth>688 m</map_depth>
+      </Map_Size>
+      <region>France</region>
+      <environment>Town</environment>
+      <weather>Heavy Fog</weather>
+      <temperature>Freezing</temperature>
+      <ground_condition>Patchy Snow</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFB v1.00 to v1.01</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>3</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Custer&apos;s Stand</battle_title>
+      </Title>
+      <filename>Custer&apos;s Stand</filename>
+      <picture_link>scenpics/Custer&apos;s Stand.bmp</picture_link>
+      <battle_type>Axis Attack</battle_type>
+      <description>232nd Infantry Regiment holds the line during Operation Sonnenwende</description>
+      <date>17/01/1945</date>
+      <time_of_day>08:30</time_of_day>
+      <part_of_day>Dawn</part_of_day>
+      <length>02:00</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>7.755 Sq. km</map_area>
+         <map_width>2592 m</map_width>
+         <map_depth>2992 m</map_depth>
+      </Map_Size>
+      <region>France</region>
+      <environment>Town</environment>
+      <weather>Heavy Fog</weather>
+      <temperature>Freezing</temperature>
+      <ground_condition>Patchy Snow</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFB v1.00 to v1.01</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>sessenheim</mod_tag>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Mission to Maas V2</battle_title>
+      </Title>
+      <filename>Mission to Maas V2</filename>
+      <picture_link>scenpics/Mission to Maas V2.bmp</picture_link>
+      <battle_type>Meeting Engagement</battle_type>
+      <description>Pieper&apos;s Kampfgruppe Marches West       Axis v Allies or H2H</description>
+      <date>19/12/1944</date>
+      <time_of_day>08:30</time_of_day>
+      <part_of_day>Dawn</part_of_day>
+      <length>04:00</length>
+      <battle_size>Huge</battle_size>
+      <Map_Size>
+         <map_area>9.472 Sq. km</map_area>
+         <map_width>4000 m</map_width>
+         <map_depth>2368 m</map_depth>
+      </Map_Size>
+      <region>Ardennes</region>
+      <environment>Hills</environment>
+      <weather>Mist</weather>
+      <temperature>Cold</temperature>
+      <ground_condition>Patchy Snow</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFB v2.01 to v2.02</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>10</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Auvere Station</battle_title>
+      </Title>
+      <filename>Auvere Station</filename>
+      <picture_link>scenpics/Auvere Station.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>The marshes and hamlets around Auvere station are about to get busy with opposing forces hammering at each other. Play as Germans vs AI or US vs AI.</description>
+      <date>24/10/1944</date>
+      <time_of_day>07:30</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>02:30</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>3.582 Sq. km</map_area>
+         <map_width>2112 m</map_width>
+         <map_depth>1696 m</map_depth>
+      </Map_Size>
+      <region>Holland</region>
+      <environment>Forest</environment>
+      <weather>Clear</weather>
+      <temperature>Cool</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFB v2.03</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Murky Merlscheid</battle_title>
+      </Title>
+      <filename>CMFB SN01 Murky Merlscheid</filename>
+      <picture_link>scenpics/CMFB SN01 Murky Merlscheid.bmp</picture_link>
+      <battle_type>Axis Attack</battle_type>
+      <description>1st clash for the Fallshirmjager</description>
+      <date>16/12/1944</date>
+      <time_of_day>09:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:45</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>0.205 Sq. km</map_area>
+         <map_width>512 m</map_width>
+         <map_depth>400 m</map_depth>
+      </Map_Size>
+      <region>Ardennes</region>
+      <environment>Open</environment>
+      <weather>Heavy Fog</weather>
+      <temperature>Freezing</temperature>
+      <ground_condition>Patchy Snow</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFB v2.03</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>germany</mod_tag>
+         <mod_tag>snow</mod_tag>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Duel In The Mist</battle_title>
+      </Title>
+      <filename>CMFB SN15 Duel in the Mist</filename>
+      <picture_link>scenpics/CMFB SN15 Duel in the Mist.bmp</picture_link>
+      <battle_type>Axis Assault</battle_type>
+      <description>Peiper continues West</description>
+      <date>19/12/1944</date>
+      <time_of_day>07:00</time_of_day>
+      <part_of_day>Dawn</part_of_day>
+      <length>02:30</length>
+      <battle_size>Large</battle_size>
+      <Map_Size>
+         <map_area>3.126 Sq. km</map_area>
+         <map_width>1776 m</map_width>
+         <map_depth>1760 m</map_depth>
+      </Map_Size>
+      <region>Ardennes</region>
+      <environment>Hills</environment>
+      <weather>Mist</weather>
+      <temperature>Cold</temperature>
+      <ground_condition>Muddy</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFB v2.03</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>stoumont</mod_tag>
+         <mod_tag>ardennes</mod_tag>
+         <mod_tag>muddy</mod_tag>
+      </Mod_Tags>
+      <size_modifier>9</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Action on Lanzerath Ridge</battle_title>
+      </Title>
+      <filename>Lanzerath Ridge</filename>
+      <picture_link>scenpics/Lanzerath Ridge.bmp</picture_link>
+      <battle_type>Axis Attack</battle_type>
+      <description>A US Intellegence and Reconnaissance Platoon of the 394th Infantry attempt to delay the German advance (playable in all modes)</description>
+      <date>16/12/1944</date>
+      <time_of_day>10:30</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:30</length>
+      <battle_size>Small</battle_size>
+      <Map_Size>
+         <map_area>0.244 Sq. km</map_area>
+         <map_width>544 m</map_width>
+         <map_depth>448 m</map_depth>
+      </Map_Size>
+      <region>Ardennes</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Cold</temperature>
+      <ground_condition>Light Snow</ground_condition>
+      <early_intel>Allied Force</early_intel>
+      <game_version>CMFB v1.00 to v1.01</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>3</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>A Nasty Surprise</battle_title>
+      </Title>
+      <filename>A Nasty Surprise</filename>
+      <picture_link>scenpics/A Nasty Surprise.bmp</picture_link>
+      <battle_type>Allied Probe</battle_type>
+      <description>US Army units attack two small towns in the Ardennes  (Fictional H2H Only)</description>
+      <date>13/12/1944</date>
+      <time_of_day>07:30</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:20</length>
+      <battle_size>Large</battle_size>
+      <Map_Size>
+         <map_area>1.87 Sq. km</map_area>
+         <map_width>1408 m</map_width>
+         <map_depth>1328 m</map_depth>
+      </Map_Size>
+      <region>Ardennes</region>
+      <environment>Rough</environment>
+      <weather>Overcast</weather>
+      <temperature>Freezing</temperature>
+      <ground_condition>Snow</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFB v1.00 to v1.01</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>rubble</mod_tag>
+      </Mod_Tags>
+      <size_modifier>8</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>TF McGeorge: Ambush at Chenai</battle_title>
+      </Title>
+      <filename>CMFB SN23 Ambush at Chenai</filename>
+      <picture_link>scenpics/CMFB SN23 Ambush at Chenai.bmp</picture_link>
+      <battle_type>Allied Probe</battle_type>
+      <description>30th Division probe towards La Gleize</description>
+      <date>20/12/1944</date>
+      <time_of_day>19:00</time_of_day>
+      <part_of_day>Dusk</part_of_day>
+      <length>01:00</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>5.984 Sq. km</map_area>
+         <map_width>2000 m</map_width>
+         <map_depth>2992 m</map_depth>
+      </Map_Size>
+      <region>Ardennes</region>
+      <environment>Open</environment>
+      <weather>Mist</weather>
+      <temperature>Cold</temperature>
+      <ground_condition>Muddy</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFB v2.03</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>stoumont</mod_tag>
+         <mod_tag>ardennes</mod_tag>
+         <mod_tag>muddy</mod_tag>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Drop Zone P</battle_title>
+      </Title>
+      <filename>DF Drop Zone P</filename>
+      <picture_link>scenpics/DF Drop Zone P.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>March 24 1945: An ad-hoc airborne force attacks German positions amidst the chaos of Operation Varsity&apos;s opening hours. Allied vs AI recommended.</description>
+      <date>24/03/1945</date>
+      <time_of_day>11:30</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:45</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>1.265 Sq. km</map_area>
+         <map_width>1216 m</map_width>
+         <map_depth>1040 m</map_depth>
+      </Map_Size>
+      <region>Germany</region>
+      <environment>Open</environment>
+      <weather>Thick Haze</weather>
+      <temperature>Cold</temperature>
+      <ground_condition>Damp</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFB v2.10</game_version>
+      <Modules_Required>
+         <module1>Downfall</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Trois Is A Crowd</battle_title>
+      </Title>
+      <filename>CMFB SN11 Trois is a Crowd</filename>
+      <picture_link>scenpics/CMFB SN11 Trois is a Crowd.bmp</picture_link>
+      <battle_type>Axis Probe</battle_type>
+      <description>Peipers bridge hunt is thwarted</description>
+      <date>18/12/1944</date>
+      <time_of_day>12:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:30</length>
+      <battle_size>Large</battle_size>
+      <Map_Size>
+         <map_area>5.092 Sq. km</map_area>
+         <map_width>2448 m</map_width>
+         <map_depth>2080 m</map_depth>
+      </Map_Size>
+      <region>Ardennes</region>
+      <environment>Open</environment>
+      <weather>Overcast</weather>
+      <temperature>Cold</temperature>
+      <ground_condition>Muddy</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFB v2.03</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>ardennes</mod_tag>
+         <mod_tag>muddy</mod_tag>
+      </Mod_Tags>
+      <size_modifier>9</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Day of Attrition</battle_title>
+      </Title>
+      <filename>Day of Attrition</filename>
+      <picture_link>scenpics/Day of Attrition.bmp</picture_link>
+      <battle_type>Axis Attack</battle_type>
+      <description>The 753rd Regiment of the 326th Volks Grenadiers launches an all out infantry attack towards Hofen and Monschau on the opening day of the Bulge. Best played as Axis.</description>
+      <date>16/12/1944</date>
+      <time_of_day>10:30</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>03:00</length>
+      <battle_size>Huge</battle_size>
+      <Map_Size>
+         <map_area>8.904 Sq. km</map_area>
+         <map_width>2960 m</map_width>
+         <map_depth>3008 m</map_depth>
+      </Map_Size>
+      <region>Germany</region>
+      <environment>Hills</environment>
+      <weather>Flurries</weather>
+      <temperature>Cold</temperature>
+      <ground_condition>Light Snow</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFB v1.00 to v1.01</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>10</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Whats Up With That No 1B</battle_title>
+      </Title>
+      <filename>Whats Up With That No 1B</filename>
+      <picture_link>scenpics/Whats Up With That No 1B.bmp</picture_link>
+      <battle_type>Axis Attack</battle_type>
+      <description>Waffen SS attack Small Hamlet, 1400, Light Snow, Gentle, Freezing, Patchy Snow, No Intel</description>
+      <date>16/12/1944</date>
+      <time_of_day>14:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:45</length>
+      <battle_size>Small</battle_size>
+      <Map_Size>
+         <map_area>0.16 Sq. km</map_area>
+         <map_width>400 m</map_width>
+         <map_depth>400 m</map_depth>
+      </Map_Size>
+      <region>Ardennes</region>
+      <environment>Forest</environment>
+      <weather>Light Snow</weather>
+      <temperature>Freezing</temperature>
+      <ground_condition>Patchy Snow</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFB v1.00 to v1.01</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>3</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>When Trumpets Fade</battle_title>
+      </Title>
+      <filename>When Trumpets Fade</filename>
+      <picture_link>scenpics/When Trumpets Fade.bmp</picture_link>
+      <battle_type>Allied Probe</battle_type>
+      <description>US Army 28th Infantry Division in the Hurtgen Forest (Allies vs Axis AI only).</description>
+      <date>03/11/1944</date>
+      <time_of_day>16:30</time_of_day>
+      <part_of_day>Dusk</part_of_day>
+      <length>00:30</length>
+      <battle_size>Tiny</battle_size>
+      <Map_Size>
+         <map_area>0.043 Sq. km</map_area>
+         <map_width>208 m</map_width>
+         <map_depth>208 m</map_depth>
+      </Map_Size>
+      <region>Germany</region>
+      <environment>Forest</environment>
+      <weather>Light Rain</weather>
+      <temperature>Cool</temperature>
+      <ground_condition>Muddy</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFB v1.00 to v1.01</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>sarge</mod_tag>
+         <mod_tag>28</mod_tag>
+         <mod_tag>hurtgen</mod_tag>
+         <mod_tag>redhead</mod_tag>
+      </Mod_Tags>
+      <size_modifier>2</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Road to Bastogne</battle_title>
+      </Title>
+      <filename>DF Road to Bastogne</filename>
+      <picture_link>scenpics/DF Road to Bastogne.bmp</picture_link>
+      <battle_type>Axis Attack</battle_type>
+      <description>2nd Panzer Division and 10th Armored (Team Desobry) clash at Noville. PVP or Axis vs AI recommended.</description>
+      <date>19/12/1944</date>
+      <time_of_day>09:30</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:00</length>
+      <battle_size>Large</battle_size>
+      <Map_Size>
+         <map_area>4.219 Sq. km</map_area>
+         <map_width>1968 m</map_width>
+         <map_depth>2144 m</map_depth>
+      </Map_Size>
+      <region>Ardennes</region>
+      <environment>Open</environment>
+      <weather>Light Fog</weather>
+      <temperature>Cold</temperature>
+      <ground_condition>Muddy</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFB v2.10</game_version>
+      <Modules_Required>
+         <module1>Downfall</module1>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>noville</mod_tag>
+      </Mod_Tags>
+      <size_modifier>8</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Another Road To Wiltz V4</battle_title>
+      </Title>
+      <filename>Another Road To Wiltz V4</filename>
+      <picture_link>scenpics/Another Road To Wiltz V4.bmp</picture_link>
+      <battle_type>Meeting Engagement</battle_type>
+      <description>The CMBO Classic Expanded and Revisioned!  Best Play Allied Player vs AI   Features Multiple AI Plans for Both Sides  See Designer Notes for Axis Player and H2H Game Play</description>
+      <date>19/12/1944</date>
+      <time_of_day>08:30</time_of_day>
+      <part_of_day>Dawn</part_of_day>
+      <length>02:00</length>
+      <battle_size>Large</battle_size>
+      <Map_Size>
+         <map_area>3.84 Sq. km</map_area>
+         <map_width>2400 m</map_width>
+         <map_depth>1600 m</map_depth>
+      </Map_Size>
+      <region>Ardennes</region>
+      <environment>Rough</environment>
+      <weather>Light Snow</weather>
+      <temperature>Freezing</temperature>
+      <ground_condition>Patchy Snow</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFB v1.02 to v2.00</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>bastogne</mod_tag>
+         <mod_tag>wiltz</mod_tag>
+      </Mod_Tags>
+      <size_modifier>9</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>TF McGeorge: Assaulting Festung La Gleize</battle_title>
+      </Title>
+      <filename>CMFB SN33 Festung La Gleize</filename>
+      <picture_link>scenpics/CMFB SN33 Festung La Gleize.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>30th Division assaults La Gleize</description>
+      <date>22/12/1944</date>
+      <time_of_day>14:00</time_of_day>
+      <part_of_day>Dusk</part_of_day>
+      <length>02:00</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>5.984 Sq. km</map_area>
+         <map_width>2000 m</map_width>
+         <map_depth>2992 m</map_depth>
+      </Map_Size>
+      <region>Ardennes</region>
+      <environment>Open</environment>
+      <weather>Light Fog</weather>
+      <temperature>Cold</temperature>
+      <ground_condition>Muddy</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFB v2.03</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>stoumont</mod_tag>
+         <mod_tag>ardennes</mod_tag>
+         <mod_tag>muddy</mod_tag>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Fortress Grosshau</battle_title>
+      </Title>
+      <filename>Fortress Grosshau</filename>
+      <picture_link>scenpics/Fortress Grosshau.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>Infantry Company C with tank support attempts to break out of the Huertgen Forest and attack the fortified hamlet of Grosshau. Best played as Allied</description>
+      <date>01/12/1944</date>
+      <time_of_day>13:45</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:00</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>0.535 Sq. km</map_area>
+         <map_width>880 m</map_width>
+         <map_depth>608 m</map_depth>
+      </Map_Size>
+      <region>Germany</region>
+      <environment>Village</environment>
+      <weather>Hazy</weather>
+      <temperature>Cool</temperature>
+      <ground_condition>Damp</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFB v1.00 to v1.01</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Small City</battle_title>
+      </Title>
+      <filename>Quick-Dead 3b</filename>
+      <picture_link>scenpics/Quick-Dead 3b.bmp</picture_link>
+      <battle_type>Meeting Engagement</battle_type>
+      <description>MAPS SIZE 512 X 304   Blue Setup South West   Red Setup North East   Objectives 2 Maj VP&apos;s   Best Play 30 Minutes</description>
+      <date>10/12/1944</date>
+      <time_of_day>14:30</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:15</length>
+      <battle_size>Small</battle_size>
+      <Map_Size>
+         <map_area>0.131 Sq. km</map_area>
+         <map_width>480 m</map_width>
+         <map_depth>272 m</map_depth>
+      </Map_Size>
+      <region>France</region>
+      <environment>City</environment>
+      <weather>Blizzard</weather>
+      <temperature>Freezing</temperature>
+      <ground_condition>Light Snow</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFB v1.00 to v1.01</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>2</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Dealership - U.S.A.</battle_title>
+      </Title>
+      <filename>Dealership_USA</filename>
+      <picture_link>scenpics/Dealership_USA.bmp</picture_link>
+      <battle_type>Allied Assault</battle_type>
+      <description>Nothing but all vehicles and support assets. - Rien que les véhicules et les éléments d&apos;appui.</description>
+      <date>01/01/1945</date>
+      <time_of_day>11:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:30</length>
+      <battle_size>Tiny</battle_size>
+      <Map_Size>
+         <map_area>0.043 Sq. km</map_area>
+         <map_width>208 m</map_width>
+         <map_depth>208 m</map_depth>
+      </Map_Size>
+      <region>Ardennes</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Cold</temperature>
+      <ground_condition>Snow</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFB v1.00 to v1.01</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>2</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Hot Time in Hatten</battle_title>
+      </Title>
+      <filename>Hot Time In Hatten</filename>
+      <picture_link>scenpics/Hot Time In Hatten.bmp</picture_link>
+      <battle_type>Axis Assault</battle_type>
+      <description>25th Panzergrenadier Division tries to force a way through the Maginot Line</description>
+      <date>09/01/1945</date>
+      <time_of_day>09:15</time_of_day>
+      <part_of_day>Dawn</part_of_day>
+      <length>02:00</length>
+      <battle_size>Huge</battle_size>
+      <Map_Size>
+         <map_area>5.984 Sq. km</map_area>
+         <map_width>2992 m</map_width>
+         <map_depth>2000 m</map_depth>
+      </Map_Size>
+      <region>France</region>
+      <environment>Town</environment>
+      <weather>Light Snow</weather>
+      <temperature>Freezing</temperature>
+      <ground_condition>Patchy Snow</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFB v1.00 to v1.01</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>hatten</mod_tag>
+      </Mod_Tags>
+      <size_modifier>10</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Breakthrough at Buchholz</battle_title>
+      </Title>
+      <filename>CMFB SN04 Breakthrough at Buchholz</filename>
+      <picture_link>scenpics/CMFB SN04 Breakthrough at Buchholz.bmp</picture_link>
+      <battle_type>Axis Attack</battle_type>
+      <description>Clear the Buchholz area for the Spitze</description>
+      <date>17/12/1944</date>
+      <time_of_day>04:30</time_of_day>
+      <part_of_day>Dawn</part_of_day>
+      <length>02:00</length>
+      <battle_size>Large</battle_size>
+      <Map_Size>
+         <map_area>2.806 Sq. km</map_area>
+         <map_width>1808 m</map_width>
+         <map_depth>1552 m</map_depth>
+      </Map_Size>
+      <region>Ardennes</region>
+      <environment>Open</environment>
+      <weather>Flurries</weather>
+      <temperature>Freezing</temperature>
+      <ground_condition>Patchy Snow</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFB v2.03</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>ardennes</mod_tag>
+         <mod_tag>snow</mod_tag>
+      </Mod_Tags>
+      <size_modifier>9</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Baraque de Fraiture </battle_title>
+      </Title>
+      <filename>Baraque de Fraiture</filename>
+      <picture_link>scenpics/Baraque de Fraiture.bmp</picture_link>
+      <battle_type>Axis Attack</battle_type>
+      <description>US rear guard elements from 7AD, CCB, 106 stragglers and 82ABD at Lierneux are trying to slow down the point units of 2 SS PzD on their way to Baraque de Fraiture</description>
+      <date>23/12/1944</date>
+      <time_of_day>08:20</time_of_day>
+      <part_of_day>Dawn</part_of_day>
+      <length>02:00</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>1.701 Sq. km</map_area>
+         <map_width>1168 m</map_width>
+         <map_depth>1456 m</map_depth>
+      </Map_Size>
+      <region>Ardennes</region>
+      <environment>Village</environment>
+      <weather>Light Fog</weather>
+      <temperature>Cold</temperature>
+      <ground_condition>Light Snow</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFB v1.00 to v1.01</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Storming Stavelot</battle_title>
+      </Title>
+      <filename>CMFB SN10 Storming Stavelot</filename>
+      <picture_link>scenpics/CMFB SN10 Storming Stavelot.bmp</picture_link>
+      <battle_type>Axis Assault</battle_type>
+      <description>KG Peiper strikes for the bridge at Stavelot</description>
+      <date>18/12/1944</date>
+      <time_of_day>07:00</time_of_day>
+      <part_of_day>Dawn</part_of_day>
+      <length>02:30</length>
+      <battle_size>Large</battle_size>
+      <Map_Size>
+         <map_area>8.433 Sq. km</map_area>
+         <map_width>3904 m</map_width>
+         <map_depth>2160 m</map_depth>
+      </Map_Size>
+      <region>Ardennes</region>
+      <environment>Town</environment>
+      <weather>Overcast</weather>
+      <temperature>Cold</temperature>
+      <ground_condition>Muddy</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFB v2.03</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>stavelot</mod_tag>
+         <mod_tag>ardennes</mod_tag>
+         <mod_tag>muddy</mod_tag>
+      </Mod_Tags>
+      <size_modifier>9</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Metal on Metal (Comet vs Panther)</battle_title>
+      </Title>
+      <filename>DF Metal on Metal (Comet vs Panther)</filename>
+      <picture_link>scenpics/DF Metal on Metal (Comet vs Panther).bmp</picture_link>
+      <battle_type>Meeting Engagement</battle_type>
+      <description>A large armoured meeting engagement on rolling German farmland. Ahistorical.</description>
+      <date>27/04/1945</date>
+      <time_of_day>14:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:30</length>
+      <battle_size>Large</battle_size>
+      <Map_Size>
+         <map_area>4.217 Sq. km</map_area>
+         <map_width>2272 m</map_width>
+         <map_depth>1856 m</map_depth>
+      </Map_Size>
+      <region>Germany</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Cool</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFB v2.10</game_version>
+      <Modules_Required>
+         <module1>Downfall</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>9</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>To Verdenne and Victory!</battle_title>
+      </Title>
+      <filename>To Verdenne &amp; Victory</filename>
+      <picture_link>scenpics/To Verdenne &amp; Victory.bmp</picture_link>
+      <battle_type>Meeting Engagement</battle_type>
+      <description>84 Infantry Division and 116 Panzer Division Contest the Village of Verdenne on Christmas Eve 1944</description>
+      <date>24/12/1944</date>
+      <time_of_day>07:00</time_of_day>
+      <part_of_day>Dawn</part_of_day>
+      <length>02:30</length>
+      <battle_size>Huge</battle_size>
+      <Map_Size>
+         <map_area>6.016 Sq. km</map_area>
+         <map_width>2000 m</map_width>
+         <map_depth>3008 m</map_depth>
+      </Map_Size>
+      <region>Ardennes</region>
+      <environment>Village</environment>
+      <weather>Clear</weather>
+      <temperature>Cold</temperature>
+      <ground_condition>Light Snow</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFB v1.00 to v1.01</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>10</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Time of a Hero</battle_title>
+      </Title>
+      <filename>DF Time of a Hero</filename>
+      <picture_link>scenpics/DF Time of a Hero.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>Corporal Arndt earns the Distinguished Conduct Medal. Allies vs AI recommended.</description>
+      <date>29/04/1945</date>
+      <time_of_day>04:00</time_of_day>
+      <part_of_day>Night</part_of_day>
+      <length>00:55</length>
+      <battle_size>Small</battle_size>
+      <Map_Size>
+         <map_area>0.245 Sq. km</map_area>
+         <map_width>464 m</map_width>
+         <map_depth>528 m</map_depth>
+      </Map_Size>
+      <region>Holland</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Cold</temperature>
+      <ground_condition>Damp</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFB v2.10</game_version>
+      <Modules_Required>
+         <module1>Downfall</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>3</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>The barometer points to storm</battle_title>
+      </Title>
+      <filename>The Barometer Points To Storm</filename>
+      <picture_link>scenpics/The Barometer Points To Storm.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>Gorbi island is occupied by fallschirmjäger and a battalion of US Army is on the mission to take the island. Can be played as Allied vs AI, Axis vs AI and H2H.</description>
+      <date>23/11/1944</date>
+      <time_of_day>08:15</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>02:30</length>
+      <battle_size>Large</battle_size>
+      <Map_Size>
+         <map_area>1.636 Sq. km</map_area>
+         <map_width>1088 m</map_width>
+         <map_depth>1504 m</map_depth>
+      </Map_Size>
+      <region>Holland</region>
+      <environment>Open</environment>
+      <weather>Hazy</weather>
+      <temperature>Cold</temperature>
+      <ground_condition>Patchy Snow</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFB v2.03</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>9</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Sanity Test Dwonfall</battle_title>
+      </Title>
+      <filename>SanityTest</filename>
+      <picture_link>scenpics/SanityTest.bmp</picture_link>
+      <battle_type>Meeting Engagement</battle_type>
+      <description>Not defined!</description>
+      <date>01/05/1945</date>
+      <time_of_day>11:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:30</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>1.152 Sq. km</map_area>
+         <map_width>800 m</map_width>
+         <map_depth>1440 m</map_depth>
+      </Map_Size>
+      <region>Germany</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Cold</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFB v2.10</game_version>
+      <Modules_Required>
+         <module1>Downfall</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>5</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Bridge over the River Kall</battle_title>
+      </Title>
+      <filename>Bridge over the River Kall</filename>
+      <picture_link>scenpics/Bridge over the River Kall.bmp</picture_link>
+      <battle_type>Axis Probe</battle_type>
+      <description>Panzer Aufklarungs Abteilung 116 Windhund probed toward the Kall River Bridge (Axis vs AI)</description>
+      <date>06/11/1944</date>
+      <time_of_day>21:30</time_of_day>
+      <part_of_day>Night</part_of_day>
+      <length>00:20</length>
+      <battle_size>Tiny</battle_size>
+      <Map_Size>
+         <map_area>0.043 Sq. km</map_area>
+         <map_width>208 m</map_width>
+         <map_depth>208 m</map_depth>
+      </Map_Size>
+      <region>Germany</region>
+      <environment>Forest</environment>
+      <weather>Overcast</weather>
+      <temperature>Cold</temperature>
+      <ground_condition>Muddy</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFB v1.00 to v1.01</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>kall</mod_tag>
+         <mod_tag>windhund</mod_tag>
+      </Mod_Tags>
+      <size_modifier>1</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>No Prizes at Noupre</battle_title>
+      </Title>
+      <filename>CMFB SN26 No Prizes at Noupre</filename>
+      <picture_link>scenpics/CMFB SN26 No Prizes at Noupre.bmp</picture_link>
+      <battle_type>Axis Attack</battle_type>
+      <description>Hansen clears the heights above Trois Ponts</description>
+      <date>21/12/1944</date>
+      <time_of_day>11:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>02:00</length>
+      <battle_size>Large</battle_size>
+      <Map_Size>
+         <map_area>5.092 Sq. km</map_area>
+         <map_width>2448 m</map_width>
+         <map_depth>2080 m</map_depth>
+      </Map_Size>
+      <region>Ardennes</region>
+      <environment>Open</environment>
+      <weather>Overcast</weather>
+      <temperature>Cold</temperature>
+      <ground_condition>Muddy</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFB v2.03</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>ardennes</mod_tag>
+         <mod_tag>muddy</mod_tag>
+      </Mod_Tags>
+      <size_modifier>9</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Trouble with Siegfried</battle_title>
+      </Title>
+      <filename>Trouble with Siegfried</filename>
+      <picture_link>scenpics/Trouble with Siegfried.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>Forward US elements meet the Westwall. Best played as U.S.</description>
+      <date>07/12/1944</date>
+      <time_of_day>11:45</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:40</length>
+      <battle_size>Tiny</battle_size>
+      <Map_Size>
+         <map_area>0.043 Sq. km</map_area>
+         <map_width>208 m</map_width>
+         <map_depth>208 m</map_depth>
+      </Map_Size>
+      <region>Holland</region>
+      <environment>Forest</environment>
+      <weather>Heavy Rain</weather>
+      <temperature>Cold</temperature>
+      <ground_condition>Wet</ground_condition>
+      <early_intel>Allied Force</early_intel>
+      <game_version>CMFB v1.00 to v1.01</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>2</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Parroy Forest (FR)</battle_title>
+      </Title>
+      <filename>Parroy-Forest-FR</filename>
+      <picture_link>scenpics/Parroy-Forest-FR.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>Emparez-vous du carrefour qui a été la clé de voûte du dispositif défensif allemand à l&apos;ouest de la trouée de Saverne</description>
+      <date>09/10/1944</date>
+      <time_of_day>06:30</time_of_day>
+      <part_of_day>Dawn</part_of_day>
+      <length>01:00</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>0.492 Sq. km</map_area>
+         <map_width>992 m</map_width>
+         <map_depth>496 m</map_depth>
+      </Map_Size>
+      <region>France</region>
+      <environment>Forest</environment>
+      <weather>Mist</weather>
+      <temperature>Cold</temperature>
+      <ground_condition>Muddy</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFB v1.00 to v1.01</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Exploitation</battle_title>
+      </Title>
+      <filename>DF Exploitation</filename>
+      <picture_link>scenpics/DF Exploitation.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>British/Canadian forces attempt to exploit a breakthrough. 27 Feb 1945. Play either side, Allied against AI preferred.</description>
+      <date>27/02/1945</date>
+      <time_of_day>07:45</time_of_day>
+      <part_of_day>Dawn</part_of_day>
+      <length>01:30</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>1.581 Sq. km</map_area>
+         <map_width>1568 m</map_width>
+         <map_depth>1008 m</map_depth>
+      </Map_Size>
+      <region>Germany</region>
+      <environment>Village</environment>
+      <weather>Hazy</weather>
+      <temperature>Cold</temperature>
+      <ground_condition>Wet</ground_condition>
+      <early_intel>Axis Force</early_intel>
+      <game_version>CMFB v2.10</game_version>
+      <Modules_Required>
+         <module1>Downfall</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Drive Them Out</battle_title>
+      </Title>
+      <filename>Drive Them Out</filename>
+      <picture_link>scenpics/Drive Them Out.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>6th SS Mountain Division holds out in Wingen during Operation Nordwind</description>
+      <date>04/01/1945</date>
+      <time_of_day>13:30</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:00</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>1.091 Sq. km</map_area>
+         <map_width>1136 m</map_width>
+         <map_depth>960 m</map_depth>
+      </Map_Size>
+      <region>France</region>
+      <environment>Hills</environment>
+      <weather>Mist</weather>
+      <temperature>Freezing</temperature>
+      <ground_condition>Light Snow</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFB v1.00 to v1.01</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>wingensurmoder</mod_tag>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Panzer Schlacht Hurtgen</battle_title>
+      </Title>
+      <filename>Panzer Schlacht Hurtgen</filename>
+      <picture_link>scenpics/Panzer Schlacht Hurtgen.bmp</picture_link>
+      <battle_type>Axis Attack</battle_type>
+      <description>play as axis vs AI</description>
+      <date>04/11/1944</date>
+      <time_of_day>14:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:45</length>
+      <battle_size>Small</battle_size>
+      <Map_Size>
+         <map_area>0.102 Sq. km</map_area>
+         <map_width>320 m</map_width>
+         <map_depth>320 m</map_depth>
+      </Map_Size>
+      <region>Germany</region>
+      <environment>Village</environment>
+      <weather>Overcast</weather>
+      <temperature>Cold</temperature>
+      <ground_condition>Wet</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFB v1.00 to v1.01</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>schmidt</mod_tag>
+         <mod_tag>windhund</mod_tag>
+         <mod_tag>707</mod_tag>
+         <mod_tag>28</mod_tag>
+         <mod_tag>redhead</mod_tag>
+      </Mod_Tags>
+      <size_modifier>3</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>A December Morning</battle_title>
+      </Title>
+      <filename>A December Morning</filename>
+      <picture_link>scenpics/A December Morning.bmp</picture_link>
+      <battle_type>Allied Probe</battle_type>
+      <description>A US patrol is tasked with securing the road net in the area of Moulin Marechal.                   Best played as Blue vs AI</description>
+      <date>23/12/1944</date>
+      <time_of_day>10:25</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:20</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>1.405 Sq. km</map_area>
+         <map_width>896 m</map_width>
+         <map_depth>1568 m</map_depth>
+      </Map_Size>
+      <region>Ardennes</region>
+      <environment>Rough</environment>
+      <weather>Overcast</weather>
+      <temperature>Cold</temperature>
+      <ground_condition>Patchy Snow</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFB v1.00 to v1.01</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>stoumont</mod_tag>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>River of Blood</battle_title>
+      </Title>
+      <filename>River of Blood</filename>
+      <picture_link>scenpics/River of Blood.bmp</picture_link>
+      <battle_type>Axis Attack</battle_type>
+      <description>In their drive through Lorraine toward the border of Germany, the Americans seize a bridgehead over the river Nied. Playable in all modes but best played Germans vs AI</description>
+      <date>11/11/1944</date>
+      <time_of_day>15:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:20</length>
+      <battle_size>Small</battle_size>
+      <Map_Size>
+         <map_area>1.29 Sq. km</map_area>
+         <map_width>1280 m</map_width>
+         <map_depth>1008 m</map_depth>
+      </Map_Size>
+      <region>France</region>
+      <environment>Village</environment>
+      <weather>Overcast</weather>
+      <temperature>Cold</temperature>
+      <ground_condition>Muddy</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFB v1.00 to v1.01</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>hansurnied</mod_tag>
+      </Mod_Tags>
+      <size_modifier>4</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>TF McGeorge: Treachery at Les Tcheous</battle_title>
+      </Title>
+      <filename>CMFB SN21 Treachery at Les Tcheous</filename>
+      <picture_link>scenpics/CMFB SN21 Treachery at Les Tcheous.bmp</picture_link>
+      <battle_type>Allied Probe</battle_type>
+      <description>30th Division probe towards La Gleize</description>
+      <date>20/12/1944</date>
+      <time_of_day>14:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:00</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>5.984 Sq. km</map_area>
+         <map_width>2000 m</map_width>
+         <map_depth>2992 m</map_depth>
+      </Map_Size>
+      <region>Ardennes</region>
+      <environment>Open</environment>
+      <weather>Dense Fog</weather>
+      <temperature>Cold</temperature>
+      <ground_condition>Muddy</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFB v2.03</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>stoumont</mod_tag>
+         <mod_tag>ardennes</mod_tag>
+         <mod_tag>muddy</mod_tag>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Breaking The Line</battle_title>
+      </Title>
+      <filename>Breaking The Line</filename>
+      <picture_link>scenpics/Breaking The Line.bmp</picture_link>
+      <battle_type>Meeting Engagement</battle_type>
+      <description>25th Panzergrenadier Division tries to force a way through Hatten on the Maginot Line</description>
+      <date>09/01/1945</date>
+      <time_of_day>08:30</time_of_day>
+      <part_of_day>Dawn</part_of_day>
+      <length>00:15</length>
+      <battle_size>Small</battle_size>
+      <Map_Size>
+         <map_area>0.344 Sq. km</map_area>
+         <map_width>672 m</map_width>
+         <map_depth>512 m</map_depth>
+      </Map_Size>
+      <region>France</region>
+      <environment>Town</environment>
+      <weather>Light Snow</weather>
+      <temperature>Freezing</temperature>
+      <ground_condition>Patchy Snow</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFB v1.00 to v1.01</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>hatten</mod_tag>
+      </Mod_Tags>
+      <size_modifier>2</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>The KG X Factor</battle_title>
+      </Title>
+      <filename>CMFB SN25 KG X Factor</filename>
+      <picture_link>scenpics/CMFB SN25 KG X Factor.bmp</picture_link>
+      <battle_type>Axis Assault</battle_type>
+      <description>Skorzeny&apos;s KG X attempt to cross the Warche at Malmedy</description>
+      <date>21/12/1944</date>
+      <time_of_day>07:30</time_of_day>
+      <part_of_day>Dawn</part_of_day>
+      <length>02:30</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>2.016 Sq. km</map_area>
+         <map_width>1008 m</map_width>
+         <map_depth>2000 m</map_depth>
+      </Map_Size>
+      <region>Ardennes</region>
+      <environment>Open</environment>
+      <weather>Overcast</weather>
+      <temperature>Cold</temperature>
+      <ground_condition>Muddy</ground_condition>
+      <early_intel>Allied Force</early_intel>
+      <game_version>CMFB v2.03</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>germany</mod_tag>
+         <mod_tag>muddy</mod_tag>
+         <mod_tag>malmedy</mod_tag>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>The Road to Wiltz</battle_title>
+      </Title>
+      <filename>CMBO Classic-The Road To Wiltz</filename>
+      <picture_link>scenpics/CMBO Classic-The Road To Wiltz.bmp</picture_link>
+      <battle_type>Meeting Engagement</battle_type>
+      <description>A CMBO Classic!  Play H2H or Against the AI&apos;s Multiple Plans  Time Limit 55 Minutes-Variable. NOTE The Axis Player Should Be Considered the Attacker </description>
+      <date>19/12/1944</date>
+      <time_of_day>15:15</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:55</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>1.016 Sq. km</map_area>
+         <map_width>1008 m</map_width>
+         <map_depth>1008 m</map_depth>
+      </Map_Size>
+      <region>Ardennes</region>
+      <environment>Hills</environment>
+      <weather>Light Snow</weather>
+      <temperature>Freezing</temperature>
+      <ground_condition>Patchy Snow</ground_condition>
+      <early_intel>Allied Force</early_intel>
+      <game_version>CMFB v1.00 to v1.01</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>bastogne</mod_tag>
+         <mod_tag>wiltz</mod_tag>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Hung up at Cheneux</battle_title>
+      </Title>
+      <filename>Hung up at Cheneux</filename>
+      <picture_link>scenpics/Hung up at Cheneux.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>Bitter combat in the bitter cold.                                        Best played as US vs AI, but can also be played as Axis vs AI and H2H.</description>
+      <date>20/12/1944</date>
+      <time_of_day>15:40</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:30</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>2.478 Sq. km</map_area>
+         <map_width>1760 m</map_width>
+         <map_depth>1408 m</map_depth>
+      </Map_Size>
+      <region>Ardennes</region>
+      <environment>Rough</environment>
+      <weather>Overcast</weather>
+      <temperature>Cold</temperature>
+      <ground_condition>Muddy</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFB v1.00 to v1.01</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>stoumont</mod_tag>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Bull-in-gen China Shop</battle_title>
+      </Title>
+      <filename>CMFB SN06 Bullingen China Shop</filename>
+      <picture_link>scenpics/CMFB SN06 Bullingen China Shop.bmp</picture_link>
+      <battle_type>Axis Attack</battle_type>
+      <description>KG Peiper hunts for the Fuel Dump</description>
+      <date>18/12/1944</date>
+      <time_of_day>07:00</time_of_day>
+      <part_of_day>Dawn</part_of_day>
+      <length>02:30</length>
+      <battle_size>Huge</battle_size>
+      <Map_Size>
+         <map_area>9.472 Sq. km</map_area>
+         <map_width>3200 m</map_width>
+         <map_depth>2960 m</map_depth>
+      </Map_Size>
+      <region>Ardennes</region>
+      <environment>Open</environment>
+      <weather>Overcast</weather>
+      <temperature>Cold</temperature>
+      <ground_condition>Patchy Snow</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFB v2.03</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>ardennes</mod_tag>
+         <mod_tag>muddy</mod_tag>
+      </Mod_Tags>
+      <size_modifier>10</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Die Patrouille</battle_title>
+      </Title>
+      <filename>Die Patrouille</filename>
+      <picture_link>scenpics/Die Patrouille.bmp</picture_link>
+      <battle_type>Axis Probe</battle_type>
+      <description>Another stream, another bridge ...</description>
+      <date>17/12/1944</date>
+      <time_of_day>07:35</time_of_day>
+      <part_of_day>Dawn</part_of_day>
+      <length>00:25</length>
+      <battle_size>Tiny</battle_size>
+      <Map_Size>
+         <map_area>0.047 Sq. km</map_area>
+         <map_width>224 m</map_width>
+         <map_depth>208 m</map_depth>
+      </Map_Size>
+      <region>Ardennes</region>
+      <environment>Rough</environment>
+      <weather>Heavy Snow</weather>
+      <temperature>Cold</temperature>
+      <ground_condition>Patchy Snow</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFB v1.00 to v1.01</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>1</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Whats Up With That No 1A</battle_title>
+      </Title>
+      <filename>Whats Up With That No 1A</filename>
+      <picture_link>scenpics/Whats Up With That No 1A.bmp</picture_link>
+      <battle_type>Axis Attack</battle_type>
+      <description>Waffen SS attack Small Hamlet, 1400, Clear, Gentle, Freezing, Damp, Dec 1944, No Intel</description>
+      <date>16/12/1944</date>
+      <time_of_day>14:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:45</length>
+      <battle_size>Small</battle_size>
+      <Map_Size>
+         <map_area>0.16 Sq. km</map_area>
+         <map_width>400 m</map_width>
+         <map_depth>400 m</map_depth>
+      </Map_Size>
+      <region>Ardennes</region>
+      <environment>Forest</environment>
+      <weather>Clear</weather>
+      <temperature>Freezing</temperature>
+      <ground_condition>Damp</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFB v1.00 to v1.01</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>3</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Meijel Mayhem</battle_title>
+      </Title>
+      <filename>Meijel Mayhem</filename>
+      <picture_link>scenpics/Meijel Mayhem.bmp</picture_link>
+      <battle_type>Axis Attack</battle_type>
+      <description>The 7th US Armored Division and the German 9th Panzer Division battle it out in the Peel marshes in October 1944. All modes (Best as Germans vs AI)</description>
+      <date>29/10/1944</date>
+      <time_of_day>10:30</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:20</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>4.716 Sq. km</map_area>
+         <map_width>2704 m</map_width>
+         <map_depth>1744 m</map_depth>
+      </Map_Size>
+      <region>Holland</region>
+      <environment>Open</environment>
+      <weather>Hazy</weather>
+      <temperature>Cold</temperature>
+      <ground_condition>Muddy</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFB v1.00 to v1.01</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>meijel</mod_tag>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Ster Way To Heaven</battle_title>
+      </Title>
+      <filename>CMFB SN18 Ster Way To Heaven</filename>
+      <picture_link>scenpics/CMFB SN18 Ster Way To Heaven.bmp</picture_link>
+      <battle_type>Axis Assault</battle_type>
+      <description>Elements of the LSSAH try to reopen the main supply route to KG Peiper</description>
+      <date>19/12/1944</date>
+      <time_of_day>13:30</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>02:30</length>
+      <battle_size>Huge</battle_size>
+      <Map_Size>
+         <map_area>8.433 Sq. km</map_area>
+         <map_width>3904 m</map_width>
+         <map_depth>2160 m</map_depth>
+      </Map_Size>
+      <region>Ardennes</region>
+      <environment>Town</environment>
+      <weather>Light Fog</weather>
+      <temperature>Cold</temperature>
+      <ground_condition>Muddy</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFB v2.03</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>stavelot</mod_tag>
+         <mod_tag>ardennes</mod_tag>
+         <mod_tag>muddy</mod_tag>
+      </Mod_Tags>
+      <size_modifier>10</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Metal on Metal (Comet vs Panther)</battle_title>
+      </Title>
+      <filename>DF Metal on Metal (Pershing vs Tiger)</filename>
+      <picture_link>scenpics/DF Metal on Metal (Pershing vs Tiger).bmp</picture_link>
+      <battle_type>Meeting Engagement</battle_type>
+      <description>A large armoured meeting engagement on rolling German farmland. Ahistorical.</description>
+      <date>27/04/1945</date>
+      <time_of_day>14:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:30</length>
+      <battle_size>Large</battle_size>
+      <Map_Size>
+         <map_area>4.217 Sq. km</map_area>
+         <map_width>2272 m</map_width>
+         <map_depth>1856 m</map_depth>
+      </Map_Size>
+      <region>Germany</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Cool</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFB v2.10</game_version>
+      <Modules_Required>
+         <module1>Downfall</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>9</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Searching For Gas</battle_title>
+      </Title>
+      <filename>CMFB SN17 Searching for Gas</filename>
+      <picture_link>scenpics/CMFB SN17 Searching for Gas.bmp</picture_link>
+      <battle_type>Axis Probe</battle_type>
+      <description>VorausKompanie conduct recon towards Spa</description>
+      <date>19/12/1944</date>
+      <time_of_day>12:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:45</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>0.934 Sq. km</map_area>
+         <map_width>1024 m</map_width>
+         <map_depth>912 m</map_depth>
+      </Map_Size>
+      <region>Ardennes</region>
+      <environment>Open</environment>
+      <weather>Overcast</weather>
+      <temperature>Cold</temperature>
+      <ground_condition>Muddy</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFB v2.03</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>stoumont</mod_tag>
+         <mod_tag>ardennes</mod_tag>
+         <mod_tag>muddy</mod_tag>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Cavalry Recon</battle_title>
+      </Title>
+      <filename>DF Cavalry Recon</filename>
+      <picture_link>scenpics/DF Cavalry Recon.bmp</picture_link>
+      <battle_type>Allied Probe</battle_type>
+      <description>Troop C, 106th Cavalry Group runs into enemy contact near Munich, Germany (Play as either side, Allied vs AI recommended)</description>
+      <date>23/04/1945</date>
+      <time_of_day>10:30</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:30</length>
+      <battle_size>Small</battle_size>
+      <Map_Size>
+         <map_area>2.719 Sq. km</map_area>
+         <map_width>1808 m</map_width>
+         <map_depth>1504 m</map_depth>
+      </Map_Size>
+      <region>Germany</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Cool</temperature>
+      <ground_condition>Damp</ground_condition>
+      <early_intel>Axis Force</early_intel>
+      <game_version>CMFB v2.10</game_version>
+      <Modules_Required>
+         <module1>Downfall</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>3</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>A War Without Mercy</battle_title>
+      </Title>
+      <filename>A War Without Mercy</filename>
+      <picture_link>scenpics/A War Without Mercy.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>12th Armored Division counterattacks at Herrlisheim.</description>
+      <date>17/01/1945</date>
+      <time_of_day>08:30</time_of_day>
+      <part_of_day>Dawn</part_of_day>
+      <length>02:00</length>
+      <battle_size>Huge</battle_size>
+      <Map_Size>
+         <map_area>11.058 Sq. km</map_area>
+         <map_width>3696 m</map_width>
+         <map_depth>2992 m</map_depth>
+      </Map_Size>
+      <region>France</region>
+      <environment>Open</environment>
+      <weather>Heavy Fog</weather>
+      <temperature>Freezing</temperature>
+      <ground_condition>Patchy Snow</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFB v1.00 to v1.01</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>herrlisheim</mod_tag>
+      </Mod_Tags>
+      <size_modifier>10</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Whats Up With That No 1C</battle_title>
+      </Title>
+      <filename>Whats Up With That No 1C</filename>
+      <picture_link>scenpics/Whats Up With That No 1C.bmp</picture_link>
+      <battle_type>Axis Attack</battle_type>
+      <description>Waffen SS attack Small Hamlet, 0230, Heavy Fog, No Wind, Cold and Muddy, No Intel</description>
+      <date>16/12/1944</date>
+      <time_of_day>02:30</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:45</length>
+      <battle_size>Small</battle_size>
+      <Map_Size>
+         <map_area>0.16 Sq. km</map_area>
+         <map_width>400 m</map_width>
+         <map_depth>400 m</map_depth>
+      </Map_Size>
+      <region>Ardennes</region>
+      <environment>Forest</environment>
+      <weather>Heavy Fog</weather>
+      <temperature>Cold</temperature>
+      <ground_condition>Muddy</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFB v1.00 to v1.01</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>3</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Kicking Coblenz</battle_title>
+      </Title>
+      <filename>CMFB SN31 Kicking Coblenz</filename>
+      <picture_link>scenpics/CMFB SN31 Kicking Coblenz.bmp</picture_link>
+      <battle_type>Axis Assault</battle_type>
+      <description>SG Knittel cling on to Stavelot</description>
+      <date>22/12/1944</date>
+      <time_of_day>13:30</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:00</length>
+      <battle_size>Huge</battle_size>
+      <Map_Size>
+         <map_area>0.578 Sq. km</map_area>
+         <map_width>976 m</map_width>
+         <map_depth>592 m</map_depth>
+      </Map_Size>
+      <region>Ardennes</region>
+      <environment>Town</environment>
+      <weather>Light Snow</weather>
+      <temperature>Cold</temperature>
+      <ground_condition>Muddy</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFB v2.03</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>stavelot</mod_tag>
+         <mod_tag>ardennes</mod_tag>
+         <mod_tag>muddy</mod_tag>
+      </Mod_Tags>
+      <size_modifier>10</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Probing around Poteau</battle_title>
+      </Title>
+      <filename>Probing around Poteau</filename>
+      <picture_link>scenpics/Probing around Poteau.bmp</picture_link>
+      <battle_type>Meeting Engagement</battle_type>
+      <description>Elements of TF Mayes clash with KG Hansen and Commandos near Poteau</description>
+      <date>18/12/1944</date>
+      <time_of_day>08:00</time_of_day>
+      <part_of_day>Dawn</part_of_day>
+      <length>01:00</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>1.166 Sq. km</map_area>
+         <map_width>1104 m</map_width>
+         <map_depth>1056 m</map_depth>
+      </Map_Size>
+      <region>Ardennes</region>
+      <environment>Forest</environment>
+      <weather>Mist</weather>
+      <temperature>Cold</temperature>
+      <ground_condition>Muddy</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFB v1.00 to v1.01</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Borgoumont Bounce</battle_title>
+      </Title>
+      <filename>CMFB SN32 Borgoumont Blitz</filename>
+      <picture_link>scenpics/CMFB SN32 Borgoumont Blitz.bmp</picture_link>
+      <battle_type>Axis Probe</battle_type>
+      <description>KG Peiper thrusts north east from La Gleize</description>
+      <date>22/12/1944</date>
+      <time_of_day>13:00</time_of_day>
+      <part_of_day>Dusk</part_of_day>
+      <length>01:00</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>1.749 Sq. km</map_area>
+         <map_width>1584 m</map_width>
+         <map_depth>1104 m</map_depth>
+      </Map_Size>
+      <region>Ardennes</region>
+      <environment>Open</environment>
+      <weather>Light Snow</weather>
+      <temperature>Cold</temperature>
+      <ground_condition>Muddy</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFB v2.03</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>stoumont</mod_tag>
+         <mod_tag>ardennes</mod_tag>
+         <mod_tag>muddy</mod_tag>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Quick &amp; Dead 11</battle_title>
+      </Title>
+      <filename>Quick &amp; Dead 11</filename>
+      <picture_link>scenpics/Quick &amp; Dead 11.bmp</picture_link>
+      <battle_type>Meeting Engagement</battle_type>
+      <description>MAP SIZE 512 x 400  Blue Setup West   Red Setup East  Objectives 1 Maj VP &amp; 2 Min VP&apos;s   Best Play 30 Min</description>
+      <date>06/12/1944</date>
+      <time_of_day>13:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:15</length>
+      <battle_size>Small</battle_size>
+      <Map_Size>
+         <map_area>0.205 Sq. km</map_area>
+         <map_width>512 m</map_width>
+         <map_depth>400 m</map_depth>
+      </Map_Size>
+      <region>Ardennes</region>
+      <environment>Hills</environment>
+      <weather>Flurries</weather>
+      <temperature>Freezing</temperature>
+      <ground_condition>Snow</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFB v1.00 to v1.01</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>snow</mod_tag>
+         <mod_tag>whitewash</mod_tag>
+      </Mod_Tags>
+      <size_modifier>2</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>NeufMoulin Rouge</battle_title>
+      </Title>
+      <filename>CMFB SN14 Neufmoulin Rouge</filename>
+      <picture_link>scenpics/CMFB SN14 Neufmoulin Rouge.bmp</picture_link>
+      <battle_type>Axis Probe</battle_type>
+      <description>Scouting Route  to Werbomont</description>
+      <date>18/12/1944</date>
+      <time_of_day>22:00</time_of_day>
+      <part_of_day>Night</part_of_day>
+      <length>01:00</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>0.564 Sq. km</map_area>
+         <map_width>928 m</map_width>
+         <map_depth>608 m</map_depth>
+      </Map_Size>
+      <region>Ardennes</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Cold</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFB v2.03</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>ardennes</mod_tag>
+         <mod_tag>muddy</mod_tag>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Stationary at Stavelot Station</battle_title>
+      </Title>
+      <filename>CMFB SN19 Stationary at Stavelot</filename>
+      <picture_link>scenpics/CMFB SN19 Stationary at Stavelot.bmp</picture_link>
+      <battle_type>Axis Assault</battle_type>
+      <description>SG Knittel attempts to secure western Stavelot</description>
+      <date>20/12/1944</date>
+      <time_of_day>08:30</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>02:00</length>
+      <battle_size>Huge</battle_size>
+      <Map_Size>
+         <map_area>2.004 Sq. km</map_area>
+         <map_width>2160 m</map_width>
+         <map_depth>928 m</map_depth>
+      </Map_Size>
+      <region>Ardennes</region>
+      <environment>Town</environment>
+      <weather>Light Fog</weather>
+      <temperature>Cold</temperature>
+      <ground_condition>Muddy</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFB v2.03</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>stavelot</mod_tag>
+         <mod_tag>ardennes</mod_tag>
+         <mod_tag>muddy</mod_tag>
+      </Mod_Tags>
+      <size_modifier>10</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Jabos!</battle_title>
+      </Title>
+      <filename>CMFB SN12 Jabos</filename>
+      <picture_link>scenpics/CMFB SN12 Jabos.bmp</picture_link>
+      <battle_type>Axis Attack</battle_type>
+      <description>Peiper continues his advance</description>
+      <date>18/12/1944</date>
+      <time_of_day>14:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:00</length>
+      <battle_size>Huge</battle_size>
+      <Map_Size>
+         <map_area>2.113 Sq. km</map_area>
+         <map_width>2032 m</map_width>
+         <map_depth>1040 m</map_depth>
+      </Map_Size>
+      <region>Ardennes</region>
+      <environment>Open</environment>
+      <weather>Overcast</weather>
+      <temperature>Cold</temperature>
+      <ground_condition>Muddy</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFB v2.03</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>ardennes</mod_tag>
+         <mod_tag>muddy</mod_tag>
+      </Mod_Tags>
+      <size_modifier>10</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>The objective remains the same</battle_title>
+      </Title>
+      <filename>The Objective Remains The Same</filename>
+      <picture_link>scenpics/The Objective Remains The Same.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>A bridge and Stugs are the objectives in this scenario. The Axis wants to save the stugs and destroy the bridge while the Allies wants to destroy the stugs and save the bridge</description>
+      <date>20/11/1944</date>
+      <time_of_day>09:35</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>02:00</length>
+      <battle_size>Large</battle_size>
+      <Map_Size>
+         <map_area>0.691 Sq. km</map_area>
+         <map_width>720 m</map_width>
+         <map_depth>960 m</map_depth>
+      </Map_Size>
+      <region>Holland</region>
+      <environment>Forest</environment>
+      <weather>Overcast</weather>
+      <temperature>Cool</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFB v2.03</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>9</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Ride on Riede</battle_title>
+      </Title>
+      <filename>DF Ride on Riede</filename>
+      <picture_link>scenpics/DF Ride on Riede.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>British forces attack a town in northern Germany as part of the push to the northern coast.  Best played as Allied.</description>
+      <date>08/04/1945</date>
+      <time_of_day>15:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>02:30</length>
+      <battle_size>Large</battle_size>
+      <Map_Size>
+         <map_area>5.431 Sq. km</map_area>
+         <map_width>2496 m</map_width>
+         <map_depth>2176 m</map_depth>
+      </Map_Size>
+      <region>Germany</region>
+      <environment>Open</environment>
+      <weather>Light Rain</weather>
+      <temperature>Cold</temperature>
+      <ground_condition>Damp</ground_condition>
+      <early_intel>Axis Force</early_intel>
+      <game_version>CMFB v2.10</game_version>
+      <Modules_Required>
+         <module1>Downfall</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>9</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Laying down the Recht</battle_title>
+      </Title>
+      <filename>CMFB SN08 Laying down the Recht</filename>
+      <picture_link>scenpics/CMFB SN08 Laying down the Recht.bmp</picture_link>
+      <battle_type>Axis Probe</battle_type>
+      <description>KG Hansen makes contact </description>
+      <date>18/12/1944</date>
+      <time_of_day>02:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:30</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>3.128 Sq. km</map_area>
+         <map_width>3008 m</map_width>
+         <map_depth>1040 m</map_depth>
+      </Map_Size>
+      <region>Ardennes</region>
+      <environment>Open</environment>
+      <weather>Overcast</weather>
+      <temperature>Cold</temperature>
+      <ground_condition>Muddy</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFB v2.03</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>stavelot</mod_tag>
+         <mod_tag>ardennes</mod_tag>
+         <mod_tag>muddy</mod_tag>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>A Muddy Affair</battle_title>
+      </Title>
+      <filename>A Muddy Affair</filename>
+      <picture_link>scenpics/A Muddy Affair.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>TF Abrams receives heavy flanking fire from Singling during their attack on Bining. Team B launches an improvised attack to deal with it. (All play modes, best Allied vs AI).</description>
+      <date>06/12/1944</date>
+      <time_of_day>10:15</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:10</length>
+      <battle_size>Small</battle_size>
+      <Map_Size>
+         <map_area>1.092 Sq. km</map_area>
+         <map_width>1264 m</map_width>
+         <map_depth>864 m</map_depth>
+      </Map_Size>
+      <region>France</region>
+      <environment>Open</environment>
+      <weather>Overcast</weather>
+      <temperature>Cold</temperature>
+      <ground_condition>Muddy</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFB v1.00 to v1.01</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>singling</mod_tag>
+      </Mod_Tags>
+      <size_modifier>4</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Rittersprung (H2H only)</battle_title>
+      </Title>
+      <filename>Rittersprung H2H</filename>
+      <picture_link>scenpics/Rittersprung H2H.bmp</picture_link>
+      <battle_type>Axis Attack</battle_type>
+      <description>During the initial stage of the Ardennes offensive Axis forces attack to secure crossings over the Our river at Ouren</description>
+      <date>17/12/1944</date>
+      <time_of_day>10:30</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:50</length>
+      <battle_size>Huge</battle_size>
+      <Map_Size>
+         <map_area>8.561 Sq. km</map_area>
+         <map_width>3344 m</map_width>
+         <map_depth>2560 m</map_depth>
+      </Map_Size>
+      <region>Ardennes</region>
+      <environment>Hills</environment>
+      <weather>Mist</weather>
+      <temperature>Cold</temperature>
+      <ground_condition>Wet</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFB v1.02 to v2.00</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>bloody</mod_tag>
+         <mod_tag>bucket</mod_tag>
+         <mod_tag>muddy</mod_tag>
+      </Mod_Tags>
+      <size_modifier>10</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Persistence Prevails</battle_title>
+      </Title>
+      <filename>CMFB SN30 Cheneux Persistence Prevails</filename>
+      <picture_link>scenpics/CMFB SN30 Cheneux Persistence Prevails.bmp</picture_link>
+      <battle_type>Allied Probe</battle_type>
+      <description>Peiper withdrawls from Cheneux</description>
+      <date>21/12/1944</date>
+      <time_of_day>16:30</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:30</length>
+      <battle_size>Huge</battle_size>
+      <Map_Size>
+         <map_area>2.113 Sq. km</map_area>
+         <map_width>2032 m</map_width>
+         <map_depth>1040 m</map_depth>
+      </Map_Size>
+      <region>Ardennes</region>
+      <environment>Open</environment>
+      <weather>Overcast</weather>
+      <temperature>Cold</temperature>
+      <ground_condition>Muddy</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFB v2.03</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>ardennes</mod_tag>
+         <mod_tag>muddy</mod_tag>
+      </Mod_Tags>
+      <size_modifier>10</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Rollbahn D</battle_title>
+      </Title>
+      <filename>RollbahnD</filename>
+      <picture_link>scenpics/RollbahnD.bmp</picture_link>
+      <battle_type>Axis Assault</battle_type>
+      <description>Leibstandarte Assault December 1944</description>
+      <date>16/12/1944</date>
+      <time_of_day>15:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:15</length>
+      <battle_size>Huge</battle_size>
+      <Map_Size>
+         <map_area>1.291 Sq. km</map_area>
+         <map_width>832 m</map_width>
+         <map_depth>1552 m</map_depth>
+      </Map_Size>
+      <region>Ardennes</region>
+      <environment>Hills</environment>
+      <weather>Light Fog</weather>
+      <temperature>Freezing</temperature>
+      <ground_condition>Light Snow</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFB v2.03</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>germany</mod_tag>
+         <mod_tag>stoumont</mod_tag>
+         <mod_tag>muddy</mod_tag>
+         <mod_tag>sherman</mod_tag>
+      </Mod_Tags>
+      <size_modifier>8</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Liberation</battle_title>
+      </Title>
+      <filename>DF Liberation</filename>
+      <picture_link>scenpics/DF Liberation.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>Royal Canadian Dragoons liberate a small Dutch village. Play as either side. If played vs AI, playing as Allied recommended.</description>
+      <date>14/04/1945</date>
+      <time_of_day>09:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:45</length>
+      <battle_size>Tiny</battle_size>
+      <Map_Size>
+         <map_area>0.762 Sq. km</map_area>
+         <map_width>1360 m</map_width>
+         <map_depth>560 m</map_depth>
+      </Map_Size>
+      <region>Holland</region>
+      <environment>Village</environment>
+      <weather>Clear</weather>
+      <temperature>Cool</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Allied Force</early_intel>
+      <game_version>CMFB v2.10</game_version>
+      <Modules_Required>
+         <module1>Downfall</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>3</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Wacht am Rhein 1</battle_title>
+      </Title>
+      <filename>!WachtAmRhein-1</filename>
+      <picture_link>scenpics/!WachtAmRhein-1.bmp</picture_link>
+      <battle_type>Axis Attack</battle_type>
+      <description>Not defined!</description>
+      <date>02/12/1944</date>
+      <time_of_day>09:30</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:20</length>
+      <battle_size>Large</battle_size>
+      <Map_Size>
+         <map_area>1.845 Sq. km</map_area>
+         <map_width>1696 m</map_width>
+         <map_depth>1088 m</map_depth>
+      </Map_Size>
+      <region>Ardennes</region>
+      <environment>Open</environment>
+      <weather>Overcast</weather>
+      <temperature>Cold</temperature>
+      <ground_condition>Light Snow</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFB v1.00 to v1.01</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>8</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>TF Lovelady:Closing the door</battle_title>
+      </Title>
+      <filename>Closing the Door</filename>
+      <picture_link>scenpics/Closing the Door.bmp</picture_link>
+      <battle_type>Allied Probe</battle_type>
+      <description>TF Lovelady probes Peipers rearguard</description>
+      <date>20/12/1944</date>
+      <time_of_day>16:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:30</length>
+      <battle_size>Large</battle_size>
+      <Map_Size>
+         <map_area>5.092 Sq. km</map_area>
+         <map_width>2448 m</map_width>
+         <map_depth>2080 m</map_depth>
+      </Map_Size>
+      <region>Ardennes</region>
+      <environment>Open</environment>
+      <weather>Overcast</weather>
+      <temperature>Cold</temperature>
+      <ground_condition>Muddy</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFB v2.03</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>ardennes</mod_tag>
+         <mod_tag>muddy</mod_tag>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Katz und Maus</battle_title>
+      </Title>
+      <filename>CMFB SN35 Katz und Maus</filename>
+      <picture_link>scenpics/CMFB SN35 Katz und Maus.bmp</picture_link>
+      <battle_type>Meeting Engagement</battle_type>
+      <description>Peiper marches back East</description>
+      <date>24/12/1944</date>
+      <time_of_day>23:50</time_of_day>
+      <part_of_day>Night</part_of_day>
+      <length>02:30</length>
+      <battle_size>Huge</battle_size>
+      <Map_Size>
+         <map_area>5.024 Sq. km</map_area>
+         <map_width>2512 m</map_width>
+         <map_depth>2000 m</map_depth>
+      </Map_Size>
+      <region>Ardennes</region>
+      <environment>Forest</environment>
+      <weather>Overcast</weather>
+      <temperature>Cold</temperature>
+      <ground_condition>Light Snow</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFB v2.03</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>10</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Leaving Lanzerath</battle_title>
+      </Title>
+      <filename>CMFB SN02 Leaving Lanzerath</filename>
+      <picture_link>scenpics/CMFB SN02 Leaving Lanzerath.bmp</picture_link>
+      <battle_type>Axis Probe</battle_type>
+      <description>9./Regiment 3./Fallshirmjager Division attack on Lanzerath</description>
+      <date>14/12/1944</date>
+      <time_of_day>14:30</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:30</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>2.304 Sq. km</map_area>
+         <map_width>1440 m</map_width>
+         <map_depth>1600 m</map_depth>
+      </Map_Size>
+      <region>Ardennes</region>
+      <environment>Hills</environment>
+      <weather>Light Fog</weather>
+      <temperature>Freezing</temperature>
+      <ground_condition>Patchy Snow</ground_condition>
+      <early_intel>Axis Force</early_intel>
+      <game_version>CMFB v2.03</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>germany</mod_tag>
+         <mod_tag>snow</mod_tag>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Minen The Gap</battle_title>
+      </Title>
+      <filename>CMFB SN03 Minen the Gap</filename>
+      <picture_link>scenpics/CMFB SN03 Minen the Gap.bmp</picture_link>
+      <battle_type>Axis Probe</battle_type>
+      <description>Peipers Spitze advances to link up with the Fallshirmjager</description>
+      <date>16/12/1944</date>
+      <time_of_day>17:00</time_of_day>
+      <part_of_day>Dusk</part_of_day>
+      <length>00:45</length>
+      <battle_size>Large</battle_size>
+      <Map_Size>
+         <map_area>6.182 Sq. km</map_area>
+         <map_width>2800 m</map_width>
+         <map_depth>2208 m</map_depth>
+      </Map_Size>
+      <region>Ardennes</region>
+      <environment>Open</environment>
+      <weather>Heavy Fog</weather>
+      <temperature>Freezing</temperature>
+      <ground_condition>Patchy Snow</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFB v2.03</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>germany</mod_tag>
+         <mod_tag>snow</mod_tag>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>[H2H] The Blue Hills</battle_title>
+      </Title>
+      <filename>[H2H] The Blue Hills</filename>
+      <picture_link>scenpics/[H2H] The Blue Hills.bmp</picture_link>
+      <battle_type>Allied Assault</battle_type>
+      <description>On the north east Estonian isthmus leading west is a natural obstacle of three heights which dominate the area. The Allies has to conquer it and the Axis has to defend it.</description>
+      <date>27/10/1944</date>
+      <time_of_day>08:15</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>04:00</length>
+      <battle_size>Huge</battle_size>
+      <Map_Size>
+         <map_area>11.222 Sq. km</map_area>
+         <map_width>4496 m</map_width>
+         <map_depth>2496 m</map_depth>
+      </Map_Size>
+      <region>Ardennes</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Cold</temperature>
+      <ground_condition>Damp</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFB v2.03</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>10</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Too Tight at Targnon</battle_title>
+      </Title>
+      <filename>CMFB SN16 Too Tight at Targnon</filename>
+      <picture_link>scenpics/CMFB SN16 Too Tight at Targnon.bmp</picture_link>
+      <battle_type>Axis Probe</battle_type>
+      <description>The high watermark of the German advance</description>
+      <date>19/12/1944</date>
+      <time_of_day>11:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:00</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>2.912 Sq. km</map_area>
+         <map_width>2000 m</map_width>
+         <map_depth>1456 m</map_depth>
+      </Map_Size>
+      <region>Ardennes</region>
+      <environment>Forest</environment>
+      <weather>Light Fog and Rain</weather>
+      <temperature>Cold</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFB v2.03</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>stoumont</mod_tag>
+         <mod_tag>ardennes</mod_tag>
+         <mod_tag>muddy</mod_tag>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Busting Out of Bras</battle_title>
+      </Title>
+      <filename>Busting out of Bras</filename>
+      <picture_link>scenpics/Busting out of Bras.bmp</picture_link>
+      <battle_type>Axis Probe</battle_type>
+      <description>German Army vs Allied AI</description>
+      <date>19/12/1944</date>
+      <time_of_day>11:15</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:20</length>
+      <battle_size>Small</battle_size>
+      <Map_Size>
+         <map_area>0.29 Sq. km</map_area>
+         <map_width>1008 m</map_width>
+         <map_depth>288 m</map_depth>
+      </Map_Size>
+      <region>Ardennes</region>
+      <environment>Open</environment>
+      <weather>Dense Fog</weather>
+      <temperature>Cold</temperature>
+      <ground_condition>Damp</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFB v2.03</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>bras</mod_tag>
+         <mod_tag>lehr</mod_tag>
+         <mod_tag>ohara</mod_tag>
+         <mod_tag>wardin</mod_tag>
+      </Mod_Tags>
+      <size_modifier>2</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Permisküla Island</battle_title>
+      </Title>
+      <filename>Permisküla</filename>
+      <picture_link>scenpics/Permisküla.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>The 602 Regiment of the 8th Army must cross the Narva River. Their main obstacle in this section is the Permisküla island and the 6 Borderguards Regiment defending it.</description>
+      <date>11/11/1944</date>
+      <time_of_day>11:45</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>03:00</length>
+      <battle_size>Huge</battle_size>
+      <Map_Size>
+         <map_area>5.696 Sq. km</map_area>
+         <map_width>2000 m</map_width>
+         <map_depth>2848 m</map_depth>
+      </Map_Size>
+      <region>Holland</region>
+      <environment>Forest</environment>
+      <weather>Clear</weather>
+      <temperature>Cool</temperature>
+      <ground_condition>Very Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFB v2.03</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>10</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>DF The Wasp&apos;s Nest</battle_title>
+      </Title>
+      <filename>DF The Wasp&apos;s Nest</filename>
+      <picture_link>scenpics/DF The Wasp&apos;s Nest.bmp</picture_link>
+      <battle_type>Allied Assault</battle_type>
+      <description>1/5 Welch Moves on Rethem. Play as either side.</description>
+      <date>10/04/1945</date>
+      <time_of_day>11:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>02:30</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>4.396 Sq. km</map_area>
+         <map_width>2544 m</map_width>
+         <map_depth>1728 m</map_depth>
+      </Map_Size>
+      <region>Germany</region>
+      <environment>Town</environment>
+      <weather>Clear</weather>
+      <temperature>Cool</temperature>
+      <ground_condition>Damp</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFB v2.10</game_version>
+      <Modules_Required>
+         <module1>Downfall</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Wax Museum</battle_title>
+      </Title>
+      <filename>Wax Museum</filename>
+      <picture_link>scenpics/Wax Museum.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>6th SS Mountain Division holds out in Wingen</description>
+      <date>05/01/1945</date>
+      <time_of_day>14:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>02:00</length>
+      <battle_size>Huge</battle_size>
+      <Map_Size>
+         <map_area>4.749 Sq. km</map_area>
+         <map_width>2800 m</map_width>
+         <map_depth>1696 m</map_depth>
+      </Map_Size>
+      <region>France</region>
+      <environment>Hills</environment>
+      <weather>Mist</weather>
+      <temperature>Freezing</temperature>
+      <ground_condition>Light Snow</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFB v1.00 to v1.01</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>wingensurmoder</mod_tag>
+      </Mod_Tags>
+      <size_modifier>10</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Cutline To Grosshau</battle_title>
+      </Title>
+      <filename>Cutline To Grosshau</filename>
+      <picture_link>scenpics/Cutline To Grosshau.bmp</picture_link>
+      <battle_type>Meeting Engagement</battle_type>
+      <description>Opposing infantry platoons clash during a fighting patrol into the Hürtgen Forest. This meeting engagement is suitable for any mode of play.</description>
+      <date>05/12/1944</date>
+      <time_of_day>12:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:45</length>
+      <battle_size>Small</battle_size>
+      <Map_Size>
+         <map_area>0.64 Sq. km</map_area>
+         <map_width>800 m</map_width>
+         <map_depth>800 m</map_depth>
+      </Map_Size>
+      <region>Ardennes</region>
+      <environment>Forest</environment>
+      <weather>Light Fog</weather>
+      <temperature>Cool</temperature>
+      <ground_condition>Damp</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFB v1.00 to v1.01</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>3</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Battle for Chaumont - First Round</battle_title>
+      </Title>
+      <filename>Battle for Chaumont - First Round</filename>
+      <picture_link>scenpics/Battle for Chaumont - First Round.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>U.S. 4th armored fights the 5th Fallschirmjager Division for control of the road to Bastogne; Allies vs AI; H2H</description>
+      <date>23/12/1944</date>
+      <time_of_day>13:30</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:20</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>4.227 Sq. km</map_area>
+         <map_width>2064 m</map_width>
+         <map_depth>2048 m</map_depth>
+      </Map_Size>
+      <region>Ardennes</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Cold</temperature>
+      <ground_condition>Patchy Snow</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFB v1.00 to v1.01</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Hurrying Through Honsfeld</battle_title>
+      </Title>
+      <filename>CMFB SN05 Hurrying through Honsfeld</filename>
+      <picture_link>scenpics/CMFB SN05 Hurrying through Honsfeld.bmp</picture_link>
+      <battle_type>Axis Attack</battle_type>
+      <description>Advance NW through Honsfeld</description>
+      <date>17/12/1944</date>
+      <time_of_day>05:30</time_of_day>
+      <part_of_day>Dawn</part_of_day>
+      <length>01:00</length>
+      <battle_size>Large</battle_size>
+      <Map_Size>
+         <map_area>1.358 Sq. km</map_area>
+         <map_width>1248 m</map_width>
+         <map_depth>1088 m</map_depth>
+      </Map_Size>
+      <region>Ardennes</region>
+      <environment>Open</environment>
+      <weather>Flurries</weather>
+      <temperature>Freezing</temperature>
+      <ground_condition>Patchy Snow</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFB v2.03</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>ardennes</mod_tag>
+         <mod_tag>snow</mod_tag>
+      </Mod_Tags>
+      <size_modifier>8</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Heavens above and hell all around</battle_title>
+      </Title>
+      <filename>Heavens Above And Hell All Around</filename>
+      <picture_link>scenpics/Heavens Above And Hell All Around.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>Somewhere in the mountains of Europe a gebirgsjäger battalion is probing around and their enemy is getting ready to meet them. Axis vs AI and Allied vs AI.</description>
+      <date>14/10/1944</date>
+      <time_of_day>07:10</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>02:00</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>0.397 Sq. km</map_area>
+         <map_width>752 m</map_width>
+         <map_depth>528 m</map_depth>
+      </Map_Size>
+      <region>France</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Cool</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFB v2.03</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Hard Defence</battle_title>
+      </Title>
+      <filename>Hard Defence</filename>
+      <picture_link>scenpics/Hard Defence.bmp</picture_link>
+      <battle_type>Allied Probe</battle_type>
+      <description>As the Germans are withdrawing closer to their borders, they do what they can to disturb the Allies&apos; advance into Germany. Axis vs AI and H2H.</description>
+      <date>13/11/1944</date>
+      <time_of_day>08:40</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>03:00</length>
+      <battle_size>Large</battle_size>
+      <Map_Size>
+         <map_area>2.614 Sq. km</map_area>
+         <map_width>1968 m</map_width>
+         <map_depth>1328 m</map_depth>
+      </Map_Size>
+      <region>Holland</region>
+      <environment>Open</environment>
+      <weather>Flurries</weather>
+      <temperature>Freezing</temperature>
+      <ground_condition>Patchy Snow</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFB v2.03</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>9</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Battle for Chaumont - Second Round</battle_title>
+      </Title>
+      <filename>Battle for Chaumont - Second Round</filename>
+      <picture_link>scenpics/Battle for Chaumont - Second Round.bmp</picture_link>
+      <battle_type>Axis Assault</battle_type>
+      <description>26th Volksgrenadier counterattacks U.S. 4th Armored at Chaumont; Axis vs AI; H2H;</description>
+      <date>23/12/1944</date>
+      <time_of_day>16:00</time_of_day>
+      <part_of_day>Dusk</part_of_day>
+      <length>01:20</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>4.227 Sq. km</map_area>
+         <map_width>2064 m</map_width>
+         <map_depth>2048 m</map_depth>
+      </Map_Size>
+      <region>Ardennes</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Freezing</temperature>
+      <ground_condition>Patchy Snow</ground_condition>
+      <early_intel>Axis Force</early_intel>
+      <game_version>CMFB v1.00 to v1.01</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Das Hochwasser</battle_title>
+      </Title>
+      <filename>DF Das Hochwasser</filename>
+      <picture_link>scenpics/DF Das Hochwasser.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>US 334th Regiment fights through flood waters. 25 Feb 1945. Play either side, Allied versus AI preferred.</description>
+      <date>25/02/1945</date>
+      <time_of_day>08:10</time_of_day>
+      <part_of_day>Dawn</part_of_day>
+      <length>01:00</length>
+      <battle_size>Small</battle_size>
+      <Map_Size>
+         <map_area>0.256 Sq. km</map_area>
+         <map_width>432 m</map_width>
+         <map_depth>592 m</map_depth>
+      </Map_Size>
+      <region>Germany</region>
+      <environment>Open</environment>
+      <weather>Light Fog and Rain</weather>
+      <temperature>Cool</temperature>
+      <ground_condition>Muddy</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFB v2.10</game_version>
+      <Modules_Required>
+         <module1>Downfall</module1>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>rubble</mod_tag>
+         <mod_tag>whitewash</mod_tag>
+      </Mod_Tags>
+      <size_modifier>4</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Parroy Forest</battle_title>
+      </Title>
+      <filename>Parroy Forest</filename>
+      <picture_link>scenpics/Parroy Forest.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>Fight for the key crossroad which was the linchpin for the German defence west of the Saverne Gap</description>
+      <date>09/10/1944</date>
+      <time_of_day>06:30</time_of_day>
+      <part_of_day>Dawn</part_of_day>
+      <length>01:00</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>0.492 Sq. km</map_area>
+         <map_width>992 m</map_width>
+         <map_depth>496 m</map_depth>
+      </Map_Size>
+      <region>France</region>
+      <environment>Forest</environment>
+      <weather>Overcast</weather>
+      <temperature>Cold</temperature>
+      <ground_condition>Muddy</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFB v1.00 to v1.01</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>TF Jordan Storms Stoumont</battle_title>
+      </Title>
+      <filename>CMFB SN28 TF Jordan Storms Stoumont</filename>
+      <picture_link>scenpics/CMFB SN28 TF Jordan Storms Stoumont.bmp</picture_link>
+      <battle_type>Axis Assault</battle_type>
+      <description>Peiper continues west</description>
+      <date>21/12/1944</date>
+      <time_of_day>14:00</time_of_day>
+      <part_of_day>Dawn</part_of_day>
+      <length>02:30</length>
+      <battle_size>Large</battle_size>
+      <Map_Size>
+         <map_area>2.225 Sq. km</map_area>
+         <map_width>1264 m</map_width>
+         <map_depth>1760 m</map_depth>
+      </Map_Size>
+      <region>Ardennes</region>
+      <environment>Hills</environment>
+      <weather>Light Fog</weather>
+      <temperature>Cold</temperature>
+      <ground_condition>Muddy</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFB v2.03</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>stoumont</mod_tag>
+         <mod_tag>ardennes</mod_tag>
+         <mod_tag>muddy</mod_tag>
+      </Mod_Tags>
+      <size_modifier>9</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Punishment at Parfondry</battle_title>
+      </Title>
+      <filename>CMFB SN27 Punishment at Parfondry</filename>
+      <picture_link>scenpics/CMFB SN27 Punishment at Parfondry.bmp</picture_link>
+      <battle_type>Axis Assault</battle_type>
+      <description>30 Div puts pressure on Knittel</description>
+      <date>21/12/1944</date>
+      <time_of_day>12:30</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>02:00</length>
+      <battle_size>Huge</battle_size>
+      <Map_Size>
+         <map_area>8.433 Sq. km</map_area>
+         <map_width>3904 m</map_width>
+         <map_depth>2160 m</map_depth>
+      </Map_Size>
+      <region>Ardennes</region>
+      <environment>Town</environment>
+      <weather>Light Fog</weather>
+      <temperature>Cold</temperature>
+      <ground_condition>Muddy</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFB v2.03</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>stavelot</mod_tag>
+         <mod_tag>ardennes</mod_tag>
+         <mod_tag>muddy</mod_tag>
+      </Mod_Tags>
+      <size_modifier>10</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Hansens Surprise</battle_title>
+      </Title>
+      <filename>CMFB SN34 Hansens Surprise</filename>
+      <picture_link>scenpics/CMFB SN34 Hansens Surprise.bmp</picture_link>
+      <battle_type>Axis Attack</battle_type>
+      <description>Hansen pushes north</description>
+      <date>22/12/1944</date>
+      <time_of_day>15:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>02:00</length>
+      <battle_size>Large</battle_size>
+      <Map_Size>
+         <map_area>2.458 Sq. km</map_area>
+         <map_width>1536 m</map_width>
+         <map_depth>1600 m</map_depth>
+      </Map_Size>
+      <region>Ardennes</region>
+      <environment>Open</environment>
+      <weather>Light Fog</weather>
+      <temperature>Cold</temperature>
+      <ground_condition>Muddy</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFB v2.03</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>ardennes</mod_tag>
+         <mod_tag>muddy</mod_tag>
+      </Mod_Tags>
+      <size_modifier>9</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Poteau is the Priority</battle_title>
+      </Title>
+      <filename>CMFB SN09 Poteau the Priority</filename>
+      <picture_link>scenpics/CMFB SN09 Poteau the Priority.bmp</picture_link>
+      <battle_type>Meeting Engagement</battle_type>
+      <description>Mayes and Hansen clash</description>
+      <date>18/12/1944</date>
+      <time_of_day>08:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:00</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>0.829 Sq. km</map_area>
+         <map_width>720 m</map_width>
+         <map_depth>1152 m</map_depth>
+      </Map_Size>
+      <region>Ardennes</region>
+      <environment>Open</environment>
+      <weather>Mist</weather>
+      <temperature>Cold</temperature>
+      <ground_condition>Muddy</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFB v2.03</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>stavelot</mod_tag>
+         <mod_tag>ardennes</mod_tag>
+         <mod_tag>muddy</mod_tag>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Butchers Of Baugnez</battle_title>
+      </Title>
+      <filename>CMFB SN07 Butchers of Baugnez</filename>
+      <picture_link>scenpics/CMFB SN07 Butchers of Baugnez.bmp</picture_link>
+      <battle_type>Axis Probe</battle_type>
+      <description>Gepanzertze Peiper continues its drive west</description>
+      <date>17/12/1944</date>
+      <time_of_day>13:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>02:30</length>
+      <battle_size>Huge</battle_size>
+      <Map_Size>
+         <map_area>15.872 Sq. km</map_area>
+         <map_width>3968 m</map_width>
+         <map_depth>4000 m</map_depth>
+      </Map_Size>
+      <region>Ardennes</region>
+      <environment>Open</environment>
+      <weather>Overcast</weather>
+      <temperature>Cold</temperature>
+      <ground_condition>Muddy</ground_condition>
+      <early_intel>Allied Force</early_intel>
+      <game_version>CMFB v2.03</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>ligneuville</mod_tag>
+         <mod_tag>ardennes</mod_tag>
+         <mod_tag>muddy</mod_tag>
+      </Mod_Tags>
+      <size_modifier>10</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Cold Hearts at Froidcour</battle_title>
+      </Title>
+      <filename>CMFB SN29 Cold Hearts at Froidcour</filename>
+      <picture_link>scenpics/CMFB SN29 Cold Hearts at Froidcour.bmp</picture_link>
+      <battle_type>Axis Assault</battle_type>
+      <description>McCown goes into the woods</description>
+      <date>21/12/1944</date>
+      <time_of_day>15:00</time_of_day>
+      <part_of_day>Dawn</part_of_day>
+      <length>01:30</length>
+      <battle_size>Large</battle_size>
+      <Map_Size>
+         <map_area>1.094 Sq. km</map_area>
+         <map_width>912 m</map_width>
+         <map_depth>1200 m</map_depth>
+      </Map_Size>
+      <region>Ardennes</region>
+      <environment>Hills</environment>
+      <weather>Light Fog</weather>
+      <temperature>Cold</temperature>
+      <ground_condition>Muddy</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFB v2.03</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>stoumont</mod_tag>
+         <mod_tag>ardennes</mod_tag>
+         <mod_tag>muddy</mod_tag>
+      </Mod_Tags>
+      <size_modifier>9</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Dealership - Germany</battle_title>
+      </Title>
+      <filename>Dealership_GER</filename>
+      <picture_link>scenpics/Dealership_GER.bmp</picture_link>
+      <battle_type>Axis Assault</battle_type>
+      <description>Nothing but all vehicles and support assets. - Rien que les véhicules et les éléments d&apos;appui.</description>
+      <date>01/01/1945</date>
+      <time_of_day>11:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:30</length>
+      <battle_size>Tiny</battle_size>
+      <Map_Size>
+         <map_area>0.043 Sq. km</map_area>
+         <map_width>208 m</map_width>
+         <map_depth>208 m</map_depth>
+      </Map_Size>
+      <region>Ardennes</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Cold</temperature>
+      <ground_condition>Snow</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFB v1.00 to v1.01</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>2</size_modifier>
+   </Scenario>
+
+   </Scenario_List>
+</Scenario_Listing>
