@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="Listing_Layout.xsl" ?>
+
+<Scenario_Listing>
+
+   <Scenario_List>
+
+   <containing_campaign>Tigers at Ogledow</containing_campaign>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #04]</number_in_campaign>
+         <battle_title>Mission 3B Clash of the Titans</battle_title>
+      </Title>
+      <filename>BP1 Tigers at Ogledow #04_CMRT Mission 3B Clash of the Titans_v5</filename>
+      <picture_link>scenpics/BP1 Tigers at Ogledow4.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>13th August 1944 0400Hrs s.PzAbt 501 after succesfully fending off Soviet attacks the day before readys itself for a dawn attack by 3rd Guards Tank Army on Ogledow</description>
+      <date>13/08/1944</date>
+      <time_of_day>04:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>02:30</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>12.16 Sq. km</map_area>
+         <map_width>4000 m</map_width>
+         <map_depth>3040 m</map_depth>
+      </Map_Size>
+      <region>Eastern Europe</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Cool</temperature>
+      <ground_condition>Damp</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMRT v2.10 to v2.13</game_version>
+      <Modules_Required>
+         <module1>Fire and Rubble</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #01]</number_in_campaign>
+         <battle_title>Mission 2A Tigers at Ogledow</battle_title>
+      </Title>
+      <filename>BP1 Tigers at Ogledow #01_CMRT Tigers at Ogledow Mission 2A_v3</filename>
+      <picture_link>scenpics/BP1 Tigers at Ogledow1.bmp</picture_link>
+      <battle_type>Axis Probe</battle_type>
+      <description>12th August 1944 Vanguard of s PzAbt 501 attacks out of OGLEDOW towards STASZOW and against advance elements of 6th Guards Tank Corps. 0700Hrs</description>
+      <date>12/08/1944</date>
+      <time_of_day>07:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:00</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>12.16 Sq. km</map_area>
+         <map_width>4000 m</map_width>
+         <map_depth>3040 m</map_depth>
+      </Map_Size>
+      <region>Eastern Europe</region>
+      <environment>Open</environment>
+      <weather>Heavy Fog</weather>
+      <temperature>Cool</temperature>
+      <ground_condition>Damp</ground_condition>
+      <early_intel>Axis Force</early_intel>
+      <game_version>CMRT v2.10 to v2.13</game_version>
+      <Modules_Required>
+         <module1>Fire and Rubble</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #00]</number_in_campaign>
+         <battle_title>Mission 1 &apos;Lovishcha&apos; - The Hunting Grounds</battle_title>
+      </Title>
+      <filename>BP1 Tigers at Ogledow #00_CMRT Lovishcha The Hunting Grounds Mission 1_v5</filename>
+      <picture_link>scenpics/BP1 Tigers at Ogledow0.bmp</picture_link>
+      <battle_type>Axis Probe</battle_type>
+      <description>11th August 1944 Reconnaissance elements from the 501st s.Pz.Abt conduct a tactical reconnaissance of the OGLEDOW sector.</description>
+      <date>11/08/1944</date>
+      <time_of_day>15:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>02:30</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>12.16 Sq. km</map_area>
+         <map_width>4000 m</map_width>
+         <map_depth>3040 m</map_depth>
+      </Map_Size>
+      <region>Eastern Europe</region>
+      <environment>Open</environment>
+      <weather>Light Rain</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMRT v2.10 to v2.13</game_version>
+      <Modules_Required>
+         <module1>Fire and Rubble</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #02]</number_in_campaign>
+         <battle_title>Mission 2B Tigers at Ogledow</battle_title>
+      </Title>
+      <filename>BP1 Tigers at Ogledow #02_CMRT Tigers at Ogledow Mission 2B_v3</filename>
+      <picture_link>scenpics/BP1 Tigers at Ogledow2.bmp</picture_link>
+      <battle_type>Axis Probe</battle_type>
+      <description>12th August 1944 Vanguard of s PzAbt 501 attacks out of OGLEDOW towards STASZOW and against advance elements of 6th Guards Tank Corps. 0700Hrs</description>
+      <date>12/08/1944</date>
+      <time_of_day>07:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:00</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>12.16 Sq. km</map_area>
+         <map_width>4000 m</map_width>
+         <map_depth>3040 m</map_depth>
+      </Map_Size>
+      <region>Eastern Europe</region>
+      <environment>Open</environment>
+      <weather>Heavy Fog</weather>
+      <temperature>Cool</temperature>
+      <ground_condition>Damp</ground_condition>
+      <early_intel>Allied Force</early_intel>
+      <game_version>CMRT v2.10 to v2.13</game_version>
+      <Modules_Required>
+         <module1>Fire and Rubble</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #03]</number_in_campaign>
+         <battle_title>Mission 3A Clash of the Titans</battle_title>
+      </Title>
+      <filename>BP1 Tigers at Ogledow #03_CMRT Mission 3A Clash of the Titans_v3</filename>
+      <picture_link>scenpics/BP1 Tigers at Ogledow3.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>13th August 1944 0900Hrs s.PzAbt 501 retains a slim grip on Ogledow and readys itself to fend of another Soviet armoured attack to retake the village.</description>
+      <date>13/08/1944</date>
+      <time_of_day>09:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>02:30</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>11.917 Sq. km</map_area>
+         <map_width>3920 m</map_width>
+         <map_depth>3040 m</map_depth>
+      </Map_Size>
+      <region>Eastern Europe</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Damp</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMRT v2.10 to v2.13</game_version>
+      <Modules_Required>
+         <module1>Fire and Rubble</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   </Scenario_List>
+</Scenario_Listing>

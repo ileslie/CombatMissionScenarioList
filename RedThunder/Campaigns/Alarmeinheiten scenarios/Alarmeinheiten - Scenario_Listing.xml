@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="Listing_Layout.xsl" ?>
+
+<Scenario_Listing>
+
+   <Scenario_List>
+
+   <containing_campaign>Alarmeinheiten</containing_campaign>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #02]</number_in_campaign>
+         <battle_title>Alarmeinheiten</battle_title>
+      </Title>
+      <filename>Alarmeinheiten #02_Mixed TOE</filename>
+      <picture_link>scenpics/Alarmeinheiten2.bmp</picture_link>
+      <battle_type>Meeting Engagement</battle_type>
+      <description>Command a German alarm unit  (Alarmeinheiten).  Maneuver the alarm unit in multiple attacks and counter attacks across a 13.5 square Km. map. </description>
+      <date>08/08/1944</date>
+      <time_of_day>13:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>03:00</length>
+      <battle_size>Large</battle_size>
+      <Map_Size>
+         <map_area>13.862 Sq. km</map_area>
+         <map_width>3040 m</map_width>
+         <map_depth>4560 m</map_depth>
+      </Map_Size>
+      <region>Eastern Europe</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Cool</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMRT v2.10 to v2.13</game_version>
+      <Modules_Required>
+         <module1>Fire and Rubble</module1>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>headgear</mod_tag>
+         <mod_tag>wounded</mod_tag>
+      </Mod_Tags>
+      <size_modifier>9</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #00]</number_in_campaign>
+         <battle_title>TOE Choice</battle_title>
+      </Title>
+      <filename>Alarmeinheiten #00_TOE Choice</filename>
+      <picture_link>scenpics/Alarmeinheiten0.bmp</picture_link>
+      <battle_type>Meeting Engagement</battle_type>
+      <description>Choose the TOE to use in the scenario. </description>
+      <date>08/08/1944</date>
+      <time_of_day>13:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:30</length>
+      <battle_size>Large</battle_size>
+      <Map_Size>
+         <map_area>0.102 Sq. km</map_area>
+         <map_width>320 m</map_width>
+         <map_depth>320 m</map_depth>
+      </Map_Size>
+      <region>Eastern Europe</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Cool</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMRT v2.10 to v2.13</game_version>
+      <Modules_Required>
+         <module1>Fire and Rubble</module1>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>headgear</mod_tag>
+         <mod_tag>wounded</mod_tag>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #01]</number_in_campaign>
+         <battle_title>Alarmeinheiten</battle_title>
+      </Title>
+      <filename>Alarmeinheiten #01_Common TOE</filename>
+      <picture_link>scenpics/Alarmeinheiten1.bmp</picture_link>
+      <battle_type>Meeting Engagement</battle_type>
+      <description>Command a German alarm unit  (Alarmeinheiten).  Maneuver the alarm unit in multiple attacks and counter attacks across a 13.5 square Km. map. </description>
+      <date>08/08/1944</date>
+      <time_of_day>13:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>03:00</length>
+      <battle_size>Large</battle_size>
+      <Map_Size>
+         <map_area>13.862 Sq. km</map_area>
+         <map_width>3040 m</map_width>
+         <map_depth>4560 m</map_depth>
+      </Map_Size>
+      <region>Eastern Europe</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Cool</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMRT v2.10 to v2.13</game_version>
+      <Modules_Required>
+         <module1>Fire and Rubble</module1>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>headgear</mod_tag>
+         <mod_tag>wounded</mod_tag>
+      </Mod_Tags>
+      <size_modifier>9</size_modifier>
+   </Scenario>
+
+   </Scenario_List>
+</Scenario_Listing>

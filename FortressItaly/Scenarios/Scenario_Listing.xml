@@ -1,0 +1,3155 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="Listing_Layout.xsl" ?>
+
+<Scenario_Listing>
+
+   <Scenario_List>
+
+   <Scenario>
+      <Title>
+         <battle_title>Cesaro, Sicily  H2H</battle_title>
+      </Title>
+      <filename>Cesaro, Sicily</filename>
+      <picture_link>scenpics/Cesaro, Sicily.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>Having taken the town of Troina, the Allies must now push through the hills and take the village of Cesaro to finally break the central portion of the Etna Line</description>
+      <date>07/08/1943</date>
+      <time_of_day>06:15</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:30</length>
+      <battle_size>Huge</battle_size>
+      <Map_Size>
+         <map_area>2 Sq. km</map_area>
+         <map_width>1488 m</map_width>
+         <map_depth>1344 m</map_depth>
+      </Map_Size>
+      <region>Italy</region>
+      <environment>Hills</environment>
+      <weather>Hazy</weather>
+      <temperature>Hot</temperature>
+      <ground_condition>Very Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFI v1.01</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>10</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Fight at Vallebruca</battle_title>
+      </Title>
+      <filename>Fight at Vallebruca</filename>
+      <picture_link>scenpics/Fight at Vallebruca.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>The Americans are pushing to Messina along the northern coast while the the 29th Panzergrenadier Division delays them at every town and ridge.</description>
+      <date>10/08/1943</date>
+      <time_of_day>15:30</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:45</length>
+      <battle_size>Small</battle_size>
+      <Map_Size>
+         <map_area>0.18 Sq. km</map_area>
+         <map_width>256 m</map_width>
+         <map_depth>704 m</map_depth>
+      </Map_Size>
+      <region>Italy</region>
+      <environment>Village</environment>
+      <weather>Clear</weather>
+      <temperature>Hot</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFI v1.00</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>3</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Livorno Pride</battle_title>
+      </Title>
+      <filename>Livorno Pride</filename>
+      <picture_link>scenpics/Livorno Pride.bmp</picture_link>
+      <battle_type>Axis Attack</battle_type>
+      <description>An Italian infantry battalion rushes toward Gela. A Ranger company and the USS Savannah stand in their way. Best as US vs AI.</description>
+      <date>11/07/1943</date>
+      <time_of_day>07:30</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:00</length>
+      <battle_size>Large</battle_size>
+      <Map_Size>
+         <map_area>1.762 Sq. km</map_area>
+         <map_width>992 m</map_width>
+         <map_depth>1776 m</map_depth>
+      </Map_Size>
+      <region>Italy</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Allied Force</early_intel>
+      <game_version>CMFI v1.00</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>8</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>TWC First Contact</battle_title>
+      </Title>
+      <filename>TWC First Contact</filename>
+      <picture_link>scenpics/TWC First Contact.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>15 Jul 1943: A battlegroup of the 1st Canadian Infantry Brigade faces its first battle against the Germans at Grammichele. H2H or either side vs the AI.</description>
+      <date>15/07/1943</date>
+      <time_of_day>09:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>02:00</length>
+      <battle_size>Large</battle_size>
+      <Map_Size>
+         <map_area>2.627 Sq. km</map_area>
+         <map_width>2160 m</map_width>
+         <map_depth>1216 m</map_depth>
+      </Map_Size>
+      <region>Italy</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Hot</temperature>
+      <ground_condition>Very Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFI v1.12</game_version>
+      <Modules_Required>
+         <module1>Gustav Line</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>9</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Beyond the Belice</battle_title>
+      </Title>
+      <filename>Beyond the Belice</filename>
+      <picture_link>scenpics/Beyond the Belice.bmp</picture_link>
+      <battle_type>Meeting Engagement</battle_type>
+      <description>Italian and American foot patrols skirmish beyond the Belice River. MEETING ENGAGEMENT</description>
+      <date>24/07/1943</date>
+      <time_of_day>09:45</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:50</length>
+      <battle_size>Tiny</battle_size>
+      <Map_Size>
+         <map_area>0.43 Sq. km</map_area>
+         <map_width>656 m</map_width>
+         <map_depth>656 m</map_depth>
+      </Map_Size>
+      <region>Italy</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Very Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFI v1.00</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>3</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>GL Bulge 44 Lanzerath Ridge</battle_title>
+      </Title>
+      <filename>GL BULGE44 Lanzerath Ridge</filename>
+      <picture_link>scenpics/GL BULGE44 Lanzerath Ridge.bmp</picture_link>
+      <battle_type>Axis Attack</battle_type>
+      <description>16 Dec, 1944 (semi historical) small size HTH or Singleplayer. Light Snow</description>
+      <date>16/12/1943</date>
+      <time_of_day>09:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:00</length>
+      <battle_size>Small</battle_size>
+      <Map_Size>
+         <map_area>0.205 Sq. km</map_area>
+         <map_width>512 m</map_width>
+         <map_depth>400 m</map_depth>
+      </Map_Size>
+      <region>Italy</region>
+      <environment>Open</environment>
+      <weather>Light Snow</weather>
+      <temperature>Cold</temperature>
+      <ground_condition>Light Snow</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFI v1.12</game_version>
+      <Modules_Required>
+         <module1>Gustav Line</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>4</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>QBS One more roadblock</battle_title>
+         <qb_filename>QBS One more roadblock.btt</qb_filename>
+      </Title>
+      <filename>QBS One more roadblock</filename>
+      <picture_link>scenpics/QBS One more roadblock.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>MAP SIZE 640x880 OBJECTIVE Road Junctions and Farm ATTACKER SETUP South  - AI defending</description>
+      <date>01/08/1943</date>
+      <time_of_day>12:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:35</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>0.563 Sq. km</map_area>
+         <map_width>640 m</map_width>
+         <map_depth>880 m</map_depth>
+      </Map_Size>
+      <region>Italy</region>
+      <environment>Village</environment>
+      <weather>Overcast</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFI v1.10</game_version>
+      <Modules_Required>
+         <module1>Gustav Line</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>5</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Son of a senator</battle_title>
+         <qb_filename>QBS Son of a senator.btt</qb_filename>
+      </Title>
+      <filename>QBS Son of a senator</filename>
+      <picture_link>scenpics/QBS Son of a senator.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>MAP SIZE 640x1100 OBJECTIVE search 3 large farms AMERICAN paratroopers ATTACK ITALIAN infantry.</description>
+      <date>10/07/1943</date>
+      <time_of_day>06:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:45</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>0.707 Sq. km</map_area>
+         <map_width>640 m</map_width>
+         <map_depth>1104 m</map_depth>
+      </Map_Size>
+      <region>Italy</region>
+      <environment>Open</environment>
+      <weather>Overcast</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFI v1.10</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Smoke &apos;Em if You Got &apos;Em</battle_title>
+      </Title>
+      <filename>GL Smoke &apos;Em if You Got &apos;Em</filename>
+      <picture_link>scenpics/GL Smoke &apos;Em if You Got &apos;Em.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>Elements of the US 157th Regiment/45 Infantry Division assault the Tobacco Factory, north of the Salerno bridgehead. Playable in any mode.</description>
+      <date>12/09/1943</date>
+      <time_of_day>06:50</time_of_day>
+      <part_of_day>Dawn</part_of_day>
+      <length>02:00</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>1.631 Sq. km</map_area>
+         <map_width>1568 m</map_width>
+         <map_depth>1040 m</map_depth>
+      </Map_Size>
+      <region>Italy</region>
+      <environment>Rough</environment>
+      <weather>Light Fog</weather>
+      <temperature>Cool</temperature>
+      <ground_condition>Damp</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFI v1.10</game_version>
+      <Modules_Required>
+         <module1>Gustav Line</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Ramparts of the Palikoi</battle_title>
+      </Title>
+      <filename>Ramparts of the Palikoi</filename>
+      <picture_link>scenpics/Ramparts of the Palikoi.bmp</picture_link>
+      <battle_type>Allied Assault</battle_type>
+      <description>45th Infantry Division assaults Bloody Ridge</description>
+      <date>26/07/1943</date>
+      <time_of_day>13:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>02:30</length>
+      <battle_size>Large</battle_size>
+      <Map_Size>
+         <map_area>2.818 Sq. km</map_area>
+         <map_width>2048 m</map_width>
+         <map_depth>1376 m</map_depth>
+      </Map_Size>
+      <region>Italy</region>
+      <environment>Hills</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFI v1.00</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>9</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Wires &amp; Rifles</battle_title>
+      </Title>
+      <filename>AD Wires &amp; Rifles</filename>
+      <picture_link>scenpics/AD Wires &amp; Rifles.bmp</picture_link>
+      <battle_type>Axis Probe</battle_type>
+      <description>German recon forces run into unprepared American forces. July 1943. Axis vs AI only.</description>
+      <date>19/07/1943</date>
+      <time_of_day>15:45</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:35</length>
+      <battle_size>Small</battle_size>
+      <Map_Size>
+         <map_area>0.623 Sq. km</map_area>
+         <map_width>1024 m</map_width>
+         <map_depth>608 m</map_depth>
+      </Map_Size>
+      <region>Italy</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Very Dry</ground_condition>
+      <early_intel>Axis Force</early_intel>
+      <game_version>CMFI v1.12</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>3</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Bear Claws</battle_title>
+      </Title>
+      <filename>GL Bear Claws</filename>
+      <picture_link>scenpics/GL Bear Claws.bmp</picture_link>
+      <battle_type>Axis Attack</battle_type>
+      <description>Fictional Panzergrenadier attack with a platoon of Brummbärs for fire support. Best played as Axis vs AI, or HvH.</description>
+      <date>10/05/1944</date>
+      <time_of_day>10:30</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:45</length>
+      <battle_size>Small</battle_size>
+      <Map_Size>
+         <map_area>0.461 Sq. km</map_area>
+         <map_width>640 m</map_width>
+         <map_depth>720 m</map_depth>
+      </Map_Size>
+      <region>Italy</region>
+      <environment>Village</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFI v1.10</game_version>
+      <Modules_Required>
+         <module1>Gustav Line</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>3</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Hot Mustard</battle_title>
+      </Title>
+      <filename>Hot Mustard</filename>
+      <picture_link>scenpics/Hot Mustard.bmp</picture_link>
+      <battle_type>Meeting Engagement</battle_type>
+      <description>Hermann Goring Panzer Division counterattacks the beach head</description>
+      <date>10/07/1943</date>
+      <time_of_day>12:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>02:00</length>
+      <battle_size>Huge</battle_size>
+      <Map_Size>
+         <map_area>4.128 Sq. km</map_area>
+         <map_width>2064 m</map_width>
+         <map_depth>2000 m</map_depth>
+      </Map_Size>
+      <region>Italy</region>
+      <environment>Rough</environment>
+      <weather>Clear</weather>
+      <temperature>Hot</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFI v1.00</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>10</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Bon Giorno Tomahawks</battle_title>
+      </Title>
+      <filename>BonGiorno Tomahawks</filename>
+      <picture_link>scenpics/BonGiorno Tomahawks.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>40+Turns ALLIED VS AI ONLY</description>
+      <date>13/07/1943</date>
+      <time_of_day>08:30</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:40</length>
+      <battle_size>Tiny</battle_size>
+      <Map_Size>
+         <map_area>0.315 Sq. km</map_area>
+         <map_width>480 m</map_width>
+         <map_depth>656 m</map_depth>
+      </Map_Size>
+      <region>Italy</region>
+      <environment>Town</environment>
+      <weather>Hazy</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFI v1.01</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>2</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>GL Avanti Americani, Rapido !</battle_title>
+      </Title>
+      <filename>GL Avanti Americani, Rapido !</filename>
+      <picture_link>scenpics/GL Avanti Americani, Rapido !.bmp</picture_link>
+      <battle_type>Allied Assault</battle_type>
+      <description>Rangers storm two naval gun batteries and drive inland against Italian Blackshirt troops. HTH, Axis Human vrs 3 x American AI plans. 2kmx2km map. </description>
+      <date>11/07/1943</date>
+      <time_of_day>06:20</time_of_day>
+      <part_of_day>Dawn</part_of_day>
+      <length>01:30</length>
+      <battle_size>Large</battle_size>
+      <Map_Size>
+         <map_area>2.944 Sq. km</map_area>
+         <map_width>1600 m</map_width>
+         <map_depth>1840 m</map_depth>
+      </Map_Size>
+      <region>Italy</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Allied Force</early_intel>
+      <game_version>CMFI v1.10</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>9</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>The Winter Of Our Discontent</battle_title>
+      </Title>
+      <filename>GL The Winter of Our Discontent</filename>
+      <picture_link>scenpics/GL The Winter of Our Discontent.bmp</picture_link>
+      <battle_type>Axis Attack</battle_type>
+      <description>The Germans launch a counterattack on the Canadian-held town of Villa Rogatti during the Moro River Campaign, 6 December 1943. Playable in any mode.</description>
+      <date>06/12/1943</date>
+      <time_of_day>14:30</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:40</length>
+      <battle_size>Large</battle_size>
+      <Map_Size>
+         <map_area>0.704 Sq. km</map_area>
+         <map_width>880 m</map_width>
+         <map_depth>800 m</map_depth>
+      </Map_Size>
+      <region>Italy</region>
+      <environment>Village</environment>
+      <weather>Light Fog and Rain</weather>
+      <temperature>Cool</temperature>
+      <ground_condition>Muddy</ground_condition>
+      <early_intel>Axis Force</early_intel>
+      <game_version>CMFI v1.10</game_version>
+      <Modules_Required>
+         <module1>Gustav Line</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>9</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Small Patrol Action</battle_title>
+      </Title>
+      <filename>AD Small Patrol Action</filename>
+      <picture_link>scenpics/AD Small Patrol Action.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>A half company of infantry runs into a German blocking position. April 1944. Allied vs AI only.</description>
+      <date>01/04/1944</date>
+      <time_of_day>07:30</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:30</length>
+      <battle_size>Tiny</battle_size>
+      <Map_Size>
+         <map_area>0.102 Sq. km</map_area>
+         <map_width>320 m</map_width>
+         <map_depth>320 m</map_depth>
+      </Map_Size>
+      <region>Italy</region>
+      <environment>Forest</environment>
+      <weather>Clear</weather>
+      <temperature>Cool</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFI v1.12</game_version>
+      <Modules_Required>
+         <module1>Gustav Line</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>2</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>TWC Right Hook at Valguarnera</battle_title>
+      </Title>
+      <filename>TWC Right Hook at Valguarnera</filename>
+      <picture_link>scenpics/TWC Right Hook at Valguarnera.bmp</picture_link>
+      <battle_type>Axis Probe</battle_type>
+      <description>18 Jul 1943 - the &apos;Hasty P&apos;s&apos; ambush German Panzergrenadiers during fighting in the hilly interior of Sicily then struggle to hold a vital crossroad. H2H or vs. AI.</description>
+      <date>18/07/1943</date>
+      <time_of_day>05:30</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:45</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>2.058 Sq. km</map_area>
+         <map_width>1920 m</map_width>
+         <map_depth>1072 m</map_depth>
+      </Map_Size>
+      <region>Italy</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Very Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFI v1.12</game_version>
+      <Modules_Required>
+         <module1>Gustav Line</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Gateway To Palmermo</battle_title>
+      </Title>
+      <filename>Gateway to Palermo</filename>
+      <picture_link>scenpics/Gateway to Palermo.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>Patton meets fierce resistance in Corleone as he heads West to Palermo. ALLIED ATTACK</description>
+      <date>19/07/1943</date>
+      <time_of_day>17:20</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:10</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>0.31 Sq. km</map_area>
+         <map_width>624 m</map_width>
+         <map_depth>496 m</map_depth>
+      </Map_Size>
+      <region>Italy</region>
+      <environment>Town</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFI v1.00</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Lancing the Abscess</battle_title>
+      </Title>
+      <filename>GL Lancing the Abscess</filename>
+      <picture_link>scenpics/GL Lancing the Abscess.bmp</picture_link>
+      <battle_type>Axis Assault</battle_type>
+      <description>The Germans attempt to collapse the Anzio Beachhead. Playable in all modes.</description>
+      <date>16/02/1944</date>
+      <time_of_day>08:00</time_of_day>
+      <part_of_day>Dawn</part_of_day>
+      <length>02:00</length>
+      <battle_size>Huge</battle_size>
+      <Map_Size>
+         <map_area>5.03 Sq. km</map_area>
+         <map_width>2096 m</map_width>
+         <map_depth>2400 m</map_depth>
+      </Map_Size>
+      <region>Italy</region>
+      <environment>Open</environment>
+      <weather>Light Fog</weather>
+      <temperature>Cold</temperature>
+      <ground_condition>Muddy</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFI v1.10</game_version>
+      <Modules_Required>
+         <module1>Gustav Line</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>10</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>QBS Counterattack at Battipaglia</battle_title>
+         <qb_filename>QBS Counterattack at Battipaglia.btt</qb_filename>
+      </Title>
+      <filename>QBS Counterattack at Battipaglia</filename>
+      <picture_link>scenpics/QBS Counterattack at Battipaglia.bmp</picture_link>
+      <battle_type>Axis Assault</battle_type>
+      <description>MAP SIZE 1120 x 800 OBJECTIVE Village (damaged) German armour and infantry attack brittish defenders.</description>
+      <date>12/09/1943</date>
+      <time_of_day>19:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:00</length>
+      <battle_size>Large</battle_size>
+      <Map_Size>
+         <map_area>0.896 Sq. km</map_area>
+         <map_width>1120 m</map_width>
+         <map_depth>800 m</map_depth>
+      </Map_Size>
+      <region>Italy</region>
+      <environment>Town</environment>
+      <weather>Hazy</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Very Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFI v1.10</game_version>
+      <Modules_Required>
+         <module1>Gustav Line</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>8</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Rimini Airfield</battle_title>
+      </Title>
+      <filename>Rimini Airfield Allied loss</filename>
+      <picture_link>scenpics/Rimini Airfield Allied loss.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>8th Army moves on Rimini Airfield. </description>
+      <date>15/09/1943</date>
+      <time_of_day>12:30</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:20</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>5.198 Sq. km</map_area>
+         <map_width>2096 m</map_width>
+         <map_depth>2480 m</map_depth>
+      </Map_Size>
+      <region>Unknown</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Damp</ground_condition>
+      <early_intel>Axis Force</early_intel>
+      <game_version>CMFI v2.00</game_version>
+      <Modules_Required>
+         <module1>Gustav Line</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Lost</battle_title>
+      </Title>
+      <filename>GL Lost</filename>
+      <picture_link>scenpics/GL Lost.bmp</picture_link>
+      <battle_type>Axis Probe</battle_type>
+      <description>The Hasty P&apos;s defend against the 15th Panzergrenadier Division at Valguarnera. Playable in all modes, stronger player should play Axis in HvH.</description>
+      <date>18/07/1943</date>
+      <time_of_day>10:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:00</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>0.794 Sq. km</map_area>
+         <map_width>992 m</map_width>
+         <map_depth>800 m</map_depth>
+      </Map_Size>
+      <region>Italy</region>
+      <environment>Hills</environment>
+      <weather>Clear</weather>
+      <temperature>Hot</temperature>
+      <ground_condition>Very Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFI v1.10</game_version>
+      <Modules_Required>
+         <module1>Gustav Line</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Rimini Airfield</battle_title>
+      </Title>
+      <filename>Rimini Airfield Allied Win</filename>
+      <picture_link>scenpics/Rimini Airfield Allied Win.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>8th Army moves on Rimini Airfield. </description>
+      <date>15/09/1943</date>
+      <time_of_day>12:30</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:20</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>5.198 Sq. km</map_area>
+         <map_width>2096 m</map_width>
+         <map_depth>2480 m</map_depth>
+      </Map_Size>
+      <region>Unknown</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Damp</ground_condition>
+      <early_intel>Allied Force</early_intel>
+      <game_version>CMFI v2.00</game_version>
+      <Modules_Required>
+         <module1>Gustav Line</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>FUBAR Village</battle_title>
+      </Title>
+      <filename>FUBAR Village</filename>
+      <picture_link>scenpics/FUBAR Village.bmp</picture_link>
+      <battle_type>Allied Probe</battle_type>
+      <description>Allied scouts observe Axis troops hastily leave a small village in Sicily. HQ wants A company to take and hold it before dawn. H2H  Allies v AI</description>
+      <date>10/08/1943</date>
+      <time_of_day>06:00</time_of_day>
+      <part_of_day>Dawn</part_of_day>
+      <length>00:45</length>
+      <battle_size>Large</battle_size>
+      <Map_Size>
+         <map_area>1.082 Sq. km</map_area>
+         <map_width>1040 m</map_width>
+         <map_depth>1040 m</map_depth>
+      </Map_Size>
+      <region>Italy</region>
+      <environment>Town</environment>
+      <weather>Hazy</weather>
+      <temperature>Hot</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFI v1.20</game_version>
+      <Modules_Required>
+         <module1>Gustav Line</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Recon Gone Wrong</battle_title>
+      </Title>
+      <filename>AD Recon Gone Wrong</filename>
+      <picture_link>scenpics/AD Recon Gone Wrong.bmp</picture_link>
+      <battle_type>Axis Probe</battle_type>
+      <description>In the race to Palermo, combat engineers on route reconnaissance find themselves too far forward. July 1943. Axis vs AI only</description>
+      <date>21/07/1943</date>
+      <time_of_day>19:30</time_of_day>
+      <part_of_day>Dusk</part_of_day>
+      <length>00:30</length>
+      <battle_size>Small</battle_size>
+      <Map_Size>
+         <map_area>0.361 Sq. km</map_area>
+         <map_width>752 m</map_width>
+         <map_depth>480 m</map_depth>
+      </Map_Size>
+      <region>Italy</region>
+      <environment>Rough</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFI v1.12</game_version>
+      <Modules_Required>
+         <module1>Gustav Line</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>3</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>The stand at Noertrange</battle_title>
+      </Title>
+      <filename>GL Bulge Stand at Noertrange</filename>
+      <picture_link>scenpics/GL Bulge Stand at Noertrange.bmp</picture_link>
+      <battle_type>Axis Attack</battle_type>
+      <description>The stand at Noertrange, Luxembourg, 18 Dec, 1944 (Semi-Historical)  HtH or Single player. If single Player best played as Germans. For use with the BULGE 44 mod.</description>
+      <date>18/12/1943</date>
+      <time_of_day>12:20</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:30</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>0.64 Sq. km</map_area>
+         <map_width>800 m</map_width>
+         <map_depth>800 m</map_depth>
+      </Map_Size>
+      <region>Italy</region>
+      <environment>Rough</environment>
+      <weather>Light Snow</weather>
+      <temperature>Freezing</temperature>
+      <ground_condition>Light Snow</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFI v1.12</game_version>
+      <Modules_Required>
+         <module1>Gustav Line</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Devils to Isernia</battle_title>
+      </Title>
+      <filename>GL Devils to Isernia</filename>
+      <picture_link>scenpics/GL Devils to Isernia.bmp</picture_link>
+      <battle_type>Meeting Engagement</battle_type>
+      <description>D Company of the 504th PIR clashes with the 5th Company Rgt 15 Panzer Grenadiers for control of the Venafro-Isernia route. Playable in all modes.</description>
+      <date>03/11/1943</date>
+      <time_of_day>10:35</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:00</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>0.578 Sq. km</map_area>
+         <map_width>752 m</map_width>
+         <map_depth>768 m</map_depth>
+      </Map_Size>
+      <region>Italy</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Very Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFI v1.10</game_version>
+      <Modules_Required>
+         <module1>Gustav Line</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>One of Those Days</battle_title>
+      </Title>
+      <filename>FGM One of Those Days</filename>
+      <picture_link>scenpics/FGM One of Those Days.bmp</picture_link>
+      <battle_type>Meeting Engagement</battle_type>
+      <description>Small unit action in the Italian Countryside involving New Zealand Infantry Units and Panzergrenadier Units</description>
+      <date>28/05/1944</date>
+      <time_of_day>05:35</time_of_day>
+      <part_of_day>Dawn</part_of_day>
+      <length>01:00</length>
+      <battle_size>Small</battle_size>
+      <Map_Size>
+         <map_area>0.135 Sq. km</map_area>
+         <map_width>352 m</map_width>
+         <map_depth>384 m</map_depth>
+      </Map_Size>
+      <region>Italy</region>
+      <environment>Hills</environment>
+      <weather>Thick Haze</weather>
+      <temperature>Cool</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFI v1.20</game_version>
+      <Modules_Required>
+         <module1>Gustav Line</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>4</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>The Battle for Borgo Cascino final</battle_title>
+      </Title>
+      <filename>The Battle for Borgo Cascino</filename>
+      <picture_link>scenpics/The Battle for Borgo Cascino.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>The lead compnay of the 1st US Infantry Div. brushes aside a German screening force on the road to Enna. A small battle on medium sized map.</description>
+      <date>20/07/1943</date>
+      <time_of_day>12:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:10</length>
+      <battle_size>Small</battle_size>
+      <Map_Size>
+         <map_area>1.805 Sq. km</map_area>
+         <map_width>1504 m</map_width>
+         <map_depth>1200 m</map_depth>
+      </Map_Size>
+      <region>Italy</region>
+      <environment>Hills</environment>
+      <weather>Clear</weather>
+      <temperature>Hot</temperature>
+      <ground_condition>Very Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFI v1.00</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>4</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Invasion of Gela Eastside</battle_title>
+      </Title>
+      <filename>Invasion of Gela Eastside</filename>
+      <picture_link>scenpics/Invasion of Gela Eastside.bmp</picture_link>
+      <battle_type>Allied Assault</battle_type>
+      <description>Lnading at Gela/Beach Green and Yellow</description>
+      <date>10/07/1943</date>
+      <time_of_day>02:55</time_of_day>
+      <part_of_day>Night</part_of_day>
+      <length>03:30</length>
+      <battle_size>Huge</battle_size>
+      <Map_Size>
+         <map_area>1.973 Sq. km</map_area>
+         <map_width>1312 m</map_width>
+         <map_depth>1504 m</map_depth>
+      </Map_Size>
+      <region>Italy</region>
+      <environment>Town</environment>
+      <weather>Overcast</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFI v1.00</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>10</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>CMFI German Basegame Dealership</battle_title>
+      </Title>
+      <filename>CMFI German Basegame Dealership</filename>
+      <picture_link>scenpics/CMFI German Basegame Dealership.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>Not defined!</description>
+      <date>09/07/1943</date>
+      <time_of_day>09:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:30</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>0.102 Sq. km</map_area>
+         <map_width>320 m</map_width>
+         <map_depth>320 m</map_depth>
+      </Map_Size>
+      <region>Italy</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Very Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFI v1.01</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>5</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Venafro Back into Hell</battle_title>
+      </Title>
+      <filename>GL Venafro Back Into Hell</filename>
+      <picture_link>scenpics/GL Venafro Back Into Hell.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>Americans attempt to clear the German infiltrators from the ruins of an Italian town. Best played as Allies vs AI or HvH.</description>
+      <date>17/08/1943</date>
+      <time_of_day>09:00</time_of_day>
+      <part_of_day>Dawn</part_of_day>
+      <length>01:00</length>
+      <battle_size>Small</battle_size>
+      <Map_Size>
+         <map_area>0.086 Sq. km</map_area>
+         <map_width>224 m</map_width>
+         <map_depth>384 m</map_depth>
+      </Map_Size>
+      <region>Italy</region>
+      <environment>Town</environment>
+      <weather>Light Fog and Rain</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Muddy</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFI v1.10</game_version>
+      <Modules_Required>
+         <module1>Gustav Line</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>4</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Pontine Patrol</battle_title>
+      </Title>
+      <filename>AD Pontine Patrol</filename>
+      <picture_link>scenpics/AD Pontine Patrol.bmp</picture_link>
+      <battle_type>Allied Probe</battle_type>
+      <description>Patrol from the 1st SSF conducts a raid into the Pontine Marshes, east of the Anzio Beachhead. February 1944. Allied vs AI only.</description>
+      <date>12/02/1944</date>
+      <time_of_day>03:00</time_of_day>
+      <part_of_day>Night</part_of_day>
+      <length>00:35</length>
+      <battle_size>Tiny</battle_size>
+      <Map_Size>
+         <map_area>0.184 Sq. km</map_area>
+         <map_width>576 m</map_width>
+         <map_depth>320 m</map_depth>
+      </Map_Size>
+      <region>Italy</region>
+      <environment>Village</environment>
+      <weather>Overcast</weather>
+      <temperature>Cold</temperature>
+      <ground_condition>Muddy</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFI v1.12</game_version>
+      <Modules_Required>
+         <module1>Gustav Line</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>2</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Ritirare!</battle_title>
+      </Title>
+      <filename>Ritirare!!</filename>
+      <picture_link>scenpics/Ritirare!!.bmp</picture_link>
+      <battle_type>Allied Assault</battle_type>
+      <description>Battaglione Fucilieri under heavy US attack in an attempt to hold two bridges.</description>
+      <date>24/07/1943</date>
+      <time_of_day>10:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:00</length>
+      <battle_size>Small</battle_size>
+      <Map_Size>
+         <map_area>0.262 Sq. km</map_area>
+         <map_width>512 m</map_width>
+         <map_depth>512 m</map_depth>
+      </Map_Size>
+      <region>Italy</region>
+      <environment>Hills</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Very Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFI v1.00</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>4</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>DiSaronno</battle_title>
+      </Title>
+      <filename>DiSaronno </filename>
+      <picture_link>scenpics/DiSaronno .bmp</picture_link>
+      <battle_type>Allied Assault</battle_type>
+      <description>Allaid assault on the town of DiSaronno and the adjacent hills; Fictional; H2H; Allied V AI</description>
+      <date>06/02/1944</date>
+      <time_of_day>05:40</time_of_day>
+      <part_of_day>Dawn</part_of_day>
+      <length>01:00</length>
+      <battle_size>Large</battle_size>
+      <Map_Size>
+         <map_area>0.806 Sq. km</map_area>
+         <map_width>1008 m</map_width>
+         <map_depth>800 m</map_depth>
+      </Map_Size>
+      <region>Italy</region>
+      <environment>Town</environment>
+      <weather>Flurries</weather>
+      <temperature>Freezing</temperature>
+      <ground_condition>Light Snow</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFI v1.20</game_version>
+      <Modules_Required>
+         <module1>Gustav Line</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>8</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Kiwi Soldiers</battle_title>
+      </Title>
+      <filename>GL Kiwi Soldiers</filename>
+      <picture_link>scenpics/GL Kiwi Soldiers.bmp</picture_link>
+      <battle_type>Allied Probe</battle_type>
+      <description>14 Platoon consolidate their area after an attack. Best played as Allies or HvH.</description>
+      <date>09/03/1944</date>
+      <time_of_day>14:15</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:45</length>
+      <battle_size>Tiny</battle_size>
+      <Map_Size>
+         <map_area>0.043 Sq. km</map_area>
+         <map_width>208 m</map_width>
+         <map_depth>208 m</map_depth>
+      </Map_Size>
+      <region>Italy</region>
+      <environment>Village</environment>
+      <weather>Light Rain</weather>
+      <temperature>Cool</temperature>
+      <ground_condition>Wet</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFI v1.10</game_version>
+      <Modules_Required>
+         <module1>Gustav Line</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>3</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>The Keep Of Majella</battle_title>
+      </Title>
+      <filename>GL The Keep of Majella</filename>
+      <picture_link>scenpics/GL The Keep of Majella.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>A British task force is sent to destroy a high value target at all costs. Best played as Allies vs AI.</description>
+      <date>15/01/1944</date>
+      <time_of_day>10:15</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:30</length>
+      <battle_size>Large</battle_size>
+      <Map_Size>
+         <map_area>0.836 Sq. km</map_area>
+         <map_width>1088 m</map_width>
+         <map_depth>768 m</map_depth>
+      </Map_Size>
+      <region>Italy</region>
+      <environment>Town</environment>
+      <weather>Flurries</weather>
+      <temperature>Cold</temperature>
+      <ground_condition>Patchy Snow</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFI v1.10</game_version>
+      <Modules_Required>
+         <module1>Gustav Line</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>9</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>TWC Priolo Crossroad</battle_title>
+      </Title>
+      <filename>TWC Priolo Crossroad</filename>
+      <picture_link>scenpics/TWC Priolo Crossroad.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>13 Jul 1944 - British troops enter Priolo. H2H or vs AI as either side.</description>
+      <date>13/07/1943</date>
+      <time_of_day>10:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:40</length>
+      <battle_size>Small</battle_size>
+      <Map_Size>
+         <map_area>0.32 Sq. km</map_area>
+         <map_width>800 m</map_width>
+         <map_depth>400 m</map_depth>
+      </Map_Size>
+      <region>Italy</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Hot</temperature>
+      <ground_condition>Very Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFI v1.12</game_version>
+      <Modules_Required>
+         <module1>Gustav Line</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>3</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Salvate il Maggiore Rinetti!!!</battle_title>
+      </Title>
+      <filename>Salvate il Maggiore Rinetti</filename>
+      <picture_link>scenpics/Salvate il Maggiore Rinetti.bmp</picture_link>
+      <battle_type>Axis Attack</battle_type>
+      <description>Loyal Guastatori defend their CO from arrest by the Germans (fictional), playable as Human Defender vs AI Attacker. No H2H playtesting/balancing has been done.</description>
+      <date>09/07/1943</date>
+      <time_of_day>11:10</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:15</length>
+      <battle_size>Tiny</battle_size>
+      <Map_Size>
+         <map_area>0.087 Sq. km</map_area>
+         <map_width>208 m</map_width>
+         <map_depth>416 m</map_depth>
+      </Map_Size>
+      <region>Italy</region>
+      <environment>Town</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Very Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFI v1.01</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>1</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Veni Vidi Vici</battle_title>
+      </Title>
+      <filename>Veni vidi vici(EN)</filename>
+      <picture_link>scenpics/Veni vidi vici(EN).bmp</picture_link>
+      <battle_type>Axis Attack</battle_type>
+      <description>The Germans attepmt to break through British Lines ,Germans Paratroopers have dropped on Rivosondoli...with the bridge in their hands Germans are able to advance.</description>
+      <date>12/05/1944</date>
+      <time_of_day>08:15</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:10</length>
+      <battle_size>Large</battle_size>
+      <Map_Size>
+         <map_area>1.153 Sq. km</map_area>
+         <map_width>912 m</map_width>
+         <map_depth>1264 m</map_depth>
+      </Map_Size>
+      <region>Italy</region>
+      <environment>Village</environment>
+      <weather>Clear</weather>
+      <temperature>Hot</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFI v1.12</game_version>
+      <Modules_Required>
+         <module1>Gustav Line</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>8</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Ambush</battle_title>
+      </Title>
+      <filename>GL~ Ambush</filename>
+      <picture_link>scenpics/GL~ Ambush.bmp</picture_link>
+      <battle_type>Allied Probe</battle_type>
+      <description>U.S. Armored Infantry attempts to move past German forces. | Recommended human Allied player vs Axis AI</description>
+      <date>14/05/1944</date>
+      <time_of_day>06:15</time_of_day>
+      <part_of_day>Dawn</part_of_day>
+      <length>00:30</length>
+      <battle_size>Small</battle_size>
+      <Map_Size>
+         <map_area>0.564 Sq. km</map_area>
+         <map_width>608 m</map_width>
+         <map_depth>928 m</map_depth>
+      </Map_Size>
+      <region>Italy</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Cool</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFI v1.20</game_version>
+      <Modules_Required>
+         <module1>Gustav Line</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>3</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Kasserine Rearguard Player Setup</battle_title>
+      </Title>
+      <filename>Kasserine Rearguard Player Setup</filename>
+      <picture_link>scenpics/Kasserine Rearguard Player Setup.bmp</picture_link>
+      <battle_type>Axis Attack</battle_type>
+      <description>Allied vs Axis AI</description>
+      <date>09/07/1943</date>
+      <time_of_day>09:10</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:30</length>
+      <battle_size>Tiny</battle_size>
+      <Map_Size>
+         <map_area>0.066 Sq. km</map_area>
+         <map_width>256 m</map_width>
+         <map_depth>256 m</map_depth>
+      </Map_Size>
+      <region>Italy</region>
+      <environment>Open</environment>
+      <weather>Heavy Rain</weather>
+      <temperature>Cold</temperature>
+      <ground_condition>Muddy</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFI v1.20</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>africa</mod_tag>
+         <mod_tag>wadi</mod_tag>
+         <mod_tag>saltmarsh</mod_tag>
+         <mod_tag>sidi</mod_tag>
+         <mod_tag>usfieldjacket</mod_tag>
+         <mod_tag>french</mod_tag>
+      </Mod_Tags>
+      <size_modifier>2</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Snow Day</battle_title>
+      </Title>
+      <filename>AD Snow Day</filename>
+      <picture_link>scenpics/AD Snow Day.bmp</picture_link>
+      <battle_type>Allied Probe</battle_type>
+      <description>A company of New Zealanders attempts to expand the perimeter near Orsogna. December 1943. Allied vs Axis only.</description>
+      <date>30/12/1943</date>
+      <time_of_day>16:55</time_of_day>
+      <part_of_day>Dusk</part_of_day>
+      <length>00:25</length>
+      <battle_size>Small</battle_size>
+      <Map_Size>
+         <map_area>0.077 Sq. km</map_area>
+         <map_width>320 m</map_width>
+         <map_depth>240 m</map_depth>
+      </Map_Size>
+      <region>Italy</region>
+      <environment>Village</environment>
+      <weather>Overcast</weather>
+      <temperature>Freezing</temperature>
+      <ground_condition>Light Snow</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFI v1.12</game_version>
+      <Modules_Required>
+         <module1>Gustav Line</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>2</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Men With Suspicious Hats</battle_title>
+      </Title>
+      <filename>GL Men With Suspicious Hats</filename>
+      <picture_link>scenpics/GL Men With Suspicious Hats.bmp</picture_link>
+      <battle_type>Axis Attack</battle_type>
+      <description>Fallschirmjagers counterattack British forces at Battipaglia. Playable in all modes.</description>
+      <date>11/09/1943</date>
+      <time_of_day>18:30</time_of_day>
+      <part_of_day>Dusk</part_of_day>
+      <length>01:30</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>1.595 Sq. km</map_area>
+         <map_width>1216 m</map_width>
+         <map_depth>1312 m</map_depth>
+      </Map_Size>
+      <region>Italy</region>
+      <environment>Town</environment>
+      <weather>Clear</weather>
+      <temperature>Hot</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Axis Force</early_intel>
+      <game_version>CMFI v1.10</game_version>
+      <Modules_Required>
+         <module1>Gustav Line</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Biazzo Ridge</battle_title>
+      </Title>
+      <filename>Biazzo Ridge</filename>
+      <picture_link>scenpics/Biazzo Ridge.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>Colonel Gavin assaults Biazzo Ridge while on his way to Gela</description>
+      <date>11/07/1943</date>
+      <time_of_day>14:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>02:00</length>
+      <battle_size>Large</battle_size>
+      <Map_Size>
+         <map_area>2.976 Sq. km</map_area>
+         <map_width>1488 m</map_width>
+         <map_depth>2000 m</map_depth>
+      </Map_Size>
+      <region>Italy</region>
+      <environment>Rough</environment>
+      <weather>Clear</weather>
+      <temperature>Hot</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFI v1.00</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>9</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Primosole Bridge The First Day</battle_title>
+      </Title>
+      <filename>GL Primosole Bridge Fight to Survive V3</filename>
+      <picture_link>scenpics/GL Primosole Bridge Fight to Survive V3.bmp</picture_link>
+      <battle_type>Meeting Engagement</battle_type>
+      <description>British and German Airborne clash on July 14, 1943</description>
+      <date>14/07/1943</date>
+      <time_of_day>13:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>02:00</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>2.285 Sq. km</map_area>
+         <map_width>1264 m</map_width>
+         <map_depth>1808 m</map_depth>
+      </Map_Size>
+      <region>Italy</region>
+      <environment>Hills</environment>
+      <weather>Hazy</weather>
+      <temperature>Hot</temperature>
+      <ground_condition>Very Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFI v1.10</game_version>
+      <Modules_Required>
+         <module1>Gustav Line</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Montecassino, the outcome</battle_title>
+      </Title>
+      <filename>Montecassino, the outcome</filename>
+      <picture_link>scenpics/Montecassino, the outcome.bmp</picture_link>
+      <battle_type>Allied Assault</battle_type>
+      <description>After several failled attempts from Allied side, Polish troops decide to storm Monecassino at any price.</description>
+      <date>12/05/1944</date>
+      <time_of_day>06:30</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:30</length>
+      <battle_size>Large</battle_size>
+      <Map_Size>
+         <map_area>1.925 Sq. km</map_area>
+         <map_width>1504 m</map_width>
+         <map_depth>1280 m</map_depth>
+      </Map_Size>
+      <region>Italy</region>
+      <environment>Rough</environment>
+      <weather>Light Fog</weather>
+      <temperature>Cool</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFI v1.12</game_version>
+      <Modules_Required>
+         <module1>Gustav Line</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>9</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Butera Station</battle_title>
+      </Title>
+      <filename>Butera Station</filename>
+      <picture_link>scenpics/Butera Station.bmp</picture_link>
+      <battle_type>Meeting Engagement</battle_type>
+      <description>A US patrol moves to blunt the attack of Italian infantry from the Livorno Division moving toward Gela. Best as US vs AI.</description>
+      <date>11/07/1943</date>
+      <time_of_day>11:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:00</length>
+      <battle_size>Large</battle_size>
+      <Map_Size>
+         <map_area>2.912 Sq. km</map_area>
+         <map_width>2000 m</map_width>
+         <map_depth>1456 m</map_depth>
+      </Map_Size>
+      <region>Italy</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Very Dry</ground_condition>
+      <early_intel>Allied Force</early_intel>
+      <game_version>CMFI v1.00</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>8</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Rimini Airfield</battle_title>
+      </Title>
+      <filename>Rimini Airfield</filename>
+      <picture_link>scenpics/Rimini Airfield.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>8th Army moves on Rimini Airfield. </description>
+      <date>15/09/1943</date>
+      <time_of_day>12:30</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:20</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>5.198 Sq. km</map_area>
+         <map_width>2096 m</map_width>
+         <map_depth>2480 m</map_depth>
+      </Map_Size>
+      <region>Unknown</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Damp</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFI v2.00</game_version>
+      <Modules_Required>
+         <module1>Gustav Line</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Caltagirone H2H</battle_title>
+      </Title>
+      <filename>Caltagirone H2H</filename>
+      <picture_link>scenpics/Caltagirone H2H.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>This Scenario recreates the hand to hand  for the Italian Town Caltagirone</description>
+      <date>09/07/1943</date>
+      <time_of_day>09:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:00</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>0.727 Sq. km</map_area>
+         <map_width>688 m</map_width>
+         <map_depth>1056 m</map_depth>
+      </Map_Size>
+      <region>Italy</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Very Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFI v1.01</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>The Quarry</battle_title>
+      </Title>
+      <filename>GL The Quarry</filename>
+      <picture_link>scenpics/GL The Quarry.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>British forces fight their way through a quarry town in the blazing sun. Fictional scenario. Play as Allied vs Axis first. Playable from both sides.</description>
+      <date>14/09/1943</date>
+      <time_of_day>14:15</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:10</length>
+      <battle_size>Large</battle_size>
+      <Map_Size>
+         <map_area>1.693 Sq. km</map_area>
+         <map_width>1008 m</map_width>
+         <map_depth>1680 m</map_depth>
+      </Map_Size>
+      <region>Italy</region>
+      <environment>Village</environment>
+      <weather>Hazy</weather>
+      <temperature>Hot</temperature>
+      <ground_condition>Very Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFI v1.10</game_version>
+      <Modules_Required>
+         <module1>Gustav Line</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>8</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Wulf on the prowl (GL)</battle_title>
+      </Title>
+      <filename>Wulf on the prowl_v5</filename>
+      <picture_link>scenpics/Wulf on the prowl_v5.bmp</picture_link>
+      <battle_type>Axis Attack</battle_type>
+      <description>German troops left behind enemy lines stumble across an AA position and decide to take it on. Axis vs AI only.</description>
+      <date>22/07/1943</date>
+      <time_of_day>08:10</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:00</length>
+      <battle_size>Small</battle_size>
+      <Map_Size>
+         <map_area>0.224 Sq. km</map_area>
+         <map_width>400 m</map_width>
+         <map_depth>560 m</map_depth>
+      </Map_Size>
+      <region>Italy</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Cool</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFI v1.20</game_version>
+      <Modules_Required>
+         <module1>Gustav Line</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>4</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>A Temple to Mars</battle_title>
+      </Title>
+      <filename>GL A Temple to Mars</filename>
+      <picture_link>scenpics/GL A Temple to Mars.bmp</picture_link>
+      <battle_type>Allied Assault</battle_type>
+      <description>US 34th Infantry attacks the north slope of Monte Cassino. This scenario is playable in all modes. Stronger player should play Allies in HvH.</description>
+      <date>11/02/1944</date>
+      <time_of_day>11:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:40</length>
+      <battle_size>Large</battle_size>
+      <Map_Size>
+         <map_area>1.44 Sq. km</map_area>
+         <map_width>1200 m</map_width>
+         <map_depth>1200 m</map_depth>
+      </Map_Size>
+      <region>Italy</region>
+      <environment>Hills</environment>
+      <weather>Blizzard</weather>
+      <temperature>Freezing</temperature>
+      <ground_condition>Patchy Snow</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFI v1.10</game_version>
+      <Modules_Required>
+         <module1>Gustav Line</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>9</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Bad Day at Beach RED</battle_title>
+      </Title>
+      <filename>Bad Day at Beach RED</filename>
+      <picture_link>scenpics/Bad Day at Beach RED.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>US Rangers do what they do best and assault prepared Coastal Defences to the West of Gela</description>
+      <date>10/07/1943</date>
+      <time_of_day>05:35</time_of_day>
+      <part_of_day>Dawn</part_of_day>
+      <length>01:00</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>0.758 Sq. km</map_area>
+         <map_width>1008 m</map_width>
+         <map_depth>752 m</map_depth>
+      </Map_Size>
+      <region>Italy</region>
+      <environment>Rough</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Very Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFI v1.00</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Rescuing Mussolini</battle_title>
+      </Title>
+      <filename>Rescuing Mussolini</filename>
+      <picture_link>scenpics/Rescuing Mussolini.bmp</picture_link>
+      <battle_type>Axis Assault</battle_type>
+      <description>Axis v. Axis - Fallschirmjaegers assault mountain shelter to free Mussolini from his Italian captors - only playable as Axis attacker</description>
+      <date>12/09/1943</date>
+      <time_of_day>14:05</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:45</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>1.152 Sq. km</map_area>
+         <map_width>1200 m</map_width>
+         <map_depth>960 m</map_depth>
+      </Map_Size>
+      <region>Italy</region>
+      <environment>Open</environment>
+      <weather>Overcast</weather>
+      <temperature>Cool</temperature>
+      <ground_condition>Damp</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFI v1.20</game_version>
+      <Modules_Required>
+         <module1>Gustav Line</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Palma di Montechiaro</battle_title>
+      </Title>
+      <filename>Palma di Montechiaro - Variant - H2H</filename>
+      <picture_link>scenpics/Palma di Montechiaro - Variant - H2H.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>US forces attempt to eject an Italian force blocking the way west from the Licata beachhead - Non-historical variant - H2H only</description>
+      <date>11/07/1943</date>
+      <time_of_day>11:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:30</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>0.067 Sq. km</map_area>
+         <map_width>320 m</map_width>
+         <map_depth>208 m</map_depth>
+      </Map_Size>
+      <region>Italy</region>
+      <environment>City</environment>
+      <weather>Clear</weather>
+      <temperature>Extreme Heat</temperature>
+      <ground_condition>Very Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFI v1.00</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Casa Nostra</battle_title>
+      </Title>
+      <filename>Casa Nostra</filename>
+      <picture_link>scenpics/Casa Nostra.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>Elements of A Company, I/505th Parachute Infantry Regiment attack a fortified house at dawn on D-Day.  Best played Allied v. Axis AI or H2H.</description>
+      <date>10/07/1943</date>
+      <time_of_day>05:25</time_of_day>
+      <part_of_day>Dawn</part_of_day>
+      <length>00:40</length>
+      <battle_size>Small</battle_size>
+      <Map_Size>
+         <map_area>0.546 Sq. km</map_area>
+         <map_width>832 m</map_width>
+         <map_depth>656 m</map_depth>
+      </Map_Size>
+      <region>Italy</region>
+      <environment>Rough</environment>
+      <weather>Hazy</weather>
+      <temperature>Cool</temperature>
+      <ground_condition>Very Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFI v1.00</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>3</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Kasserine Rearguard</battle_title>
+      </Title>
+      <filename>Kasserine Rearguard</filename>
+      <picture_link>scenpics/Kasserine Rearguard.bmp</picture_link>
+      <battle_type>Axis Attack</battle_type>
+      <description>Allied vs Axis AI</description>
+      <date>09/07/1943</date>
+      <time_of_day>09:10</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:30</length>
+      <battle_size>Tiny</battle_size>
+      <Map_Size>
+         <map_area>0.066 Sq. km</map_area>
+         <map_width>256 m</map_width>
+         <map_depth>256 m</map_depth>
+      </Map_Size>
+      <region>Italy</region>
+      <environment>Open</environment>
+      <weather>Downpour</weather>
+      <temperature>Cold</temperature>
+      <ground_condition>Muddy</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFI v1.20</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>africa</mod_tag>
+         <mod_tag>wadi</mod_tag>
+         <mod_tag>saltmarsh</mod_tag>
+         <mod_tag>sidi</mod_tag>
+         <mod_tag>usfieldjacket</mod_tag>
+         <mod_tag>french</mod_tag>
+      </Mod_Tags>
+      <size_modifier>2</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Allied Infantry</battle_title>
+      </Title>
+      <filename>Allied units</filename>
+      <picture_link>scenpics/Allied units.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>Not defined!</description>
+      <date>09/05/1944</date>
+      <time_of_day>13:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:30</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>1.19 Sq. km</map_area>
+         <map_width>800 m</map_width>
+         <map_depth>1488 m</map_depth>
+      </Map_Size>
+      <region>Italy</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Very Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFI v1.10</game_version>
+      <Modules_Required>
+         <module1>Gustav Line</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>5</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>CMFI US Army Basegame Dealership</battle_title>
+      </Title>
+      <filename>CMFI US Army Basegame Dealership</filename>
+      <picture_link>scenpics/CMFI US Army Basegame Dealership.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>Not defined!</description>
+      <date>09/07/1943</date>
+      <time_of_day>09:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:30</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>0.102 Sq. km</map_area>
+         <map_width>320 m</map_width>
+         <map_depth>320 m</map_depth>
+      </Map_Size>
+      <region>Italy</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Very Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFI v1.01</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>5</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Hey Diddle Diddle</battle_title>
+      </Title>
+      <filename>Hey Diddle Diddle</filename>
+      <picture_link>scenpics/Hey Diddle Diddle.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>American Infantry Platoon vs. German OP --- Play as Allied single player or H2H</description>
+      <date>20/07/1943</date>
+      <time_of_day>08:30</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:00</length>
+      <battle_size>Small</battle_size>
+      <Map_Size>
+         <map_area>0.677 Sq. km</map_area>
+         <map_width>1008 m</map_width>
+         <map_depth>672 m</map_depth>
+      </Map_Size>
+      <region>Italy</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFI v1.01</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>4</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>TWC Devil&apos;s Brigade at La Difensa</battle_title>
+      </Title>
+      <filename>TWC Devil&apos;s Brigade at La Difensa</filename>
+      <picture_link>scenpics/TWC Devil&apos;s Brigade at La Difensa.bmp</picture_link>
+      <battle_type>Allied Assault</battle_type>
+      <description>3 Dec 1943 - The First Special Service Force makes their combat debut at Hill 960 during the fighting for the Camino hill mass</description>
+      <date>03/12/1943</date>
+      <time_of_day>05:30</time_of_day>
+      <part_of_day>Dawn</part_of_day>
+      <length>02:30</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>2.592 Sq. km</map_area>
+         <map_width>2160 m</map_width>
+         <map_depth>1200 m</map_depth>
+      </Map_Size>
+      <region>Italy</region>
+      <environment>Hills</environment>
+      <weather>Clear</weather>
+      <temperature>Freezing</temperature>
+      <ground_condition>Patchy Snow</ground_condition>
+      <early_intel>Allied Force</early_intel>
+      <game_version>CMFI v1.12</game_version>
+      <Modules_Required>
+         <module1>Gustav Line</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>The Forest of Wild Beasts</battle_title>
+      </Title>
+      <filename>GL The Forest of Wild Beasts</filename>
+      <picture_link>scenpics/GL The Forest of Wild Beasts.bmp</picture_link>
+      <battle_type>Axis Assault</battle_type>
+      <description>Herman Goring Panzer Division attacks down the Cisterna to Isola Bella road. Playable in any mode.</description>
+      <date>29/02/1944</date>
+      <time_of_day>07:45</time_of_day>
+      <part_of_day>Dawn</part_of_day>
+      <length>01:40</length>
+      <battle_size>Large</battle_size>
+      <Map_Size>
+         <map_area>5.76 Sq. km</map_area>
+         <map_width>2400 m</map_width>
+         <map_depth>2400 m</map_depth>
+      </Map_Size>
+      <region>Italy</region>
+      <environment>Open</environment>
+      <weather>Mist</weather>
+      <temperature>Cold</temperature>
+      <ground_condition>Muddy</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFI v1.10</game_version>
+      <Modules_Required>
+         <module1>Gustav Line</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>9</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Il Cortile Fortificato di Gela</battle_title>
+      </Title>
+      <filename>The Fortified Backyard of Gela V0_9</filename>
+      <picture_link>scenpics/The Fortified Backyard of Gela V0_9.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>US Army Rangers have to clear pillboxes at the northern edge of Gela - Allies Human vs Axis Computer only</description>
+      <date>10/07/1943</date>
+      <time_of_day>07:20</time_of_day>
+      <part_of_day>Dawn</part_of_day>
+      <length>01:00</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>0.138 Sq. km</map_area>
+         <map_width>320 m</map_width>
+         <map_depth>432 m</map_depth>
+      </Map_Size>
+      <region>Italy</region>
+      <environment>Town</environment>
+      <weather>Hazy</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Very Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFI v1.00</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Lemon Hill</battle_title>
+      </Title>
+      <filename>Lemon Hill</filename>
+      <picture_link>scenpics/Lemon Hill.bmp</picture_link>
+      <battle_type>Axis Assault</battle_type>
+      <description>Bersaglieri conduct a hasty assault on an Airborne held position. Fictional, best played first as the Axis.</description>
+      <date>12/07/1943</date>
+      <time_of_day>16:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:00</length>
+      <battle_size>Small</battle_size>
+      <Map_Size>
+         <map_area>1.27 Sq. km</map_area>
+         <map_width>1280 m</map_width>
+         <map_depth>992 m</map_depth>
+      </Map_Size>
+      <region>Italy</region>
+      <environment>Hills</environment>
+      <weather>Hazy</weather>
+      <temperature>Hot</temperature>
+      <ground_condition>Very Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFI v1.00</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>4</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Alvano Anvil</battle_title>
+      </Title>
+      <filename>Alvano Anvil</filename>
+      <picture_link>scenpics/Alvano Anvil.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>A supported Ranger Company clashes with a German mechanized force over high ground objectives. Allied Attack/Meeting Engagement</description>
+      <date>10/08/1943</date>
+      <time_of_day>16:45</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:10</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>0.671 Sq. km</map_area>
+         <map_width>912 m</map_width>
+         <map_depth>736 m</map_depth>
+      </Map_Size>
+      <region>Italy</region>
+      <environment>Village</environment>
+      <weather>Clear</weather>
+      <temperature>Hot</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFI v1.00</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Catch a Tiger</battle_title>
+      </Title>
+      <filename>Catch a Tiger</filename>
+      <picture_link>scenpics/Catch a Tiger.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>In the hasty retreat from Troina, an immobilized German tank is left behind. Kill it so the main force can advance. Best as US vs AI.</description>
+      <date>06/08/1943</date>
+      <time_of_day>07:15</time_of_day>
+      <part_of_day>Dawn</part_of_day>
+      <length>00:45</length>
+      <battle_size>Tiny</battle_size>
+      <Map_Size>
+         <map_area>0.37 Sq. km</map_area>
+         <map_width>608 m</map_width>
+         <map_depth>608 m</map_depth>
+      </Map_Size>
+      <region>Italy</region>
+      <environment>Rough</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Allied Force</early_intel>
+      <game_version>CMFI v1.00</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>3</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Termoli</battle_title>
+      </Title>
+      <filename>Termoli</filename>
+      <picture_link>scenpics/Termoli.bmp</picture_link>
+      <battle_type>Allied Assault</battle_type>
+      <description>Elements of the British 8th Army move up the Adriatic coast towards the ancient city of Termoli</description>
+      <date>17/05/1944</date>
+      <time_of_day>09:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:20</length>
+      <battle_size>Huge</battle_size>
+      <Map_Size>
+         <map_area>2.846 Sq. km</map_area>
+         <map_width>1744 m</map_width>
+         <map_depth>1632 m</map_depth>
+      </Map_Size>
+      <region>Italy</region>
+      <environment>Open</environment>
+      <weather>Hazy</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFI v1.10</game_version>
+      <Modules_Required>
+         <module1>Gustav Line</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>10</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Santa Maria Church Complex</battle_title>
+      </Title>
+      <filename>Santa Maria Church Complex</filename>
+      <picture_link>scenpics/Santa Maria Church Complex.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>8th Army attacks towards the Rimini Airfield</description>
+      <date>15/09/1943</date>
+      <time_of_day>07:30</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:00</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>0.871 Sq. km</map_area>
+         <map_width>672 m</map_width>
+         <map_depth>1296 m</map_depth>
+      </Map_Size>
+      <region>Unknown</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Damp</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFI v2.00</game_version>
+      <Modules_Required>
+         <module1>Gustav Line</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Axis units</battle_title>
+      </Title>
+      <filename>Axis units</filename>
+      <picture_link>scenpics/Axis units.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>Not defined!</description>
+      <date>09/08/1943</date>
+      <time_of_day>14:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:30</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>1.016 Sq. km</map_area>
+         <map_width>1008 m</map_width>
+         <map_depth>1008 m</map_depth>
+      </Map_Size>
+      <region>Italy</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Very Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFI v1.10</game_version>
+      <Modules_Required>
+         <module1>Gustav Line</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>5</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>GL German Dealership</battle_title>
+      </Title>
+      <filename>GL German Dealership</filename>
+      <picture_link>scenpics/GL German Dealership.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>Not defined!</description>
+      <date>09/05/1944</date>
+      <time_of_day>09:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:30</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>0.102 Sq. km</map_area>
+         <map_width>320 m</map_width>
+         <map_depth>320 m</map_depth>
+      </Map_Size>
+      <region>Italy</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Very Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFI v1.10</game_version>
+      <Modules_Required>
+         <module1>Gustav Line</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>5</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>The Hills Have Eyes</battle_title>
+      </Title>
+      <filename>The Hills Have Eyes</filename>
+      <picture_link>scenpics/The Hills Have Eyes.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>US forces fight an uphill battle to clear an enemy-held hilltop village - Best H2H, but playable as US vs. AI (German vs. AI playable but not recommended)</description>
+      <date>28/07/1943</date>
+      <time_of_day>20:30</time_of_day>
+      <part_of_day>Dusk</part_of_day>
+      <length>00:40</length>
+      <battle_size>Tiny</battle_size>
+      <Map_Size>
+         <map_area>0.043 Sq. km</map_area>
+         <map_width>208 m</map_width>
+         <map_depth>208 m</map_depth>
+      </Map_Size>
+      <region>Italy</region>
+      <environment>Village</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFI v1.00</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>2</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Palma di Montechiaro</battle_title>
+      </Title>
+      <filename>Palma di Montechiaro - H2H</filename>
+      <picture_link>scenpics/Palma di Montechiaro - H2H.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>US forces attempt to eject an Italian force blocking the way west from the Licata beachhead - H2H only</description>
+      <date>11/07/1943</date>
+      <time_of_day>11:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:30</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>0.067 Sq. km</map_area>
+         <map_width>320 m</map_width>
+         <map_depth>208 m</map_depth>
+      </Map_Size>
+      <region>Italy</region>
+      <environment>City</environment>
+      <weather>Clear</weather>
+      <temperature>Extreme Heat</temperature>
+      <ground_condition>Very Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFI v1.00</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Palma di Montechiaro</battle_title>
+      </Title>
+      <filename>Palma di Montechiaro - AI</filename>
+      <picture_link>scenpics/Palma di Montechiaro - AI.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>US forces attempt to eject an Italian force blocking the way west from the Licata beachhead - U.S. vs. AI only</description>
+      <date>11/07/1943</date>
+      <time_of_day>11:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:30</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>0.067 Sq. km</map_area>
+         <map_width>320 m</map_width>
+         <map_depth>208 m</map_depth>
+      </Map_Size>
+      <region>Italy</region>
+      <environment>City</environment>
+      <weather>Clear</weather>
+      <temperature>Extreme Heat</temperature>
+      <ground_condition>Very Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFI v1.00</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Hot Mustard - Expanded and Ransomized</battle_title>
+      </Title>
+      <filename>RDM - Hot Mustard</filename>
+      <picture_link>scenpics/RDM - Hot Mustard.bmp</picture_link>
+      <battle_type>Meeting Engagement</battle_type>
+      <description>Hermann Goring Panzer Division counterattacks the beach head - Plas as Axis vs AI - Reinforcements x 7</description>
+      <date>10/07/1943</date>
+      <time_of_day>12:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>02:00</length>
+      <battle_size>Huge</battle_size>
+      <Map_Size>
+         <map_area>4.128 Sq. km</map_area>
+         <map_width>2064 m</map_width>
+         <map_depth>2000 m</map_depth>
+      </Map_Size>
+      <region>Unknown</region>
+      <environment>Rough</environment>
+      <weather>Clear</weather>
+      <temperature>Hot</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFI v2.00</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>10</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Antipasto di Ortona</battle_title>
+      </Title>
+      <filename>Antipasto di Ortona</filename>
+      <picture_link>scenpics/Antipasto di Ortona.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>Ortana map by benpark, scenario by kohlenklau allies vs AI</description>
+      <date>22/12/1943</date>
+      <time_of_day>15:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:30</length>
+      <battle_size>Small</battle_size>
+      <Map_Size>
+         <map_area>0.043 Sq. km</map_area>
+         <map_width>208 m</map_width>
+         <map_depth>208 m</map_depth>
+      </Map_Size>
+      <region>Italy</region>
+      <environment>City</environment>
+      <weather>Overcast</weather>
+      <temperature>Cool</temperature>
+      <ground_condition>Muddy</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFI v1.20</game_version>
+      <Modules_Required>
+         <module1>Gustav Line</module1>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>ortona</mod_tag>
+         <mod_tag>fj</mod_tag>
+      </Mod_Tags>
+      <size_modifier>3</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>GL US Army Dealership</battle_title>
+      </Title>
+      <filename>GL US Army Dealership</filename>
+      <picture_link>scenpics/GL US Army Dealership.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>Not defined!</description>
+      <date>09/05/1944</date>
+      <time_of_day>09:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:30</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>0.102 Sq. km</map_area>
+         <map_width>320 m</map_width>
+         <map_depth>320 m</map_depth>
+      </Map_Size>
+      <region>Italy</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Very Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFI v1.10</game_version>
+      <Modules_Required>
+         <module1>Gustav Line</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>5</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>GL Wacht Am Rapido Teaser Battle</battle_title>
+      </Title>
+      <filename>GL Wacht Am Rapido Teaser Battle</filename>
+      <picture_link>scenpics/GL Wacht Am Rapido Teaser Battle.bmp</picture_link>
+      <battle_type>Allied Probe</battle_type>
+      <description>This is a stand alone teaser battle for the Wacht Am Rapido campaign. Playable as axis vs AI.</description>
+      <date>25/12/1943</date>
+      <time_of_day>16:20</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:20</length>
+      <battle_size>Small</battle_size>
+      <Map_Size>
+         <map_area>0.174 Sq. km</map_area>
+         <map_width>640 m</map_width>
+         <map_depth>272 m</map_depth>
+      </Map_Size>
+      <region>Italy</region>
+      <environment>Village</environment>
+      <weather>Flurries</weather>
+      <temperature>Cold</temperature>
+      <ground_condition>Patchy Snow</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFI v1.20</game_version>
+      <Modules_Required>
+         <module1>Gustav Line</module1>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>gloves</mod_tag>
+      </Mod_Tags>
+      <size_modifier>2</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Miramar - east of Rimini Airfield</battle_title>
+      </Title>
+      <filename>Miramar</filename>
+      <picture_link>scenpics/Miramar.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>8th Army moves on Rimini Airfield.  - The Coast road</description>
+      <date>15/09/1943</date>
+      <time_of_day>09:30</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:00</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>1.128 Sq. km</map_area>
+         <map_width>624 m</map_width>
+         <map_depth>1808 m</map_depth>
+      </Map_Size>
+      <region>Unknown</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Damp</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFI v2.00</game_version>
+      <Modules_Required>
+         <module1>Gustav Line</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Rangers and Engineers Against Mobile Group E v1_0</battle_title>
+      </Title>
+      <filename>Rangers and Engineers at Gela v1_0</filename>
+      <picture_link>scenpics/Rangers and Engineers at Gela v1_0.bmp</picture_link>
+      <battle_type>Axis Attack</battle_type>
+      <description>The first Axis counterattack on the Gela beach head, likely a diversionary action, bumps onto determined Allied opposition. Italian computer vs US human only.</description>
+      <date>10/07/1943</date>
+      <time_of_day>09:15</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:45</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>0.858 Sq. km</map_area>
+         <map_width>800 m</map_width>
+         <map_depth>1072 m</map_depth>
+      </Map_Size>
+      <region>Italy</region>
+      <environment>Town</environment>
+      <weather>Hazy</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Very Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFI v1.20</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Flak Hunt</battle_title>
+      </Title>
+      <filename>AD Flak Hunt</filename>
+      <picture_link>scenpics/AD Flak Hunt.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>British Paras hunt down a German flak battery located in the fields and orchards of Sicily. July 1943. Allied vs AI only.</description>
+      <date>13/07/1943</date>
+      <time_of_day>03:15</time_of_day>
+      <part_of_day>Dawn</part_of_day>
+      <length>00:30</length>
+      <battle_size>Small</battle_size>
+      <Map_Size>
+         <map_area>0.314 Sq. km</map_area>
+         <map_width>560 m</map_width>
+         <map_depth>560 m</map_depth>
+      </Map_Size>
+      <region>Italy</region>
+      <environment>Hills</environment>
+      <weather>Clear</weather>
+      <temperature>Cool</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFI v1.12</game_version>
+      <Modules_Required>
+         <module1>Gustav Line</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>3</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>In For a Pound - Expanded and Randomized</battle_title>
+      </Title>
+      <filename>RDM - GL - In For a Pound</filename>
+      <picture_link>scenpics/RDM - GL - In For a Pound.bmp</picture_link>
+      <battle_type>Meeting Engagement</battle_type>
+      <description>British and German mixed forces clash in this meeting engagement south of Catania. Play as Axis vs AI - Reinforcements x6</description>
+      <date>18/07/1943</date>
+      <time_of_day>10:15</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:00</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>0.653 Sq. km</map_area>
+         <map_width>704 m</map_width>
+         <map_depth>928 m</map_depth>
+      </Map_Size>
+      <region>Unknown</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Very Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFI v2.00</game_version>
+      <Modules_Required>
+         <module1>Gustav Line</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Salito Sunrise</battle_title>
+      </Title>
+      <filename>Salito Sunrise</filename>
+      <picture_link>scenpics/Salito Sunrise.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>Specialist Platoons from the 82nd Airborne move to secure objectives across the Salito River bridge. SINGLE PLAYER. ALLIED ONLY.</description>
+      <date>09/07/1943</date>
+      <time_of_day>09:35</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:55</length>
+      <battle_size>Small</battle_size>
+      <Map_Size>
+         <map_area>0.135 Sq. km</map_area>
+         <map_width>384 m</map_width>
+         <map_depth>352 m</map_depth>
+      </Map_Size>
+      <region>Italy</region>
+      <environment>Town</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Very Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFI v1.00</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>3</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>GL Commonwealth Dealership</battle_title>
+      </Title>
+      <filename>GL Commonwealth Dealership</filename>
+      <picture_link>scenpics/GL Commonwealth Dealership.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>Not defined!</description>
+      <date>09/05/1944</date>
+      <time_of_day>09:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:30</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>0.102 Sq. km</map_area>
+         <map_width>320 m</map_width>
+         <map_depth>320 m</map_depth>
+      </Map_Size>
+      <region>Italy</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Very Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFI v1.10</game_version>
+      <Modules_Required>
+         <module1>Gustav Line</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>5</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Avanti!!</battle_title>
+      </Title>
+      <filename>Avanti!!</filename>
+      <picture_link>scenpics/Avanti!!.bmp</picture_link>
+      <battle_type>Axis Attack</battle_type>
+      <description>Battaglione Fucilieri needs to retake two bridges.</description>
+      <date>24/07/1943</date>
+      <time_of_day>10:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:45</length>
+      <battle_size>Small</battle_size>
+      <Map_Size>
+         <map_area>0.262 Sq. km</map_area>
+         <map_width>512 m</map_width>
+         <map_depth>512 m</map_depth>
+      </Map_Size>
+      <region>Italy</region>
+      <environment>Hills</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Very Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFI v1.00</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>3</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>In For a Pound</battle_title>
+      </Title>
+      <filename>GL In For a Pound</filename>
+      <picture_link>scenpics/GL In For a Pound.bmp</picture_link>
+      <battle_type>Meeting Engagement</battle_type>
+      <description>British and German mixed forces clash in this meeting engagement south of Catania. Playable in all modes.</description>
+      <date>18/07/1943</date>
+      <time_of_day>10:15</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:00</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>0.653 Sq. km</map_area>
+         <map_width>704 m</map_width>
+         <map_depth>928 m</map_depth>
+      </Map_Size>
+      <region>Italy</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Very Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFI v1.10</game_version>
+      <Modules_Required>
+         <module1>Gustav Line</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Hilltop to Hilltop</battle_title>
+      </Title>
+      <filename>GL Hilltop to Hilltop</filename>
+      <picture_link>scenpics/GL Hilltop to Hilltop.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>Rangers fight down one hill and back up another in the rain.  Best played as Allies vs AI.</description>
+      <date>24/04/1944</date>
+      <time_of_day>06:20</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:20</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>0.952 Sq. km</map_area>
+         <map_width>944 m</map_width>
+         <map_depth>1008 m</map_depth>
+      </Map_Size>
+      <region>Italy</region>
+      <environment>Open</environment>
+      <weather>Light Fog and Rain</weather>
+      <temperature>Cool</temperature>
+      <ground_condition>Muddy</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFI v1.10</game_version>
+      <Modules_Required>
+         <module1>Gustav Line</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Operation Ladbroke</battle_title>
+      </Title>
+      <filename>GL Operation Ladbroke</filename>
+      <picture_link>scenpics/GL Operation Ladbroke.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>2nd South Staffordshires of the 1st Airlanding Division assault Ponte Grande Bridge on the opening of Operation Husky. Playable in all modes.</description>
+      <date>09/07/1943</date>
+      <time_of_day>22:55</time_of_day>
+      <part_of_day>Night</part_of_day>
+      <length>00:40</length>
+      <battle_size>Small</battle_size>
+      <Map_Size>
+         <map_area>0.428 Sq. km</map_area>
+         <map_width>704 m</map_width>
+         <map_depth>608 m</map_depth>
+      </Map_Size>
+      <region>Italy</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Axis Force</early_intel>
+      <game_version>CMFI v1.20</game_version>
+      <Modules_Required>
+         <module1>Gustav Line</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>3</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>CMFI Italian Basegame Dealership</battle_title>
+      </Title>
+      <filename>CMFI Italian Basegame Dealership</filename>
+      <picture_link>scenpics/CMFI Italian Basegame Dealership.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>Not defined!</description>
+      <date>09/07/1943</date>
+      <time_of_day>09:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:30</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>0.102 Sq. km</map_area>
+         <map_width>320 m</map_width>
+         <map_depth>320 m</map_depth>
+      </Map_Size>
+      <region>Italy</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Very Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFI v1.01</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>5</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Clearing the Niscemi Highway</battle_title>
+      </Title>
+      <filename>Clearing the Niscemi Highway</filename>
+      <picture_link>scenpics/Clearing the Niscemi Highway.bmp</picture_link>
+      <battle_type>Axis Attack</battle_type>
+      <description>A joint Luftwaffe/Bersaglieri force move to smash a troublesome outpost of American paratroopers entrenched astride the Niscemi highway.</description>
+      <date>12/07/1943</date>
+      <time_of_day>10:50</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:30</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>0.754 Sq. km</map_area>
+         <map_width>736 m</map_width>
+         <map_depth>1024 m</map_depth>
+      </Map_Size>
+      <region>Italy</region>
+      <environment>Hills</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Very Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFI v1.00</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Elephants and Tigers</battle_title>
+      </Title>
+      <filename>GL Elephants and Tigers</filename>
+      <picture_link>scenpics/GL Elephants and Tigers.bmp</picture_link>
+      <battle_type>Allied Probe</battle_type>
+      <description>The Tigers of the 5th Bttn The Hampshire Regt must locate an Elephant Tank Destroyer. Best played as Allied VS AI, but can also be played Axis VS AI and HvH.</description>
+      <date>10/04/1944</date>
+      <time_of_day>08:15</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:00</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>0.915 Sq. km</map_area>
+         <map_width>1040 m</map_width>
+         <map_depth>880 m</map_depth>
+      </Map_Size>
+      <region>Italy</region>
+      <environment>Open</environment>
+      <weather>Mist</weather>
+      <temperature>Cool</temperature>
+      <ground_condition>Wet</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFI v1.10</game_version>
+      <Modules_Required>
+         <module1>Gustav Line</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>GL Bloody Beachtown</battle_title>
+      </Title>
+      <filename>Bloody Beachtown</filename>
+      <picture_link>scenpics/Bloody Beachtown.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>Brit paratroops dislodge Italian infantry from a beachfront town. A short, sharp urban infantry action. Allied vs AI only. </description>
+      <date>09/07/1943</date>
+      <time_of_day>09:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:30</length>
+      <battle_size>Small</battle_size>
+      <Map_Size>
+         <map_area>0.053 Sq. km</map_area>
+         <map_width>208 m</map_width>
+         <map_depth>256 m</map_depth>
+      </Map_Size>
+      <region>Italy</region>
+      <environment>Town</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Allied Force</early_intel>
+      <game_version>CMFI v1.10</game_version>
+      <Modules_Required>
+         <module1>Gustav Line</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>3</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>King Ludwig</battle_title>
+      </Title>
+      <filename>GL King Ludwig</filename>
+      <picture_link>scenpics/GL King Ludwig.bmp</picture_link>
+      <battle_type>Allied Assault</battle_type>
+      <description>1st Hampshires attack Regalbuto Ridge.  Playable in all modes.</description>
+      <date>29/07/1943</date>
+      <time_of_day>18:00</time_of_day>
+      <part_of_day>Dusk</part_of_day>
+      <length>01:50</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>1.28 Sq. km</map_area>
+         <map_width>1600 m</map_width>
+         <map_depth>800 m</map_depth>
+      </Map_Size>
+      <region>Italy</region>
+      <environment>Hills</environment>
+      <weather>Clear</weather>
+      <temperature>Hot</temperature>
+      <ground_condition>Very Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFI v1.10</game_version>
+      <Modules_Required>
+         <module1>Gustav Line</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>GL The Loyalty of Garibaldi</battle_title>
+      </Title>
+      <filename>GL The Loyalty of Garibaldi</filename>
+      <picture_link>scenpics/GL The Loyalty of Garibaldi.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>A small cadre of Italian partisans attack a German Flak battery. **ALLIED vs AI**</description>
+      <date>09/07/1943</date>
+      <time_of_day>09:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:30</length>
+      <battle_size>Tiny</battle_size>
+      <Map_Size>
+         <map_area>0.06 Sq. km</map_area>
+         <map_width>288 m</map_width>
+         <map_depth>208 m</map_depth>
+      </Map_Size>
+      <region>Italy</region>
+      <environment>Hills</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Allied Force</early_intel>
+      <game_version>CMFI v1.10</game_version>
+      <Modules_Required>
+         <module1>Gustav Line</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>2</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Pathfinders</battle_title>
+      </Title>
+      <filename>Pathfinders</filename>
+      <picture_link>scenpics/Pathfinders.bmp</picture_link>
+      <battle_type>Meeting Engagement</battle_type>
+      <description>Fictional - US Pathfinders lead the way for the Paratroopers during the Sicily Invasion</description>
+      <date>09/07/1943</date>
+      <time_of_day>00:00</time_of_day>
+      <part_of_day>Night</part_of_day>
+      <length>00:30</length>
+      <battle_size>Small</battle_size>
+      <Map_Size>
+         <map_area>1.016 Sq. km</map_area>
+         <map_width>1008 m</map_width>
+         <map_depth>1008 m</map_depth>
+      </Map_Size>
+      <region>Italy</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Very Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFI v1.12</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>3</size_modifier>
+   </Scenario>
+
+   </Scenario_List>
+</Scenario_Listing>

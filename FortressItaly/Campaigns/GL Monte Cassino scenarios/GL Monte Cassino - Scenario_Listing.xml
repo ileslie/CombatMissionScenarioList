@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="Listing_Layout.xsl" ?>
+
+<Scenario_Listing>
+
+   <Scenario_List>
+
+   <containing_campaign>Monte Cassino</containing_campaign>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #00]</number_in_campaign>
+         <battle_title>Phantom Ridge</battle_title>
+      </Title>
+      <filename>GL Monte Cassino #00_Cassino Mission 1</filename>
+      <picture_link>scenpics/GL Monte Cassino0.bmp</picture_link>
+      <battle_type>Allied Probe</battle_type>
+      <description>In preparation for the attacks later in the day, 16th Battalion launches a night attack against the north slopes of Phantom Ridge.</description>
+      <date>17/05/1944</date>
+      <time_of_day>01:45</time_of_day>
+      <part_of_day>Night</part_of_day>
+      <length>01:00</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>0.614 Sq. km</map_area>
+         <map_width>768 m</map_width>
+         <map_depth>800 m</map_depth>
+      </Map_Size>
+      <region>Italy</region>
+      <environment>Hills</environment>
+      <weather>Clear</weather>
+      <temperature>Cold</temperature>
+      <ground_condition>Damp</ground_condition>
+      <early_intel>Allied Force</early_intel>
+      <game_version>pre-release CMFI v1.10</game_version>
+      <Modules_Required>
+         <module1>Gustav Line</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #09]</number_in_campaign>
+         <battle_title>A Morning Stroll</battle_title>
+      </Title>
+      <filename>GL Monte Cassino #09_Cassino Mission 5</filename>
+      <picture_link>scenpics/GL Monte Cassino9.bmp</picture_link>
+      <battle_type>Allied Probe</battle_type>
+      <description>A morning patrol investigates the Cassino monastery.</description>
+      <date>18/05/1944</date>
+      <time_of_day>06:10</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:00</length>
+      <battle_size>Small</battle_size>
+      <Map_Size>
+         <map_area>0.586 Sq. km</map_area>
+         <map_width>704 m</map_width>
+         <map_depth>832 m</map_depth>
+      </Map_Size>
+      <region>Italy</region>
+      <environment>Hills</environment>
+      <weather>Clear</weather>
+      <temperature>Cold</temperature>
+      <ground_condition>Damp</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>pre-release CMFI v1.10</game_version>
+      <Modules_Required>
+         <module1>Gustav Line</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>4</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #01]</number_in_campaign>
+         <battle_title>The Gorge</battle_title>
+      </Title>
+      <filename>GL Monte Cassino #01_Cassino Mission 2</filename>
+      <picture_link>scenpics/GL Monte Cassino1.bmp</picture_link>
+      <battle_type>Allied Assault</battle_type>
+      <description>To open up Cavendish Road for Shermans who can support the attack, the 6th Battalion must first clear the Gorge.</description>
+      <date>17/05/1944</date>
+      <time_of_day>12:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:30</length>
+      <battle_size>Large</battle_size>
+      <Map_Size>
+         <map_area>1.114 Sq. km</map_area>
+         <map_width>800 m</map_width>
+         <map_depth>1392 m</map_depth>
+      </Map_Size>
+      <region>Italy</region>
+      <environment>Hills</environment>
+      <weather>Overcast</weather>
+      <temperature>Cool</temperature>
+      <ground_condition>Damp</ground_condition>
+      <early_intel>Allied Force</early_intel>
+      <game_version>pre-release CMFI v1.10</game_version>
+      <Modules_Required>
+         <module1>Gustav Line</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>9</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #05]</number_in_campaign>
+         <battle_title>Point 593</battle_title>
+      </Title>
+      <filename>GL Monte Cassino #05_Cassino Mission 4</filename>
+      <picture_link>scenpics/GL Monte Cassino5.bmp</picture_link>
+      <battle_type>Allied Assault</battle_type>
+      <description>Finish the German defenses by taking the heavily defended Point 593.</description>
+      <date>17/05/1944</date>
+      <time_of_day>16:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>02:00</length>
+      <battle_size>Large</battle_size>
+      <Map_Size>
+         <map_area>2.689 Sq. km</map_area>
+         <map_width>1616 m</map_width>
+         <map_depth>1664 m</map_depth>
+      </Map_Size>
+      <region>Italy</region>
+      <environment>Hills</environment>
+      <weather>Light Rain</weather>
+      <temperature>Cool</temperature>
+      <ground_condition>Damp</ground_condition>
+      <early_intel>Allied Force</early_intel>
+      <game_version>pre-release CMFI v1.10</game_version>
+      <Modules_Required>
+         <module1>Gustav Line</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>9</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #07]</number_in_campaign>
+         <battle_title>Point 593</battle_title>
+      </Title>
+      <filename>GL Monte Cassino #07_Cassino Mission 4 3F</filename>
+      <picture_link>scenpics/GL Monte Cassino7.bmp</picture_link>
+      <battle_type>Allied Assault</battle_type>
+      <description>Finish the German defenses by taking the heavily defended Point 593.</description>
+      <date>17/05/1944</date>
+      <time_of_day>16:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>02:00</length>
+      <battle_size>Large</battle_size>
+      <Map_Size>
+         <map_area>2.689 Sq. km</map_area>
+         <map_width>1616 m</map_width>
+         <map_depth>1664 m</map_depth>
+      </Map_Size>
+      <region>Italy</region>
+      <environment>Hills</environment>
+      <weather>Light Rain</weather>
+      <temperature>Cool</temperature>
+      <ground_condition>Damp</ground_condition>
+      <early_intel>Allied Force</early_intel>
+      <game_version>pre-release CMFI v1.10</game_version>
+      <Modules_Required>
+         <module1>Gustav Line</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>9</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #08]</number_in_campaign>
+         <battle_title>Point 593</battle_title>
+      </Title>
+      <filename>GL Monte Cassino #08_Cassino Mission 4 2F3F</filename>
+      <picture_link>scenpics/GL Monte Cassino8.bmp</picture_link>
+      <battle_type>Allied Assault</battle_type>
+      <description>Finish the German defenses by taking the heavily defended Point 593.</description>
+      <date>17/05/1944</date>
+      <time_of_day>16:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>02:00</length>
+      <battle_size>Large</battle_size>
+      <Map_Size>
+         <map_area>2.689 Sq. km</map_area>
+         <map_width>1616 m</map_width>
+         <map_depth>1664 m</map_depth>
+      </Map_Size>
+      <region>Italy</region>
+      <environment>Hills</environment>
+      <weather>Light Rain</weather>
+      <temperature>Cool</temperature>
+      <ground_condition>Damp</ground_condition>
+      <early_intel>Allied Force</early_intel>
+      <game_version>pre-release CMFI v1.10</game_version>
+      <Modules_Required>
+         <module1>Gustav Line</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>9</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #06]</number_in_campaign>
+         <battle_title>Point 593</battle_title>
+      </Title>
+      <filename>GL Monte Cassino #06_Cassino Mission 4 2F</filename>
+      <picture_link>scenpics/GL Monte Cassino6.bmp</picture_link>
+      <battle_type>Allied Assault</battle_type>
+      <description>Finish the German defenses by taking the heavily defended Point 593.</description>
+      <date>17/05/1944</date>
+      <time_of_day>16:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>02:00</length>
+      <battle_size>Large</battle_size>
+      <Map_Size>
+         <map_area>2.689 Sq. km</map_area>
+         <map_width>1616 m</map_width>
+         <map_depth>1664 m</map_depth>
+      </Map_Size>
+      <region>Italy</region>
+      <environment>Hills</environment>
+      <weather>Light Rain</weather>
+      <temperature>Cool</temperature>
+      <ground_condition>Damp</ground_condition>
+      <early_intel>Allied Force</early_intel>
+      <game_version>pre-release CMFI v1.10</game_version>
+      <Modules_Required>
+         <module1>Gustav Line</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>9</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #03]</number_in_campaign>
+         <battle_title>Colle Sant&apos;Angelo</battle_title>
+      </Title>
+      <filename>GL Monte Cassino #03_Cassino Mission 3</filename>
+      <picture_link>scenpics/GL Monte Cassino3.bmp</picture_link>
+      <battle_type>Allied Assault</battle_type>
+      <description>Dislodge stubborn German defenders from the heights of Colle Sant&apos;Angelo.</description>
+      <date>17/05/1944</date>
+      <time_of_day>14:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:30</length>
+      <battle_size>Large</battle_size>
+      <Map_Size>
+         <map_area>0.704 Sq. km</map_area>
+         <map_width>880 m</map_width>
+         <map_depth>800 m</map_depth>
+      </Map_Size>
+      <region>Italy</region>
+      <environment>Hills</environment>
+      <weather>Overcast</weather>
+      <temperature>Cool</temperature>
+      <ground_condition>Damp</ground_condition>
+      <early_intel>Allied Force</early_intel>
+      <game_version>pre-release CMFI v1.10</game_version>
+      <Modules_Required>
+         <module1>Gustav Line</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>9</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #04]</number_in_campaign>
+         <battle_title>Colle Sant&apos;Angelo</battle_title>
+      </Title>
+      <filename>GL Monte Cassino #04_Cassino Mission 3 2F</filename>
+      <picture_link>scenpics/GL Monte Cassino4.bmp</picture_link>
+      <battle_type>Allied Assault</battle_type>
+      <description>Dislodge stubborn German defenders from the heights of Colle Sant&apos;Angelo.</description>
+      <date>17/05/1944</date>
+      <time_of_day>14:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:30</length>
+      <battle_size>Large</battle_size>
+      <Map_Size>
+         <map_area>0.704 Sq. km</map_area>
+         <map_width>880 m</map_width>
+         <map_depth>800 m</map_depth>
+      </Map_Size>
+      <region>Italy</region>
+      <environment>Hills</environment>
+      <weather>Overcast</weather>
+      <temperature>Cool</temperature>
+      <ground_condition>Damp</ground_condition>
+      <early_intel>Allied Force</early_intel>
+      <game_version>pre-release CMFI v1.10</game_version>
+      <Modules_Required>
+         <module1>Gustav Line</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>9</size_modifier>
+   </Scenario>
+
+   </Scenario_List>
+</Scenario_Listing>

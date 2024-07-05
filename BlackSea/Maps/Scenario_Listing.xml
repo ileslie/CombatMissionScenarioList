@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="Listing_Layout.xsl" ?>
+
+<Scenario_Listing>
+
+   <Scenario_List>
+
+   <Scenario>
+      <Title>
+         <battle_title>Stadium F - Master Map (no AI)</battle_title>
+      </Title>
+      <filename>Suburban - Stadium Map [1600x1200] NO AI</filename>
+      <picture_link>scenpics/Suburban - Stadium Map [1600x1200] NO AI.bmp</picture_link>
+      <battle_type>Blue Attack</battle_type>
+      <description>Not defined!</description>
+      <date>01/06/2017</date>
+      <time_of_day>12:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>03:00</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>1.732 Sq. km</map_area>
+         <map_width>1616 m</map_width>
+         <map_depth>1072 m</map_depth>
+      </Map_Size>
+      <region>Ukraine</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBS v1.04 to v2.10</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>CTD master</battle_title>
+      </Title>
+      <filename>CTD master</filename>
+      <picture_link>scenpics/CTD master.bmp</picture_link>
+      <battle_type>Blue Attack</battle_type>
+      <description>Not defined!</description>
+      <date>01/06/2017</date>
+      <time_of_day>09:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:30</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>10.016 Sq. km</map_area>
+         <map_width>5008 m</map_width>
+         <map_depth>2000 m</map_depth>
+      </Map_Size>
+      <region>Ukraine</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBS v1.00 to v1.02</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>trash</mod_tag>
+         <mod_tag>lawn</mod_tag>
+      </Mod_Tags>
+      <size_modifier>5</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>CMBS-Koretsk</battle_title>
+      </Title>
+      <filename>CMBS-Koretsk</filename>
+      <picture_link>scenpics/CMBS-Koretsk.bmp</picture_link>
+      <battle_type>Meeting Engagement</battle_type>
+      <description>Not defined!</description>
+      <date>01/06/2017</date>
+      <time_of_day>08:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:00</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>1.12 Sq. km</map_area>
+         <map_width>1296 m</map_width>
+         <map_depth>864 m</map_depth>
+      </Map_Size>
+      <region>Ukraine</region>
+      <environment>Open</environment>
+      <weather>Heavy Rain</weather>
+      <temperature>Cold</temperature>
+      <ground_condition>Wet</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBS v2.13 to v2.15</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Chernova Hirka Mastermap v1</battle_title>
+      </Title>
+      <filename>Chernova Hirka Mastermap v1</filename>
+      <picture_link>scenpics/Chernova Hirka Mastermap v1.bmp</picture_link>
+      <battle_type>Red Attack</battle_type>
+      <description>Not defined!</description>
+      <date>01/06/2017</date>
+      <time_of_day>09:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>02:30</length>
+      <battle_size>Huge</battle_size>
+      <Map_Size>
+         <map_area>15.368 Sq. km</map_area>
+         <map_width>4640 m</map_width>
+         <map_depth>3312 m</map_depth>
+      </Map_Size>
+      <region>Ukraine</region>
+      <environment>Rough</environment>
+      <weather>Mist</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Wet</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBS v1.03</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>10</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Great Swamps</battle_title>
+      </Title>
+      <filename>Great Swamps</filename>
+      <picture_link>scenpics/Great Swamps.bmp</picture_link>
+      <battle_type>Meeting Engagement</battle_type>
+      <description>1520 x 1520 - Rough map that consists of muddy paths, swampy terrain.</description>
+      <date>01/06/2017</date>
+      <time_of_day>11:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:30</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>2.31 Sq. km</map_area>
+         <map_width>1520 m</map_width>
+         <map_depth>1520 m</map_depth>
+      </Map_Size>
+      <region>Ukraine</region>
+      <environment>Rough</environment>
+      <weather>Light Rain</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBS v2.16 to v2.18</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>5</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Kieme&apos;s HighwayV2</battle_title>
+      </Title>
+      <filename>Kieme&apos;s Highway V2 - map only</filename>
+      <picture_link>scenpics/Kieme&apos;s Highway V2 - map only.bmp</picture_link>
+      <battle_type>Meeting Engagement</battle_type>
+      <description>Not defined!</description>
+      <date>01/06/2017</date>
+      <time_of_day>12:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:45</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>3.84 Sq. km</map_area>
+         <map_width>2000 m</map_width>
+         <map_depth>1920 m</map_depth>
+      </Map_Size>
+      <region>Ukraine</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBS v1.00 to v1.02</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>highway</mod_tag>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>GSJ</battle_title>
+      </Title>
+      <filename>Junction 2</filename>
+      <picture_link>scenpics/Junction 2.bmp</picture_link>
+      <battle_type>Blue Attack</battle_type>
+      <description>Take and control a major road junction </description>
+      <date>01/07/2017</date>
+      <time_of_day>07:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:30</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>1.877 Sq. km</map_area>
+         <map_width>1504 m</map_width>
+         <map_depth>1248 m</map_depth>
+      </Map_Size>
+      <region>Ukraine</region>
+      <environment>Open</environment>
+      <weather>Mist</weather>
+      <temperature>Hot</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Red Force</early_intel>
+      <game_version>CMBS v1.03</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>5</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>sandbox map</battle_title>
+      </Title>
+      <filename>Ukrainian Crossroads</filename>
+      <picture_link>scenpics/Ukrainian Crossroads.bmp</picture_link>
+      <battle_type>Blue Attack</battle_type>
+      <description>4 x 4.5 km map</description>
+      <date>16/08/2017</date>
+      <time_of_day>09:45</time_of_day>
+      <part_of_day>Night</part_of_day>
+      <length>04:00</length>
+      <battle_size>Huge</battle_size>
+      <Map_Size>
+         <map_area>18.048 Sq. km</map_area>
+         <map_width>4512 m</map_width>
+         <map_depth>4000 m</map_depth>
+      </Map_Size>
+      <region>Ukraine</region>
+      <environment>Town</environment>
+      <weather>Mist and Rain</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Wet</ground_condition>
+      <early_intel>Blue Force</early_intel>
+      <game_version>CMBS v1.03</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>10</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Hills of Al Sheik Bader</battle_title>
+      </Title>
+      <filename>Hills of Al Sheik Bader</filename>
+      <picture_link>scenpics/Hills of Al Sheik Bader.bmp</picture_link>
+      <battle_type>Blue Attack</battle_type>
+      <description>Not defined!</description>
+      <date>01/06/2017</date>
+      <time_of_day>11:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:30</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>0.102 Sq. km</map_area>
+         <map_width>320 m</map_width>
+         <map_depth>320 m</map_depth>
+      </Map_Size>
+      <region>Ukraine</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBS v1.04 to v2.10</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>5</size_modifier>
+   </Scenario>
+
+   </Scenario_List>
+</Scenario_Listing>

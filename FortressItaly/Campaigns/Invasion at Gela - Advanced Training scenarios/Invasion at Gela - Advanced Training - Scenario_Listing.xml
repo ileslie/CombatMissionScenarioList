@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="Listing_Layout.xsl" ?>
+
+<Scenario_Listing>
+
+   <Scenario_List>
+
+   <containing_campaign>Invasion at Gela - Advanced Training</containing_campaign>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #02]</number_in_campaign>
+         <battle_title>Last Defense</battle_title>
+      </Title>
+      <filename>Invasion at Gela - Advanced Training #02_Fi Cmpn 23 Last Defense</filename>
+      <picture_link>scenpics/Invasion at Gela - Advanced Training2.bmp</picture_link>
+      <battle_type>Axis Attack</battle_type>
+      <description>Reinforced, the Luftwaffe makes one last immense attack against Hill 1056. Will the 1st Infantry Division arrive in time to save the day?</description>
+      <date>12/07/1943</date>
+      <time_of_day>09:10</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:00</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>0.4 Sq. km</map_area>
+         <map_width>736 m</map_width>
+         <map_depth>544 m</map_depth>
+      </Map_Size>
+      <region>Italy</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Cool</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFI v1.00</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #01]</number_in_campaign>
+         <battle_title>Holding Hill 1056</battle_title>
+      </Title>
+      <filename>Invasion at Gela - Advanced Training #01_Fi Cmpn 22 Holding Hill 1056</filename>
+      <picture_link>scenpics/Invasion at Gela - Advanced Training1.bmp</picture_link>
+      <battle_type>Axis Attack</battle_type>
+      <description>One day after the invasion, paratroopers must hold a hill overlooking the Gela highway from a Luftwaffe attack.</description>
+      <date>11/07/1943</date>
+      <time_of_day>12:15</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:30</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>0.4 Sq. km</map_area>
+         <map_width>736 m</map_width>
+         <map_depth>544 m</map_depth>
+      </Map_Size>
+      <region>Italy</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFI v1.00</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>5</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #00]</number_in_campaign>
+         <battle_title>Bridge Assault</battle_title>
+      </Title>
+      <filename>Invasion at Gela - Advanced Training #00_Fi Cmpn 21 Bridge Assault</filename>
+      <picture_link>scenpics/Invasion at Gela - Advanced Training0.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>Elements from the Big Red One push into Sicily on July 10 to capture a highway bridge.</description>
+      <date>10/07/1943</date>
+      <time_of_day>11:30</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:45</length>
+      <battle_size>Small</battle_size>
+      <Map_Size>
+         <map_area>0.186 Sq. km</map_area>
+         <map_width>528 m</map_width>
+         <map_depth>352 m</map_depth>
+      </Map_Size>
+      <region>Italy</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFI v1.00</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>3</size_modifier>
+   </Scenario>
+
+   </Scenario_List>
+</Scenario_Listing>

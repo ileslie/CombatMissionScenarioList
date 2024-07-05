@@ -1,0 +1,546 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="Listing_Layout.xsl" ?>
+
+<Scenario_Listing>
+
+   <Scenario_List>
+
+   <containing_campaign>CP SoD Chapter III Our Father</containing_campaign>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #06]</number_in_campaign>
+         <battle_title>OF Officers House</battle_title>
+      </Title>
+      <filename>CP SoD Chapter III Our Father #06_OF Officers House</filename>
+      <picture_link>scenpics/CP SoD Chapter III Our Father6.bmp</picture_link>
+      <battle_type>Axis Attack</battle_type>
+      <description>28/06/1944 The commander of KG von Blottnitz is encircled in the Officers House. Hauptmann Lindhorst and his men try to get him out of the trap.</description>
+      <date>28/06/1944</date>
+      <time_of_day>18:30</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:00</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>0.043 Sq. km</map_area>
+         <map_width>208 m</map_width>
+         <map_depth>208 m</map_depth>
+      </Map_Size>
+      <region>Soviet Union</region>
+      <environment>City</environment>
+      <weather>Thick Haze</weather>
+      <temperature>Hot</temperature>
+      <ground_condition>Very Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMRT v2.10 to v2.13</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #11]</number_in_campaign>
+         <battle_title>OF Into Freedom</battle_title>
+      </Title>
+      <filename>CP SoD Chapter III Our Father #11_OF Into Freedom</filename>
+      <picture_link>scenpics/CP SoD Chapter III Our Father11.bmp</picture_link>
+      <battle_type>Axis Assault</battle_type>
+      <description>16/08/1944 After escaping for seven weeks - finally Hauptmann Lindhorst has managed to lead his exhausted group to the own lines near the border of Eastprussia</description>
+      <date>16/08/1944</date>
+      <time_of_day>19:30</time_of_day>
+      <part_of_day>Dawn</part_of_day>
+      <length>01:00</length>
+      <battle_size>Small</battle_size>
+      <Map_Size>
+         <map_area>0.133 Sq. km</map_area>
+         <map_width>320 m</map_width>
+         <map_depth>416 m</map_depth>
+      </Map_Size>
+      <region>Eastern Europe</region>
+      <environment>Rough</environment>
+      <weather>Heavy Rain</weather>
+      <temperature>Cool</temperature>
+      <ground_condition>Damp</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMRT v2.10 to v2.13</game_version>
+      <Modules_Required>
+         <module1>Fire and Rubble</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>4</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #08]</number_in_campaign>
+         <battle_title>OF Way Out</battle_title>
+      </Title>
+      <filename>CP SoD Chapter III Our Father #08_OF Way Out</filename>
+      <picture_link>scenpics/CP SoD Chapter III Our Father8.bmp</picture_link>
+      <battle_type>Axis Assault</battle_type>
+      <description>28/06/1944 a large mixed German force makes the attempt to break out to the west via the airfield on the western edge of Mogilev</description>
+      <date>28/06/1944</date>
+      <time_of_day>15:30</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>04:00</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>2.479 Sq. km</map_area>
+         <map_width>1504 m</map_width>
+         <map_depth>1648 m</map_depth>
+      </Map_Size>
+      <region>Soviet Union</region>
+      <environment>Rough</environment>
+      <weather>Hazy</weather>
+      <temperature>Extreme Heat</temperature>
+      <ground_condition>Very Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMRT v2.10 to v2.13</game_version>
+      <Modules_Required>
+         <module1>Fire and Rubble</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #01]</number_in_campaign>
+         <battle_title>OF Panzer Alarm</battle_title>
+      </Title>
+      <filename>CP SoD Chapter III Our Father #01_OF Panzer Alarm</filename>
+      <picture_link>scenpics/CP SoD Chapter III Our Father1.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>27/06/1944 Enemy tanks are reported to start their advance on the northern edge of Mogilev</description>
+      <date>27/06/1944</date>
+      <time_of_day>17:30</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>02:00</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>0.496 Sq. km</map_area>
+         <map_width>608 m</map_width>
+         <map_depth>816 m</map_depth>
+      </Map_Size>
+      <region>Soviet Union</region>
+      <environment>Town</environment>
+      <weather>Hazy</weather>
+      <temperature>Extreme Heat</temperature>
+      <ground_condition>Very Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMRT v2.10 to v2.13</game_version>
+      <Modules_Required>
+         <module1>Fire and Rubble</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #00]</number_in_campaign>
+         <battle_title>OF The Bottleneck</battle_title>
+      </Title>
+      <filename>CP SoD Chapter III Our Father #00_OF The Bottleneck</filename>
+      <picture_link>scenpics/CP SoD Chapter III Our Father0.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>25/06/1944 A Kampfgruppe of the 12th Infantry Division gets the order to block the Tschaussy-Mogilev Rollbahn and prevent enemy tanks from breakthrough to Mogilev</description>
+      <date>25/06/1944</date>
+      <time_of_day>11:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>02:30</length>
+      <battle_size>Large</battle_size>
+      <Map_Size>
+         <map_area>3.946 Sq. km</map_area>
+         <map_width>3008 m</map_width>
+         <map_depth>1312 m</map_depth>
+      </Map_Size>
+      <region>Soviet Union</region>
+      <environment>Rough</environment>
+      <weather>Hazy</weather>
+      <temperature>Extreme Heat</temperature>
+      <ground_condition>Very Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMRT v2.10 to v2.13</game_version>
+      <Modules_Required>
+         <module1>Fire and Rubble</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>9</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #10]</number_in_campaign>
+         <battle_title>OF Forward Back</battle_title>
+      </Title>
+      <filename>CP SoD Chapter III Our Father #10_OF Forward Back</filename>
+      <picture_link>scenpics/CP SoD Chapter III Our Father10.bmp</picture_link>
+      <battle_type>Axis Assault</battle_type>
+      <description>12/07/1944 The straggler unit under command of Hauptmann Lindhorst has to fight its way to the west, when the men are confronted with a Soviet blocking unit in a village</description>
+      <date>12/07/1944</date>
+      <time_of_day>20:30</time_of_day>
+      <part_of_day>Dusk</part_of_day>
+      <length>01:50</length>
+      <battle_size>Small</battle_size>
+      <Map_Size>
+         <map_area>0.305 Sq. km</map_area>
+         <map_width>560 m</map_width>
+         <map_depth>544 m</map_depth>
+      </Map_Size>
+      <region>Eastern Europe</region>
+      <environment>Village</environment>
+      <weather>Clear</weather>
+      <temperature>Hot</temperature>
+      <ground_condition>Very Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMRT v2.10 to v2.13</game_version>
+      <Modules_Required>
+         <module1>Fire and Rubble</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>5</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #13]</number_in_campaign>
+         <battle_title>OF The Hospital</battle_title>
+      </Title>
+      <filename>CP SoD Chapter III Our Father #13_OF The Hospital</filename>
+      <picture_link>scenpics/CP SoD Chapter III Our Father13.bmp</picture_link>
+      <battle_type>Meeting Engagement</battle_type>
+      <description>29/06/1944 The Soviets have almost reached the southern Dnjepr bridge while the Germans try to defend the large field hospital in the basement of the old city hall</description>
+      <date>29/06/1944</date>
+      <time_of_day>05:30</time_of_day>
+      <part_of_day>Dawn</part_of_day>
+      <length>01:30</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>0.107 Sq. km</map_area>
+         <map_width>304 m</map_width>
+         <map_depth>352 m</map_depth>
+      </Map_Size>
+      <region>Soviet Union</region>
+      <environment>City</environment>
+      <weather>Thick Haze</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Very Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMRT v2.10 to v2.13</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #05]</number_in_campaign>
+         <battle_title>PL Decision Battle</battle_title>
+      </Title>
+      <filename>CP SoD Chapter III Our Father #05_OF Decision Battle</filename>
+      <picture_link>scenpics/CP SoD Chapter III Our Father5.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>Only useable as a decision-battle between two branches of the campaign &quot;Our Father&quot;</description>
+      <date>22/06/1944</date>
+      <time_of_day>12:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:10</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>0.043 Sq. km</map_area>
+         <map_width>208 m</map_width>
+         <map_depth>208 m</map_depth>
+      </Map_Size>
+      <region>Soviet Union</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Hot</temperature>
+      <ground_condition>Very Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMRT v2.10 to v2.13</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>4</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #14]</number_in_campaign>
+         <battle_title>OF Holy Fortress</battle_title>
+      </Title>
+      <filename>CP SoD Chapter III Our Father #14_OF Holy Fortress</filename>
+      <picture_link>scenpics/CP SoD Chapter III Our Father14.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>30/06/1944 In the southeastern part of Mogilev the last remaining German defenders try to hold one of their last strongpoints, the St.Nikolas Convent, against the Soviets</description>
+      <date>30/06/1944</date>
+      <time_of_day>06:30</time_of_day>
+      <part_of_day>Dawn</part_of_day>
+      <length>02:00</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>0.435 Sq. km</map_area>
+         <map_width>544 m</map_width>
+         <map_depth>800 m</map_depth>
+      </Map_Size>
+      <region>Soviet Union</region>
+      <environment>Rough</environment>
+      <weather>Dense Fog</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMRT v2.10 to v2.13</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #07]</number_in_campaign>
+         <battle_title>OF Last Prayer</battle_title>
+      </Title>
+      <filename>CP SoD Chapter III Our Father #07_OF Last Prayer</filename>
+      <picture_link>scenpics/CP SoD Chapter III Our Father7.bmp</picture_link>
+      <battle_type>Meeting Engagement</battle_type>
+      <description>29/06/1944 The Soviets have almost reached the southern Dnjepr bridge while the Germans try to defend the large field hospital in the basement of the old city hall</description>
+      <date>29/06/1944</date>
+      <time_of_day>05:30</time_of_day>
+      <part_of_day>Dawn</part_of_day>
+      <length>01:30</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>0.107 Sq. km</map_area>
+         <map_width>304 m</map_width>
+         <map_depth>352 m</map_depth>
+      </Map_Size>
+      <region>Soviet Union</region>
+      <environment>City</environment>
+      <weather>Thick Haze</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Very Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMRT v2.10 to v2.13</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #12]</number_in_campaign>
+         <battle_title>OF Wrong Turn</battle_title>
+      </Title>
+      <filename>CP SoD Chapter III Our Father #12_OF Wrong Turn</filename>
+      <picture_link>scenpics/CP SoD Chapter III Our Father12.bmp</picture_link>
+      <battle_type>Axis Assault</battle_type>
+      <description>29/06/1944 After the failed breakout attempt, a small group with Hauptmann Lindhorst tries to drive back in the city and reach the own lines</description>
+      <date>29/06/1944</date>
+      <time_of_day>01:00</time_of_day>
+      <part_of_day>Night</part_of_day>
+      <length>00:45</length>
+      <battle_size>Small</battle_size>
+      <Map_Size>
+         <map_area>0.043 Sq. km</map_area>
+         <map_width>208 m</map_width>
+         <map_depth>208 m</map_depth>
+      </Map_Size>
+      <region>Soviet Union</region>
+      <environment>City</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Very Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMRT v2.10 to v2.13</game_version>
+      <Modules_Required>
+         <module1>Fire and Rubble</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>3</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #09]</number_in_campaign>
+         <battle_title>OF Rollbahn Crossing</battle_title>
+      </Title>
+      <filename>CP SoD Chapter III Our Father #09_OF Rollbahn Crossing</filename>
+      <picture_link>scenpics/CP SoD Chapter III Our Father9.bmp</picture_link>
+      <battle_type>Axis Assault</battle_type>
+      <description>28/06/1944 The few remaining German soldiers who managed to break out via the airfield now face the Soviet blocking units along the Rollbahn to Belynitschi</description>
+      <date>28/06/1944</date>
+      <time_of_day>20:30</time_of_day>
+      <part_of_day>Dusk</part_of_day>
+      <length>01:50</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>0.495 Sq. km</map_area>
+         <map_width>672 m</map_width>
+         <map_depth>736 m</map_depth>
+      </Map_Size>
+      <region>Soviet Union</region>
+      <environment>Forest</environment>
+      <weather>Clear</weather>
+      <temperature>Hot</temperature>
+      <ground_condition>Very Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMRT v2.10 to v2.13</game_version>
+      <Modules_Required>
+         <module1>Fire and Rubble</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #03]</number_in_campaign>
+         <battle_title>OF Street Fighting</battle_title>
+      </Title>
+      <filename>CP SoD Chapter III Our Father #03_OF Street Fighting</filename>
+      <picture_link>scenpics/CP SoD Chapter III Our Father3.bmp</picture_link>
+      <battle_type>Axis Attack</battle_type>
+      <description>28/06/1944 KG von Bottnitz is attacking the Soviets in the city centre of Mogilev</description>
+      <date>28/06/1944</date>
+      <time_of_day>07:15</time_of_day>
+      <part_of_day>Dawn</part_of_day>
+      <length>02:30</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>0.154 Sq. km</map_area>
+         <map_width>640 m</map_width>
+         <map_depth>240 m</map_depth>
+      </Map_Size>
+      <region>Soviet Union</region>
+      <environment>City</environment>
+      <weather>Thick Haze</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Very Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMRT v2.10 to v2.13</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #15]</number_in_campaign>
+         <battle_title>OF The Last</battle_title>
+      </Title>
+      <filename>CP SoD Chapter III Our Father #15_OF The Last</filename>
+      <picture_link>scenpics/CP SoD Chapter III Our Father15.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>04/07/1944 the last remaining defenders of the Fortress Mogilev have to make their last stand</description>
+      <date>07/07/1944</date>
+      <time_of_day>06:00</time_of_day>
+      <part_of_day>Dawn</part_of_day>
+      <length>01:20</length>
+      <battle_size>Small</battle_size>
+      <Map_Size>
+         <map_area>0.102 Sq. km</map_area>
+         <map_width>320 m</map_width>
+         <map_depth>320 m</map_depth>
+      </Map_Size>
+      <region>Eastern Europe</region>
+      <environment>Rough</environment>
+      <weather>Dense Fog</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Wet</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMRT v2.10 to v2.13</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>4</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #04]</number_in_campaign>
+         <battle_title>OF False Promises</battle_title>
+      </Title>
+      <filename>CP SoD Chapter III Our Father #04_OF False Promises</filename>
+      <picture_link>scenpics/CP SoD Chapter III Our Father4.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>28/06/1944 after the majority of the German Defenders has left their positions, the Soviets try to break through towards the Dnjepr River</description>
+      <date>28/06/1944</date>
+      <time_of_day>12:30</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:00</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>0.118 Sq. km</map_area>
+         <map_width>432 m</map_width>
+         <map_depth>272 m</map_depth>
+      </Map_Size>
+      <region>Soviet Union</region>
+      <environment>City</environment>
+      <weather>Thick Haze</weather>
+      <temperature>Extreme Heat</temperature>
+      <ground_condition>Very Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMRT v2.10 to v2.13</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #02]</number_in_campaign>
+         <battle_title>OF The Factory</battle_title>
+      </Title>
+      <filename>CP SoD Chapter III Our Father #02_OF The Factory</filename>
+      <picture_link>scenpics/CP SoD Chapter III Our Father2.bmp</picture_link>
+      <battle_type>Axis Attack</battle_type>
+      <description>28/06/1944 A small Kampfgruppe made up of II./GR 89 and 1.Cp./Pio.-Battalion 12 is to attack the Soviets in a ruined factory in the city center of Mogilev</description>
+      <date>28/06/1944</date>
+      <time_of_day>02:15</time_of_day>
+      <part_of_day>Dawn</part_of_day>
+      <length>02:00</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>0.154 Sq. km</map_area>
+         <map_width>480 m</map_width>
+         <map_depth>320 m</map_depth>
+      </Map_Size>
+      <region>Soviet Union</region>
+      <environment>City</environment>
+      <weather>Hazy</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Very Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMRT v2.10 to v2.13</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   </Scenario_List>
+</Scenario_Listing>

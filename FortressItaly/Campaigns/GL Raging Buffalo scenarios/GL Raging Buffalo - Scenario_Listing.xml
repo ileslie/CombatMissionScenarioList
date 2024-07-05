@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="Listing_Layout.xsl" ?>
+
+<Scenario_Listing>
+
+   <Scenario_List>
+
+   <containing_campaign>Raging Buffalo</containing_campaign>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #01]</number_in_campaign>
+         <battle_title>When Germans Attack</battle_title>
+      </Title>
+      <filename>GL Raging Buffalo #01_Raging Buffalo Mission 2</filename>
+      <picture_link>scenpics/GL Raging Buffalo1.bmp</picture_link>
+      <battle_type>Axis Attack</battle_type>
+      <description>The HG Division attacks the Allied presence at Artena in a bid to protect Highway 6.</description>
+      <date>27/05/1944</date>
+      <time_of_day>06:15</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:45</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>2.399 Sq. km</map_area>
+         <map_width>1456 m</map_width>
+         <map_depth>1648 m</map_depth>
+      </Map_Size>
+      <region>Italy</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Cold</temperature>
+      <ground_condition>Damp</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFI v1.10</game_version>
+      <Modules_Required>
+         <module1>Gustav Line</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #00]</number_in_campaign>
+         <battle_title>Artena</battle_title>
+      </Title>
+      <filename>GL Raging Buffalo #00_Raging Buffalo Mission 1</filename>
+      <picture_link>scenpics/GL Raging Buffalo0.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>Mechanized cavalry leading the advance reach the hilltop city of Artena and find it only lightly defended by a German rearguard.</description>
+      <date>26/05/1944</date>
+      <time_of_day>15:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:45</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>2.399 Sq. km</map_area>
+         <map_width>1456 m</map_width>
+         <map_depth>1648 m</map_depth>
+      </Map_Size>
+      <region>Italy</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Cool</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFI v1.10</game_version>
+      <Modules_Required>
+         <module1>Gustav Line</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #03]</number_in_campaign>
+         <battle_title>Stemming the Flow</battle_title>
+      </Title>
+      <filename>GL Raging Buffalo #03_Raging Buffalo Mission 4</filename>
+      <picture_link>scenpics/GL Raging Buffalo3.bmp</picture_link>
+      <battle_type>Axis Attack</battle_type>
+      <description>Having severed Highway 6 at Valmontone, the US defenders must stem the tide of Germans flowing from the Gustav Line.</description>
+      <date>29/05/1944</date>
+      <time_of_day>11:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:10</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>0.883 Sq. km</map_area>
+         <map_width>1200 m</map_width>
+         <map_depth>736 m</map_depth>
+      </Map_Size>
+      <region>Italy</region>
+      <environment>Town</environment>
+      <weather>Overcast</weather>
+      <temperature>Cool</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>pre-release CMFI v1.10</game_version>
+      <Modules_Required>
+         <module1>Gustav Line</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #02]</number_in_campaign>
+         <battle_title>Valmontone</battle_title>
+      </Title>
+      <filename>GL Raging Buffalo #02_Raging Buffalo Mission 3</filename>
+      <picture_link>scenpics/GL Raging Buffalo2.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>1st Armored Division elements reach Valmontone.</description>
+      <date>28/05/1944</date>
+      <time_of_day>12:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:00</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>0.718 Sq. km</map_area>
+         <map_width>976 m</map_width>
+         <map_depth>736 m</map_depth>
+      </Map_Size>
+      <region>Italy</region>
+      <environment>Town</environment>
+      <weather>Clear</weather>
+      <temperature>Cool</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFI v1.10</game_version>
+      <Modules_Required>
+         <module1>Gustav Line</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   </Scenario_List>
+</Scenario_Listing>

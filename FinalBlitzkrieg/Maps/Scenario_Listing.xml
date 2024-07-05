@@ -1,0 +1,783 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="Listing_Layout.xsl" ?>
+
+<Scenario_Listing>
+
+   <Scenario_List>
+
+   <Scenario>
+      <Title>
+         <battle_title>Schatterberg_1552x1504</battle_title>
+      </Title>
+      <filename>Schatterberg_1552x1504</filename>
+      <picture_link>scenpics/Schatterberg_1552x1504.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>Not defined!</description>
+      <date>01/10/1944</date>
+      <time_of_day>11:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:30</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>2.334 Sq. km</map_area>
+         <map_width>1552 m</map_width>
+         <map_depth>1504 m</map_depth>
+      </Map_Size>
+      <region>Germany</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Cold</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFB v2.03</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>5</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Stavelot Master Map</battle_title>
+      </Title>
+      <filename>Stavelot Master Map</filename>
+      <picture_link>scenpics/Stavelot Master Map.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>Map by benpark. Master map of the Stavelot area where Kampfgruppe Peiper fought. Used in German campaign.</description>
+      <date>20/12/1944</date>
+      <time_of_day>14:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:30</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>18.371 Sq. km</map_area>
+         <map_width>4784 m</map_width>
+         <map_depth>3840 m</map_depth>
+      </Map_Size>
+      <region>Ardennes</region>
+      <environment>Open</environment>
+      <weather>Flurries</weather>
+      <temperature>Cold</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFB v1.00 to v1.01</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>stavelot</mod_tag>
+      </Mod_Tags>
+      <size_modifier>5</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>DF Remagen Master Map</battle_title>
+      </Title>
+      <filename>DF Remagen Master Map</filename>
+      <picture_link>scenpics/DF Remagen Master Map.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>Not defined!</description>
+      <date>01/10/1944</date>
+      <time_of_day>11:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:30</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>4.8 Sq. km</map_area>
+         <map_width>2000 m</map_width>
+         <map_depth>2400 m</map_depth>
+      </Map_Size>
+      <region>Germany</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Cold</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFB v2.10 to v2.11</game_version>
+      <Modules_Required>
+         <module1>Downfall</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>5</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Master Map Monschau and Rur River</battle_title>
+      </Title>
+      <filename>Monschau and Rur River Master Map</filename>
+      <picture_link>scenpics/Monschau and Rur River Master Map.bmp</picture_link>
+      <battle_type>Axis Attack</battle_type>
+      <description>Large map of the Monschau and Rur River area on the German border.</description>
+      <date>16/12/1944</date>
+      <time_of_day>10:30</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:00</length>
+      <battle_size>Huge</battle_size>
+      <Map_Size>
+         <map_area>9.386 Sq. km</map_area>
+         <map_width>3104 m</map_width>
+         <map_depth>3024 m</map_depth>
+      </Map_Size>
+      <region>Germany</region>
+      <environment>Hills</environment>
+      <weather>Flurries</weather>
+      <temperature>Cold</temperature>
+      <ground_condition>Light Snow</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFB v1.00 to v1.01</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>10</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Stoumont Master Map</battle_title>
+      </Title>
+      <filename>Stoumont Master Map</filename>
+      <picture_link>scenpics/Stoumont Master Map.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>Large map of the Stoumont-La Gleize-Cheneux area where KG Peiper fought. Used by the German campaign.</description>
+      <date>20/12/1944</date>
+      <time_of_day>12:25</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:30</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>15.064 Sq. km</map_area>
+         <map_width>5008 m</map_width>
+         <map_depth>3008 m</map_depth>
+      </Map_Size>
+      <region>Ardennes</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Cold</temperature>
+      <ground_condition>Muddy</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFB v1.00 to v1.01</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>5</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Twin Villages Master Map</battle_title>
+      </Title>
+      <filename>Twin Villages Master Map</filename>
+      <picture_link>scenpics/Twin Villages Master Map.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>Not defined!</description>
+      <date>17/12/1944</date>
+      <time_of_day>12:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>04:00</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>14.936 Sq. km</map_area>
+         <map_width>2992 m</map_width>
+         <map_depth>4992 m</map_depth>
+      </Map_Size>
+      <region>Ardennes</region>
+      <environment>Open</environment>
+      <weather>Overcast</weather>
+      <temperature>Extreme Cold</temperature>
+      <ground_condition>Muddy</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFB v1.00 to v1.01</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Marnach Master Map</battle_title>
+      </Title>
+      <filename>Marnach Master Map</filename>
+      <picture_link>scenpics/Marnach Master Map.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>A large map of the Marnach area in northern Luxembourg.</description>
+      <date>01/10/1944</date>
+      <time_of_day>11:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:30</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>14.936 Sq. km</map_area>
+         <map_width>4992 m</map_width>
+         <map_depth>2992 m</map_depth>
+      </Map_Size>
+      <region>Ardennes</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Extreme Cold</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFB v1.00 to v1.01</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>5</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Noville Master Map</battle_title>
+      </Title>
+      <filename>Noville Master Map</filename>
+      <picture_link>scenpics/Noville Master Map.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>A large map of the Noville area, 6 km north of Bastogne.</description>
+      <date>01/10/1944</date>
+      <time_of_day>11:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:30</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>15.322 Sq. km</map_area>
+         <map_width>3040 m</map_width>
+         <map_depth>5040 m</map_depth>
+      </Map_Size>
+      <region>Ardennes</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Extreme Cold</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFB v1.00 to v1.01</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>noville</mod_tag>
+      </Mod_Tags>
+      <size_modifier>5</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>DF Erft Kanal Master Map</battle_title>
+      </Title>
+      <filename>DF Erft Kanal Master Map</filename>
+      <picture_link>scenpics/DF Erft Kanal Master Map.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>Not defined!</description>
+      <date>01/10/1944</date>
+      <time_of_day>11:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:30</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>15.064 Sq. km</map_area>
+         <map_width>5008 m</map_width>
+         <map_depth>3008 m</map_depth>
+      </Map_Size>
+      <region>Germany</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Cold</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFB v2.10 to v2.11</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>5</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>DF Kleve Master Map</battle_title>
+      </Title>
+      <filename>DF Kleve Master Map</filename>
+      <picture_link>scenpics/DF Kleve Master Map.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>Not defined!</description>
+      <date>01/01/1945</date>
+      <time_of_day>11:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>02:00</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>15.81 Sq. km</map_area>
+         <map_width>4512 m</map_width>
+         <map_depth>3504 m</map_depth>
+      </Map_Size>
+      <region>Germany</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Cold</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFB v2.10 to v2.11</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>DF Kranenburg Master Map</battle_title>
+      </Title>
+      <filename>DF Kranenburg Master Map</filename>
+      <picture_link>scenpics/DF Kranenburg Master Map.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>Not defined!</description>
+      <date>01/10/1944</date>
+      <time_of_day>11:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:30</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>15.064 Sq. km</map_area>
+         <map_width>5008 m</map_width>
+         <map_depth>3008 m</map_depth>
+      </Map_Size>
+      <region>Germany</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Cold</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFB v2.10 to v2.11</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>5</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Noville Snow Master Map</battle_title>
+      </Title>
+      <filename>Noville Snow Master Map</filename>
+      <picture_link>scenpics/Noville Snow Master Map.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>A snow-optimized version of the Noville Master Map.</description>
+      <date>12/12/1944</date>
+      <time_of_day>11:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:30</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>15.322 Sq. km</map_area>
+         <map_width>3040 m</map_width>
+         <map_depth>5040 m</map_depth>
+      </Map_Size>
+      <region>Ardennes</region>
+      <environment>Open</environment>
+      <weather>Heavy Fog</weather>
+      <temperature>Extreme Cold</temperature>
+      <ground_condition>Light Snow</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFB v1.00 to v1.01</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>noville</mod_tag>
+      </Mod_Tags>
+      <size_modifier>5</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>UrbanTrainingCenter</battle_title>
+      </Title>
+      <filename>UrbanTrainingCenter_CMFB</filename>
+      <picture_link>scenpics/UrbanTrainingCenter_CMFB.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>Black Sea Training campaign&apos;s Urban Training Center ported to CMFB</description>
+      <date>16/12/1944</date>
+      <time_of_day>12:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>04:00</length>
+      <battle_size>Tiny</battle_size>
+      <Map_Size>
+         <map_area>0.339 Sq. km</map_area>
+         <map_width>544 m</map_width>
+         <map_depth>624 m</map_depth>
+      </Map_Size>
+      <region>Ardennes</region>
+      <environment>Village</environment>
+      <weather>Overcast</weather>
+      <temperature>Cold</temperature>
+      <ground_condition>Muddy</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFB v1.02 to v2.00</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>4</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Meijel Master Map</battle_title>
+      </Title>
+      <filename>Meijel Master Map</filename>
+      <picture_link>scenpics/Meijel Master Map.bmp</picture_link>
+      <battle_type>Axis Attack</battle_type>
+      <description>This map covers a small part of the Peel Marshes just North of Meijel in the Netherlands. It was the scene of heavy fighting in the fall of 1944</description>
+      <date>29/10/1944</date>
+      <time_of_day>10:30</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:30</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>6.976 Sq. km</map_area>
+         <map_width>4000 m</map_width>
+         <map_depth>1744 m</map_depth>
+      </Map_Size>
+      <region>Ardennes</region>
+      <environment>Open</environment>
+      <weather>Overcast</weather>
+      <temperature>Cold</temperature>
+      <ground_condition>Muddy</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFB v1.00 to v1.01</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Lanzerath Master Map</battle_title>
+      </Title>
+      <filename>Lanzerath Ridge Master Map</filename>
+      <picture_link>scenpics/Lanzerath Ridge Master Map.bmp</picture_link>
+      <battle_type>Axis Attack</battle_type>
+      <description>Map of Lanzerath Village and surounding area</description>
+      <date>16/12/1944</date>
+      <time_of_day>14:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:30</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>2.659 Sq. km</map_area>
+         <map_width>1568 m</map_width>
+         <map_depth>1696 m</map_depth>
+      </Map_Size>
+      <region>Ardennes</region>
+      <environment>Village</environment>
+      <weather>Clear</weather>
+      <temperature>Cold</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Allied Force</early_intel>
+      <game_version>pre-release CMFB v1.00</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>5</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>DF Koln Master Map</battle_title>
+      </Title>
+      <filename>DF Koln Master Map</filename>
+      <picture_link>scenpics/DF Koln Master Map.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>Not defined!</description>
+      <date>01/10/1944</date>
+      <time_of_day>11:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:30</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>3.064 Sq. km</map_area>
+         <map_width>3040 m</map_width>
+         <map_depth>1008 m</map_depth>
+      </Map_Size>
+      <region>Germany</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Cold</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFB v2.10 to v2.11</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>city</mod_tag>
+         <mod_tag>rubble</mod_tag>
+      </Mod_Tags>
+      <size_modifier>5</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>DF Elsdorf Master Map</battle_title>
+      </Title>
+      <filename>DF Elsdorf Master Map</filename>
+      <picture_link>scenpics/DF Elsdorf Master Map.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>Not defined!</description>
+      <date>01/10/1944</date>
+      <time_of_day>11:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:30</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>9.728 Sq. km</map_area>
+         <map_width>3200 m</map_width>
+         <map_depth>3040 m</map_depth>
+      </Map_Size>
+      <region>Germany</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Cold</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFB v2.10 to v2.11</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>5</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Chaumont Master Map</battle_title>
+      </Title>
+      <filename>Chaumont Master Map</filename>
+      <picture_link>scenpics/Chaumont Master Map.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>A large map of the area around the village of Chaumont, 10 km south of Bastogne.</description>
+      <date>23/12/1944</date>
+      <time_of_day>13:30</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:20</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>4.227 Sq. km</map_area>
+         <map_width>2064 m</map_width>
+         <map_depth>2048 m</map_depth>
+      </Map_Size>
+      <region>Ardennes</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Cold</temperature>
+      <ground_condition>Patchy Snow</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFB v1.00 to v1.01</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>St Vith</battle_title>
+      </Title>
+      <filename>St Vith North Master Map</filename>
+      <picture_link>scenpics/St Vith North Master Map.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>Master map of the north St. Vith area.</description>
+      <date>18/12/1944</date>
+      <time_of_day>11:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>04:00</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>14.936 Sq. km</map_area>
+         <map_width>4992 m</map_width>
+         <map_depth>2992 m</map_depth>
+      </Map_Size>
+      <region>Ardennes</region>
+      <environment>Open</environment>
+      <weather>Overcast</weather>
+      <temperature>Cold</temperature>
+      <ground_condition>Wet</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFB v1.00 to v1.01</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Aachen Master Map</battle_title>
+      </Title>
+      <filename>Aachen Master Map</filename>
+      <picture_link>scenpics/Aachen Master Map.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>Map of the Northern Area of Aachen</description>
+      <date>12/10/1944</date>
+      <time_of_day>11:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:30</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>0.887 Sq. km</map_area>
+         <map_width>1232 m</map_width>
+         <map_depth>720 m</map_depth>
+      </Map_Size>
+      <region>Germany</region>
+      <environment>City</environment>
+      <weather>Light Rain</weather>
+      <temperature>Cool</temperature>
+      <ground_condition>Damp</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFB v1.00 to v1.01</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>5</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Gunnery Range</battle_title>
+      </Title>
+      <filename>GunneryRange_CMFB</filename>
+      <picture_link>scenpics/GunneryRange_CMFB.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>Black Sea&apos;s Gunnery Range ported to CMBN</description>
+      <date>06/06/1944</date>
+      <time_of_day>12:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:30</length>
+      <battle_size>Small</battle_size>
+      <Map_Size>
+         <map_area>2.174 Sq. km</map_area>
+         <map_width>3088 m</map_width>
+         <map_depth>704 m</map_depth>
+      </Map_Size>
+      <region>Ardennes</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Cool</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFB v1.02 to v2.00</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>3</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>DF Rethem Master Map</battle_title>
+      </Title>
+      <filename>DF Rethem Master Map</filename>
+      <picture_link>scenpics/DF Rethem Master Map.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>Not defined!</description>
+      <date>10/04/1945</date>
+      <time_of_day>11:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>02:00</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>11.999 Sq. km</map_area>
+         <map_width>3488 m</map_width>
+         <map_depth>3440 m</map_depth>
+      </Map_Size>
+      <region>Germany</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Cold</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFB v2.10 to v2.11</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Lutrebois Master Map</battle_title>
+      </Title>
+      <filename>Lutrebois Master Map</filename>
+      <picture_link>scenpics/Lutrebois Master Map.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>A large map of the town of Lutrebois and surrounding area, 4 km south of Bastogne.</description>
+      <date>28/12/1944</date>
+      <time_of_day>13:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:30</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>1.602 Sq. km</map_area>
+         <map_width>1472 m</map_width>
+         <map_depth>1088 m</map_depth>
+      </Map_Size>
+      <region>Ardennes</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Freezing</temperature>
+      <ground_condition>Light Snow</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFB v1.00 to v1.01</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>5</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>DF Heister Master Map</battle_title>
+      </Title>
+      <filename>DF Heister Master Map</filename>
+      <picture_link>scenpics/DF Heister Master Map.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>Not defined!</description>
+      <date>01/10/1944</date>
+      <time_of_day>11:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:30</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>2.795 Sq. km</map_area>
+         <map_width>1648 m</map_width>
+         <map_depth>1696 m</map_depth>
+      </Map_Size>
+      <region>Germany</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Cold</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFB v2.10 to v2.11</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>5</size_modifier>
+   </Scenario>
+
+   </Scenario_List>
+</Scenario_Listing>

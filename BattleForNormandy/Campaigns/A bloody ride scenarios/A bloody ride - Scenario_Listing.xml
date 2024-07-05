@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="Listing_Layout.xsl" ?>
+
+<Scenario_Listing>
+
+   <Scenario_List>
+
+   <containing_campaign>A bloody ride</containing_campaign>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #01]</number_in_campaign>
+         <battle_title>Pass and destroy</battle_title>
+      </Title>
+      <filename>A bloody ride #01_Pass and destroy</filename>
+      <picture_link>scenpics/A bloody ride1.bmp</picture_link>
+      <battle_type>Axis Attack</battle_type>
+      <description>Not defined!</description>
+      <date>11/07/1944</date>
+      <time_of_day>06:25</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:00</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>0.161 Sq. km</map_area>
+         <map_width>336 m</map_width>
+         <map_depth>480 m</map_depth>
+      </Map_Size>
+      <region>France</region>
+      <environment>Rough</environment>
+      <weather>Thick Haze</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBN v1.01</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #03]</number_in_campaign>
+         <battle_title>La Charlemenerie</battle_title>
+      </Title>
+      <filename>A bloody ride #03_La Charlemenerie</filename>
+      <picture_link>scenpics/A bloody ride3.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>Not defined!</description>
+      <date>11/07/1944</date>
+      <time_of_day>09:40</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:30</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>0.428 Sq. km</map_area>
+         <map_width>608 m</map_width>
+         <map_depth>704 m</map_depth>
+      </Map_Size>
+      <region>France</region>
+      <environment>Open</environment>
+      <weather>Thick Haze</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBN v1.01</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #06]</number_in_campaign>
+         <battle_title>Save KG Philipps</battle_title>
+      </Title>
+      <filename>A bloody ride #06_Save KG Philipps</filename>
+      <picture_link>scenpics/A bloody ride6.bmp</picture_link>
+      <battle_type>Meeting Engagement</battle_type>
+      <description>Not defined!</description>
+      <date>11/07/1944</date>
+      <time_of_day>17:15</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:20</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>0.651 Sq. km</map_area>
+         <map_width>848 m</map_width>
+         <map_depth>768 m</map_depth>
+      </Map_Size>
+      <region>France</region>
+      <environment>Rough</environment>
+      <weather>Hazy</weather>
+      <temperature>Hot</temperature>
+      <ground_condition>Very Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBN v1.01</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #04]</number_in_campaign>
+         <battle_title>Damned blue sky</battle_title>
+      </Title>
+      <filename>A bloody ride #04_Damned blue sky</filename>
+      <picture_link>scenpics/A bloody ride4.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>Not defined!</description>
+      <date>11/07/1944</date>
+      <time_of_day>11:20</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:30</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>0.428 Sq. km</map_area>
+         <map_width>608 m</map_width>
+         <map_depth>704 m</map_depth>
+      </Map_Size>
+      <region>France</region>
+      <environment>Open</environment>
+      <weather>Hazy</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBN v1.01</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #05]</number_in_campaign>
+         <battle_title>The spotter must die</battle_title>
+      </Title>
+      <filename>A bloody ride #05_The spotter must die</filename>
+      <picture_link>scenpics/A bloody ride5.bmp</picture_link>
+      <battle_type>Axis Attack</battle_type>
+      <description>Not defined!</description>
+      <date>11/07/1944</date>
+      <time_of_day>14:30</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:20</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>0.167 Sq. km</map_area>
+         <map_width>336 m</map_width>
+         <map_depth>496 m</map_depth>
+      </Map_Size>
+      <region>France</region>
+      <environment>Rough</environment>
+      <weather>Hazy</weather>
+      <temperature>Hot</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBN v1.01</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #02]</number_in_campaign>
+         <battle_title>La Caplainerie</battle_title>
+      </Title>
+      <filename>A bloody ride #02_La Caplainerie</filename>
+      <picture_link>scenpics/A bloody ride2.bmp</picture_link>
+      <battle_type>Axis Attack</battle_type>
+      <description>Not defined!</description>
+      <date>11/07/1944</date>
+      <time_of_day>07:50</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:20</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>0.516 Sq. km</map_area>
+         <map_width>608 m</map_width>
+         <map_depth>848 m</map_depth>
+      </Map_Size>
+      <region>France</region>
+      <environment>Rough</environment>
+      <weather>Thick Haze</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBN v1.01</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #08]</number_in_campaign>
+         <battle_title>Last man standing</battle_title>
+      </Title>
+      <filename>A bloody ride #08_Last man standing</filename>
+      <picture_link>scenpics/A bloody ride8.bmp</picture_link>
+      <battle_type>Axis Attack</battle_type>
+      <description>Not defined!</description>
+      <date>11/07/1944</date>
+      <time_of_day>20:30</time_of_day>
+      <part_of_day>Dusk</part_of_day>
+      <length>01:10</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>0.169 Sq. km</map_area>
+         <map_width>320 m</map_width>
+         <map_depth>528 m</map_depth>
+      </Map_Size>
+      <region>France</region>
+      <environment>Rough</environment>
+      <weather>Thick Haze</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Very Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBN v1.01</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #07]</number_in_campaign>
+         <battle_title>The way back</battle_title>
+      </Title>
+      <filename>A bloody ride #07_The way back</filename>
+      <picture_link>scenpics/A bloody ride7.bmp</picture_link>
+      <battle_type>Axis Attack</battle_type>
+      <description>Not defined!</description>
+      <date>11/07/1944</date>
+      <time_of_day>19:15</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:50</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>0.161 Sq. km</map_area>
+         <map_width>336 m</map_width>
+         <map_depth>480 m</map_depth>
+      </Map_Size>
+      <region>France</region>
+      <environment>Rough</environment>
+      <weather>Thick Haze</weather>
+      <temperature>Hot</temperature>
+      <ground_condition>Very Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBN v1.01</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #00]</number_in_campaign>
+         <battle_title>Wake them up</battle_title>
+      </Title>
+      <filename>A bloody ride #00_Wake them up</filename>
+      <picture_link>scenpics/A bloody ride0.bmp</picture_link>
+      <battle_type>Axis Attack</battle_type>
+      <description>Not defined!</description>
+      <date>11/07/1944</date>
+      <time_of_day>04:40</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:20</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>0.169 Sq. km</map_area>
+         <map_width>320 m</map_width>
+         <map_depth>528 m</map_depth>
+      </Map_Size>
+      <region>France</region>
+      <environment>Rough</environment>
+      <weather>Thick Haze</weather>
+      <temperature>Cool</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBN v1.01</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   </Scenario_List>
+</Scenario_Listing>

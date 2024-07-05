@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="Listing_Layout.xsl" ?>
+
+<Scenario_Listing>
+
+   <Scenario_List>
+
+   <containing_campaign>The Corridor</containing_campaign>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #01]</number_in_campaign>
+         <battle_title>Crossing</battle_title>
+      </Title>
+      <filename>GL The Corridor #01_Corridor Mission Two</filename>
+      <picture_link>scenpics/GL The Corridor1.bmp</picture_link>
+      <battle_type>Axis Assault</battle_type>
+      <description>Having descended through the Sele-Calore Corridor, force a river crossing of the Calore River so that the breakthrough into the rear American lines can continue.</description>
+      <date>13/09/1943</date>
+      <time_of_day>16:30</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:35</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>1.097 Sq. km</map_area>
+         <map_width>816 m</map_width>
+         <map_depth>1344 m</map_depth>
+      </Map_Size>
+      <region>Italy</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Axis Force</early_intel>
+      <game_version>pre-release CMFI v1.10</game_version>
+      <Modules_Required>
+         <module1>Gustav Line</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>5</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #02]</number_in_campaign>
+         <battle_title>Crossing</battle_title>
+      </Title>
+      <filename>GL The Corridor #02_Corridor Mission Two 1F</filename>
+      <picture_link>scenpics/GL The Corridor2.bmp</picture_link>
+      <battle_type>Axis Assault</battle_type>
+      <description>Having descended through the Sele-Calore Corridor, force a river crossing of the Calore River so that the breakthrough into the rear American lines can continue.</description>
+      <date>13/09/1943</date>
+      <time_of_day>16:30</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:35</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>1.097 Sq. km</map_area>
+         <map_width>816 m</map_width>
+         <map_depth>1344 m</map_depth>
+      </Map_Size>
+      <region>Italy</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Axis Force</early_intel>
+      <game_version>pre-release CMFI v1.10</game_version>
+      <Modules_Required>
+         <module1>Gustav Line</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>5</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #05]</number_in_campaign>
+         <battle_title>Unwelcome Visitors</battle_title>
+      </Title>
+      <filename>GL The Corridor #05_Corridor Mission Four 3F</filename>
+      <picture_link>scenpics/GL The Corridor5.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>This is the culmination of your efforts. Smash the Fifth Army command post and throw the Allied invaders into disarray!</description>
+      <date>13/09/1943</date>
+      <time_of_day>19:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:00</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>1.516 Sq. km</map_area>
+         <map_width>1504 m</map_width>
+         <map_depth>1008 m</map_depth>
+      </Map_Size>
+      <region>Italy</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFI v1.10</game_version>
+      <Modules_Required>
+         <module1>Gustav Line</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #00]</number_in_campaign>
+         <battle_title>Descent</battle_title>
+      </Title>
+      <filename>GL The Corridor #00_Corridor Mission One</filename>
+      <picture_link>scenpics/GL The Corridor0.bmp</picture_link>
+      <battle_type>Axis Attack</battle_type>
+      <description>The spearhead of the 16th Panzer Division attacks the weakly held Corridor between the Sele and Calore rivers.</description>
+      <date>13/09/1943</date>
+      <time_of_day>15:30</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:35</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>3.645 Sq. km</map_area>
+         <map_width>1808 m</map_width>
+         <map_depth>2016 m</map_depth>
+      </Map_Size>
+      <region>Italy</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Axis Force</early_intel>
+      <game_version>pre-release CMFI v1.10</game_version>
+      <Modules_Required>
+         <module1>Gustav Line</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>5</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #03]</number_in_campaign>
+         <battle_title>Breakthrough</battle_title>
+      </Title>
+      <filename>GL The Corridor #03_Corridor Mission Three</filename>
+      <picture_link>scenpics/GL The Corridor3.bmp</picture_link>
+      <battle_type>Axis Attack</battle_type>
+      <description>Having crossed the Calore River, the 16.Panzer-Division&apos;s armored breakthrough proceeds south to the provincial road they will use to reach Ponte Barizzo.</description>
+      <date>13/09/1943</date>
+      <time_of_day>17:30</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:00</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>2.262 Sq. km</map_area>
+         <map_width>1504 m</map_width>
+         <map_depth>1504 m</map_depth>
+      </Map_Size>
+      <region>Italy</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFI v1.10</game_version>
+      <Modules_Required>
+         <module1>Gustav Line</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #04]</number_in_campaign>
+         <battle_title>Unwelcome Visitors</battle_title>
+      </Title>
+      <filename>GL The Corridor #04_Corridor Mission Four</filename>
+      <picture_link>scenpics/GL The Corridor4.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>This is the culmination of your efforts. Smash the Fifth Army command post and throw the Allied invaders into disarray!</description>
+      <date>13/09/1943</date>
+      <time_of_day>18:30</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:00</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>1.516 Sq. km</map_area>
+         <map_width>1504 m</map_width>
+         <map_depth>1008 m</map_depth>
+      </Map_Size>
+      <region>Italy</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFI v1.10</game_version>
+      <Modules_Required>
+         <module1>Gustav Line</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   </Scenario_List>
+</Scenario_Listing>

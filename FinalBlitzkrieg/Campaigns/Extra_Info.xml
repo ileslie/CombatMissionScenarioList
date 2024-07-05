@@ -2,7 +2,7 @@
 <scenarios>
 	<scenario author="Christopher Nelson (Normal Dude)" filename="Courage Conquers.cam" stock="y" />
 	<scenario author="Christopher Nelson (Normal Dude)" filename="Kampfgruppe Peiper.cam" stock="y" />
-	<scenario author="Benpark" filename="Knock 'em all Down!.cam" stock="y" />
+	<scenario author="benpark" filename="Knock 'em all Down!.cam" stock="y" />
 	<scenario author="Christopher Nelson (Normal Dude)" filename="Training Campaign.cam" stock="y" />
     <scenario author="Mike Raymond" filename="BastognePlus.cam">
         <additional_info>Guys, these are my designs. They are memory heavy, lots of units, so save often. I used about 30-40 saves per campaign, especially at the end of scenarios. Then, if it crashes, (not often) you can reload the last and continue.

@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="Listing_Layout.xsl" ?>
+
+<Scenario_Listing>
+
+   <Scenario_List>
+
+   <containing_campaign>Black Devils of Anzio</containing_campaign>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #00]</number_in_campaign>
+         <battle_title>Cat and Mouse 1</battle_title>
+      </Title>
+      <filename>TWC Black Devils of Anzio 1 #00_Cat and Mouse 1</filename>
+      <picture_link>scenpics/TWC Black Devils of Anzio 10.bmp</picture_link>
+      <battle_type>Allied Probe</battle_type>
+      <description>Destroy a German headquarters on the far bank of the Mussolini Canal</description>
+      <date>24/02/1944</date>
+      <time_of_day>02:00</time_of_day>
+      <part_of_day>Night</part_of_day>
+      <length>02:00</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>0.768 Sq. km</map_area>
+         <map_width>800 m</map_width>
+         <map_depth>960 m</map_depth>
+      </Map_Size>
+      <region>Italy</region>
+      <environment>Rough</environment>
+      <weather>Hazy</weather>
+      <temperature>Cool</temperature>
+      <ground_condition>Damp</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFI v1.12</game_version>
+      <Modules_Required>
+         <module1>Gustav Line</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #02]</number_in_campaign>
+         <battle_title>Cat and Mouse 3</battle_title>
+      </Title>
+      <filename>TWC Black Devils of Anzio 1 #02_Cat and Mouse 3</filename>
+      <picture_link>scenpics/TWC Black Devils of Anzio 12.bmp</picture_link>
+      <battle_type>Allied Assault</battle_type>
+      <description>Go behind the lines at Anzio with the FSSF</description>
+      <date>03/03/1944</date>
+      <time_of_day>05:00</time_of_day>
+      <part_of_day>Night</part_of_day>
+      <length>02:00</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>0.774 Sq. km</map_area>
+         <map_width>880 m</map_width>
+         <map_depth>880 m</map_depth>
+      </Map_Size>
+      <region>Italy</region>
+      <environment>Open</environment>
+      <weather>Hazy</weather>
+      <temperature>Cool</temperature>
+      <ground_condition>Wet</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFI v1.12</game_version>
+      <Modules_Required>
+         <module1>Gustav Line</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #03]</number_in_campaign>
+         <battle_title>Cat and Mouse 4</battle_title>
+      </Title>
+      <filename>TWC Black Devils of Anzio 1 #03_Cat and Mouse 4</filename>
+      <picture_link>scenpics/TWC Black Devils of Anzio 13.bmp</picture_link>
+      <battle_type>Allied Probe</battle_type>
+      <description>Return to the scene of a previous action and destroy a German OP</description>
+      <date>06/03/1944</date>
+      <time_of_day>05:45</time_of_day>
+      <part_of_day>Dawn</part_of_day>
+      <length>01:30</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>0.768 Sq. km</map_area>
+         <map_width>800 m</map_width>
+         <map_depth>960 m</map_depth>
+      </Map_Size>
+      <region>Italy</region>
+      <environment>Rough</environment>
+      <weather>Clear</weather>
+      <temperature>Cool</temperature>
+      <ground_condition>Wet</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFI v1.12</game_version>
+      <Modules_Required>
+         <module1>Gustav Line</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #01]</number_in_campaign>
+         <battle_title>Cat and Mouse 2</battle_title>
+      </Title>
+      <filename>TWC Black Devils of Anzio 1 #01_Cat and Mouse 2</filename>
+      <picture_link>scenpics/TWC Black Devils of Anzio 11.bmp</picture_link>
+      <battle_type>Allied Probe</battle_type>
+      <description>Destroy an enemy battery during the Anzio fighting</description>
+      <date>25/02/1944</date>
+      <time_of_day>05:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>02:00</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>0.704 Sq. km</map_area>
+         <map_width>800 m</map_width>
+         <map_depth>880 m</map_depth>
+      </Map_Size>
+      <region>Italy</region>
+      <environment>Village</environment>
+      <weather>Light Fog and Rain</weather>
+      <temperature>Cool</temperature>
+      <ground_condition>Wet</ground_condition>
+      <early_intel>Allied Force</early_intel>
+      <game_version>CMFI v1.12</game_version>
+      <Modules_Required>
+         <module1>Gustav Line</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #06]</number_in_campaign>
+         <battle_title>Cat and Mouse 7</battle_title>
+      </Title>
+      <filename>TWC Black Devils of Anzio 1 #06_Cat and Mouse 7</filename>
+      <picture_link>scenpics/TWC Black Devils of Anzio 16.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>Return to the scene of a previous action and destroy a German OP</description>
+      <date>06/03/1944</date>
+      <time_of_day>06:00</time_of_day>
+      <part_of_day>Dawn</part_of_day>
+      <length>02:30</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>0.768 Sq. km</map_area>
+         <map_width>800 m</map_width>
+         <map_depth>960 m</map_depth>
+      </Map_Size>
+      <region>Italy</region>
+      <environment>Rough</environment>
+      <weather>Hazy</weather>
+      <temperature>Cool</temperature>
+      <ground_condition>Wet</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFI v1.12</game_version>
+      <Modules_Required>
+         <module1>Gustav Line</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #04]</number_in_campaign>
+         <battle_title>Cat and Mouse 5</battle_title>
+      </Title>
+      <filename>TWC Black Devils of Anzio 1 #04_Cat and Mouse 5</filename>
+      <picture_link>scenpics/TWC Black Devils of Anzio 14.bmp</picture_link>
+      <battle_type>Meeting Engagement</battle_type>
+      <description>Destroy an enemy HQ in the Anzio beachhead</description>
+      <date>07/03/1944</date>
+      <time_of_day>02:35</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>02:00</length>
+      <battle_size>Small</battle_size>
+      <Map_Size>
+         <map_area>0.327 Sq. km</map_area>
+         <map_width>704 m</map_width>
+         <map_depth>464 m</map_depth>
+      </Map_Size>
+      <region>Italy</region>
+      <environment>Village</environment>
+      <weather>Clear</weather>
+      <temperature>Cool</temperature>
+      <ground_condition>Wet</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFI v1.12</game_version>
+      <Modules_Required>
+         <module1>Gustav Line</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>5</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #05]</number_in_campaign>
+         <battle_title>Cat and Mouse 6</battle_title>
+      </Title>
+      <filename>TWC Black Devils of Anzio 1 #05_Cat and Mouse 6</filename>
+      <picture_link>scenpics/TWC Black Devils of Anzio 15.bmp</picture_link>
+      <battle_type>Allied Probe</battle_type>
+      <description>A patrol from the SSF returns to friendly lines in this mission from the Black Devils of Anzio campaign.</description>
+      <date>09/03/1944</date>
+      <time_of_day>02:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>02:00</length>
+      <battle_size>Small</battle_size>
+      <Map_Size>
+         <map_area>0.348 Sq. km</map_area>
+         <map_width>640 m</map_width>
+         <map_depth>544 m</map_depth>
+      </Map_Size>
+      <region>Italy</region>
+      <environment>Open</environment>
+      <weather>Hazy</weather>
+      <temperature>Cool</temperature>
+      <ground_condition>Wet</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFI v1.12</game_version>
+      <Modules_Required>
+         <module1>Gustav Line</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>5</size_modifier>
+   </Scenario>
+
+   </Scenario_List>
+</Scenario_Listing>

@@ -1,0 +1,720 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="Listing_Layout.xsl" ?>
+
+<Scenario_Listing>
+
+   <Scenario_List>
+
+   <Scenario>
+      <Title>
+         <battle_title>Raging Buffalo Campaign Master Map 1</battle_title>
+      </Title>
+      <filename>Raging Buffalo Campaign Master Map 1</filename>
+      <picture_link>scenpics/Raging Buffalo Campaign Master Map 1.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>Not defined!</description>
+      <date>27/05/1944</date>
+      <time_of_day>10:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:30</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>2.399 Sq. km</map_area>
+         <map_width>1456 m</map_width>
+         <map_depth>1648 m</map_depth>
+      </Map_Size>
+      <region>Italy</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Damp</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>pre-release CMFI v1.10</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>5</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Rural Area East of Gela</battle_title>
+      </Title>
+      <filename>RualEastOfGela</filename>
+      <picture_link>scenpics/RualEastOfGela.bmp</picture_link>
+      <battle_type>Meeting Engagement</battle_type>
+      <description>Not defined!</description>
+      <date>09/07/1943</date>
+      <time_of_day>09:00</time_of_day>
+      <part_of_day>Night</part_of_day>
+      <length>00:30</length>
+      <battle_size>Small</battle_size>
+      <Map_Size>
+         <map_area>1.016 Sq. km</map_area>
+         <map_width>1008 m</map_width>
+         <map_depth>1008 m</map_depth>
+      </Map_Size>
+      <region>Italy</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Very Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFI v1.00</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>3</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Corridor Campaign Map 1</battle_title>
+      </Title>
+      <filename>Corridor Campaign Map 1</filename>
+      <picture_link>scenpics/Corridor Campaign Map 1.bmp</picture_link>
+      <battle_type>Meeting Engagement</battle_type>
+      <description>Not defined!</description>
+      <date>13/09/1943</date>
+      <time_of_day>15:30</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:35</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>3.645 Sq. km</map_area>
+         <map_width>1808 m</map_width>
+         <map_depth>2016 m</map_depth>
+      </Map_Size>
+      <region>Italy</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Axis Force</early_intel>
+      <game_version>CMFI v1.10</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>5</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>hosingen</battle_title>
+      </Title>
+      <filename>hosingen </filename>
+      <picture_link>scenpics/hosingen .bmp</picture_link>
+      <battle_type>Axis Assault</battle_type>
+      <description>Not defined!</description>
+      <date>16/12/1943</date>
+      <time_of_day>06:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:30</length>
+      <battle_size>Huge</battle_size>
+      <Map_Size>
+         <map_area>16 Sq. km</map_area>
+         <map_width>4000 m</map_width>
+         <map_depth>4000 m</map_depth>
+      </Map_Size>
+      <region>Italy</region>
+      <environment>Open</environment>
+      <weather>Overcast</weather>
+      <temperature>Freezing</temperature>
+      <ground_condition>Light Snow</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFI v1.20</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>holland</mod_tag>
+         <mod_tag>hosingen</mod_tag>
+      </Mod_Tags>
+      <size_modifier>8</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Tunisia Map Set Map 1</battle_title>
+      </Title>
+      <filename>Tunisia Map Set Map 1</filename>
+      <picture_link>scenpics/Tunisia Map Set Map 1.bmp</picture_link>
+      <battle_type>Meeting Engagement</battle_type>
+      <description>Not defined!</description>
+      <date>10/07/1943</date>
+      <time_of_day>09:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:30</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>0.845 Sq. km</map_area>
+         <map_width>960 m</map_width>
+         <map_depth>880 m</map_depth>
+      </Map_Size>
+      <region>Italy</region>
+      <environment>Rough</environment>
+      <weather>Clear</weather>
+      <temperature>Cool</temperature>
+      <ground_condition>Damp</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFI v1.10</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>5</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Tunisia Map Set Map 2</battle_title>
+      </Title>
+      <filename>Tunisia Map Set Map 2</filename>
+      <picture_link>scenpics/Tunisia Map Set Map 2.bmp</picture_link>
+      <battle_type>Meeting Engagement</battle_type>
+      <description>Not defined!</description>
+      <date>09/07/1943</date>
+      <time_of_day>09:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:30</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>0.887 Sq. km</map_area>
+         <map_width>1008 m</map_width>
+         <map_depth>880 m</map_depth>
+      </Map_Size>
+      <region>Italy</region>
+      <environment>Rough</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Very Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFI v1.10</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>5</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Foiling Fustian Master Map</battle_title>
+      </Title>
+      <filename>Foiling Fustian Master Map</filename>
+      <picture_link>scenpics/Foiling Fustian Master Map.bmp</picture_link>
+      <battle_type>Meeting Engagement</battle_type>
+      <description>Not defined!</description>
+      <date>09/07/1943</date>
+      <time_of_day>09:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:30</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>2.515 Sq. km</map_area>
+         <map_width>1200 m</map_width>
+         <map_depth>2096 m</map_depth>
+      </Map_Size>
+      <region>Italy</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Very Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFI v1.10</game_version>
+      <Modules_Required>
+         <module1>Gustav Line</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>5</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Tunisia Map Set Map 5</battle_title>
+      </Title>
+      <filename>Tunisia Map Set Map 5</filename>
+      <picture_link>scenpics/Tunisia Map Set Map 5.bmp</picture_link>
+      <battle_type>Meeting Engagement</battle_type>
+      <description>Not defined!</description>
+      <date>10/07/1943</date>
+      <time_of_day>15:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:30</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>0.64 Sq. km</map_area>
+         <map_width>800 m</map_width>
+         <map_depth>800 m</map_depth>
+      </Map_Size>
+      <region>Italy</region>
+      <environment>Rough</environment>
+      <weather>Thick Haze</weather>
+      <temperature>Cool</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFI v1.10</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>5</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>maltalandings</battle_title>
+      </Title>
+      <filename>malta</filename>
+      <picture_link>scenpics/malta.bmp</picture_link>
+      <battle_type>Axis Assault</battle_type>
+      <description>Not defined!</description>
+      <date>09/07/1943</date>
+      <time_of_day>06:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>04:00</length>
+      <battle_size>Huge</battle_size>
+      <Map_Size>
+         <map_area>16 Sq. km</map_area>
+         <map_width>4000 m</map_width>
+         <map_depth>4000 m</map_depth>
+      </Map_Size>
+      <region>Italy</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Very Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFI v1.20</game_version>
+      <Modules_Required>
+         <module1>Gustav Line</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>10</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>CMFI Movie</battle_title>
+      </Title>
+      <filename>CMFI Movie map</filename>
+      <picture_link>scenpics/CMFI Movie map.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>Map from &quot;CMFI Movie&quot;. Map ONLY - no AI plans, objectives, units etc</description>
+      <date>12/07/1943</date>
+      <time_of_day>08:50</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:30</length>
+      <battle_size>Tiny</battle_size>
+      <Map_Size>
+         <map_area>0.754 Sq. km</map_area>
+         <map_width>736 m</map_width>
+         <map_depth>1024 m</map_depth>
+      </Map_Size>
+      <region>Italy</region>
+      <environment>Hills</environment>
+      <weather>Clear</weather>
+      <temperature>Hot</temperature>
+      <ground_condition>Very Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFI v1.01</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>4</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Ortona</battle_title>
+      </Title>
+      <filename>Ortona Map</filename>
+      <picture_link>scenpics/Ortona Map.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>Ortana map by benpark</description>
+      <date>18/12/1943</date>
+      <time_of_day>09:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>04:00</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>1.54 Sq. km</map_area>
+         <map_width>992 m</map_width>
+         <map_depth>1552 m</map_depth>
+      </Map_Size>
+      <region>Italy</region>
+      <environment>Open</environment>
+      <weather>Overcast</weather>
+      <temperature>Cool</temperature>
+      <ground_condition>Muddy</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFI v1.10</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Tunisia Map Set Map 3</battle_title>
+      </Title>
+      <filename>Tunisia Map Set Map 3</filename>
+      <picture_link>scenpics/Tunisia Map Set Map 3.bmp</picture_link>
+      <battle_type>Meeting Engagement</battle_type>
+      <description>Not defined!</description>
+      <date>09/07/1943</date>
+      <time_of_day>09:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:30</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>0.845 Sq. km</map_area>
+         <map_width>960 m</map_width>
+         <map_depth>880 m</map_depth>
+      </Map_Size>
+      <region>Italy</region>
+      <environment>Hills</environment>
+      <weather>Clear</weather>
+      <temperature>Cool</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFI v1.10</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>5</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Noertrange (Map only)</battle_title>
+      </Title>
+      <filename>GL Noertrange Map only</filename>
+      <picture_link>scenpics/GL Noertrange Map only.bmp</picture_link>
+      <battle_type>Axis Attack</battle_type>
+      <description>Noertrange Map only QMB </description>
+      <date>18/12/1943</date>
+      <time_of_day>12:20</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:30</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>0.64 Sq. km</map_area>
+         <map_width>800 m</map_width>
+         <map_depth>800 m</map_depth>
+      </Map_Size>
+      <region>Italy</region>
+      <environment>Rough</environment>
+      <weather>Light Snow</weather>
+      <temperature>Freezing</temperature>
+      <ground_condition>Light Snow</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFI v1.12</game_version>
+      <Modules_Required>
+         <module1>Gustav Line</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Corridor Campaign Map 4</battle_title>
+      </Title>
+      <filename>Corridor Campaign Map 4</filename>
+      <picture_link>scenpics/Corridor Campaign Map 4.bmp</picture_link>
+      <battle_type>Meeting Engagement</battle_type>
+      <description>Not defined!</description>
+      <date>13/09/1943</date>
+      <time_of_day>18:30</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:00</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>1.516 Sq. km</map_area>
+         <map_width>1504 m</map_width>
+         <map_depth>1008 m</map_depth>
+      </Map_Size>
+      <region>Italy</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFI v1.10</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Venafro  Large urban battle</battle_title>
+      </Title>
+      <filename>Venafro 656 x 800</filename>
+      <picture_link>scenpics/Venafro 656 x 800.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>Not defined!</description>
+      <date>10/01/1944</date>
+      <time_of_day>07:30</time_of_day>
+      <part_of_day>Dawn</part_of_day>
+      <length>04:00</length>
+      <battle_size>Large</battle_size>
+      <Map_Size>
+         <map_area>0.525 Sq. km</map_area>
+         <map_width>656 m</map_width>
+         <map_depth>800 m</map_depth>
+      </Map_Size>
+      <region>Italy</region>
+      <environment>Town</environment>
+      <weather>Dense Fog</weather>
+      <temperature>Cold</temperature>
+      <ground_condition>Light Snow</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFI v1.12</game_version>
+      <Modules_Required>
+         <module1>Gustav Line</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>9</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>cider crossroads</battle_title>
+      </Title>
+      <filename>cider crossroads</filename>
+      <picture_link>scenpics/cider crossroads.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>Not defined!</description>
+      <date>09/12/1943</date>
+      <time_of_day>09:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:30</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>4 Sq. km</map_area>
+         <map_width>2000 m</map_width>
+         <map_depth>2000 m</map_depth>
+      </Map_Size>
+      <region>Italy</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Cold</temperature>
+      <ground_condition>Muddy</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFI v1.20</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>5</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Raging Buffalo Campaign Master Map 2</battle_title>
+      </Title>
+      <filename>Raging Buffalo Campaign Master Map 2</filename>
+      <picture_link>scenpics/Raging Buffalo Campaign Master Map 2.bmp</picture_link>
+      <battle_type>Meeting Engagement</battle_type>
+      <description>Not defined!</description>
+      <date>29/05/1944</date>
+      <time_of_day>11:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:00</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>0.883 Sq. km</map_area>
+         <map_width>1200 m</map_width>
+         <map_depth>736 m</map_depth>
+      </Map_Size>
+      <region>Italy</region>
+      <environment>Town</environment>
+      <weather>Overcast</weather>
+      <temperature>Cool</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFI v1.10</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Cassino Campaign Master Map</battle_title>
+      </Title>
+      <filename>Cassino Campaign Master Map</filename>
+      <picture_link>scenpics/Cassino Campaign Master Map.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>Not defined!</description>
+      <date>17/05/1944</date>
+      <time_of_day>09:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:30</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>3.67 Sq. km</map_area>
+         <map_width>2048 m</map_width>
+         <map_depth>1792 m</map_depth>
+      </Map_Size>
+      <region>Italy</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Cool</temperature>
+      <ground_condition>Damp</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFI v1.10</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>5</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Corridor Campaign Map 3</battle_title>
+      </Title>
+      <filename>Corridor Campaign Map 3</filename>
+      <picture_link>scenpics/Corridor Campaign Map 3.bmp</picture_link>
+      <battle_type>Meeting Engagement</battle_type>
+      <description>Not defined!</description>
+      <date>13/09/1943</date>
+      <time_of_day>17:30</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:00</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>2.262 Sq. km</map_area>
+         <map_width>1504 m</map_width>
+         <map_depth>1504 m</map_depth>
+      </Map_Size>
+      <region>Italy</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFI v1.10</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Corridor Campaign Map 2</battle_title>
+      </Title>
+      <filename>Corridor Campaign Map 2</filename>
+      <picture_link>scenpics/Corridor Campaign Map 2.bmp</picture_link>
+      <battle_type>Meeting Engagement</battle_type>
+      <description>Not defined!</description>
+      <date>13/09/1943</date>
+      <time_of_day>16:30</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:35</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>1.097 Sq. km</map_area>
+         <map_width>816 m</map_width>
+         <map_depth>1344 m</map_depth>
+      </Map_Size>
+      <region>Italy</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Axis Force</early_intel>
+      <game_version>CMFI v1.10</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>5</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>East of Menfi 3k x 2k</battle_title>
+      </Title>
+      <filename>East of Menfi 3k x 2k</filename>
+      <picture_link>scenpics/East of Menfi 3k x 2k.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>Not defined!</description>
+      <date>06/08/1943</date>
+      <time_of_day>09:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:30</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>6.016 Sq. km</map_area>
+         <map_width>3008 m</map_width>
+         <map_depth>2000 m</map_depth>
+      </Map_Size>
+      <region>Italy</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Very Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFI v1.00</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>5</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Tunisia Map Set Map 4</battle_title>
+      </Title>
+      <filename>Tunisia Map Set Map 4</filename>
+      <picture_link>scenpics/Tunisia Map Set Map 4.bmp</picture_link>
+      <battle_type>Allied Probe</battle_type>
+      <description>Not defined!</description>
+      <date>17/07/1943</date>
+      <time_of_day>17:30</time_of_day>
+      <part_of_day>Dusk</part_of_day>
+      <length>01:20</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>2.016 Sq. km</map_area>
+         <map_width>2000 m</map_width>
+         <map_depth>1008 m</map_depth>
+      </Map_Size>
+      <region>Italy</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFI v1.10</game_version>
+      <Modules_Required>
+         <module1>Gustav Line</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   </Scenario_List>
+</Scenario_Listing>

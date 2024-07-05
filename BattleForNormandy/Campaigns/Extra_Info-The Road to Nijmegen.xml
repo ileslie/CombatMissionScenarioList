@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scenarios>
+<scenario author="Paper Tiger" filename="The Road to Nijmegen #00_Kamp.btt" stock="y"/>
+<scenario author="Paper Tiger" filename="The Road to Nijmegen #01_Grafwegen.btt" stock="y"/>
+<scenario author="Paper Tiger" filename="The Road to Nijmegen #02_Grafwegen K.btt" stock="y"/>
+<scenario author="Paper Tiger" filename="The Road to Nijmegen #03_Breakout.btt" stock="y"/>
+<scenario author="Paper Tiger" filename="The Road to Nijmegen #04_Breakout G.btt" stock="y"/>
+<scenario author="Paper Tiger" filename="The Road to Nijmegen #05_Hoek.btt" stock="y"/>
+<scenario author="Paper Tiger" filename="The Road to Nijmegen #06_Hoek B.btt" stock="y"/>
+<scenario author="Paper Tiger" filename="The Road to Nijmegen #08_Riethorst.btt" stock="y"/>
+<scenario author="Paper Tiger" filename="The Road to Nijmegen #09_Riethorst H.btt" stock="y"/>
+<scenario author="Paper Tiger" filename="The Road to Nijmegen #12_Mook Bridge.btt" stock="y"/>
+<scenario author="Paper Tiger" filename="The Road to Nijmegen #13_Mook Bridge R.btt" stock="y"/>
+<scenario author="Paper Tiger" filename="The Road to Nijmegen #14_Mook Bridge H.btt" stock="y"/>
+<scenario author="Paper Tiger" filename="The Road to Nijmegen #15_Heuman.btt" stock="y"/>
+<scenario author="Paper Tiger" filename="The Road to Nijmegen #16_Heuman M.btt" stock="y"/>
+<scenario author="Paper Tiger" filename="The Road to Nijmegen #17_Heuman H.btt" stock="y"/>
+<scenario author="Paper Tiger" filename="The Road to Nijmegen #18_Heuman MH.btt" stock="y"/>
+<scenario author="Paper Tiger" filename="The Road to Nijmegen #19_Deelshurk.btt" stock="y"/>
+<scenario author="Paper Tiger" filename="The Road to Nijmegen #20_Deelshurk U.btt" stock="y"/>
+<scenario author="Paper Tiger" filename="The Road to Nijmegen #21_Deelshurk M.btt" stock="y"/>
+<scenario author="Paper Tiger" filename="The Road to Nijmegen #22_Night.btt" stock="y"/>
+<scenario author="Paper Tiger" filename="The Road to Nijmegen #23_Night D.btt" stock="y"/>
+<scenario author="Paper Tiger" filename="The Road to Nijmegen #24_Night M.btt" stock="y"/>
+<scenario author="Paper Tiger" filename="The Road to Nijmegen #25_Night U.btt" stock="y"/>
+<scenario author="Paper Tiger" filename="The Road to Nijmegen #26_Night H.btt" stock="y"/>
+<scenario author="Paper Tiger" filename="The Road to Nijmegen #27_Night HM.btt" stock="y"/>
+<scenario author="Paper Tiger" filename="The Road to Nijmegen #28_Night HU.btt" stock="y"/>
+<scenario author="Paper Tiger" filename="The Road to Nijmegen #29_Dawn.btt" stock="y"/>
+<scenario author="Paper Tiger" filename="The Road to Nijmegen #30_Dawn N.btt" stock="y"/>
+<scenario author="Paper Tiger" filename="The Road to Nijmegen #31_Dawn U.btt" stock="y"/>
+<scenario author="Paper Tiger" filename="The Road to Nijmegen #32_Dawn M.btt" stock="y"/>
+<scenario author="Paper Tiger" filename="The Road to Nijmegen #33_Dawn NU.btt" stock="y"/>
+<scenario author="Paper Tiger" filename="The Road to Nijmegen #34_Dawn NM.btt" stock="y"/>
+<scenario author="Paper Tiger" filename="The Road to Nijmegen #35_Dawn H.btt" stock="y"/>
+<scenario author="Paper Tiger" filename="The Road to Nijmegen #36_Dawn HN.btt" stock="y"/>
+<scenario author="Paper Tiger" filename="The Road to Nijmegen #37_Dawn HU.btt" stock="y"/>
+<scenario author="Paper Tiger" filename="The Road to Nijmegen #38_Dawn HM.btt" stock="y"/>
+<scenario author="Paper Tiger" filename="The Road to Nijmegen #39_Dawn HNU.btt" stock="y"/>
+<scenario author="Paper Tiger" filename="The Road to Nijmegen #40_Dawn HNM.btt" stock="y"/>
+<scenario author="Paper Tiger" filename="The Road to Nijmegen #41_Deelshurk H.btt" stock="y"/>
+<scenario author="Paper Tiger" filename="The Road to Nijmegen #42_Deelshurk HW.btt" stock="y"/>
+<scenario author="Paper Tiger" filename="The Road to Nijmegen #43_Papenberg.btt" stock="y"/>
+<scenario author="Paper Tiger" filename="The Road to Nijmegen #44_Papenberg W.btt" stock="y"/>
+<scenario author="Paper Tiger" filename="The Road to Nijmegen #45_Papenberg H.btt" stock="y"/>
+<scenario author="Paper Tiger" filename="The Road to Nijmegen #46_Aalst.btt" stock="y"/>
+<scenario author="Paper Tiger" filename="The Road to Nijmegen #47_Aalst H.btt" stock="y"/>
+<scenario author="Paper Tiger" filename="The Road to Nijmegen #48_Aalst P.btt" stock="y"/>
+<scenario author="Paper Tiger" filename="The Road to Nijmegen #49_Badlands.btt" stock="y"/>
+<scenario author="Paper Tiger" filename="The Road to Nijmegen #50_Badlands A.btt" stock="y"/>
+<scenario author="Paper Tiger" filename="The Road to Nijmegen #52_Finale.btt" stock="y"/>
+<scenario author="Paper Tiger" filename="The Road to Nijmegen #53_Finale A.btt" stock="y"/>
+<scenario author="Paper Tiger" filename="The Road to Nijmegen #54_Mook.btt" stock="y"/>
+<scenario author="Paper Tiger" filename="The Road to Nijmegen #55_Mook F.btt" stock="y"/>
+<scenario author="Paper Tiger" filename="The Road to Nijmegen #56_Mook A.btt" stock="y"/>
+<scenario author="Paper Tiger" filename="The Road to Nijmegen #57_Hunner.btt" stock="y"/>
+<scenario author="Paper Tiger" filename="The Road to Nijmegen #58_Hunner 2.btt" stock="y"/>
+<scenario author="Paper Tiger" filename="The Road to Nijmegen #59_Breakout X.btt" stock="y"/>
+<scenario author="Paper Tiger" filename="The Road to Nijmegen #60_Hoek X.btt" stock="y"/>
+<scenario author="Paper Tiger" filename="The Road to Nijmegen #61_Riethorst X.btt" stock="y"/>
+<scenario author="Paper Tiger" filename="The Road to Nijmegen #62_Mook Bridge X.btt" stock="y"/>
+<scenario author="Paper Tiger" filename="The Road to Nijmegen #63_Heuman X.btt" stock="y"/>
+<scenario author="Paper Tiger" filename="The Road to Nijmegen #64_Night X.btt" stock="y"/>
+<scenario author="Paper Tiger" filename="The Road to Nijmegen #65_Dawn X.btt" stock="y"/>
+<scenario author="Paper Tiger" filename="The Road to Nijmegen #66_Papenberg X.btt" stock="y"/>
+<scenario author="Paper Tiger" filename="The Road to Nijmegen #67_Aalst X.btt" stock="y"/>
+<scenario author="Paper Tiger" filename="The Road to Nijmegen #68_Badlands X.btt" stock="y"/>
+<scenario author="Paper Tiger" filename="The Road to Nijmegen #69_Finale X.btt" stock="y"/>
+<scenario author="Paper Tiger" filename="The Road to Nijmegen #70_Mook X.btt" stock="y"/>
+</scenarios>

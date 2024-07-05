@@ -7,44 +7,28 @@
 	<scenario author="Mark Ezra" filename="Attack! Attack 084.btt" stock="y" />
 	<scenario author="Mark Ezra" filename="Attack! Probe 084.btt" stock="y" />
 	<scenario author="Jeff Shaffer" filename="Bessarabian Nights with Hills setup 1.btt">
-		<urls_list>
-			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3304</downloadurl>
-		</urls_list>
+        <additional_info>No known author or download location.</additional_info>
 	</scenario>
 	<scenario author="Jeff Shaffer" filename="Bessarabian Nights with Hills setup 2.btt">
-		<urls_list>
-			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3304</downloadurl>
-		</urls_list>
+        <additional_info>No known download location.</additional_info>
 	</scenario>
 	<scenario author="Jeff Shaffer" filename="Bessarabian Nights with Hills setup 3.btt">
-		<urls_list>
-			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3304</downloadurl>
-		</urls_list>
+        <additional_info>No known download location.</additional_info>
 	</scenario>
 	<scenario author="Jeff Shaffer" filename="Bessarabian Nights with Hills setup 4.btt">
-		<urls_list>
-			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3304</downloadurl>
-		</urls_list>
+        <additional_info>No known download location.</additional_info>
 	</scenario>
 	<scenario author="Jeff Shaffer" filename="Bessarabian Nights with Hills setup 5.btt">
-		<urls_list>
-			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3304</downloadurl>
-		</urls_list>
+        <additional_info>No known download location.</additional_info>
 	</scenario>
 	<scenario author="Jeff Shaffer" filename="Bessarabian Nights with Hills setup 6.btt">
-		<urls_list>
-			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3304</downloadurl>
-		</urls_list>
+        <additional_info>No known download location.</additional_info>
 	</scenario>
 	<scenario author="Jeff Shaffer" filename="Bessarabian Nights with Hills setup 7.btt">
-		<urls_list>
-			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3304</downloadurl>
-		</urls_list>
+        <additional_info>No known download location.</additional_info>
 	</scenario>
 	<scenario author="Jeff Shaffer" filename="Bessarabian Nights with Hills setup 8.btt">
-		<urls_list>
-			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3304</downloadurl>
-		</urls_list>
+        <additional_info>No known download location.</additional_info>
 	</scenario>
 	<scenario author="Mark Ezra" filename="City Assault 047.btt" stock="y" />
 	<scenario author="Mark Ezra" filename="City Assault 063.btt" stock="y" />
@@ -220,213 +204,308 @@
 	<scenario author="Mark Ezra" filename="Village-Rough-Forest Probe 055.btt" stock="y" />
 	<scenario author="Jeff Shaffer" filename="Panzer Crossroads map Ger L.btt">
 		<urls_list>
-			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons/panzer-crossroads-qb-map/</infourl>
-			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/Panzer-Crossroads-Maps.zip</downloadurl>
+			<downloadurl who="Scenario Depot" primary="y">http://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons/panzer-crossroads-qb-map/</downloadurl>
 		</urls_list>
 	</scenario>
 	<scenario author="Jeff Shaffer" filename="Panzer Crossroads map Ger N.btt">
 		<urls_list>
-			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons/panzer-crossroads-qb-map/</infourl>
-			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/Panzer-Crossroads-Maps.zip</downloadurl>
+			<downloadurl who="Scenario Depot" primary="y">http://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons/panzer-crossroads-qb-map/</downloadurl>
 		</urls_list>
 	</scenario>
 	<scenario author="Jeff Shaffer" filename="Panzer Crossroads map Ger R.btt">
 		<urls_list>
-			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons/panzer-crossroads-qb-map/</infourl>
-			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/Panzer-Crossroads-Maps.zip</downloadurl>
+			<downloadurl who="Scenario Depot" primary="y">http://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons/panzer-crossroads-qb-map/</downloadurl>
 		</urls_list>
 	</scenario>
 	<scenario author="Jeff Shaffer" filename="Panzer Crossroads map Ger S.btt">
 		<urls_list>
-			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons/panzer-crossroads-qb-map/</infourl>
-			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/Panzer-Crossroads-Maps.zip</downloadurl>
+			<downloadurl who="Scenario Depot" primary="y">http://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons/panzer-crossroads-qb-map/</downloadurl>
 		</urls_list>
 	</scenario>
 	<scenario author="Jeff Shaffer" filename="Panzer crossroads map with hills Ger L.btt">
 		<urls_list>
-			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons/panzer-crossroads-qb-map/</infourl>
-			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/Panzer-Crossroads-Maps.zip</downloadurl>
+			<downloadurl who="Scenario Depot" primary="y">http://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons/panzer-crossroads-qb-map/</downloadurl>
 		</urls_list>
 	</scenario>
 	<scenario author="Jeff Shaffer" filename="Panzer crossroads map with hills Ger N.btt">
 		<urls_list>
-			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons/panzer-crossroads-qb-map/</infourl>
-			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/Panzer-Crossroads-Maps.zip</downloadurl>
+			<downloadurl who="Scenario Depot" primary="y">http://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons/panzer-crossroads-qb-map/</downloadurl>
 		</urls_list>
 	</scenario>
 	<scenario author="Jeff Shaffer" filename="Panzer crossroads map with hills Ger R.btt">
 		<urls_list>
-			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons/panzer-crossroads-qb-map/</infourl>
-			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/Panzer-Crossroads-Maps.zip</downloadurl>
+			<downloadurl who="Scenario Depot" primary="y">http://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons/panzer-crossroads-qb-map/</downloadurl>
 		</urls_list>
 	</scenario>
 	<scenario author="Jeff Shaffer" filename="Panzer crossroads map with hills Ger S.btt">
 		<urls_list>
-			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons/panzer-crossroads-qb-map/</infourl>
-			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/Panzer-Crossroads-Maps.zip</downloadurl>
+			<downloadurl who="Scenario Depot" primary="y">http://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons/panzer-crossroads-qb-map/</downloadurl>
 		</urls_list>
 	</scenario>
 	<scenario author="Michael Dorosh" filename="TWC QB Meeting Engagement - Kamienka.btt">
 		<urls_list>
-			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons/twc-qb-meeting-engagement-kamienka/</infourl>
-			<downloadurl who="Scenario Depot">http://http://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons/twc-qb-meeting-engagement-kamienka/</downloadurl>
+			<downloadurl who="Scenario Depot" primary="y">http://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons/twc-qb-meeting-engagement-kamienka/</downloadurl>
 		</urls_list>
 	</scenario>
 	<scenario author="Michael Dorosh" filename="TWC QB  Meeting (Chance Encounter).btt">
 		<urls_list>
-			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons/twc-qb-meeting-chance-encounter/</infourl>
+			<downloadurl who="Scenario Depot" primary="y">http://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons/twc-qb-meeting-chance-encounter/</downloadurl>
 			<downloadurl who="Scenario Depot">http://http://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons/twc-qb-meeting-chance-encounter/</downloadurl>
 		</urls_list>
 	</scenario>
 	<scenario author="Michael Dorosh" filename="TWC QB Hills Meeting (Hill 621).btt">
 		<urls_list>
-			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons/twc-qb-map-hills-meeting-hill-621/</infourl>
+			<downloadurl who="Scenario Depot" primary="y">http://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons/twc-qb-map-hills-meeting-hill-621/</downloadurl>
 			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/TWC-QB-Hills-Meeting-Hill-621.zip</downloadurl>
 		</urls_list>
 	</scenario>
 	<scenario author="Michael Dorosh" filename="TWC QB Forest Meeting (Cracking the Egg).btt">
 		<urls_list>
-			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons/twc-qb-forest-meeting-cracking-the-egg/</infourl>
+			<downloadurl who="Scenario Depot" primary="y">http://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons/twc-qb-forest-meeting-cracking-the-egg/</downloadurl>
 			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/TWC-QB-Forest-Meeting-Cracking-the-Egg.zip</downloadurl>
 		</urls_list>
 	</scenario>
 	<scenario author="Jeff Shaffer" filename="Fat Lipki QB map variation 1 Ger L-R.btt">
 		<urls_list>
-			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/fat-lipki-qb-map-final-version-with-better-ai/</infourl>
-			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/Fat-Lipki-QB-maps.zip</downloadurl>
-			<downloadurl>http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=finishdown&amp;id=3227</downloadurl>
+			<downloadurl who="Scenario Depot" primary="y">http://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/fat-lipki-qb-map-final-version-with-better-ai/</downloadurl>
 		</urls_list>
 	</scenario>
 	<scenario author="Jeff Shaffer" filename="Fat Lipki QB map variation 2 Ger R-L.btt">
 		<urls_list>
-			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/fat-lipki-qb-map-final-version-with-better-ai/</infourl>
-			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/Fat-Lipki-QB-maps.zip</downloadurl>
-			<downloadurl>http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=finishdown&amp;id=3227</downloadurl>
+			<downloadurl who="Scenario Depot" primary="y">http://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/fat-lipki-qb-map-final-version-with-better-ai/</downloadurl>
 		</urls_list>
 	</scenario>
 	<scenario author="Jeff Shaffer" filename="Fat Lipki QB map variation 3 Ger SE-NW.btt">
 		<urls_list>
-			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/fat-lipki-qb-map-final-version-with-better-ai/</infourl>
-			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/Fat-Lipki-QB-maps.zip</downloadurl>
-			<downloadurl>http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=finishdown&amp;id=3227</downloadurl>
+			<downloadurl who="Scenario Depot" primary="y">http://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/fat-lipki-qb-map-final-version-with-better-ai/</downloadurl>
 		</urls_list>
 	</scenario>
 	<scenario author="Jeff Shaffer" filename="Fat Lipki QB map variation 4 Ger NW-SE.btt">
 		<urls_list>
-			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/fat-lipki-qb-map-final-version-with-better-ai/</infourl>
-			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/Fat-Lipki-QB-maps.zip</downloadurl>
-			<downloadurl>http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=finishdown&amp;id=3227</downloadurl>
+			<downloadurl who="Scenario Depot" primary="y">http://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/fat-lipki-qb-map-final-version-with-better-ai/</downloadurl>
 		</urls_list>
 	</scenario>
 	<scenario author="Jeff Shaffer" filename="Fat Lipki QB map variation 5 Ger NE-SW.btt">
 		<urls_list>
-			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/fat-lipki-qb-map-final-version-with-better-ai/</infourl>
-			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/Fat-Lipki-QB-maps.zip</downloadurl>
-			<downloadurl>http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=finishdown&amp;id=3227</downloadurl>
+			<downloadurl who="Scenario Depot" primary="y">http://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/fat-lipki-qb-map-final-version-with-better-ai/</downloadurl>
 		</urls_list>
 	</scenario>
 	<scenario author="Jeff Shaffer" filename="Fat Lipki QB map variation 6 Ger SW-NE.btt">
 		<urls_list>
-			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/fat-lipki-qb-map-final-version-with-better-ai/</infourl>
-			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/Fat-Lipki-QB-maps.zip</downloadurl>
-			<downloadurl>http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=finishdown&amp;id=3227</downloadurl>
+			<downloadurl who="Scenario Depot" primary="y">http://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/fat-lipki-qb-map-final-version-with-better-ai/</downloadurl>
 		</urls_list>
 	</scenario>
 	<scenario author="Jeff Shaffer" filename="Fat Lipki QB map.btt">
 		<urls_list>
-			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/fat-lipki-qb-map-final-version-with-better-ai/</infourl>
-			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/Fat-Lipki-QB-maps.zip</downloadurl>
-			<downloadurl>http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=finishdown&amp;id=3227</downloadurl>
+			<downloadurl who="Scenario Depot" primary="y">http://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/fat-lipki-qb-map-final-version-with-better-ai/</downloadurl>
 		</urls_list>
 	</scenario>
 	<scenario author="Jeff Shaffer" filename="Bessarabian Nights Setup 1.btt">
 		<urls_list>
-			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/bessarabian-nights-qb-map/</infourl>
-			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/Bessarabian-Nights-QB-maps.zip</downloadurl>
+			<downloadurl who="Scenario Depot" primary="y">http://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/bessarabian-nights-qb-map/</downloadurl>
 		</urls_list>
 	</scenario>
 	<scenario author="Jeff Shaffer" filename="Bessarabian Nights Setup 2.btt">
 		<urls_list>
-			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/bessarabian-nights-qb-map/</infourl>
-			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/Bessarabian-Nights-QB-maps.zip</downloadurl>
+			<downloadurl who="Scenario Depot" primary="y">http://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/bessarabian-nights-qb-map/</downloadurl>
 		</urls_list>
 	</scenario>
 	<scenario author="Jeff Shaffer" filename="Bessarabian Nights Setup 3.btt">
 		<urls_list>
-			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/bessarabian-nights-qb-map/</infourl>
-			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/Bessarabian-Nights-QB-maps.zip</downloadurl>
+			<downloadurl who="Scenario Depot" primary="y">http://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/bessarabian-nights-qb-map/</downloadurl>
 		</urls_list>
 	</scenario>
 	<scenario author="Jeff Shaffer" filename="Bessarabian Nights Setup 4 Russian Ambush.btt">
 		<urls_list>
-			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/bessarabian-nights-qb-map/</infourl>
-			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/Bessarabian-Nights-QB-maps.zip</downloadurl>
+			<downloadurl who="Scenario Depot" primary="y">http://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/bessarabian-nights-qb-map/</downloadurl>
 		</urls_list>
 	</scenario>
 	<scenario author="Jeff Shaffer" filename="Bessarabian Nights Setup 5.btt">
 		<urls_list>
-			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/bessarabian-nights-qb-map/</infourl>
-			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/Bessarabian-Nights-QB-maps.zip</downloadurl>
+			<downloadurl who="Scenario Depot" primary="y">http://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/bessarabian-nights-qb-map/</downloadurl>
 		</urls_list>
 	</scenario>
 	<scenario author="Jeff Shaffer" filename="Bessarabian Nights Setup 6.btt">
 		<urls_list>
-			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/bessarabian-nights-qb-map/</infourl>
-			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/Bessarabian-Nights-QB-maps.zip</downloadurl>
+			<downloadurl who="Scenario Depot" primary="y">http://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/bessarabian-nights-qb-map/</downloadurl>
 		</urls_list>
 	</scenario>
 	<scenario author="Jeff Shaffer" filename="Bessarabian Nights Setup 7.btt">
 		<urls_list>
-			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/bessarabian-nights-qb-map/</infourl>
-			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/Bessarabian-Nights-QB-maps.zip</downloadurl>
+			<downloadurl who="Scenario Depot" primary="y">http://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/bessarabian-nights-qb-map/</downloadurl>
 		</urls_list>
 	</scenario>
 	<scenario author="Jeff Shaffer" filename="Bessarabian Nights Setup 8.btt">
 		<urls_list>
-			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/bessarabian-nights-qb-map/</infourl>
-			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/Bessarabian-Nights-QB-maps.zip</downloadurl>
+			<downloadurl who="Scenario Depot" primary="y">http://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/bessarabian-nights-qb-map/</downloadurl>
 		</urls_list>
 	</scenario>
 	<scenario author="Kevin Kinscherf" filename="AI Mod Allied Small Village Attack 019.btt">
-		<urls_list>
-			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3475</downloadurl>
-		</urls_list>
+        <additional_info>No known download location.</additional_info>
 	</scenario>
 	<scenario author="Kevin Kinscherf" filename="AI Mod German Small Village Attack 019.btt">
-		<urls_list>
-			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3475</downloadurl>
-		</urls_list>
+        <additional_info>No known download location.</additional_info>
 	</scenario>
 	<scenario author="Kevin Kinscherf" filename="AI Mod Light Forest-Farmland Probe 001.btt">
-		<urls_list>
-			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3475</downloadurl>
-		</urls_list>
+        <additional_info>No known download location.</additional_info>
 	</scenario>
 	<scenario author="Kevin Kinscherf" filename="AI Mod Open Farmland Meet 00500.btt">
-		<urls_list>
-			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3475</downloadurl>
-		</urls_list>
+        <additional_info>No known download location.</additional_info>
 	</scenario>
 	<scenario author="Kevin Kinscherf" filename="AI Mod Small City Assault 045.btt">
-		<urls_list>
-			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3475</downloadurl>
-		</urls_list>
+        <additional_info>No known download location.</additional_info>
 	</scenario>
 	<scenario author="Kevin Kinscherf" filename="AI Mod Small City Probe 045.btt">
-		<urls_list>
-			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3475</downloadurl>
-		</urls_list>
+        <additional_info>No known download location.</additional_info>
 	</scenario>
 	<scenario author="Michael Dorosh" filename="TWC QB Meeting Engagement (Magnuszew Bridgehead).btt">
 		<urls_list>
-			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3465</downloadurl>
+			<downloadurl who="Scenario Depot" primary="y">https://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons/twc-quick-battle-meeting-engagement-magnuszew-bridgehead/</downloadurl>
 		</urls_list>
 	</scenario>
+    <scenario author="benpark" filename="FR_Arnswalde-1120x768-Town-Assault-01.btt" stock="y"/>
+    <scenario author="benpark" filename="FR_Arnswalde-1120x768-Town-Attack-01.btt" stock="y"/>
+    <scenario author="benpark" filename="FR_Arnswalde-1120x768-Town-Probe-01.btt" stock="y"/>
+    <scenario author="benpark" filename="FR_Arnswalde-1440x1440-Town-Assault-01.btt" stock="y"/>
+    <scenario author="benpark" filename="FR_Arnswalde-1440x1440-Town-Attack-01.btt" stock="y"/>
+    <scenario author="benpark" filename="FR_Arnswalde-1440x1440-Town-Probe-01.btt" stock="y"/>
+    <scenario author="benpark" filename="FR_Arnswalde-1488x1024-Open-Meeting-01.btt" stock="y"/>
+    <scenario author="benpark" filename="FR_Arnswalde-704x784-Town-Assault-01.btt" stock="y"/>
+    <scenario author="benpark" filename="FR_Arnswalde-704x784-Town-Attack-01.btt" stock="y"/>
+    <scenario author="benpark" filename="FR_Arnswalde-704x784-Town-Probe-01.btt" stock="y"/>
+    <scenario author="benpark" filename="FR_Arnswalde-768x1024-Open-Meeting-01.btt" stock="y"/>
+    <scenario author="benpark" filename="FR_Arnswalde-960x960-Town-Assault-01.btt" stock="y"/>
+    <scenario author="benpark" filename="FR_Arnswalde-960x960-Town-Attack-01.btt" stock="y"/>
+    <scenario author="benpark" filename="FR_Arnswalde-960x960-Town-Probe-01.btt" stock="y"/>
+    <scenario author="benpark" filename="FR_Balatonfokajar-1136x1136-Town-Meeting-01.btt" stock="y"/>
+    <scenario author="benpark" filename="FR_Balatonfokajar-1440x1440-Rough-Assault-01.btt" stock="y"/>
+    <scenario author="benpark" filename="FR_Balatonfokajar-1440x1440-Rough-Attack-01.btt" stock="y"/>
+    <scenario author="benpark" filename="FR_Balatonfokajar-1440x1440-Rough-Probe-01.btt" stock="y"/>
+    <scenario author="benpark" filename="FR_Balatonfokajar-1760x1760-Town-Assault-01.btt" stock="y"/>
+    <scenario author="benpark" filename="FR_Balatonfokajar-1760x1760-Town-Attack-01.btt" stock="y"/>
+    <scenario author="benpark" filename="FR_Balatonfokajar-1760x1760-Town-Probe-01.btt" stock="y"/>
+    <scenario author="benpark" filename="FR_Balatonfokajar-2000x2000-Open-Meeting.btt" stock="y"/>
+    <scenario author="benpark" filename="FR_Baracska-1520x2320_Village-Assault-01.btt" stock="y"/>
+    <scenario author="benpark" filename="FR_Baracska-1520x2320_Village-Attack-01.btt" stock="y"/>
+    <scenario author="benpark" filename="FR_Baracska-1520x2320_Village-Meeting-01.btt" stock="y"/>
+    <scenario author="benpark" filename="FR_Baracska-1520x2320_Village-Probe-01.btt" stock="y"/>
+    <scenario author="benpark" filename="FR_Batzlow-1040x1040-Forest-Meeting-01.btt" stock="y"/>
+    <scenario author="benpark" filename="FR_Batzlow-1040x1040-Village-Assault-01.btt" stock="y"/>
+    <scenario author="benpark" filename="FR_Batzlow-1040x1040-Village-Attack-01.btt" stock="y"/>
+    <scenario author="benpark" filename="FR_Batzlow-1040x1040-Village-Probe-01.btt" stock="y"/>
+    <scenario author="benpark" filename="FR_Batzlow-1120x1200-Village-Assault-01.btt" stock="y"/>
+    <scenario author="benpark" filename="FR_Batzlow-1120x1200-Village-Attack-01.btt" stock="y"/>
+    <scenario author="benpark" filename="FR_Batzlow-1120x1200-Village-Probe-01.btt" stock="y"/>
+    <scenario author="benpark" filename="FR_Batzlow-1440x1440-Forest-Assault-01.btt" stock="y"/>
+    <scenario author="benpark" filename="FR_Batzlow-1440x1440-Forest-Attack-01.btt" stock="y"/>
+    <scenario author="benpark" filename="FR_Batzlow-1440x1440-Forest-Meeting-01.btt" stock="y"/>
+    <scenario author="benpark" filename="FR_Batzlow-1440x1440-Forest-Probe-01.btt" stock="y"/>
+    <scenario author="benpark" filename="FR_Batzlow-1520x1200-Village-Assault-01.btt" stock="y"/>
+    <scenario author="benpark" filename="FR_Batzlow-1520x1200-Village-Attack-01.btt" stock="y"/>
+    <scenario author="benpark" filename="FR_Batzlow-1520x1200-Village-Meeting-01.btt" stock="y"/>
+    <scenario author="benpark" filename="FR_Batzlow-1520x1200-Village-Probe-01.btt" stock="y"/>
+    <scenario author="benpark" filename="FR_Batzlow-1568x1488-Rough-Assault-01.btt" stock="y"/>
+    <scenario author="benpark" filename="FR_Batzlow-1568x1488-Rough-Attack-01.btt" stock="y"/>
+    <scenario author="benpark" filename="FR_Batzlow-1568x1488-Rough-Probe-01.btt" stock="y"/>
+    <scenario author="benpark" filename="FR_Berlin Z East-560x800-City-Assault-01.btt" stock="y"/>
+    <scenario author="benpark" filename="FR_Berlin Z East-560x800-City-Attack-01.btt" stock="y"/>
+    <scenario author="benpark" filename="FR_Berlin Z East-560x800-City-Probe-01.btt" stock="y"/>
+    <scenario author="benpark" filename="FR_Berlin Z East-720x624-City-Assault-01.btt" stock="y"/>
+    <scenario author="benpark" filename="FR_Berlin Z East-720x624-City-Attack-01.btt" stock="y"/>
+    <scenario author="benpark" filename="FR_Berlin Z East-720x624-City-Probe-01.btt" stock="y"/>
+    <scenario author="benpark" filename="FR_Berlin Z East-848x1088-City-Meeting-01.btt" stock="y"/>
+    <scenario author="benpark" filename="FR_Berlin Z East-896x896-City-Assault-01.btt" stock="y"/>
+    <scenario author="benpark" filename="FR_Berlin Z East-896x896-City-Attack-01.btt" stock="y"/>
+    <scenario author="benpark" filename="FR_Berlin Z East-896x896-City-Probe-01.btt" stock="y"/>
+    <scenario author="benpark" filename="FR_Berlin Z West-1328x1264-City-River-Assault-01.btt" stock="y"/>
+    <scenario author="benpark" filename="FR_Berlin Z West-1328x1264-City-River-Attack-01.btt" stock="y"/>
+    <scenario author="benpark" filename="FR_Berlin Z West-1328x1264-City-River-Probe-01.btt" stock="y"/>
+    <scenario author="benpark" filename="FR_Berlin Z West-480x480-City-Assault-01.btt" stock="y"/>
+    <scenario author="benpark" filename="FR_Berlin Z West-480x480-City-Attack-01.btt" stock="y"/>
+    <scenario author="benpark" filename="FR_Berlin Z West-480x480-City-Probe-01.btt" stock="y"/>
+    <scenario author="benpark" filename="FR_Berlin Z West-720x1120-City-Assault-01.btt" stock="y"/>
+    <scenario author="benpark" filename="FR_Berlin Z West-720x1120-City-Attack-01.btt" stock="y"/>
+    <scenario author="benpark" filename="FR_Berlin Z West-725x816-City-Meeting-01.btt" stock="y"/>
+    <scenario author="benpark" filename="FR_Brzesc Kujawski-2640x1488-Open-Assault-01.btt" stock="y"/>
+    <scenario author="benpark" filename="FR_Brzesc Kujawski-2640x1488-Open-Attack-01.btt" stock="y"/>
+    <scenario author="benpark" filename="FR_Brzesc Kujawski-2640x1488-Open-Meeting-01.btt" stock="y"/>
+    <scenario author="benpark" filename="FR_Brzesc Kujawski-2640x1488-Open-Probe-01.btt" stock="y"/>
+    <scenario author="benpark" filename="FR_Budapest Hills-1280x720-Forest-Assault-01.btt" stock="y"/>
+    <scenario author="benpark" filename="FR_Budapest Hills-1280x720-Forest-Attack-01.btt" stock="y"/>
+    <scenario author="benpark" filename="FR_Budapest Hills-1280x720-Forest-Probe-01.btt" stock="y"/>
+    <scenario author="benpark" filename="FR_Bzura River-1920x1008-Village-Assault-01.btt" stock="y"/>
+    <scenario author="benpark" filename="FR_Bzura River-1920x1008-Village-Attack-01.btt" stock="y"/>
+    <scenario author="benpark" filename="FR_Bzura River-1920x1008-Village-Probe-01.btt" stock="y"/>
+    <scenario author="benpark" filename="FR_Feierabend Machen-2000x1440 Village Meeting 01.btt" stock="y"/>
+    <scenario author="benpark" filename="FR_Feierabend Machen-2000x2000-Village-Assault-01.btt" stock="y"/>
+    <scenario author="benpark" filename="FR_Feierabend Machen-2000x2000-Village-Attack-01.btt" stock="y"/>
+    <scenario author="benpark" filename="FR_Feierabend Machen-2000x2000-Village-Probe-01.btt" stock="y"/>
+    <scenario author="benpark" filename="FR_Hegyikastely-1440x1440-Village-Assault-01.btt" stock="y"/>
+    <scenario author="benpark" filename="FR_Hegyikastely-1440x1440-Village-Attack-01.btt" stock="y"/>
+    <scenario author="benpark" filename="FR_Hegyikastely-1440x1440-Village-Probe-01.btt" stock="y"/>
+    <scenario author="benpark" filename="FR_Hegyikastely-2000x2000-Village-Assault-01.btt" stock="y"/>
+    <scenario author="benpark" filename="FR_Hegyikastely-2000x2000-Village-Attack-01.btt" stock="y"/>
+    <scenario author="benpark" filename="FR_Hegyikastely-2000x2000-Village-Probe-01.btt" stock="y"/>
+    <scenario author="benpark" filename="FR_Hegyikastely-3488x2560-Village-Assault-01.btt" stock="y"/>
+    <scenario author="benpark" filename="FR_Hegyikastely-3488x2560-Village-Attack-01.btt" stock="y"/>
+    <scenario author="benpark" filename="FR_Hegyikastely-3488x2560-Village-Probe-01.btt" stock="y"/>
+    <scenario author="benpark" filename="FR_Katabasis_1184x912-Village-Meeting-01.btt" stock="y"/>
+    <scenario author="benpark" filename="FR_Marzdorf-1040x1760-Open-Assault-01.btt" stock="y"/>
+    <scenario author="benpark" filename="FR_Marzdorf-1040x1760-Open-Attack-01.btt" stock="y"/>
+    <scenario author="benpark" filename="FR_Marzdorf-1040x1760-Open-Probe-01.btt" stock="y"/>
+    <scenario author="benpark" filename="FR_Marzdorf-1440x1440-Open-Assault-01.btt" stock="y"/>
+    <scenario author="benpark" filename="FR_Marzdorf-1440x1440-Open-Attack-01.btt" stock="y"/>
+    <scenario author="benpark" filename="FR_Marzdorf-1440x1440-Open-Probe-01.btt" stock="y"/>
+    <scenario author="benpark" filename="FR_Marzdorf-3024x2112-Open-Assault-01.btt" stock="y"/>
+    <scenario author="benpark" filename="FR_Marzdorf-3024x2112-Open-Attack-01.btt" stock="y"/>
+    <scenario author="benpark" filename="FR_Marzdorf-3024x2112-Open-Probe-01.btt" stock="y"/>
+    <scenario author="benpark" filename="FR_Marzdorf-800x800-Town-Assault-01.btt" stock="y"/>
+    <scenario author="benpark" filename="FR_Marzdorf-800x800-Town-Attack-01.btt" stock="y"/>
+    <scenario author="benpark" filename="FR_Marzdorf-800x800-Town-Probe-01.btt" stock="y"/>
+    <scenario author="benpark" filename="FR_Muscherin-2000x2000-Open-Assault-01.btt" stock="y"/>
+    <scenario author="benpark" filename="FR_Muscherin-2000x2000-Open-Attack-01.btt" stock="y"/>
+    <scenario author="benpark" filename="FR_Muscherin-2000x2000-Open-Probe-01.btt" stock="y"/>
+    <scenario author="benpark" filename="FR_Muscherin-3008x3040-Open-Assault-01.btt" stock="y"/>
+    <scenario author="benpark" filename="FR_Muscherin-3008x3040-Open-Attack-01.btt" stock="y"/>
+    <scenario author="benpark" filename="FR_Muscherin-3008x3040-Open-Meeting-01.btt" stock="y"/>
+    <scenario author="benpark" filename="FR_Muscherin-3008x3040-Open-Probe-01.btt" stock="y"/>
+    <scenario author="benpark" filename="FR_Pettend-2000x1824-Village-Assault-01.btt" stock="y"/>
+    <scenario author="benpark" filename="FR_Pettend-2000x1824-Village-Attack-01.btt" stock="y"/>
+    <scenario author="benpark" filename="FR_Pettend-2000x1824-Village-Probe-01.btt" stock="y"/>
+    <scenario author="benpark" filename="FR_Pyritz Lettnin-2144x1680-Town-Open-Meeting-01.btt" stock="y"/>
+    <scenario author="benpark" filename="FR_Reitwein-1440x1440-Town-Meeting-01.btt" stock="y"/>
+    <scenario author="benpark" filename="FR_Reitwein-1680x1440-River-Town-Assault-01.btt" stock="y"/>
+    <scenario author="benpark" filename="FR_Reitwein-1680x1440-River-Town-Attack-01.btt" stock="y"/>
+    <scenario author="benpark" filename="FR_Reitwein-1680x1440-River-Town-Probe-01.btt" stock="y"/>
+    <scenario author="benpark" filename="FR_Reitwein-2304x976-Village-Meeting-01.btt" stock="y"/>
+    <scenario author="benpark" filename="FR_Reitwein-880x880-Village-Open-Assault-01.btt" stock="y"/>
+    <scenario author="benpark" filename="FR_Reitwein-880x880-Village-Open-Attack-01.btt" stock="y"/>
+    <scenario author="benpark" filename="FR_Reitwein-880x880-Village-Open-Probe-01.btt" stock="y"/>
+    <scenario author="benpark" filename="FR_Seregelyes-1760x2320-Town-Assault-01.btt" stock="y"/>
+    <scenario author="benpark" filename="FR_Seregelyes-1760x2320-Town-Attack-01.btt" stock="y"/>
+    <scenario author="benpark" filename="FR_Seregelyes-1760x2320-Town-Meeting-01.btt" stock="y"/>
+    <scenario author="benpark" filename="FR_Seregelyes-1760x2320-Town-Probe-01.btt" stock="y"/>
+    <scenario author="benpark" filename="FR_Simontornya-1408x704-Village-Meeting-01.btt" stock="y"/>
+    <scenario author="benpark" filename="FR_Simontornya-1440x1440-Rough-Marsh-Assault-01.btt" stock="y"/>
+    <scenario author="benpark" filename="FR_Simontornya-1440x1440-Rough-Marsh-Attack-01.btt" stock="y"/>
+    <scenario author="benpark" filename="FR_Simontornya-1440x1440-Rough-Marsh-Probe-01.btt" stock="y"/>
+    <scenario author="benpark" filename="FR_Simontornya-1440x2000-Rough-Assault-01.btt" stock="y"/>
+    <scenario author="benpark" filename="FR_Simontornya-1440x2000-Rough-Attack-01.btt" stock="y"/>
+    <scenario author="benpark" filename="FR_Simontornya-1440x2000-Rough-Probe-01.btt" stock="y"/>
+    <scenario author="benpark" filename="FR_Sinimaed Hills-Forest-Village-Assault-01.btt" stock="y"/>
+    <scenario author="benpark" filename="FR_Sinimaed Hills-Forest-Village-Attack-01.btt" stock="y"/>
+    <scenario author="benpark" filename="FR_Sinimaed Hills-Forest-Village-Probe-01.btt" stock="y"/>
+    <scenario author="benpark" filename="FR_The Rites of Spring-2064x2496-Open-Attack-01.btt" stock="y"/>
+    <scenario author="benpark" filename="FR_The Rites of Spring-2064x2496-Open-Meeting-01.btt" stock="y"/>
+    <scenario author="benpark" filename="FR_Tukums-1680x1680-Rough-Meeting-01.btt" stock="y"/>
+    <scenario author="benpark" filename="FR_Vengeance-1008x1120-Village-Assault-01.btt" stock="y"/>
+    <scenario author="benpark" filename="FR_Vengeance-1008x1120-Village-Attack-01.btt" stock="y"/>
+    <scenario author="benpark" filename="FR_Vengeance-1008x1120-Village-Probe-01.btt" stock="y"/>
 	
 <!-- 	<scenario author="" filename=""> -->
 <!-- 		<urls_list> -->
-<!-- 			<infourl who="Scenario Depot"></infourl> -->
-<!-- 			<downloadurl who="Scenario Depot">http://</downloadurl> -->
+<!-- 			<infourl who="the Blitz"></infourl> -->
+<!-- 			<downloadurl who="Scenario Depot"></downloadurl> -->
 <!-- 		</urls_list> -->
 <!-- 	</scenario> -->
 </scenarios>

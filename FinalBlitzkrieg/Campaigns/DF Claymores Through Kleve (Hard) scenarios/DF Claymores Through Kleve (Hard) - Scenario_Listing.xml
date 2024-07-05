@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="Listing_Layout.xsl" ?>
+
+<Scenario_Listing>
+
+   <Scenario_List>
+
+   <containing_campaign>Claymores Through Kleve (Hard)</containing_campaign>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #04]</number_in_campaign>
+         <battle_title>Materborn</battle_title>
+      </Title>
+      <filename>DF Claymores Through Kleve (Hard) #04_DF Kleve 05 Materborn</filename>
+      <picture_link>scenpics/DF Claymores Through Kleve (Hard)4.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>Not defined!</description>
+      <date>15/02/1945</date>
+      <time_of_day>11:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:40</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>5.028 Sq. km</map_area>
+         <map_width>1952 m</map_width>
+         <map_depth>2576 m</map_depth>
+      </Map_Size>
+      <region>Germany</region>
+      <environment>Open</environment>
+      <weather>Light Fog and Rain</weather>
+      <temperature>Freezing</temperature>
+      <ground_condition>Wet</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFB v2.10 to v2.11</game_version>
+      <Modules_Required>
+         <module1>Downfall</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #06]</number_in_campaign>
+         <battle_title>Mississippi Mud</battle_title>
+      </Title>
+      <filename>DF Claymores Through Kleve (Hard) #06_DF Kleve 07 Mississippi</filename>
+      <picture_link>scenpics/DF Claymores Through Kleve (Hard)6.bmp</picture_link>
+      <battle_type>Meeting Engagement</battle_type>
+      <description>Not defined!</description>
+      <date>20/02/1945</date>
+      <time_of_day>16:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>02:00</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>6.236 Sq. km</map_area>
+         <map_width>1920 m</map_width>
+         <map_depth>3248 m</map_depth>
+      </Map_Size>
+      <region>Germany</region>
+      <environment>Village</environment>
+      <weather>Light Fog</weather>
+      <temperature>Cold</temperature>
+      <ground_condition>Damp</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFB v2.10 to v2.11</game_version>
+      <Modules_Required>
+         <module1>Downfall</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #02]</number_in_campaign>
+         <battle_title>Kranenburg</battle_title>
+      </Title>
+      <filename>DF Claymores Through Kleve (Hard) #02_DF Kleve 03 Kranenburg</filename>
+      <picture_link>scenpics/DF Claymores Through Kleve (Hard)2.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>Not defined!</description>
+      <date>08/02/1945</date>
+      <time_of_day>08:05</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>02:00</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>3.333 Sq. km</map_area>
+         <map_width>1984 m</map_width>
+         <map_depth>1680 m</map_depth>
+      </Map_Size>
+      <region>Germany</region>
+      <environment>Open</environment>
+      <weather>Light Fog and Rain</weather>
+      <temperature>Cold</temperature>
+      <ground_condition>Muddy</ground_condition>
+      <early_intel>Axis Force</early_intel>
+      <game_version>CMFB v2.10 to v2.11</game_version>
+      <Modules_Required>
+         <module1>Downfall</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #00]</number_in_campaign>
+         <battle_title>Den Hoevel Farm</battle_title>
+      </Title>
+      <filename>DF Claymores Through Kleve (Hard) #00_DF Kleve 01 Den Hoevel Farm</filename>
+      <picture_link>scenpics/DF Claymores Through Kleve (Hard)0.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>Not defined!</description>
+      <date>05/02/1945</date>
+      <time_of_day>07:00</time_of_day>
+      <part_of_day>Dawn</part_of_day>
+      <length>01:40</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>1.551 Sq. km</map_area>
+         <map_width>960 m</map_width>
+         <map_depth>1616 m</map_depth>
+      </Map_Size>
+      <region>Germany</region>
+      <environment>Open</environment>
+      <weather>Light Fog and Rain</weather>
+      <temperature>Cold</temperature>
+      <ground_condition>Wet</ground_condition>
+      <early_intel>Axis Force</early_intel>
+      <game_version>CMFB v2.10 to v2.11</game_version>
+      <Modules_Required>
+         <module1>Downfall</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #03]</number_in_campaign>
+         <battle_title>Reichswald</battle_title>
+      </Title>
+      <filename>DF Claymores Through Kleve (Hard) #03_DF Kleve 04 Reichswald</filename>
+      <picture_link>scenpics/DF Claymores Through Kleve (Hard)3.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>Not defined!</description>
+      <date>10/02/1945</date>
+      <time_of_day>13:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>02:00</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>1.408 Sq. km</map_area>
+         <map_width>880 m</map_width>
+         <map_depth>1600 m</map_depth>
+      </Map_Size>
+      <region>Germany</region>
+      <environment>Open</environment>
+      <weather>Flurries</weather>
+      <temperature>Freezing</temperature>
+      <ground_condition>Wet</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFB v2.10 to v2.11</game_version>
+      <Modules_Required>
+         <module1>Downfall</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #05]</number_in_campaign>
+         <battle_title>Crawling from the Wreckage</battle_title>
+      </Title>
+      <filename>DF Claymores Through Kleve (Hard) #05_DF Kleve 06 Crawling from the Wreckage</filename>
+      <picture_link>scenpics/DF Claymores Through Kleve (Hard)5.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>Not defined!</description>
+      <date>18/01/1945</date>
+      <time_of_day>13:05</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>02:00</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>2.061 Sq. km</map_area>
+         <map_width>2112 m</map_width>
+         <map_depth>976 m</map_depth>
+      </Map_Size>
+      <region>Germany</region>
+      <environment>Open</environment>
+      <weather>Heavy Rain</weather>
+      <temperature>Cold</temperature>
+      <ground_condition>Muddy</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFB v2.10 to v2.11</game_version>
+      <Modules_Required>
+         <module1>Downfall</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #01]</number_in_campaign>
+         <battle_title>Nijmegen Kleve Road</battle_title>
+      </Title>
+      <filename>DF Claymores Through Kleve (Hard) #01_DF Kleve 02 Nijmegen Kleve Road</filename>
+      <picture_link>scenpics/DF Claymores Through Kleve (Hard)1.bmp</picture_link>
+      <battle_type>Allied Assault</battle_type>
+      <description>Not defined!</description>
+      <date>07/02/1945</date>
+      <time_of_day>08:10</time_of_day>
+      <part_of_day>Dawn</part_of_day>
+      <length>02:30</length>
+      <battle_size>Large</battle_size>
+      <Map_Size>
+         <map_area>5.601 Sq. km</map_area>
+         <map_width>2288 m</map_width>
+         <map_depth>2448 m</map_depth>
+      </Map_Size>
+      <region>Germany</region>
+      <environment>Town</environment>
+      <weather>Light Fog and Rain</weather>
+      <temperature>Cold</temperature>
+      <ground_condition>Muddy</ground_condition>
+      <early_intel>Allied Force</early_intel>
+      <game_version>CMFB v2.10 to v2.11</game_version>
+      <Modules_Required>
+         <module1>Downfall</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>9</size_modifier>
+   </Scenario>
+
+   </Scenario_List>
+</Scenario_Listing>

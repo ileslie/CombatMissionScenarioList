@@ -1,0 +1,539 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="Listing_Layout.xsl" ?>
+
+<Scenario_Listing>
+
+   <Scenario_List>
+
+   <containing_campaign>Kampfgruppe VON SCHROIF</containing_campaign>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #11]</number_in_campaign>
+         <battle_title>schnelle Truppen Angriffe!</battle_title>
+      </Title>
+      <filename>CMRT Kampfgruppe von Schroif_v6 #11_Mission5_2b schnelle Truppen Angriffe_v2</filename>
+      <picture_link>scenpics/CMRT Kampfgruppe von Schroif_v611.bmp</picture_link>
+      <battle_type>Axis Attack</battle_type>
+      <description>11/8/44 Kampfgruppe &quot;von Schroif&quot; pushes on into the night in an effort to secure 3rd Pz.Div&apos;s route of advance by eliminating Soviet blocking positions.</description>
+      <date>11/08/1944</date>
+      <time_of_day>21:30</time_of_day>
+      <part_of_day>Dusk</part_of_day>
+      <length>02:30</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>7.534 Sq. km</map_area>
+         <map_width>2160 m</map_width>
+         <map_depth>3488 m</map_depth>
+      </Map_Size>
+      <region>Eastern Europe</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Cool</temperature>
+      <ground_condition>Damp</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMRT v1.00 to v1.03</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #14]</number_in_campaign>
+         <battle_title>Himmelfahrt</battle_title>
+      </Title>
+      <filename>CMRT Kampfgruppe von Schroif_v6 #14_Mission 6_1c_Himmelfahrt_v1</filename>
+      <picture_link>scenpics/CMRT Kampfgruppe von Schroif_v614.bmp</picture_link>
+      <battle_type>Axis Attack</battle_type>
+      <description>13/8/44 0800Hrs A tired and depleted Kampfgruppe von Schroif makes one last ditch attack to seize some operationally important bridges before the Soviets do.</description>
+      <date>13/08/1944</date>
+      <time_of_day>08:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>03:00</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>5.256 Sq. km</map_area>
+         <map_width>1856 m</map_width>
+         <map_depth>2832 m</map_depth>
+      </Map_Size>
+      <region>Eastern Europe</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Hot</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Allied Force</early_intel>
+      <game_version>CMRT v1.00 to v1.03</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #06]</number_in_campaign>
+         <battle_title>Re-supply Decisions</battle_title>
+      </Title>
+      <filename>CMRT Kampfgruppe von Schroif_v6 #06_Mission4a_Resupply Decisions_v2</filename>
+      <picture_link>scenpics/CMRT Kampfgruppe von Schroif_v66.bmp</picture_link>
+      <battle_type>Axis Probe</battle_type>
+      <description>11/8/44 1430Hrs Re-supply. KG &quot;von Schroif&quot; is given opportunity to re-supply. DECISION POINT FOR PLAYER TO CHOOSE NEXT PATH OF CAMPAIGN</description>
+      <date>11/08/1944</date>
+      <time_of_day>15:30</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:10</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>0.296 Sq. km</map_area>
+         <map_width>560 m</map_width>
+         <map_depth>528 m</map_depth>
+      </Map_Size>
+      <region>Eastern Europe</region>
+      <environment>Open</environment>
+      <weather>Overcast</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMRT v1.00 to v1.03</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>4</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #00]</number_in_campaign>
+         <battle_title>gepanzerte Vorhut!</battle_title>
+      </Title>
+      <filename>CMRT Kampfgruppe von Schroif_v6 #00_Mission1_gepanzerte Vorhut_v3</filename>
+      <picture_link>scenpics/CMRT Kampfgruppe von Schroif_v60.bmp</picture_link>
+      <battle_type>Axis Attack</battle_type>
+      <description>11/8/44 0500Hrs Elements from KG &quot;von Schroif&quot; are tasked to clear and secure villages, as part of mission to secure kampfgruppe&apos;s line of advance.</description>
+      <date>11/08/1944</date>
+      <time_of_day>05:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:30</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>2.12 Sq. km</map_area>
+         <map_width>1152 m</map_width>
+         <map_depth>1840 m</map_depth>
+      </Map_Size>
+      <region>Eastern Europe</region>
+      <environment>Open</environment>
+      <weather>Mist</weather>
+      <temperature>Cool</temperature>
+      <ground_condition>Damp</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMRT v1.00 to v1.03</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #04]</number_in_campaign>
+         <battle_title>Angriff gegen einen Brueckenkopf</battle_title>
+      </Title>
+      <filename>CMRT Kampfgruppe von Schroif_v6 #04_Mission3b_Angriff gegen einen Brueckenkopf_v3</filename>
+      <picture_link>scenpics/CMRT Kampfgruppe von Schroif_v64.bmp</picture_link>
+      <battle_type>Axis Attack</battle_type>
+      <description>11/8/44 1400Hrs KG &quot;von Schroif&quot; supports attack to secure bridgehead across the CZARNA River in order to seize the main road network for 3.Pz.Div&apos;s cont. advance.</description>
+      <date>11/08/1944</date>
+      <time_of_day>14:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>02:00</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>4.083 Sq. km</map_area>
+         <map_width>1760 m</map_width>
+         <map_depth>2320 m</map_depth>
+      </Map_Size>
+      <region>Eastern Europe</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Allied Force</early_intel>
+      <game_version>CMRT v1.00 to v1.03</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #13]</number_in_campaign>
+         <battle_title>Igelstellung</battle_title>
+      </Title>
+      <filename>CMRT Kampfgruppe von Schroif_v6 #13_Mission 6_1b_Igelstellung_v1</filename>
+      <picture_link>scenpics/CMRT Kampfgruppe von Schroif_v613.bmp</picture_link>
+      <battle_type>Axis Attack</battle_type>
+      <description>13/8/44 0800hrs Kampfgruppe von Schroif in &apos;hedgehog&apos; positions prepares to fend off armoured attack by Soviet 3rd Guards Tank Army.</description>
+      <date>13/08/1944</date>
+      <time_of_day>08:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>03:00</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>5.256 Sq. km</map_area>
+         <map_width>1856 m</map_width>
+         <map_depth>2832 m</map_depth>
+      </Map_Size>
+      <region>Eastern Europe</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Hot</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Allied Force</early_intel>
+      <game_version>CMRT v1.00 to v1.03</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #05]</number_in_campaign>
+         <battle_title>Angriff gegen einen Brueckenkopf</battle_title>
+      </Title>
+      <filename>CMRT Kampfgruppe von Schroif_v6 #05_Mission3c_Angriff gegen einen Brueckenkopf_v3</filename>
+      <picture_link>scenpics/CMRT Kampfgruppe von Schroif_v65.bmp</picture_link>
+      <battle_type>Axis Attack</battle_type>
+      <description>11/8/44 1500Hrs KG &quot;von Schroif&quot; supports attack to secure bridgehead across the CZARNA River in order to seize the main roadnetwork for 3,Pz.Div;s cont. advance.</description>
+      <date>11/08/1944</date>
+      <time_of_day>14:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>02:00</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>4.083 Sq. km</map_area>
+         <map_width>1760 m</map_width>
+         <map_depth>2320 m</map_depth>
+      </Map_Size>
+      <region>Eastern Europe</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Allied Force</early_intel>
+      <game_version>CMRT v1.00 to v1.03</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #12]</number_in_campaign>
+         <battle_title>Himmelfahrt</battle_title>
+      </Title>
+      <filename>CMRT Kampfgruppe von Schroif_v6 #12_Mission 6_1a_Himmelfahrt_v1</filename>
+      <picture_link>scenpics/CMRT Kampfgruppe von Schroif_v612.bmp</picture_link>
+      <battle_type>Axis Attack</battle_type>
+      <description>13/8/44 0800Hrs A tired and depleted Kampfgruppe von Schroif makes one last ditch attack to seize some operationally important bridges before the Soviets do.</description>
+      <date>13/08/1944</date>
+      <time_of_day>08:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>02:30</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>5.256 Sq. km</map_area>
+         <map_width>1856 m</map_width>
+         <map_depth>2832 m</map_depth>
+      </Map_Size>
+      <region>Eastern Europe</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Hot</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Allied Force</early_intel>
+      <game_version>CMRT v1.00 to v1.03</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #09]</number_in_campaign>
+         <battle_title>schnelle Truppen Angriffe!</battle_title>
+      </Title>
+      <filename>CMRT Kampfgruppe von Schroif_v6 #09_Mission5_2a schnelle Truppen Angriffe_v2</filename>
+      <picture_link>scenpics/CMRT Kampfgruppe von Schroif_v69.bmp</picture_link>
+      <battle_type>Axis Attack</battle_type>
+      <description>11/8/44 Kampfgruppe &quot;von Schroif&quot; pushes on to secure the 3rd Pz.Div.&apos;s route of advance before the Soviets can position units to block it.</description>
+      <date>11/08/1944</date>
+      <time_of_day>18:00</time_of_day>
+      <part_of_day>Dusk</part_of_day>
+      <length>02:30</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>7.534 Sq. km</map_area>
+         <map_width>2160 m</map_width>
+         <map_depth>3488 m</map_depth>
+      </Map_Size>
+      <region>Eastern Europe</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Very Dry</ground_condition>
+      <early_intel>Allied Force</early_intel>
+      <game_version>CMRT v2.00</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #07]</number_in_campaign>
+         <battle_title>Re-supply Decisions</battle_title>
+      </Title>
+      <filename>CMRT Kampfgruppe von Schroif_v6 #07_Mission4b_Resupply Decisions_v2</filename>
+      <picture_link>scenpics/CMRT Kampfgruppe von Schroif_v67.bmp</picture_link>
+      <battle_type>Axis Probe</battle_type>
+      <description>11/8/44 1430Hrs Re-supply. KG &quot;von Schroif&quot; is given opportunity to re-supply. DECISION POINT FOR PLAYER TO CHOOSE NEXT PATH OF CAMPAIGN</description>
+      <date>11/08/1944</date>
+      <time_of_day>18:30</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:10</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>0.296 Sq. km</map_area>
+         <map_width>560 m</map_width>
+         <map_depth>528 m</map_depth>
+      </Map_Size>
+      <region>Eastern Europe</region>
+      <environment>Open</environment>
+      <weather>Overcast</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMRT v1.00 to v1.03</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>4</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #02]</number_in_campaign>
+         <battle_title>2B Feuer und Bewegung</battle_title>
+      </Title>
+      <filename>CMRT Kampfgruppe von Schroif_v6 #02_Mission2b_Feuer und Bewegung_v4</filename>
+      <picture_link>scenpics/CMRT Kampfgruppe von Schroif_v62.bmp</picture_link>
+      <battle_type>Axis Probe</battle_type>
+      <description>11/8/44 1100Hrs KG &quot;von Schroif&quot; is tasked to secure the Line of Departure for a planned attack to secure a bridgehead over the CZARNA River.</description>
+      <date>11/08/1944</date>
+      <time_of_day>11:00</time_of_day>
+      <part_of_day>Dawn</part_of_day>
+      <length>01:30</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>1.212 Sq. km</map_area>
+         <map_width>1184 m</map_width>
+         <map_depth>1024 m</map_depth>
+      </Map_Size>
+      <region>Eastern Europe</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Cool</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMRT v2.10 to v2.13</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #08]</number_in_campaign>
+         <battle_title>Panzer Rettung</battle_title>
+      </Title>
+      <filename>CMRT Kampfgruppe von Schroif_v6 #08_Mission5_1_a_Panzer_Rettung_v2</filename>
+      <picture_link>scenpics/CMRT Kampfgruppe von Schroif_v68.bmp</picture_link>
+      <battle_type>Meeting Engagement</battle_type>
+      <description>12/8/44 0700Hrs After re-fuelling and re-arming KG &quot;von Schroif&quot; is tasked to assist cut-off elements from Krüger&apos;s 3.Kompanie (SPW). Soviet tanks have other plans...</description>
+      <date>12/08/1944</date>
+      <time_of_day>07:00</time_of_day>
+      <part_of_day>Dawn</part_of_day>
+      <length>01:50</length>
+      <battle_size>Large</battle_size>
+      <Map_Size>
+         <map_area>3.091 Sq. km</map_area>
+         <map_width>1840 m</map_width>
+         <map_depth>1680 m</map_depth>
+      </Map_Size>
+      <region>Eastern Europe</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Cool</temperature>
+      <ground_condition>Damp</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMRT v1.00 to v1.03</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>9</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #01]</number_in_campaign>
+         <battle_title>2A Feuer und Bewegung</battle_title>
+      </Title>
+      <filename>CMRT Kampfgruppe von Schroif_v6 #01_Mission2a_Feuer und Bewegung_v3</filename>
+      <picture_link>scenpics/CMRT Kampfgruppe von Schroif_v61.bmp</picture_link>
+      <battle_type>Axis Probe</battle_type>
+      <description>11/8/44 0800Hrs KG &quot;von Schroif&quot; is tasked to secure the Line of Departure for a planned assault to secure a bridgehead over the CZARNA River.</description>
+      <date>11/08/1944</date>
+      <time_of_day>08:00</time_of_day>
+      <part_of_day>Dawn</part_of_day>
+      <length>01:30</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>1.212 Sq. km</map_area>
+         <map_width>1184 m</map_width>
+         <map_depth>1024 m</map_depth>
+      </Map_Size>
+      <region>Eastern Europe</region>
+      <environment>Open</environment>
+      <weather>Mist</weather>
+      <temperature>Cool</temperature>
+      <ground_condition>Damp</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMRT v2.10 to v2.13</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #15]</number_in_campaign>
+         <battle_title>Igelstellung</battle_title>
+      </Title>
+      <filename>CMRT Kampfgruppe von Schroif_v6 #15_Mission 6_1d_Igelstellung_v1</filename>
+      <picture_link>scenpics/CMRT Kampfgruppe von Schroif_v615.bmp</picture_link>
+      <battle_type>Axis Attack</battle_type>
+      <description>13/8/44 0800hrs Kampfgruppe von Schroif in &apos;hedgehog&apos; positions prepares to fend off armoured attack by Soviet 3rd Guards Tank Army.</description>
+      <date>13/08/1944</date>
+      <time_of_day>08:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>03:00</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>5.256 Sq. km</map_area>
+         <map_width>1856 m</map_width>
+         <map_depth>2832 m</map_depth>
+      </Map_Size>
+      <region>Eastern Europe</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Hot</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Allied Force</early_intel>
+      <game_version>CMRT v1.00 to v1.03</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #10]</number_in_campaign>
+         <battle_title>Panzer Rettung</battle_title>
+      </Title>
+      <filename>CMRT Kampfgruppe von Schroif_v6 #10_Mission5_1_b_Panzer_Rettung_v2</filename>
+      <picture_link>scenpics/CMRT Kampfgruppe von Schroif_v610.bmp</picture_link>
+      <battle_type>Meeting Engagement</battle_type>
+      <description>12/8/44 0700Hrs After re-fuelling and re-arming KG &quot;von Schroif&quot; is tasked to assist cut-off elements from Krüger&apos;s 3.Kompanie (SPW). Soviet tanks have other plans...</description>
+      <date>12/08/1944</date>
+      <time_of_day>07:00</time_of_day>
+      <part_of_day>Dawn</part_of_day>
+      <length>01:50</length>
+      <battle_size>Large</battle_size>
+      <Map_Size>
+         <map_area>3.091 Sq. km</map_area>
+         <map_width>1840 m</map_width>
+         <map_depth>1680 m</map_depth>
+      </Map_Size>
+      <region>Eastern Europe</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Cool</temperature>
+      <ground_condition>Damp</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMRT v1.00 to v1.03</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>9</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #03]</number_in_campaign>
+         <battle_title>Angriff gegen einen Bruckernkopf</battle_title>
+      </Title>
+      <filename>CMRT Kampfgruppe von Schroif_v6 #03_Mission3a_Angriff gegen einen Brueckenkopf_v3</filename>
+      <picture_link>scenpics/CMRT Kampfgruppe von Schroif_v63.bmp</picture_link>
+      <battle_type>Axis Attack</battle_type>
+      <description>11/8/44 1100Hrs KG &quot;von Schroif&quot; supports attack to secure bridgeheads across the CZARNA River in order to seize the main road network for 3.Panzers cont. advance.</description>
+      <date>11/08/1944</date>
+      <time_of_day>11:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>02:30</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>4.083 Sq. km</map_area>
+         <map_width>1760 m</map_width>
+         <map_depth>2320 m</map_depth>
+      </Map_Size>
+      <region>Eastern Europe</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Allied Force</early_intel>
+      <game_version>CMRT v1.00 to v1.03</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   </Scenario_List>
+</Scenario_Listing>

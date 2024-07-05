@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="Listing_Layout.xsl" ?>
+
+<Scenario_Listing>
+
+   <Scenario_List>
+
+   <containing_campaign>Training Campaign</containing_campaign>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #03]</number_in_campaign>
+         <battle_title>Practical Exercise</battle_title>
+      </Title>
+      <filename>Training Campaign #03_Training Campaign 04</filename>
+      <picture_link>scenpics/Training Campaign3.bmp</picture_link>
+      <battle_type>Blue Attack</battle_type>
+      <description>The graduation exercise! Attack an urban training center that is defended by an enemy that shoots back.</description>
+      <date>04/06/2017</date>
+      <time_of_day>17:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:00</length>
+      <battle_size>Tiny</battle_size>
+      <Map_Size>
+         <map_area>0.339 Sq. km</map_area>
+         <map_width>544 m</map_width>
+         <map_depth>624 m</map_depth>
+      </Map_Size>
+      <region>Ukraine</region>
+      <environment>Village</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBS v1.00 to v1.02</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>3</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #02]</number_in_campaign>
+         <battle_title>Fire Support Training</battle_title>
+      </Title>
+      <filename>Training Campaign #02_Training Campaign 03</filename>
+      <picture_link>scenpics/Training Campaign2.bmp</picture_link>
+      <battle_type>Blue Attack</battle_type>
+      <description>Learn the ins and out of artilery, air, and UAV support assets.</description>
+      <date>03/06/2017</date>
+      <time_of_day>00:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:45</length>
+      <battle_size>Small</battle_size>
+      <Map_Size>
+         <map_area>2.174 Sq. km</map_area>
+         <map_width>3088 m</map_width>
+         <map_depth>704 m</map_depth>
+      </Map_Size>
+      <region>Ukraine</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Hot</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Blue Force</early_intel>
+      <game_version>CMBS v1.00 to v1.02</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>3</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #01]</number_in_campaign>
+         <battle_title>Advanced Gunnery Range</battle_title>
+      </Title>
+      <filename>Training Campaign #01_Training Campaign 02</filename>
+      <picture_link>scenpics/Training Campaign1.bmp</picture_link>
+      <battle_type>Blue Attack</battle_type>
+      <description>Continue training at the training ranges with a set of advanced lessons</description>
+      <date>02/06/2017</date>
+      <time_of_day>10:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:40</length>
+      <battle_size>Small</battle_size>
+      <Map_Size>
+         <map_area>2.174 Sq. km</map_area>
+         <map_width>3088 m</map_width>
+         <map_depth>704 m</map_depth>
+      </Map_Size>
+      <region>Ukraine</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Hot</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBS v1.00 to v1.02</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>3</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #00]</number_in_campaign>
+         <battle_title>Basic Gunnery Range</battle_title>
+      </Title>
+      <filename>Training Campaign #00_Training Campaign 01</filename>
+      <picture_link>scenpics/Training Campaign0.bmp</picture_link>
+      <battle_type>Blue Attack</battle_type>
+      <description>Spend a day at the firing range as you learn the ins and outs of the weaponry and vehicle of Combat Mission: Black Sea</description>
+      <date>01/06/2017</date>
+      <time_of_day>10:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:30</length>
+      <battle_size>Small</battle_size>
+      <Map_Size>
+         <map_area>2.174 Sq. km</map_area>
+         <map_width>3088 m</map_width>
+         <map_depth>704 m</map_depth>
+      </Map_Size>
+      <region>Ukraine</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Hot</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBS v1.00 to v1.02</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>3</size_modifier>
+   </Scenario>
+
+   </Scenario_List>
+</Scenario_Listing>

@@ -1,0 +1,473 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="Listing_Layout.xsl" ?>
+
+<Scenario_Listing>
+
+   <Scenario_List>
+
+   <containing_campaign>Blue and Gray Campaign</containing_campaign>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #01]</number_in_campaign>
+         <battle_title>Stonewallers Hamel Au Pretre</battle_title>
+      </Title>
+      <filename>Blue and Gray #01_Blue and Gray Hamel Au Pretre</filename>
+      <picture_link>scenpics/Blue and Gray1.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>2nd Battalion/116th Regiment lands on Dog White Sector, Omaha Beach.</description>
+      <date>06/06/1944</date>
+      <time_of_day>07:00</time_of_day>
+      <part_of_day>Dawn</part_of_day>
+      <length>01:30</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>1.016 Sq. km</map_area>
+         <map_width>1008 m</map_width>
+         <map_depth>1008 m</map_depth>
+      </Map_Size>
+      <region>France</region>
+      <environment>Open</environment>
+      <weather>Overcast</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBN v1.10</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #02]</number_in_campaign>
+         <battle_title>St. Laurent</battle_title>
+      </Title>
+      <filename>Blue and Gray #02_Blue and Gray Saint Laurent</filename>
+      <picture_link>scenpics/Blue and Gray2.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>A recon detachment from K Company, 115th makes contact with German defenders in St. Laurent</description>
+      <date>06/06/1944</date>
+      <time_of_day>14:30</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:00</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>0.344 Sq. km</map_area>
+         <map_width>672 m</map_width>
+         <map_depth>512 m</map_depth>
+      </Map_Size>
+      <region>France</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBN v1.10</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #04]</number_in_campaign>
+         <battle_title>La Fraisnaie</battle_title>
+      </Title>
+      <filename>Blue and Gray #04_Blue and Gray La Fraisnaie</filename>
+      <picture_link>scenpics/Blue and Gray4.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>Coming off the beaches, E Company 115th encounters German delaying detachments.</description>
+      <date>07/06/1944</date>
+      <time_of_day>16:30</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:00</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>0.043 Sq. km</map_area>
+         <map_width>208 m</map_width>
+         <map_depth>208 m</map_depth>
+      </Map_Size>
+      <region>France</region>
+      <environment>Open</environment>
+      <weather>Overcast</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBN v1.10</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #12]</number_in_campaign>
+         <battle_title>PTSD</battle_title>
+      </Title>
+      <filename>Blue and Gray #12_Blue and Gray PTSD</filename>
+      <picture_link>scenpics/Blue and Gray12.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>A scant few survivors of the Carrefour massacre pull together, wondering why they are alive.</description>
+      <date>10/06/1944</date>
+      <time_of_day>05:30</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>02:00</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>0.556 Sq. km</map_area>
+         <map_width>560 m</map_width>
+         <map_depth>992 m</map_depth>
+      </Map_Size>
+      <region>France</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBN v1.10</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #05]</number_in_campaign>
+         <battle_title>Scattered Resistance</battle_title>
+      </Title>
+      <filename>Blue and Gray #05_Blue and Gray Mop up</filename>
+      <picture_link>scenpics/Blue and Gray5.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>C Company, 115th Regiment attempts to clear residual coastal defenses atop the bluffs of Omaha Beach.</description>
+      <date>06/06/1944</date>
+      <time_of_day>09:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:00</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>0.102 Sq. km</map_area>
+         <map_width>320 m</map_width>
+         <map_depth>320 m</map_depth>
+      </Map_Size>
+      <region>France</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBN v1.10</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #13]</number_in_campaign>
+         <battle_title>Blue and Gray Bois de Bretel</battle_title>
+      </Title>
+      <filename>Blue and Gray #13_Blue and Gray Bois de Bretel</filename>
+      <picture_link>scenpics/Blue and Gray13.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>Not defined!</description>
+      <date>17/06/1944</date>
+      <time_of_day>11:30</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:30</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>0.262 Sq. km</map_area>
+         <map_width>512 m</map_width>
+         <map_depth>512 m</map_depth>
+      </Map_Size>
+      <region>France</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBN v1.10</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #06]</number_in_campaign>
+         <battle_title>Cota&apos;s Assault</battle_title>
+      </Title>
+      <filename>Blue and Gray #06_Blue and Gray Cotas Assault</filename>
+      <picture_link>scenpics/Blue and Gray6.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>A platoon of 29ers gets pinned by machine gun fire from a house. General &quot;Dutch&quot; Cota rallies the troops and assaults the position.</description>
+      <date>07/06/1944</date>
+      <time_of_day>09:30</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:00</length>
+      <battle_size>Tiny</battle_size>
+      <Map_Size>
+         <map_area>0.043 Sq. km</map_area>
+         <map_width>208 m</map_width>
+         <map_depth>208 m</map_depth>
+      </Map_Size>
+      <region>France</region>
+      <environment>Open</environment>
+      <weather>Overcast</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBN v1.10</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>3</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #09]</number_in_campaign>
+         <battle_title>Chateau de Colombieres</battle_title>
+      </Title>
+      <filename>Blue and Gray #09_Blue and Gray Chateau de Colombieres</filename>
+      <picture_link>scenpics/Blue and Gray9.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>Lt. Kermit Miller and an E Company detachment set out on patrol duty toward Colombieres.</description>
+      <date>08/06/1944</date>
+      <time_of_day>21:30</time_of_day>
+      <part_of_day>Night</part_of_day>
+      <length>01:00</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>1.016 Sq. km</map_area>
+         <map_width>1008 m</map_width>
+         <map_depth>1008 m</map_depth>
+      </Map_Size>
+      <region>France</region>
+      <environment>Open</environment>
+      <weather>Overcast</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBN v1.10</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #08]</number_in_campaign>
+         <battle_title>Blue and Gray Grandcamp</battle_title>
+      </Title>
+      <filename>Blue and Gray #08_Blue and Gray Grandcamp</filename>
+      <picture_link>scenpics/Blue and Gray8.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>Not defined!</description>
+      <date>07/06/1944</date>
+      <time_of_day>09:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>02:00</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>0.043 Sq. km</map_area>
+         <map_width>208 m</map_width>
+         <map_depth>208 m</map_depth>
+      </Map_Size>
+      <region>France</region>
+      <environment>Open</environment>
+      <weather>Overcast</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBN v1.10</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #00]</number_in_campaign>
+         <battle_title>Blue and Gray Campaign</battle_title>
+      </Title>
+      <filename>Blue and Gray #00_Blue and Gray Vierville Draw</filename>
+      <picture_link>scenpics/Blue and Gray0.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>The 29th Infantry Division &quot;Blue and Gray&quot; took part in the bloody Omaha beach landings as well as the Battle for St. Lo.</description>
+      <date>06/06/1944</date>
+      <time_of_day>06:30</time_of_day>
+      <part_of_day>Dawn</part_of_day>
+      <length>02:00</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>1.016 Sq. km</map_area>
+         <map_width>1008 m</map_width>
+         <map_depth>1008 m</map_depth>
+      </Map_Size>
+      <region>France</region>
+      <environment>Open</environment>
+      <weather>Overcast</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBN v1.10</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #10]</number_in_campaign>
+         <battle_title>Colombieres</battle_title>
+      </Title>
+      <filename>Blue and Gray #10_Blue and Gray Colombieres</filename>
+      <picture_link>scenpics/Blue and Gray10.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>The patrol unit led by Lt. Miller ambushed Colombieres late in the evening of June 8, 1944.</description>
+      <date>08/06/1944</date>
+      <time_of_day>23:45</time_of_day>
+      <part_of_day>Night</part_of_day>
+      <length>01:00</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>1.016 Sq. km</map_area>
+         <map_width>1008 m</map_width>
+         <map_depth>1008 m</map_depth>
+      </Map_Size>
+      <region>France</region>
+      <environment>Open</environment>
+      <weather>Overcast</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBN v1.10</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #11]</number_in_campaign>
+         <battle_title>Massacre at Le Carrefour</battle_title>
+      </Title>
+      <filename>Blue and Gray #11_Blue and Gray Massacre at Le Carrefour</filename>
+      <picture_link>scenpics/Blue and Gray11.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>2nd Battalion, 115th troops exhausted from a grueling march find a place to rest for the night.</description>
+      <date>10/06/1944</date>
+      <time_of_day>02:10</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:10</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>0.102 Sq. km</map_area>
+         <map_width>320 m</map_width>
+         <map_depth>320 m</map_depth>
+      </Map_Size>
+      <region>France</region>
+      <environment>Open</environment>
+      <weather>Overcast</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Axis Force</early_intel>
+      <game_version>CMBN v1.10</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>4</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #03]</number_in_campaign>
+         <battle_title>Precious Intel through St. Laurent</battle_title>
+      </Title>
+      <filename>Blue and Gray #03_Blue and Gray Precious Intel</filename>
+      <picture_link>scenpics/Blue and Gray3.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>Baker Company, 115th acquires critical intelligence, trying to complete their St. Laurent assault mission while deliverying the intel to Divisional HQ.</description>
+      <date>06/06/1944</date>
+      <time_of_day>14:30</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>02:00</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>0.344 Sq. km</map_area>
+         <map_width>672 m</map_width>
+         <map_depth>512 m</map_depth>
+      </Map_Size>
+      <region>France</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBN v1.10</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #07]</number_in_campaign>
+         <battle_title>88s</battle_title>
+      </Title>
+      <filename>Blue and Gray #07_Blue and Gray 88s</filename>
+      <picture_link>scenpics/Blue and Gray7.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>29ers on the move toward Isigny discover a flak battery. K Company is detached from the column to assault and neutralize the guns.</description>
+      <date>06/06/1944</date>
+      <time_of_day>09:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>02:00</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>0.092 Sq. km</map_area>
+         <map_width>304 m</map_width>
+         <map_depth>304 m</map_depth>
+      </Map_Size>
+      <region>France</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBN v1.10</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   </Scenario_List>
+</Scenario_Listing>

@@ -1,4 +1,7 @@
 **/*.btt
 **/*.cam
 **/*.zip
-sftp.log
+**/*.html
+sftp*.log
+FTPStatusFor*.txt
+WinSCPGenConfigWeDontThinkWeWant.ini

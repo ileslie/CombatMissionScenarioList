@@ -1,0 +1,3412 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="Listing_Layout.xsl" ?>
+
+<Campaign_Listing>
+
+   <Campaign_List>
+
+      <Campaign>
+
+         <title>Spearhead (Easy)</title>
+         <filename>DF Spearhead (Easy)</filename>
+         <picture_link>campaignpics/DF Spearhead (Easy).bmp</picture_link>
+         <description>Elements of Task Force Lovelady approach Cologne - Easier version, with more casualty replacements and vehicle repairs</description>
+         <date_range>
+           <earliest_date>24/03/1945</earliest_date>
+           <latest_date>05/04/1945</latest_date>
+         </date_range>
+         <region_list>
+           <region>Germany</region>
+         </region_list>
+         <campaign_tree_link>campaignpics/Spearhead (Easy)_Tree.png</campaign_tree_link>
+         <game_version>CMFB v2.10 to v2.11</game_version>
+         <Modules_Required>
+            <module1>Downfall </module1>
+         </Modules_Required>
+
+         <Campaign_Decision_Block>
+            <Scenario_Title>
+               <number_in_campaign>[Campaign Battle #00]</number_in_campaign>
+               <battle_title>The Bridges</battle_title>
+            </Scenario_Title>
+            <filename>DF Spearhead (Easy) #00_DF Spearhead 01 The Bridges</filename>
+            <win_threshold>Minor Victory</win_threshold>
+            <next_battle_win>#01</next_battle_win>
+            <next_battle_lose>#01</next_battle_lose>
+            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
+            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
+            <blue_refit>50</blue_refit>
+            <blue_repair_vehicle>50</blue_repair_vehicle>
+            <blue_resupply>75</blue_resupply>
+            <blue_rest>50</blue_rest>
+            <red_refit>0</red_refit>
+            <red_repair_vehicle>0</red_repair_vehicle>
+            <red_resupply>0</red_resupply>
+            <red_rest>0</red_rest>
+         </Campaign_Decision_Block>
+
+         <Campaign_Decision_Block>
+            <Scenario_Title>
+               <number_in_campaign>[Campaign Battle #01]</number_in_campaign>
+               <battle_title>Geisendorf</battle_title>
+            </Scenario_Title>
+            <filename>DF Spearhead (Easy) #01_DF Spearhead 02 Geisendorf</filename>
+            <win_threshold>Minor Victory</win_threshold>
+            <next_battle_win>#02</next_battle_win>
+            <next_battle_lose>#02</next_battle_lose>
+            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
+            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
+            <blue_refit>50</blue_refit>
+            <blue_repair_vehicle>50</blue_repair_vehicle>
+            <blue_resupply>75</blue_resupply>
+            <blue_rest>50</blue_rest>
+            <red_refit>0</red_refit>
+            <red_repair_vehicle>0</red_repair_vehicle>
+            <red_resupply>0</red_resupply>
+            <red_rest>0</red_rest>
+         </Campaign_Decision_Block>
+
+         <Campaign_Decision_Block>
+            <Scenario_Title>
+               <number_in_campaign>[Campaign Battle #02]</number_in_campaign>
+               <battle_title>Splintered Trees on the Hill</battle_title>
+            </Scenario_Title>
+            <filename>DF Spearhead (Easy) #02_DF Spearhead 03 The Hill</filename>
+            <win_threshold>Minor Victory</win_threshold>
+            <next_battle_win>#03</next_battle_win>
+            <next_battle_lose>#03</next_battle_lose>
+            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
+            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
+            <blue_refit>50</blue_refit>
+            <blue_repair_vehicle>50</blue_repair_vehicle>
+            <blue_resupply>75</blue_resupply>
+            <blue_rest>50</blue_rest>
+            <red_refit>0</red_refit>
+            <red_repair_vehicle>0</red_repair_vehicle>
+            <red_resupply>0</red_resupply>
+            <red_rest>0</red_rest>
+         </Campaign_Decision_Block>
+
+         <Campaign_Decision_Block>
+            <Scenario_Title>
+               <number_in_campaign>[Campaign Battle #03]</number_in_campaign>
+               <battle_title>Scorched Steel at Elsdorf</battle_title>
+            </Scenario_Title>
+            <filename>DF Spearhead (Easy) #03_DF Spearhead 04 Elsdorf</filename>
+            <win_threshold>Minor Victory</win_threshold>
+            <next_battle_win>#04</next_battle_win>
+            <next_battle_lose>#04</next_battle_lose>
+            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
+            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
+            <blue_refit>50</blue_refit>
+            <blue_repair_vehicle>50</blue_repair_vehicle>
+            <blue_resupply>75</blue_resupply>
+            <blue_rest>50</blue_rest>
+            <red_refit>0</red_refit>
+            <red_repair_vehicle>0</red_repair_vehicle>
+            <red_resupply>0</red_resupply>
+            <red_rest>0</red_rest>
+         </Campaign_Decision_Block>
+
+         <Campaign_Decision_Block>
+            <Scenario_Title>
+               <number_in_campaign>[Campaign Battle #04]</number_in_campaign>
+               <battle_title>Autobahn</battle_title>
+            </Scenario_Title>
+            <filename>DF Spearhead (Easy) #04_DF Spearhead 05 Autobahn</filename>
+            <win_threshold>Minor Victory</win_threshold>
+            <next_battle_win>#05</next_battle_win>
+            <next_battle_lose>#05</next_battle_lose>
+            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
+            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
+            <blue_refit>50</blue_refit>
+            <blue_repair_vehicle>50</blue_repair_vehicle>
+            <blue_resupply>75</blue_resupply>
+            <blue_rest>50</blue_rest>
+            <red_refit>0</red_refit>
+            <red_repair_vehicle>0</red_repair_vehicle>
+            <red_resupply>0</red_resupply>
+            <red_rest>0</red_rest>
+         </Campaign_Decision_Block>
+
+         <Campaign_Decision_Block>
+            <Scenario_Title>
+               <number_in_campaign>[Campaign Battle #05]</number_in_campaign>
+               <battle_title>Erft Kanal</battle_title>
+            </Scenario_Title>
+            <filename>DF Spearhead (Easy) #05_DF Spearhead 06 Erft Kanal</filename>
+            <win_threshold>Minor Victory</win_threshold>
+            <next_battle_win>#06</next_battle_win>
+            <next_battle_lose>#06</next_battle_lose>
+            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
+            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
+            <blue_refit>50</blue_refit>
+            <blue_repair_vehicle>50</blue_repair_vehicle>
+            <blue_resupply>75</blue_resupply>
+            <blue_rest>50</blue_rest>
+            <red_refit>0</red_refit>
+            <red_repair_vehicle>0</red_repair_vehicle>
+            <red_resupply>0</red_resupply>
+            <red_rest>0</red_rest>
+         </Campaign_Decision_Block>
+
+         <Campaign_Decision_Block>
+            <Scenario_Title>
+               <number_in_campaign>[Campaign Battle #06]</number_in_campaign>
+               <battle_title>Stommeln</battle_title>
+            </Scenario_Title>
+            <filename>DF Spearhead (Easy) #06_DF Spearhead 07 Stommeln</filename>
+            <win_threshold>Minor Victory</win_threshold>
+            <next_battle_win>#07</next_battle_win>
+            <next_battle_lose>#07</next_battle_lose>
+            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
+            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
+            <blue_refit>50</blue_refit>
+            <blue_repair_vehicle>50</blue_repair_vehicle>
+            <blue_resupply>75</blue_resupply>
+            <blue_rest>50</blue_rest>
+            <red_refit>0</red_refit>
+            <red_repair_vehicle>0</red_repair_vehicle>
+            <red_resupply>0</red_resupply>
+            <red_rest>0</red_rest>
+         </Campaign_Decision_Block>
+
+         <Campaign_Decision_Block>
+            <Scenario_Title>
+               <number_in_campaign>[Campaign Battle #07]</number_in_campaign>
+               <battle_title>The Outer Ring</battle_title>
+            </Scenario_Title>
+            <filename>DF Spearhead (Easy) #07_DF Spearhead 08 Koln West</filename>
+            <win_threshold>Minor Victory</win_threshold>
+            <next_battle_win>#08</next_battle_win>
+            <next_battle_lose>#08</next_battle_lose>
+            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
+            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
+            <blue_refit>50</blue_refit>
+            <blue_repair_vehicle>50</blue_repair_vehicle>
+            <blue_resupply>75</blue_resupply>
+            <blue_rest>50</blue_rest>
+            <red_refit>0</red_refit>
+            <red_repair_vehicle>0</red_repair_vehicle>
+            <red_resupply>0</red_resupply>
+            <red_rest>0</red_rest>
+         </Campaign_Decision_Block>
+
+         <Campaign_Decision_Block>
+            <Scenario_Title>
+               <number_in_campaign>[Campaign Battle #08]</number_in_campaign>
+               <battle_title>Koln</battle_title>
+            </Scenario_Title>
+            <filename>DF Spearhead (Easy) #08_DF Spearhead 09 Koln East</filename>
+            <win_threshold>Minor Victory</win_threshold>
+            <next_battle_win>Campaign End</next_battle_win>
+            <next_battle_lose>Campaign End</next_battle_lose>
+            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
+            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
+            <blue_refit>50</blue_refit>
+            <blue_repair_vehicle>50</blue_repair_vehicle>
+            <blue_resupply>75</blue_resupply>
+            <blue_rest>50</blue_rest>
+            <red_refit>0</red_refit>
+            <red_repair_vehicle>0</red_repair_vehicle>
+            <red_resupply>0</red_resupply>
+            <red_rest>0</red_rest>
+         </Campaign_Decision_Block>
+
+      </Campaign>
+      <Campaign>
+
+         <title>Rollbahn D</title>
+         <filename>RollbahnD 0-48 Stunden</filename>
+         <picture_link>campaignpics/RollbahnD 0-48 Stunden.bmp</picture_link>
+         <description>Leibstandarte Assault December 1944</description>
+         <date_range>
+           <earliest_date>14/01/1945</earliest_date>
+           <latest_date>18/01/1945</latest_date>
+         </date_range>
+         <region_list>
+           <region>Ardennes</region>
+         </region_list>
+         <campaign_tree_link>campaignpics/Rollbahn D_Tree.png</campaign_tree_link>
+         <game_version>CMFB v2.03</game_version>
+         <Modules_Required>
+         </Modules_Required>
+
+         <Campaign_Decision_Block>
+            <Scenario_Title>
+               <number_in_campaign>[Campaign Battle #00]</number_in_campaign>
+               <battle_title>Murky Merlscheid</battle_title>
+            </Scenario_Title>
+            <filename>RollbahnD 0-48 Stunden #00_sa</filename>
+            <win_threshold>Minor Victory</win_threshold>
+            <next_battle_win>#01</next_battle_win>
+            <next_battle_lose>Campaign End</next_battle_lose>
+            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
+            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
+            <blue_refit>0</blue_refit>
+            <blue_repair_vehicle>0</blue_repair_vehicle>
+            <blue_resupply>0</blue_resupply>
+            <blue_rest>0</blue_rest>
+            <red_refit>0</red_refit>
+            <red_repair_vehicle>0</red_repair_vehicle>
+            <red_resupply>100</red_resupply>
+            <red_rest>0</red_rest>
+         </Campaign_Decision_Block>
+
+         <Campaign_Decision_Block>
+            <Scenario_Title>
+               <number_in_campaign>[Campaign Battle #01]</number_in_campaign>
+               <battle_title>Leaving Lanzerath</battle_title>
+            </Scenario_Title>
+            <filename>RollbahnD 0-48 Stunden #01_s1</filename>
+            <win_threshold>Minor Victory</win_threshold>
+            <next_battle_win>#02</next_battle_win>
+            <next_battle_lose>Campaign End</next_battle_lose>
+            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
+            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
+            <blue_refit>0</blue_refit>
+            <blue_repair_vehicle>0</blue_repair_vehicle>
+            <blue_resupply>0</blue_resupply>
+            <blue_rest>0</blue_rest>
+            <red_refit>0</red_refit>
+            <red_repair_vehicle>0</red_repair_vehicle>
+            <red_resupply>100</red_resupply>
+            <red_rest>80</red_rest>
+         </Campaign_Decision_Block>
+
+         <Campaign_Decision_Block>
+            <Scenario_Title>
+               <number_in_campaign>[Campaign Battle #02]</number_in_campaign>
+               <battle_title>Minen The Gap</battle_title>
+            </Scenario_Title>
+            <filename>RollbahnD 0-48 Stunden #02_s0</filename>
+            <win_threshold>Minor Victory</win_threshold>
+            <next_battle_win>#03</next_battle_win>
+            <next_battle_lose>Campaign End</next_battle_lose>
+            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
+            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
+            <blue_refit>0</blue_refit>
+            <blue_repair_vehicle>0</blue_repair_vehicle>
+            <blue_resupply>0</blue_resupply>
+            <blue_rest>0</blue_rest>
+            <red_refit>0</red_refit>
+            <red_repair_vehicle>0</red_repair_vehicle>
+            <red_resupply>100</red_resupply>
+            <red_rest>80</red_rest>
+         </Campaign_Decision_Block>
+
+         <Campaign_Decision_Block>
+            <Scenario_Title>
+               <number_in_campaign>[Campaign Battle #03]</number_in_campaign>
+               <battle_title>Breakthrough at Buchholz</battle_title>
+            </Scenario_Title>
+            <filename>RollbahnD 0-48 Stunden #03_s2a</filename>
+            <win_threshold>Minor Victory</win_threshold>
+            <next_battle_win>#04</next_battle_win>
+            <next_battle_lose>Campaign End</next_battle_lose>
+            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
+            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
+            <blue_refit>0</blue_refit>
+            <blue_repair_vehicle>0</blue_repair_vehicle>
+            <blue_resupply>0</blue_resupply>
+            <blue_rest>0</blue_rest>
+            <red_refit>0</red_refit>
+            <red_repair_vehicle>0</red_repair_vehicle>
+            <red_resupply>0</red_resupply>
+            <red_rest>0</red_rest>
+         </Campaign_Decision_Block>
+
+         <Campaign_Decision_Block>
+            <Scenario_Title>
+               <number_in_campaign>[Campaign Battle #04]</number_in_campaign>
+               <battle_title>Hurrying Through Honsfeld</battle_title>
+            </Scenario_Title>
+            <filename>RollbahnD 0-48 Stunden #04_s2b</filename>
+            <win_threshold>Minor Victory</win_threshold>
+            <next_battle_win>#05</next_battle_win>
+            <next_battle_lose>Campaign End</next_battle_lose>
+            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
+            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
+            <blue_refit>0</blue_refit>
+            <blue_repair_vehicle>0</blue_repair_vehicle>
+            <blue_resupply>0</blue_resupply>
+            <blue_rest>0</blue_rest>
+            <red_refit>0</red_refit>
+            <red_repair_vehicle>0</red_repair_vehicle>
+            <red_resupply>0</red_resupply>
+            <red_rest>0</red_rest>
+         </Campaign_Decision_Block>
+
+         <Campaign_Decision_Block>
+            <Scenario_Title>
+               <number_in_campaign>[Campaign Battle #05]</number_in_campaign>
+               <battle_title>Bull-in-gen China Shop</battle_title>
+            </Scenario_Title>
+            <filename>RollbahnD 0-48 Stunden #05_s3</filename>
+            <win_threshold>Minor Victory</win_threshold>
+            <next_battle_win>#06</next_battle_win>
+            <next_battle_lose>Campaign End</next_battle_lose>
+            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
+            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
+            <blue_refit>0</blue_refit>
+            <blue_repair_vehicle>0</blue_repair_vehicle>
+            <blue_resupply>0</blue_resupply>
+            <blue_rest>0</blue_rest>
+            <red_refit>0</red_refit>
+            <red_repair_vehicle>0</red_repair_vehicle>
+            <red_resupply>50</red_resupply>
+            <red_rest>50</red_rest>
+         </Campaign_Decision_Block>
+
+         <Campaign_Decision_Block>
+            <Scenario_Title>
+               <number_in_campaign>[Campaign Battle #06]</number_in_campaign>
+               <battle_title>Butchers Of Baugnez</battle_title>
+            </Scenario_Title>
+            <filename>RollbahnD 0-48 Stunden #06_s4</filename>
+            <win_threshold>Minor Victory</win_threshold>
+            <next_battle_win>Campaign End</next_battle_win>
+            <next_battle_lose>Campaign End</next_battle_lose>
+            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
+            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
+            <blue_refit>0</blue_refit>
+            <blue_repair_vehicle>0</blue_repair_vehicle>
+            <blue_resupply>0</blue_resupply>
+            <blue_rest>0</blue_rest>
+            <red_refit>0</red_refit>
+            <red_repair_vehicle>0</red_repair_vehicle>
+            <red_resupply>100</red_resupply>
+            <red_rest>100</red_rest>
+         </Campaign_Decision_Block>
+
+      </Campaign>
+      <Campaign>
+
+         <title>Claymores Through Kleve (Hard)</title>
+         <filename>DF Claymores Through Kleve (Hard)</filename>
+         <picture_link>campaignpics/DF Claymores Through Kleve (Hard).bmp</picture_link>
+         <description>The 15th Scottish Division fights their way into Germany</description>
+         <date_range>
+           <earliest_date>18/02/1945</earliest_date>
+           <latest_date>20/03/1945</latest_date>
+         </date_range>
+         <region_list>
+           <region>Germany</region>
+         </region_list>
+         <campaign_tree_link>campaignpics/Claymores Through Kleve (Hard)_Tree.png</campaign_tree_link>
+         <game_version>CMFB v2.10 to v2.11</game_version>
+         <Modules_Required>
+            <module1>Downfall </module1>
+         </Modules_Required>
+
+         <Campaign_Decision_Block>
+            <Scenario_Title>
+               <number_in_campaign>[Campaign Battle #00]</number_in_campaign>
+               <battle_title>Den Hoevel Farm</battle_title>
+            </Scenario_Title>
+            <filename>DF Claymores Through Kleve (Hard) #00_DF Kleve 01 Den Hoevel Farm</filename>
+            <win_threshold>Minor Victory</win_threshold>
+            <next_battle_win>#01</next_battle_win>
+            <next_battle_lose>#01</next_battle_lose>
+            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
+            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
+            <blue_refit>25</blue_refit>
+            <blue_repair_vehicle>25</blue_repair_vehicle>
+            <blue_resupply>75</blue_resupply>
+            <blue_rest>50</blue_rest>
+            <red_refit>0</red_refit>
+            <red_repair_vehicle>0</red_repair_vehicle>
+            <red_resupply>0</red_resupply>
+            <red_rest>0</red_rest>
+         </Campaign_Decision_Block>
+
+         <Campaign_Decision_Block>
+            <Scenario_Title>
+               <number_in_campaign>[Campaign Battle #01]</number_in_campaign>
+               <battle_title>Nijmegen Kleve Road</battle_title>
+            </Scenario_Title>
+            <filename>DF Claymores Through Kleve (Hard) #01_DF Kleve 02 Nijmegen Kleve Road</filename>
+            <win_threshold>Minor Victory</win_threshold>
+            <next_battle_win>#02</next_battle_win>
+            <next_battle_lose>#02</next_battle_lose>
+            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
+            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
+            <blue_refit>25</blue_refit>
+            <blue_repair_vehicle>25</blue_repair_vehicle>
+            <blue_resupply>75</blue_resupply>
+            <blue_rest>50</blue_rest>
+            <red_refit>0</red_refit>
+            <red_repair_vehicle>0</red_repair_vehicle>
+            <red_resupply>0</red_resupply>
+            <red_rest>0</red_rest>
+         </Campaign_Decision_Block>
+
+         <Campaign_Decision_Block>
+            <Scenario_Title>
+               <number_in_campaign>[Campaign Battle #02]</number_in_campaign>
+               <battle_title>Kranenburg</battle_title>
+            </Scenario_Title>
+            <filename>DF Claymores Through Kleve (Hard) #02_DF Kleve 03 Kranenburg</filename>
+            <win_threshold>Minor Victory</win_threshold>
+            <next_battle_win>#03</next_battle_win>
+            <next_battle_lose>#03</next_battle_lose>
+            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
+            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
+            <blue_refit>25</blue_refit>
+            <blue_repair_vehicle>25</blue_repair_vehicle>
+            <blue_resupply>75</blue_resupply>
+            <blue_rest>50</blue_rest>
+            <red_refit>0</red_refit>
+            <red_repair_vehicle>0</red_repair_vehicle>
+            <red_resupply>0</red_resupply>
+            <red_rest>0</red_rest>
+         </Campaign_Decision_Block>
+
+         <Campaign_Decision_Block>
+            <Scenario_Title>
+               <number_in_campaign>[Campaign Battle #03]</number_in_campaign>
+               <battle_title>Reichswald</battle_title>
+            </Scenario_Title>
+            <filename>DF Claymores Through Kleve (Hard) #03_DF Kleve 04 Reichswald</filename>
+            <win_threshold>Minor Victory</win_threshold>
+            <next_battle_win>#04</next_battle_win>
+            <next_battle_lose>#04</next_battle_lose>
+            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
+            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
+            <blue_refit>25</blue_refit>
+            <blue_repair_vehicle>25</blue_repair_vehicle>
+            <blue_resupply>75</blue_resupply>
+            <blue_rest>50</blue_rest>
+            <red_refit>0</red_refit>
+            <red_repair_vehicle>0</red_repair_vehicle>
+            <red_resupply>0</red_resupply>
+            <red_rest>0</red_rest>
+         </Campaign_Decision_Block>
+
+         <Campaign_Decision_Block>
+            <Scenario_Title>
+               <number_in_campaign>[Campaign Battle #04]</number_in_campaign>
+               <battle_title>Materborn</battle_title>
+            </Scenario_Title>
+            <filename>DF Claymores Through Kleve (Hard) #04_DF Kleve 05 Materborn</filename>
+            <win_threshold>Minor Victory</win_threshold>
+            <next_battle_win>#05</next_battle_win>
+            <next_battle_lose>#05</next_battle_lose>
+            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
+            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
+            <blue_refit>25</blue_refit>
+            <blue_repair_vehicle>25</blue_repair_vehicle>
+            <blue_resupply>75</blue_resupply>
+            <blue_rest>50</blue_rest>
+            <red_refit>0</red_refit>
+            <red_repair_vehicle>0</red_repair_vehicle>
+            <red_resupply>0</red_resupply>
+            <red_rest>0</red_rest>
+         </Campaign_Decision_Block>
+
+         <Campaign_Decision_Block>
+            <Scenario_Title>
+               <number_in_campaign>[Campaign Battle #05]</number_in_campaign>
+               <battle_title>Crawling from the Wreckage</battle_title>
+            </Scenario_Title>
+            <filename>DF Claymores Through Kleve (Hard) #05_DF Kleve 06 Crawling from the Wreckage</filename>
+            <win_threshold>Minor Victory</win_threshold>
+            <next_battle_win>#06</next_battle_win>
+            <next_battle_lose>#06</next_battle_lose>
+            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
+            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
+            <blue_refit>25</blue_refit>
+            <blue_repair_vehicle>25</blue_repair_vehicle>
+            <blue_resupply>75</blue_resupply>
+            <blue_rest>50</blue_rest>
+            <red_refit>0</red_refit>
+            <red_repair_vehicle>0</red_repair_vehicle>
+            <red_resupply>0</red_resupply>
+            <red_rest>0</red_rest>
+         </Campaign_Decision_Block>
+
+         <Campaign_Decision_Block>
+            <Scenario_Title>
+               <number_in_campaign>[Campaign Battle #06]</number_in_campaign>
+               <battle_title>Mississippi Mud</battle_title>
+            </Scenario_Title>
+            <filename>DF Claymores Through Kleve (Hard) #06_DF Kleve 07 Mississippi</filename>
+            <win_threshold>Minor Victory</win_threshold>
+            <next_battle_win>Campaign End</next_battle_win>
+            <next_battle_lose>Campaign End</next_battle_lose>
+            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
+            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
+            <blue_refit>25</blue_refit>
+            <blue_repair_vehicle>25</blue_repair_vehicle>
+            <blue_resupply>75</blue_resupply>
+            <blue_rest>50</blue_rest>
+            <red_refit>0</red_refit>
+            <red_repair_vehicle>0</red_repair_vehicle>
+            <red_resupply>0</red_resupply>
+            <red_rest>0</red_rest>
+         </Campaign_Decision_Block>
+
+      </Campaign>
+      <Campaign>
+
+         <title>Rollbahn D</title>
+         <filename>RollbahnD</filename>
+         <picture_link>campaignpics/RollbahnD.bmp</picture_link>
+         <description>Leibstandarte Assault December 1944</description>
+         <date_range>
+           <earliest_date>14/01/1945</earliest_date>
+           <latest_date>24/01/1945</latest_date>
+         </date_range>
+         <region_list>
+           <region>Ardennes</region>
+         </region_list>
+         <campaign_tree_link>campaignpics/Rollbahn D_Tree.png</campaign_tree_link>
+         <game_version>CMFB v2.03</game_version>
+         <Modules_Required>
+         </Modules_Required>
+
+         <Campaign_Decision_Block>
+            <Scenario_Title>
+               <number_in_campaign>[Campaign Battle #00]</number_in_campaign>
+               <battle_title>Choice to skip to campaign 2</battle_title>
+            </Scenario_Title>
+            <filename>RollbahnD #00_PeipersChoice1</filename>
+            <win_threshold>Major Victory</win_threshold>
+            <next_battle_win>#08</next_battle_win>
+            <next_battle_lose>#01</next_battle_lose>
+            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
+            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
+            <blue_refit>0</blue_refit>
+            <blue_repair_vehicle>0</blue_repair_vehicle>
+            <blue_resupply>0</blue_resupply>
+            <blue_rest>0</blue_rest>
+            <red_refit>0</red_refit>
+            <red_repair_vehicle>0</red_repair_vehicle>
+            <red_resupply>0</red_resupply>
+            <red_rest>0</red_rest>
+         </Campaign_Decision_Block>
+
+         <Campaign_Decision_Block>
+            <Scenario_Title>
+               <number_in_campaign>[Campaign Battle #01]</number_in_campaign>
+               <battle_title>Murky Merlscheid</battle_title>
+            </Scenario_Title>
+            <filename>RollbahnD #01_sa</filename>
+            <win_threshold>Minor Victory</win_threshold>
+            <next_battle_win>#02</next_battle_win>
+            <next_battle_lose>Campaign End</next_battle_lose>
+            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
+            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
+            <blue_refit>0</blue_refit>
+            <blue_repair_vehicle>0</blue_repair_vehicle>
+            <blue_resupply>0</blue_resupply>
+            <blue_rest>0</blue_rest>
+            <red_refit>0</red_refit>
+            <red_repair_vehicle>0</red_repair_vehicle>
+            <red_resupply>100</red_resupply>
+            <red_rest>0</red_rest>
+         </Campaign_Decision_Block>
+
+         <Campaign_Decision_Block>
+            <Scenario_Title>
+               <number_in_campaign>[Campaign Battle #02]</number_in_campaign>
+               <battle_title>Leaving Lanzerath</battle_title>
+            </Scenario_Title>
+            <filename>RollbahnD #02_s1</filename>
+            <win_threshold>Minor Victory</win_threshold>
+            <next_battle_win>#03</next_battle_win>
+            <next_battle_lose>Campaign End</next_battle_lose>
+            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
+            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
+            <blue_refit>0</blue_refit>
+            <blue_repair_vehicle>0</blue_repair_vehicle>
+            <blue_resupply>0</blue_resupply>
+            <blue_rest>0</blue_rest>
+            <red_refit>0</red_refit>
+            <red_repair_vehicle>0</red_repair_vehicle>
+            <red_resupply>100</red_resupply>
+            <red_rest>80</red_rest>
+         </Campaign_Decision_Block>
+
+         <Campaign_Decision_Block>
+            <Scenario_Title>
+               <number_in_campaign>[Campaign Battle #03]</number_in_campaign>
+               <battle_title>Minen The Gap</battle_title>
+            </Scenario_Title>
+            <filename>RollbahnD #03_s0</filename>
+            <win_threshold>Minor Victory</win_threshold>
+            <next_battle_win>#04</next_battle_win>
+            <next_battle_lose>Campaign End</next_battle_lose>
+            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
+            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
+            <blue_refit>0</blue_refit>
+            <blue_repair_vehicle>0</blue_repair_vehicle>
+            <blue_resupply>0</blue_resupply>
+            <blue_rest>0</blue_rest>
+            <red_refit>0</red_refit>
+            <red_repair_vehicle>0</red_repair_vehicle>
+            <red_resupply>100</red_resupply>
+            <red_rest>80</red_rest>
+         </Campaign_Decision_Block>
+
+         <Campaign_Decision_Block>
+            <Scenario_Title>
+               <number_in_campaign>[Campaign Battle #04]</number_in_campaign>
+               <battle_title>Breakthrough at Buchholz</battle_title>
+            </Scenario_Title>
+            <filename>RollbahnD #04_s2a</filename>
+            <win_threshold>Minor Victory</win_threshold>
+            <next_battle_win>#05</next_battle_win>
+            <next_battle_lose>Campaign End</next_battle_lose>
+            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
+            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
+            <blue_refit>0</blue_refit>
+            <blue_repair_vehicle>0</blue_repair_vehicle>
+            <blue_resupply>0</blue_resupply>
+            <blue_rest>0</blue_rest>
+            <red_refit>0</red_refit>
+            <red_repair_vehicle>0</red_repair_vehicle>
+            <red_resupply>0</red_resupply>
+            <red_rest>0</red_rest>
+         </Campaign_Decision_Block>
+
+         <Campaign_Decision_Block>
+            <Scenario_Title>
+               <number_in_campaign>[Campaign Battle #05]</number_in_campaign>
+               <battle_title>Hurrying Through Honsfeld</battle_title>
+            </Scenario_Title>
+            <filename>RollbahnD #05_s2b</filename>
+            <win_threshold>Draw</win_threshold>
+            <next_battle_win>#06</next_battle_win>
+            <next_battle_lose>Campaign End</next_battle_lose>
+            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
+            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
+            <blue_refit>0</blue_refit>
+            <blue_repair_vehicle>0</blue_repair_vehicle>
+            <blue_resupply>0</blue_resupply>
+            <blue_rest>0</blue_rest>
+            <red_refit>0</red_refit>
+            <red_repair_vehicle>0</red_repair_vehicle>
+            <red_resupply>0</red_resupply>
+            <red_rest>0</red_rest>
+         </Campaign_Decision_Block>
+
+         <Campaign_Decision_Block>
+            <Scenario_Title>
+               <number_in_campaign>[Campaign Battle #06]</number_in_campaign>
+               <battle_title>Bull-in-gen China Shop</battle_title>
+            </Scenario_Title>
+            <filename>RollbahnD #06_s3</filename>
+            <win_threshold>Minor Victory</win_threshold>
+            <next_battle_win>#07</next_battle_win>
+            <next_battle_lose>Campaign End</next_battle_lose>
+            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
+            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
+            <blue_refit>0</blue_refit>
+            <blue_repair_vehicle>0</blue_repair_vehicle>
+            <blue_resupply>0</blue_resupply>
+            <blue_rest>0</blue_rest>
+            <red_refit>0</red_refit>
+            <red_repair_vehicle>0</red_repair_vehicle>
+            <red_resupply>50</red_resupply>
+            <red_rest>50</red_rest>
+         </Campaign_Decision_Block>
+
+         <Campaign_Decision_Block>
+            <Scenario_Title>
+               <number_in_campaign>[Campaign Battle #07]</number_in_campaign>
+               <battle_title>Butchers Of Baugnez</battle_title>
+            </Scenario_Title>
+            <filename>RollbahnD #07_s4</filename>
+            <win_threshold>Minor Victory</win_threshold>
+            <next_battle_win>#08</next_battle_win>
+            <next_battle_lose>Campaign End</next_battle_lose>
+            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
+            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
+            <blue_refit>0</blue_refit>
+            <blue_repair_vehicle>0</blue_repair_vehicle>
+            <blue_resupply>0</blue_resupply>
+            <blue_rest>0</blue_rest>
+            <red_refit>0</red_refit>
+            <red_repair_vehicle>0</red_repair_vehicle>
+            <red_resupply>100</red_resupply>
+            <red_rest>100</red_rest>
+         </Campaign_Decision_Block>
+
+         <Campaign_Decision_Block>
+            <Scenario_Title>
+               <number_in_campaign>[Campaign Battle #08]</number_in_campaign>
+               <battle_title>Laying down the Recht</battle_title>
+            </Scenario_Title>
+            <filename>RollbahnD #08_Recht</filename>
+            <win_threshold>Minor Victory</win_threshold>
+            <next_battle_win>#09</next_battle_win>
+            <next_battle_lose>Campaign End</next_battle_lose>
+            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
+            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
+            <blue_refit>0</blue_refit>
+            <blue_repair_vehicle>0</blue_repair_vehicle>
+            <blue_resupply>0</blue_resupply>
+            <blue_rest>0</blue_rest>
+            <red_refit>0</red_refit>
+            <red_repair_vehicle>0</red_repair_vehicle>
+            <red_resupply>0</red_resupply>
+            <red_rest>0</red_rest>
+         </Campaign_Decision_Block>
+
+         <Campaign_Decision_Block>
+            <Scenario_Title>
+               <number_in_campaign>[Campaign Battle #09]</number_in_campaign>
+               <battle_title>Poteau is the Priority</battle_title>
+            </Scenario_Title>
+            <filename>RollbahnD #09_sb</filename>
+            <win_threshold>Minor Victory</win_threshold>
+            <next_battle_win>#10</next_battle_win>
+            <next_battle_lose>Campaign End</next_battle_lose>
+            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
+            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
+            <blue_refit>0</blue_refit>
+            <blue_repair_vehicle>0</blue_repair_vehicle>
+            <blue_resupply>0</blue_resupply>
+            <blue_rest>0</blue_rest>
+            <red_refit>0</red_refit>
+            <red_repair_vehicle>0</red_repair_vehicle>
+            <red_resupply>100</red_resupply>
+            <red_rest>100</red_rest>
+         </Campaign_Decision_Block>
+
+         <Campaign_Decision_Block>
+            <Scenario_Title>
+               <number_in_campaign>[Campaign Battle #10]</number_in_campaign>
+               <battle_title>Storming Stavelot</battle_title>
+            </Scenario_Title>
+            <filename>RollbahnD #10_StormingStavelot</filename>
+            <win_threshold>Minor Victory</win_threshold>
+            <next_battle_win>#11</next_battle_win>
+            <next_battle_lose>Campaign End</next_battle_lose>
+            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
+            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
+            <blue_refit>0</blue_refit>
+            <blue_repair_vehicle>0</blue_repair_vehicle>
+            <blue_resupply>0</blue_resupply>
+            <blue_rest>0</blue_rest>
+            <red_refit>0</red_refit>
+            <red_repair_vehicle>0</red_repair_vehicle>
+            <red_resupply>0</red_resupply>
+            <red_rest>0</red_rest>
+         </Campaign_Decision_Block>
+
+         <Campaign_Decision_Block>
+            <Scenario_Title>
+               <number_in_campaign>[Campaign Battle #11]</number_in_campaign>
+               <battle_title>Trois Is A Crowd</battle_title>
+            </Scenario_Title>
+            <filename>RollbahnD #11_Trois is a Crowd</filename>
+            <win_threshold>Draw</win_threshold>
+            <next_battle_win>#12</next_battle_win>
+            <next_battle_lose>Campaign End</next_battle_lose>
+            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
+            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
+            <blue_refit>0</blue_refit>
+            <blue_repair_vehicle>0</blue_repair_vehicle>
+            <blue_resupply>0</blue_resupply>
+            <blue_rest>0</blue_rest>
+            <red_refit>0</red_refit>
+            <red_repair_vehicle>0</red_repair_vehicle>
+            <red_resupply>0</red_resupply>
+            <red_rest>0</red_rest>
+         </Campaign_Decision_Block>
+
+         <Campaign_Decision_Block>
+            <Scenario_Title>
+               <number_in_campaign>[Campaign Battle #12]</number_in_campaign>
+               <battle_title>Jabos!</battle_title>
+            </Scenario_Title>
+            <filename>RollbahnD #12_s7</filename>
+            <win_threshold>Tactical Defeat</win_threshold>
+            <next_battle_win>#13</next_battle_win>
+            <next_battle_lose>Campaign End</next_battle_lose>
+            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
+            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
+            <blue_refit>0</blue_refit>
+            <blue_repair_vehicle>0</blue_repair_vehicle>
+            <blue_resupply>0</blue_resupply>
+            <blue_rest>0</blue_rest>
+            <red_refit>0</red_refit>
+            <red_repair_vehicle>0</red_repair_vehicle>
+            <red_resupply>0</red_resupply>
+            <red_rest>0</red_rest>
+         </Campaign_Decision_Block>
+
+         <Campaign_Decision_Block>
+            <Scenario_Title>
+               <number_in_campaign>[Campaign Battle #13]</number_in_campaign>
+               <battle_title>Probe At Stavelot</battle_title>
+            </Scenario_Title>
+            <filename>RollbahnD #13_ProbeAtStavelot</filename>
+            <win_threshold>Minor Victory</win_threshold>
+            <next_battle_win>#14</next_battle_win>
+            <next_battle_lose>Campaign End</next_battle_lose>
+            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
+            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
+            <blue_refit>0</blue_refit>
+            <blue_repair_vehicle>0</blue_repair_vehicle>
+            <blue_resupply>0</blue_resupply>
+            <blue_rest>0</blue_rest>
+            <red_refit>0</red_refit>
+            <red_repair_vehicle>0</red_repair_vehicle>
+            <red_resupply>0</red_resupply>
+            <red_rest>0</red_rest>
+         </Campaign_Decision_Block>
+
+         <Campaign_Decision_Block>
+            <Scenario_Title>
+               <number_in_campaign>[Campaign Battle #14]</number_in_campaign>
+               <battle_title>NeufMoulin Rouge</battle_title>
+            </Scenario_Title>
+            <filename>RollbahnD #14_s9</filename>
+            <win_threshold>Draw</win_threshold>
+            <next_battle_win>#15</next_battle_win>
+            <next_battle_lose>Campaign End</next_battle_lose>
+            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
+            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
+            <blue_refit>0</blue_refit>
+            <blue_repair_vehicle>0</blue_repair_vehicle>
+            <blue_resupply>0</blue_resupply>
+            <blue_rest>0</blue_rest>
+            <red_refit>0</red_refit>
+            <red_repair_vehicle>0</red_repair_vehicle>
+            <red_resupply>100</red_resupply>
+            <red_rest>100</red_rest>
+         </Campaign_Decision_Block>
+
+         <Campaign_Decision_Block>
+            <Scenario_Title>
+               <number_in_campaign>[Campaign Battle #15]</number_in_campaign>
+               <battle_title>Duel In The Mist</battle_title>
+            </Scenario_Title>
+            <filename>RollbahnD #15_s10</filename>
+            <win_threshold>Minor Victory</win_threshold>
+            <next_battle_win>#16</next_battle_win>
+            <next_battle_lose>Campaign End</next_battle_lose>
+            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
+            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
+            <blue_refit>0</blue_refit>
+            <blue_repair_vehicle>0</blue_repair_vehicle>
+            <blue_resupply>0</blue_resupply>
+            <blue_rest>0</blue_rest>
+            <red_refit>0</red_refit>
+            <red_repair_vehicle>0</red_repair_vehicle>
+            <red_resupply>0</red_resupply>
+            <red_rest>0</red_rest>
+         </Campaign_Decision_Block>
+
+         <Campaign_Decision_Block>
+            <Scenario_Title>
+               <number_in_campaign>[Campaign Battle #16]</number_in_campaign>
+               <battle_title>Too Tight at Targnon</battle_title>
+            </Scenario_Title>
+            <filename>RollbahnD #16_s11</filename>
+            <win_threshold>Tactical Defeat</win_threshold>
+            <next_battle_win>#17</next_battle_win>
+            <next_battle_lose>Campaign End</next_battle_lose>
+            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
+            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
+            <blue_refit>0</blue_refit>
+            <blue_repair_vehicle>0</blue_repair_vehicle>
+            <blue_resupply>0</blue_resupply>
+            <blue_rest>0</blue_rest>
+            <red_refit>0</red_refit>
+            <red_repair_vehicle>0</red_repair_vehicle>
+            <red_resupply>0</red_resupply>
+            <red_rest>0</red_rest>
+         </Campaign_Decision_Block>
+
+         <Campaign_Decision_Block>
+            <Scenario_Title>
+               <number_in_campaign>[Campaign Battle #17]</number_in_campaign>
+               <battle_title>Searching For Gas</battle_title>
+            </Scenario_Title>
+            <filename>RollbahnD #17_Rosier</filename>
+            <win_threshold>Tactical Defeat</win_threshold>
+            <next_battle_win>#18</next_battle_win>
+            <next_battle_lose>Campaign End</next_battle_lose>
+            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
+            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
+            <blue_refit>0</blue_refit>
+            <blue_repair_vehicle>0</blue_repair_vehicle>
+            <blue_resupply>0</blue_resupply>
+            <blue_rest>0</blue_rest>
+            <red_refit>0</red_refit>
+            <red_repair_vehicle>0</red_repair_vehicle>
+            <red_resupply>0</red_resupply>
+            <red_rest>0</red_rest>
+         </Campaign_Decision_Block>
+
+         <Campaign_Decision_Block>
+            <Scenario_Title>
+               <number_in_campaign>[Campaign Battle #18]</number_in_campaign>
+               <battle_title>Ster Way To Heaven</battle_title>
+            </Scenario_Title>
+            <filename>RollbahnD #18_Ster Way To Heaven</filename>
+            <win_threshold>Tactical Defeat</win_threshold>
+            <next_battle_win>#19</next_battle_win>
+            <next_battle_lose>Campaign End</next_battle_lose>
+            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
+            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
+            <blue_refit>0</blue_refit>
+            <blue_repair_vehicle>0</blue_repair_vehicle>
+            <blue_resupply>0</blue_resupply>
+            <blue_rest>0</blue_rest>
+            <red_refit>0</red_refit>
+            <red_repair_vehicle>0</red_repair_vehicle>
+            <red_resupply>100</red_resupply>
+            <red_rest>100</red_rest>
+         </Campaign_Decision_Block>
+
+         <Campaign_Decision_Block>
+            <Scenario_Title>
+               <number_in_campaign>[Campaign Battle #19]</number_in_campaign>
+               <battle_title>Stationary at Stavelot Station</battle_title>
+            </Scenario_Title>
+            <filename>RollbahnD #19_S13</filename>
+            <win_threshold>Major Defeat</win_threshold>
+            <next_battle_win>#20</next_battle_win>
+            <next_battle_lose>Campaign End</next_battle_lose>
+            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
+            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
+            <blue_refit>0</blue_refit>
+            <blue_repair_vehicle>0</blue_repair_vehicle>
+            <blue_resupply>0</blue_resupply>
+            <blue_rest>0</blue_rest>
+            <red_refit>0</red_refit>
+            <red_repair_vehicle>0</red_repair_vehicle>
+            <red_resupply>0</red_resupply>
+            <red_rest>0</red_rest>
+         </Campaign_Decision_Block>
+
+         <Campaign_Decision_Block>
+            <Scenario_Title>
+               <number_in_campaign>[Campaign Battle #20]</number_in_campaign>
+               <battle_title>Chewin them up at Cheneux</battle_title>
+            </Scenario_Title>
+            <filename>RollbahnD #20_S14</filename>
+            <win_threshold>Draw</win_threshold>
+            <next_battle_win>#21</next_battle_win>
+            <next_battle_lose>Campaign End</next_battle_lose>
+            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
+            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
+            <blue_refit>0</blue_refit>
+            <blue_repair_vehicle>0</blue_repair_vehicle>
+            <blue_resupply>0</blue_resupply>
+            <blue_rest>0</blue_rest>
+            <red_refit>0</red_refit>
+            <red_repair_vehicle>0</red_repair_vehicle>
+            <red_resupply>0</red_resupply>
+            <red_rest>0</red_rest>
+         </Campaign_Decision_Block>
+
+         <Campaign_Decision_Block>
+            <Scenario_Title>
+               <number_in_campaign>[Campaign Battle #21]</number_in_campaign>
+               <battle_title>TF McGeorge: Treachery at Les Tcheous</battle_title>
+            </Scenario_Title>
+            <filename>RollbahnD #21_S15</filename>
+            <win_threshold>Draw</win_threshold>
+            <next_battle_win>#22</next_battle_win>
+            <next_battle_lose>Campaign End</next_battle_lose>
+            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
+            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
+            <blue_refit>0</blue_refit>
+            <blue_repair_vehicle>0</blue_repair_vehicle>
+            <blue_resupply>0</blue_resupply>
+            <blue_rest>0</blue_rest>
+            <red_refit>0</red_refit>
+            <red_repair_vehicle>0</red_repair_vehicle>
+            <red_resupply>0</red_resupply>
+            <red_rest>0</red_rest>
+         </Campaign_Decision_Block>
+
+         <Campaign_Decision_Block>
+            <Scenario_Title>
+               <number_in_campaign>[Campaign Battle #22]</number_in_campaign>
+               <battle_title>TF Lovelady:Closing the door</battle_title>
+            </Scenario_Title>
+            <filename>RollbahnD #22_S16</filename>
+            <win_threshold>Draw</win_threshold>
+            <next_battle_win>#23</next_battle_win>
+            <next_battle_lose>Campaign End</next_battle_lose>
+            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
+            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
+            <blue_refit>0</blue_refit>
+            <blue_repair_vehicle>0</blue_repair_vehicle>
+            <blue_resupply>0</blue_resupply>
+            <blue_rest>0</blue_rest>
+            <red_refit>0</red_refit>
+            <red_repair_vehicle>0</red_repair_vehicle>
+            <red_resupply>0</red_resupply>
+            <red_rest>0</red_rest>
+         </Campaign_Decision_Block>
+
+         <Campaign_Decision_Block>
+            <Scenario_Title>
+               <number_in_campaign>[Campaign Battle #23]</number_in_campaign>
+               <battle_title>TF McGeorge: Ambush at Chenai</battle_title>
+            </Scenario_Title>
+            <filename>RollbahnD #23_S17</filename>
+            <win_threshold>Draw</win_threshold>
+            <next_battle_win>#24</next_battle_win>
+            <next_battle_lose>Campaign End</next_battle_lose>
+            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
+            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
+            <blue_refit>0</blue_refit>
+            <blue_repair_vehicle>0</blue_repair_vehicle>
+            <blue_resupply>0</blue_resupply>
+            <blue_rest>0</blue_rest>
+            <red_refit>0</red_refit>
+            <red_repair_vehicle>0</red_repair_vehicle>
+            <red_resupply>0</red_resupply>
+            <red_rest>0</red_rest>
+         </Campaign_Decision_Block>
+
+         <Campaign_Decision_Block>
+            <Scenario_Title>
+               <number_in_campaign>[Campaign Battle #24]</number_in_campaign>
+               <battle_title>Violence at the Preventorium</battle_title>
+            </Scenario_Title>
+            <filename>RollbahnD #24_S18</filename>
+            <win_threshold>Draw</win_threshold>
+            <next_battle_win>#25</next_battle_win>
+            <next_battle_lose>Campaign End</next_battle_lose>
+            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
+            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
+            <blue_refit>0</blue_refit>
+            <blue_repair_vehicle>0</blue_repair_vehicle>
+            <blue_resupply>0</blue_resupply>
+            <blue_rest>0</blue_rest>
+            <red_refit>0</red_refit>
+            <red_repair_vehicle>0</red_repair_vehicle>
+            <red_resupply>75</red_resupply>
+            <red_rest>75</red_rest>
+         </Campaign_Decision_Block>
+
+         <Campaign_Decision_Block>
+            <Scenario_Title>
+               <number_in_campaign>[Campaign Battle #25]</number_in_campaign>
+               <battle_title>The KG X Factor</battle_title>
+            </Scenario_Title>
+            <filename>RollbahnD #25_S19</filename>
+            <win_threshold>Tactical Defeat</win_threshold>
+            <next_battle_win>#26</next_battle_win>
+            <next_battle_lose>Campaign End</next_battle_lose>
+            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
+            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
+            <blue_refit>0</blue_refit>
+            <blue_repair_vehicle>0</blue_repair_vehicle>
+            <blue_resupply>0</blue_resupply>
+            <blue_rest>0</blue_rest>
+            <red_refit>0</red_refit>
+            <red_repair_vehicle>0</red_repair_vehicle>
+            <red_resupply>0</red_resupply>
+            <red_rest>0</red_rest>
+         </Campaign_Decision_Block>
+
+         <Campaign_Decision_Block>
+            <Scenario_Title>
+               <number_in_campaign>[Campaign Battle #26]</number_in_campaign>
+               <battle_title>No Prizes at Noupre</battle_title>
+            </Scenario_Title>
+            <filename>RollbahnD #26_S22</filename>
+            <win_threshold>Minor Victory</win_threshold>
+            <next_battle_win>#27</next_battle_win>
+            <next_battle_lose>Campaign End</next_battle_lose>
+            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
+            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
+            <blue_refit>0</blue_refit>
+            <blue_repair_vehicle>0</blue_repair_vehicle>
+            <blue_resupply>0</blue_resupply>
+            <blue_rest>0</blue_rest>
+            <red_refit>0</red_refit>
+            <red_repair_vehicle>0</red_repair_vehicle>
+            <red_resupply>0</red_resupply>
+            <red_rest>0</red_rest>
+         </Campaign_Decision_Block>
+
+         <Campaign_Decision_Block>
+            <Scenario_Title>
+               <number_in_campaign>[Campaign Battle #27]</number_in_campaign>
+               <battle_title>Punishment at Parfondry</battle_title>
+            </Scenario_Title>
+            <filename>RollbahnD #27_S24</filename>
+            <win_threshold>Tactical Defeat</win_threshold>
+            <next_battle_win>#28</next_battle_win>
+            <next_battle_lose>Campaign End</next_battle_lose>
+            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
+            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
+            <blue_refit>0</blue_refit>
+            <blue_repair_vehicle>0</blue_repair_vehicle>
+            <blue_resupply>0</blue_resupply>
+            <blue_rest>0</blue_rest>
+            <red_refit>0</red_refit>
+            <red_repair_vehicle>0</red_repair_vehicle>
+            <red_resupply>0</red_resupply>
+            <red_rest>0</red_rest>
+         </Campaign_Decision_Block>
+
+         <Campaign_Decision_Block>
+            <Scenario_Title>
+               <number_in_campaign>[Campaign Battle #28]</number_in_campaign>
+               <battle_title>TF Jordan Storms Stoumont</battle_title>
+            </Scenario_Title>
+            <filename>RollbahnD #28_S23</filename>
+            <win_threshold>Draw</win_threshold>
+            <next_battle_win>#29</next_battle_win>
+            <next_battle_lose>Campaign End</next_battle_lose>
+            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
+            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
+            <blue_refit>0</blue_refit>
+            <blue_repair_vehicle>0</blue_repair_vehicle>
+            <blue_resupply>0</blue_resupply>
+            <blue_rest>0</blue_rest>
+            <red_refit>0</red_refit>
+            <red_repair_vehicle>0</red_repair_vehicle>
+            <red_resupply>0</red_resupply>
+            <red_rest>0</red_rest>
+         </Campaign_Decision_Block>
+
+         <Campaign_Decision_Block>
+            <Scenario_Title>
+               <number_in_campaign>[Campaign Battle #29]</number_in_campaign>
+               <battle_title>Cold Hearts at Froidcour</battle_title>
+            </Scenario_Title>
+            <filename>RollbahnD #29_S29</filename>
+            <win_threshold>Tactical Victory</win_threshold>
+            <next_battle_win>#30</next_battle_win>
+            <next_battle_lose>Campaign End</next_battle_lose>
+            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
+            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
+            <blue_refit>0</blue_refit>
+            <blue_repair_vehicle>0</blue_repair_vehicle>
+            <blue_resupply>0</blue_resupply>
+            <blue_rest>0</blue_rest>
+            <red_refit>0</red_refit>
+            <red_repair_vehicle>0</red_repair_vehicle>
+            <red_resupply>0</red_resupply>
+            <red_rest>0</red_rest>
+         </Campaign_Decision_Block>
+
+         <Campaign_Decision_Block>
+            <Scenario_Title>
+               <number_in_campaign>[Campaign Battle #30]</number_in_campaign>
+               <battle_title>Persistence Prevails</battle_title>
+            </Scenario_Title>
+            <filename>RollbahnD #30_S20</filename>
+            <win_threshold>Draw</win_threshold>
+            <next_battle_win>#31</next_battle_win>
+            <next_battle_lose>Campaign End</next_battle_lose>
+            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
+            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
+            <blue_refit>0</blue_refit>
+            <blue_repair_vehicle>0</blue_repair_vehicle>
+            <blue_resupply>0</blue_resupply>
+            <blue_rest>0</blue_rest>
+            <red_refit>0</red_refit>
+            <red_repair_vehicle>0</red_repair_vehicle>
+            <red_resupply>50</red_resupply>
+            <red_rest>100</red_rest>
+         </Campaign_Decision_Block>
+
+         <Campaign_Decision_Block>
+            <Scenario_Title>
+               <number_in_campaign>[Campaign Battle #31]</number_in_campaign>
+               <battle_title>Borgoumont Bounce</battle_title>
+            </Scenario_Title>
+            <filename>RollbahnD #31_S25</filename>
+            <win_threshold>Major Defeat</win_threshold>
+            <next_battle_win>#32</next_battle_win>
+            <next_battle_lose>Campaign End</next_battle_lose>
+            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
+            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
+            <blue_refit>0</blue_refit>
+            <blue_repair_vehicle>0</blue_repair_vehicle>
+            <blue_resupply>0</blue_resupply>
+            <blue_rest>0</blue_rest>
+            <red_refit>0</red_refit>
+            <red_repair_vehicle>0</red_repair_vehicle>
+            <red_resupply>0</red_resupply>
+            <red_rest>0</red_rest>
+         </Campaign_Decision_Block>
+
+         <Campaign_Decision_Block>
+            <Scenario_Title>
+               <number_in_campaign>[Campaign Battle #32]</number_in_campaign>
+               <battle_title>Kicking Coblenz</battle_title>
+            </Scenario_Title>
+            <filename>RollbahnD #32_S21</filename>
+            <win_threshold>Total Defeat</win_threshold>
+            <next_battle_win>#33</next_battle_win>
+            <next_battle_lose>Campaign End</next_battle_lose>
+            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
+            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
+            <blue_refit>0</blue_refit>
+            <blue_repair_vehicle>0</blue_repair_vehicle>
+            <blue_resupply>0</blue_resupply>
+            <blue_rest>0</blue_rest>
+            <red_refit>0</red_refit>
+            <red_repair_vehicle>0</red_repair_vehicle>
+            <red_resupply>0</red_resupply>
+            <red_rest>0</red_rest>
+         </Campaign_Decision_Block>
+
+         <Campaign_Decision_Block>
+            <Scenario_Title>
+               <number_in_campaign>[Campaign Battle #33]</number_in_campaign>
+               <battle_title>TF McGeorge: Assaulting Festung La Gleize</battle_title>
+            </Scenario_Title>
+            <filename>RollbahnD #33_S26</filename>
+            <win_threshold>Tactical Victory</win_threshold>
+            <next_battle_win>#34</next_battle_win>
+            <next_battle_lose>Campaign End</next_battle_lose>
+            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
+            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
+            <blue_refit>0</blue_refit>
+            <blue_repair_vehicle>0</blue_repair_vehicle>
+            <blue_resupply>0</blue_resupply>
+            <blue_rest>0</blue_rest>
+            <red_refit>0</red_refit>
+            <red_repair_vehicle>0</red_repair_vehicle>
+            <red_resupply>0</red_resupply>
+            <red_rest>0</red_rest>
+         </Campaign_Decision_Block>
+
+         <Campaign_Decision_Block>
+            <Scenario_Title>
+               <number_in_campaign>[Campaign Battle #34]</number_in_campaign>
+               <battle_title>Hansens Surprise</battle_title>
+            </Scenario_Title>
+            <filename>RollbahnD #34_S27</filename>
+            <win_threshold>Draw</win_threshold>
+            <next_battle_win>#35</next_battle_win>
+            <next_battle_lose>Campaign End</next_battle_lose>
+            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
+            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
+            <blue_refit>0</blue_refit>
+            <blue_repair_vehicle>0</blue_repair_vehicle>
+            <blue_resupply>0</blue_resupply>
+            <blue_rest>0</blue_rest>
+            <red_refit>0</red_refit>
+            <red_repair_vehicle>0</red_repair_vehicle>
+            <red_resupply>0</red_resupply>
+            <red_rest>0</red_rest>
+         </Campaign_Decision_Block>
+
+         <Campaign_Decision_Block>
+            <Scenario_Title>
+               <number_in_campaign>[Campaign Battle #35]</number_in_campaign>
+               <battle_title>Katz und Maus</battle_title>
+            </Scenario_Title>
+            <filename>RollbahnD #35_S28</filename>
+            <win_threshold>Minor Victory</win_threshold>
+            <next_battle_win>Campaign End</next_battle_win>
+            <next_battle_lose>Campaign End</next_battle_lose>
+            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
+            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
+            <blue_refit>0</blue_refit>
+            <blue_repair_vehicle>0</blue_repair_vehicle>
+            <blue_resupply>0</blue_resupply>
+            <blue_rest>0</blue_rest>
+            <red_refit>0</red_refit>
+            <red_repair_vehicle>0</red_repair_vehicle>
+            <red_resupply>0</red_resupply>
+            <red_rest>0</red_rest>
+         </Campaign_Decision_Block>
+
+      </Campaign>
+      <Campaign>
+
+         <title>Bulge Plus One</title>
+         <filename>BulgePlusOne</filename>
+         <picture_link>campaignpics/BulgePlusOne.bmp</picture_link>
+         <description>The Battle of the Bulge is over. The American counter-offensive begins.</description>
+         <date_range>
+           <earliest_date>17/11/1944</earliest_date>
+           <latest_date>16/02/1945</latest_date>
+         </date_range>
+         <region_list>
+           <region>Ardennes</region>
+           <region>France</region>
+           <region>Germany</region>
+         </region_list>
+         <campaign_tree_link>campaignpics/Bulge Plus One_Tree.png</campaign_tree_link>
+         <game_version>CMFB v1.00 to v1.01</game_version>
+         <Modules_Required>
+         </Modules_Required>
+
+         <Campaign_Decision_Block>
+            <Scenario_Title>
+               <number_in_campaign>[Campaign Battle #00]</number_in_campaign>
+               <battle_title>The Encounter Escalates</battle_title>
+            </Scenario_Title>
+            <filename>BulgePlusOne #00_encounter</filename>
+            <win_threshold>Tactical Victory</win_threshold>
+            <next_battle_win>#02</next_battle_win>
+            <next_battle_lose>#01</next_battle_lose>
+            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
+            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
+            <blue_refit>25</blue_refit>
+            <blue_repair_vehicle>40</blue_repair_vehicle>
+            <blue_resupply>70</blue_resupply>
+            <blue_rest>75</blue_rest>
+            <red_refit>20</red_refit>
+            <red_repair_vehicle>30</red_repair_vehicle>
+            <red_resupply>50</red_resupply>
+            <red_rest>60</red_rest>
+         </Campaign_Decision_Block>
+
+         <Campaign_Decision_Block>
+            <Scenario_Title>
+               <number_in_campaign>[Campaign Battle #01]</number_in_campaign>
+               <battle_title>The Encounter After A Loss</battle_title>
+            </Scenario_Title>
+            <filename>BulgePlusOne #01_encounterL</filename>
+            <win_threshold>Tactical Victory</win_threshold>
+            <next_battle_win>#03</next_battle_win>
+            <next_battle_lose>#02</next_battle_lose>
+            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
+            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
+            <blue_refit>20</blue_refit>
+            <blue_repair_vehicle>40</blue_repair_vehicle>
+            <blue_resupply>60</blue_resupply>
+            <blue_rest>50</blue_rest>
+            <red_refit>20</red_refit>
+            <red_repair_vehicle>40</red_repair_vehicle>
+            <red_resupply>50</red_resupply>
+            <red_rest>50</red_rest>
+         </Campaign_Decision_Block>
+
+         <Campaign_Decision_Block>
+            <Scenario_Title>
+               <number_in_campaign>[Campaign Battle #02]</number_in_campaign>
+               <battle_title>The Encounter After First Win</battle_title>
+            </Scenario_Title>
+            <filename>BulgePlusOne #02_encounterR</filename>
+            <win_threshold>Tactical Victory</win_threshold>
+            <next_battle_win>#03</next_battle_win>
+            <next_battle_lose>Campaign End</next_battle_lose>
+            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
+            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
+            <blue_refit>20</blue_refit>
+            <blue_repair_vehicle>40</blue_repair_vehicle>
+            <blue_resupply>60</blue_resupply>
+            <blue_rest>50</blue_rest>
+            <red_refit>20</red_refit>
+            <red_repair_vehicle>40</red_repair_vehicle>
+            <red_resupply>50</red_resupply>
+            <red_rest>50</red_rest>
+         </Campaign_Decision_Block>
+
+         <Campaign_Decision_Block>
+            <Scenario_Title>
+               <number_in_campaign>[Campaign Battle #03]</number_in_campaign>
+               <battle_title>Encounter4</battle_title>
+            </Scenario_Title>
+            <filename>BulgePlusOne #03_encounter4</filename>
+            <win_threshold>Tactical Victory</win_threshold>
+            <next_battle_win>#04</next_battle_win>
+            <next_battle_lose>#05</next_battle_lose>
+            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
+            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
+            <blue_refit>20</blue_refit>
+            <blue_repair_vehicle>40</blue_repair_vehicle>
+            <blue_resupply>60</blue_resupply>
+            <blue_rest>50</blue_rest>
+            <red_refit>20</red_refit>
+            <red_repair_vehicle>40</red_repair_vehicle>
+            <red_resupply>50</red_resupply>
+            <red_rest>50</red_rest>
+         </Campaign_Decision_Block>
+
+         <Campaign_Decision_Block>
+            <Scenario_Title>
+               <number_in_campaign>[Campaign Battle #04]</number_in_campaign>
+               <battle_title>encounter5R</battle_title>
+            </Scenario_Title>
+            <filename>BulgePlusOne #04_encounter5R</filename>
+            <win_threshold>Tactical Victory</win_threshold>
+            <next_battle_win>#06</next_battle_win>
+            <next_battle_lose>#05</next_battle_lose>
+            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
+            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
+            <blue_refit>20</blue_refit>
+            <blue_repair_vehicle>40</blue_repair_vehicle>
+            <blue_resupply>60</blue_resupply>
+            <blue_rest>50</blue_rest>
+            <red_refit>20</red_refit>
+            <red_repair_vehicle>40</red_repair_vehicle>
+            <red_resupply>50</red_resupply>
+            <red_rest>50</red_rest>
+         </Campaign_Decision_Block>
+
+         <Campaign_Decision_Block>
+            <Scenario_Title>
+               <number_in_campaign>[Campaign Battle #05]</number_in_campaign>
+               <battle_title>encounter5r</battle_title>
+            </Scenario_Title>
+            <filename>BulgePlusOne #05_encounter5L</filename>
+            <win_threshold>Tactical Victory</win_threshold>
+            <next_battle_win>#04</next_battle_win>
+            <next_battle_lose>Campaign End</next_battle_lose>
+            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
+            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
+            <blue_refit>20</blue_refit>
+            <blue_repair_vehicle>40</blue_repair_vehicle>
+            <blue_resupply>60</blue_resupply>
+            <blue_rest>50</blue_rest>
+            <red_refit>20</red_refit>
+            <red_repair_vehicle>40</red_repair_vehicle>
+            <red_resupply>50</red_resupply>
+            <red_rest>50</red_rest>
+         </Campaign_Decision_Block>
+
+         <Campaign_Decision_Block>
+            <Scenario_Title>
+               <number_in_campaign>[Campaign Battle #06]</number_in_campaign>
+               <battle_title>encounter6</battle_title>
+            </Scenario_Title>
+            <filename>BulgePlusOne #06_encounter6</filename>
+            <win_threshold>Tactical Victory</win_threshold>
+            <next_battle_win>Campaign End</next_battle_win>
+            <next_battle_lose>Campaign End</next_battle_lose>
+            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
+            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
+            <blue_refit>20</blue_refit>
+            <blue_repair_vehicle>40</blue_repair_vehicle>
+            <blue_resupply>60</blue_resupply>
+            <blue_rest>50</blue_rest>
+            <red_refit>20</red_refit>
+            <red_repair_vehicle>40</red_repair_vehicle>
+            <red_resupply>50</red_resupply>
+            <red_rest>50</red_rest>
+         </Campaign_Decision_Block>
+
+      </Campaign>
+      <Campaign>
+
+         <title>Spearhead (Hard)</title>
+         <filename>DF Spearhead (Hard)</filename>
+         <picture_link>campaignpics/DF Spearhead (Hard).bmp</picture_link>
+         <description>Elements of Task Force Lovelady approach Cologne</description>
+         <date_range>
+           <earliest_date>24/03/1945</earliest_date>
+           <latest_date>05/04/1945</latest_date>
+         </date_range>
+         <region_list>
+           <region>Germany</region>
+         </region_list>
+         <campaign_tree_link>campaignpics/Spearhead (Hard)_Tree.png</campaign_tree_link>
+         <game_version>CMFB v2.10 to v2.11</game_version>
+         <Modules_Required>
+            <module1>Downfall </module1>
+         </Modules_Required>
+
+         <Campaign_Decision_Block>
+            <Scenario_Title>
+               <number_in_campaign>[Campaign Battle #00]</number_in_campaign>
+               <battle_title>The Bridges</battle_title>
+            </Scenario_Title>
+            <filename>DF Spearhead (Hard) #00_DF Spearhead 01 The Bridges</filename>
+            <win_threshold>Minor Victory</win_threshold>
+            <next_battle_win>#01</next_battle_win>
+            <next_battle_lose>#01</next_battle_lose>
+            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
+            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
+            <blue_refit>25</blue_refit>
+            <blue_repair_vehicle>25</blue_repair_vehicle>
+            <blue_resupply>75</blue_resupply>
+            <blue_rest>50</blue_rest>
+            <red_refit>0</red_refit>
+            <red_repair_vehicle>0</red_repair_vehicle>
+            <red_resupply>0</red_resupply>
+            <red_rest>0</red_rest>
+         </Campaign_Decision_Block>
+
+         <Campaign_Decision_Block>
+            <Scenario_Title>
+               <number_in_campaign>[Campaign Battle #01]</number_in_campaign>
+               <battle_title>Geisendorf</battle_title>
+            </Scenario_Title>
+            <filename>DF Spearhead (Hard) #01_DF Spearhead 02 Geisendorf</filename>
+            <win_threshold>Minor Victory</win_threshold>
+            <next_battle_win>#02</next_battle_win>
+            <next_battle_lose>#02</next_battle_lose>
+            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
+            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
+            <blue_refit>25</blue_refit>
+            <blue_repair_vehicle>25</blue_repair_vehicle>
+            <blue_resupply>75</blue_resupply>
+            <blue_rest>50</blue_rest>
+            <red_refit>0</red_refit>
+            <red_repair_vehicle>0</red_repair_vehicle>
+            <red_resupply>0</red_resupply>
+            <red_rest>0</red_rest>
+         </Campaign_Decision_Block>
+
+         <Campaign_Decision_Block>
+            <Scenario_Title>
+               <number_in_campaign>[Campaign Battle #02]</number_in_campaign>
+               <battle_title>Splintered Trees on the Hill</battle_title>
+            </Scenario_Title>
+            <filename>DF Spearhead (Hard) #02_DF Spearhead 03 The Hill</filename>
+            <win_threshold>Minor Victory</win_threshold>
+            <next_battle_win>#03</next_battle_win>
+            <next_battle_lose>#03</next_battle_lose>
+            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
+            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
+            <blue_refit>25</blue_refit>
+            <blue_repair_vehicle>25</blue_repair_vehicle>
+            <blue_resupply>75</blue_resupply>
+            <blue_rest>50</blue_rest>
+            <red_refit>0</red_refit>
+            <red_repair_vehicle>0</red_repair_vehicle>
+            <red_resupply>0</red_resupply>
+            <red_rest>0</red_rest>
+         </Campaign_Decision_Block>
+
+         <Campaign_Decision_Block>
+            <Scenario_Title>
+               <number_in_campaign>[Campaign Battle #03]</number_in_campaign>
+               <battle_title>Scorched Steel at Elsdorf</battle_title>
+            </Scenario_Title>
+            <filename>DF Spearhead (Hard) #03_DF Spearhead 04 Elsdorf</filename>
+            <win_threshold>Minor Victory</win_threshold>
+            <next_battle_win>#04</next_battle_win>
+            <next_battle_lose>#04</next_battle_lose>
+            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
+            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
+            <blue_refit>25</blue_refit>
+            <blue_repair_vehicle>25</blue_repair_vehicle>
+            <blue_resupply>75</blue_resupply>
+            <blue_rest>50</blue_rest>
+            <red_refit>0</red_refit>
+            <red_repair_vehicle>0</red_repair_vehicle>
+            <red_resupply>0</red_resupply>
+            <red_rest>0</red_rest>
+         </Campaign_Decision_Block>
+
+         <Campaign_Decision_Block>
+            <Scenario_Title>
+               <number_in_campaign>[Campaign Battle #04]</number_in_campaign>
+               <battle_title>Autobahn</battle_title>
+            </Scenario_Title>
+            <filename>DF Spearhead (Hard) #04_DF Spearhead 05 Autobahn</filename>
+            <win_threshold>Minor Victory</win_threshold>
+            <next_battle_win>#05</next_battle_win>
+            <next_battle_lose>#05</next_battle_lose>
+            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
+            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
+            <blue_refit>25</blue_refit>
+            <blue_repair_vehicle>25</blue_repair_vehicle>
+            <blue_resupply>75</blue_resupply>
+            <blue_rest>50</blue_rest>
+            <red_refit>0</red_refit>
+            <red_repair_vehicle>0</red_repair_vehicle>
+            <red_resupply>0</red_resupply>
+            <red_rest>0</red_rest>
+         </Campaign_Decision_Block>
+
+         <Campaign_Decision_Block>
+            <Scenario_Title>
+               <number_in_campaign>[Campaign Battle #05]</number_in_campaign>
+               <battle_title>Erft Kanal</battle_title>
+            </Scenario_Title>
+            <filename>DF Spearhead (Hard) #05_DF Spearhead 06 Erft Kanal</filename>
+            <win_threshold>Minor Victory</win_threshold>
+            <next_battle_win>#06</next_battle_win>
+            <next_battle_lose>#06</next_battle_lose>
+            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
+            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
+            <blue_refit>25</blue_refit>
+            <blue_repair_vehicle>25</blue_repair_vehicle>
+            <blue_resupply>75</blue_resupply>
+            <blue_rest>50</blue_rest>
+            <red_refit>0</red_refit>
+            <red_repair_vehicle>0</red_repair_vehicle>
+            <red_resupply>0</red_resupply>
+            <red_rest>0</red_rest>
+         </Campaign_Decision_Block>
+
+         <Campaign_Decision_Block>
+            <Scenario_Title>
+               <number_in_campaign>[Campaign Battle #06]</number_in_campaign>
+               <battle_title>Stommeln</battle_title>
+            </Scenario_Title>
+            <filename>DF Spearhead (Hard) #06_DF Spearhead 07 Stommeln</filename>
+            <win_threshold>Minor Victory</win_threshold>
+            <next_battle_win>#07</next_battle_win>
+            <next_battle_lose>#07</next_battle_lose>
+            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
+            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
+            <blue_refit>25</blue_refit>
+            <blue_repair_vehicle>25</blue_repair_vehicle>
+            <blue_resupply>75</blue_resupply>
+            <blue_rest>50</blue_rest>
+            <red_refit>0</red_refit>
+            <red_repair_vehicle>0</red_repair_vehicle>
+            <red_resupply>0</red_resupply>
+            <red_rest>0</red_rest>
+         </Campaign_Decision_Block>
+
+         <Campaign_Decision_Block>
+            <Scenario_Title>
+               <number_in_campaign>[Campaign Battle #07]</number_in_campaign>
+               <battle_title>The Outer Ring</battle_title>
+            </Scenario_Title>
+            <filename>DF Spearhead (Hard) #07_DF Spearhead 08 Koln West</filename>
+            <win_threshold>Minor Victory</win_threshold>
+            <next_battle_win>#08</next_battle_win>
+            <next_battle_lose>#08</next_battle_lose>
+            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
+            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
+            <blue_refit>25</blue_refit>
+            <blue_repair_vehicle>25</blue_repair_vehicle>
+            <blue_resupply>75</blue_resupply>
+            <blue_rest>50</blue_rest>
+            <red_refit>0</red_refit>
+            <red_repair_vehicle>0</red_repair_vehicle>
+            <red_resupply>0</red_resupply>
+            <red_rest>0</red_rest>
+         </Campaign_Decision_Block>
+
+         <Campaign_Decision_Block>
+            <Scenario_Title>
+               <number_in_campaign>[Campaign Battle #08]</number_in_campaign>
+               <battle_title>Koln</battle_title>
+            </Scenario_Title>
+            <filename>DF Spearhead (Hard) #08_DF Spearhead 09 Koln East</filename>
+            <win_threshold>Minor Victory</win_threshold>
+            <next_battle_win>Campaign End</next_battle_win>
+            <next_battle_lose>Campaign End</next_battle_lose>
+            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
+            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
+            <blue_refit>25</blue_refit>
+            <blue_repair_vehicle>25</blue_repair_vehicle>
+            <blue_resupply>75</blue_resupply>
+            <blue_rest>50</blue_rest>
+            <red_refit>0</red_refit>
+            <red_repair_vehicle>0</red_repair_vehicle>
+            <red_resupply>0</red_resupply>
+            <red_rest>0</red_rest>
+         </Campaign_Decision_Block>
+
+      </Campaign>
+      <Campaign>
+
+         <title>Training Campaign</title>
+         <filename>Training Campaign</filename>
+         <picture_link>campaignpics/Training Campaign.bmp</picture_link>
+         <description>Defend the Bastogne Corridor from a German counterattack at Lutrebois. START HERE IF YOU ARE NEW TO COMBAT MISSION.</description>
+         <date_range>
+           <earliest_date>13/01/1945</earliest_date>
+           <latest_date>30/01/1945</latest_date>
+         </date_range>
+         <region_list>
+           <region>Ardennes</region>
+         </region_list>
+         <campaign_tree_link>campaignpics/Training Campaign_Tree.png</campaign_tree_link>
+         <game_version>CMFB v1.00 to v1.01</game_version>
+         <Modules_Required>
+         </Modules_Required>
+
+         <Campaign_Decision_Block>
+            <Scenario_Title>
+               <number_in_campaign>[Campaign Battle #00]</number_in_campaign>
+               <battle_title>Target Range</battle_title>
+            </Scenario_Title>
+            <filename>Training Campaign #00_Training Campaign Mission 1</filename>
+            <win_threshold>Draw</win_threshold>
+            <next_battle_win>#01</next_battle_win>
+            <next_battle_lose>#01</next_battle_lose>
+            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
+            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
+            <blue_refit>0</blue_refit>
+            <blue_repair_vehicle>0</blue_repair_vehicle>
+            <blue_resupply>100</blue_resupply>
+            <blue_rest>100</blue_rest>
+            <red_refit>0</red_refit>
+            <red_repair_vehicle>0</red_repair_vehicle>
+            <red_resupply>0</red_resupply>
+            <red_rest>0</red_rest>
+         </Campaign_Decision_Block>
+
+         <Campaign_Decision_Block>
+            <Scenario_Title>
+               <number_in_campaign>[Campaign Battle #01]</number_in_campaign>
+               <battle_title>Counterattack at Lutrebois</battle_title>
+            </Scenario_Title>
+            <filename>Training Campaign #01_Training Campaign Mission 2</filename>
+            <win_threshold>Draw</win_threshold>
+            <next_battle_win>#02</next_battle_win>
+            <next_battle_lose>#02</next_battle_lose>
+            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
+            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
+            <blue_refit>0</blue_refit>
+            <blue_repair_vehicle>0</blue_repair_vehicle>
+            <blue_resupply>100</blue_resupply>
+            <blue_rest>100</blue_rest>
+            <red_refit>0</red_refit>
+            <red_repair_vehicle>0</red_repair_vehicle>
+            <red_resupply>0</red_resupply>
+            <red_rest>0</red_rest>
+         </Campaign_Decision_Block>
+
+         <Campaign_Decision_Block>
+            <Scenario_Title>
+               <number_in_campaign>[Campaign Battle #02]</number_in_campaign>
+               <battle_title>Panzers on the Move!</battle_title>
+            </Scenario_Title>
+            <filename>Training Campaign #02_Training Campaign Mission 3</filename>
+            <win_threshold>Draw</win_threshold>
+            <next_battle_win>#03</next_battle_win>
+            <next_battle_lose>#03</next_battle_lose>
+            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
+            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
+            <blue_refit>0</blue_refit>
+            <blue_repair_vehicle>0</blue_repair_vehicle>
+            <blue_resupply>100</blue_resupply>
+            <blue_rest>100</blue_rest>
+            <red_refit>0</red_refit>
+            <red_repair_vehicle>0</red_repair_vehicle>
+            <red_resupply>0</red_resupply>
+            <red_rest>0</red_rest>
+         </Campaign_Decision_Block>
+
+         <Campaign_Decision_Block>
+            <Scenario_Title>
+               <number_in_campaign>[Campaign Battle #03]</number_in_campaign>
+               <battle_title>Shield and Hammer</battle_title>
+            </Scenario_Title>
+            <filename>Training Campaign #03_Training Campaign Mission 4</filename>
+            <win_threshold>Draw</win_threshold>
+            <next_battle_win>Campaign End</next_battle_win>
+            <next_battle_lose>Campaign End</next_battle_lose>
+            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
+            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
+            <blue_refit>0</blue_refit>
+            <blue_repair_vehicle>0</blue_repair_vehicle>
+            <blue_resupply>100</blue_resupply>
+            <blue_rest>100</blue_rest>
+            <red_refit>0</red_refit>
+            <red_repair_vehicle>0</red_repair_vehicle>
+            <red_resupply>0</red_resupply>
+            <red_rest>0</red_rest>
+         </Campaign_Decision_Block>
+
+      </Campaign>
+      <Campaign>
+
+         <title>Kampfgruppe Peiper</title>
+         <filename>Kampfgruppe Peiper</filename>
+         <picture_link>campaignpics/Kampfgruppe Peiper.bmp</picture_link>
+         <description>Command the fateful Kampfgruppe Peiper as they strike for the Meuse. Can you get further than Peiper?</description>
+         <date_range>
+           <earliest_date>17/01/1945</earliest_date>
+           <latest_date>19/01/1945</latest_date>
+         </date_range>
+         <region_list>
+           <region>Ardennes</region>
+         </region_list>
+         <campaign_tree_link>campaignpics/Kampfgruppe Peiper_Tree.png</campaign_tree_link>
+         <game_version>CMFB v1.00 to v1.01</game_version>
+         <Modules_Required>
+         </Modules_Required>
+
+         <Campaign_Decision_Block>
+            <Scenario_Title>
+               <number_in_campaign>[Campaign Battle #00]</number_in_campaign>
+               <battle_title>die Spitze</battle_title>
+            </Scenario_Title>
+            <filename>Kampfgruppe Peiper #00_KG Peiper Mission 1</filename>
+            <win_threshold>Minor Victory</win_threshold>
+            <next_battle_win>#01</next_battle_win>
+            <next_battle_lose>#02</next_battle_lose>
+            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
+            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
+            <blue_refit>0</blue_refit>
+            <blue_repair_vehicle>0</blue_repair_vehicle>
+            <blue_resupply>0</blue_resupply>
+            <blue_rest>100</blue_rest>
+            <red_refit>0</red_refit>
+            <red_repair_vehicle>0</red_repair_vehicle>
+            <red_resupply>0</red_resupply>
+            <red_rest>100</red_rest>
+         </Campaign_Decision_Block>
+
+         <Campaign_Decision_Block>
+            <Scenario_Title>
+               <number_in_campaign>[Campaign Battle #01]</number_in_campaign>
+               <battle_title>Command Decisions</battle_title>
+            </Scenario_Title>
+            <filename>Kampfgruppe Peiper #01_KG Peiper Mission 2A</filename>
+            <win_threshold>Total Victory</win_threshold>
+            <next_battle_win>#06</next_battle_win>
+            <next_battle_lose>#03</next_battle_lose>
+            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
+            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
+            <blue_refit>0</blue_refit>
+            <blue_repair_vehicle>0</blue_repair_vehicle>
+            <blue_resupply>0</blue_resupply>
+            <blue_rest>100</blue_rest>
+            <red_refit>0</red_refit>
+            <red_repair_vehicle>0</red_repair_vehicle>
+            <red_resupply>0</red_resupply>
+            <red_rest>100</red_rest>
+         </Campaign_Decision_Block>
+
+         <Campaign_Decision_Block>
+            <Scenario_Title>
+               <number_in_campaign>[Campaign Battle #02]</number_in_campaign>
+               <battle_title>Command Decisions</battle_title>
+            </Scenario_Title>
+            <filename>Kampfgruppe Peiper #02_KG Peiper Mission 2B</filename>
+            <win_threshold>Total Victory</win_threshold>
+            <next_battle_win>#06</next_battle_win>
+            <next_battle_lose>#03</next_battle_lose>
+            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
+            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
+            <blue_refit>0</blue_refit>
+            <blue_repair_vehicle>0</blue_repair_vehicle>
+            <blue_resupply>0</blue_resupply>
+            <blue_rest>100</blue_rest>
+            <red_refit>0</red_refit>
+            <red_repair_vehicle>0</red_repair_vehicle>
+            <red_resupply>0</red_resupply>
+            <red_rest>100</red_rest>
+         </Campaign_Decision_Block>
+
+         <Campaign_Decision_Block>
+            <Scenario_Title>
+               <number_in_campaign>[Campaign Battle #03]</number_in_campaign>
+               <battle_title>Bridge over the Ambleve: Part 1</battle_title>
+            </Scenario_Title>
+            <filename>Kampfgruppe Peiper #03_KG Peiper Mission 3</filename>
+            <win_threshold>Total Victory</win_threshold>
+            <next_battle_win>#05</next_battle_win>
+            <next_battle_lose>#04</next_battle_lose>
+            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
+            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
+            <blue_refit>0</blue_refit>
+            <blue_repair_vehicle>0</blue_repair_vehicle>
+            <blue_resupply>0</blue_resupply>
+            <blue_rest>0</blue_rest>
+            <red_refit>0</red_refit>
+            <red_repair_vehicle>0</red_repair_vehicle>
+            <red_resupply>0</red_resupply>
+            <red_rest>0</red_rest>
+         </Campaign_Decision_Block>
+
+         <Campaign_Decision_Block>
+            <Scenario_Title>
+               <number_in_campaign>[Campaign Battle #04]</number_in_campaign>
+               <battle_title>Bridge Over The Ambleve: Part 2</battle_title>
+            </Scenario_Title>
+            <filename>Kampfgruppe Peiper #04_KG Peiper Mission 4A</filename>
+            <win_threshold>Total Victory</win_threshold>
+            <next_battle_win>#08</next_battle_win>
+            <next_battle_lose>#07</next_battle_lose>
+            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
+            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
+            <blue_refit>0</blue_refit>
+            <blue_repair_vehicle>0</blue_repair_vehicle>
+            <blue_resupply>0</blue_resupply>
+            <blue_rest>100</blue_rest>
+            <red_refit>25</red_refit>
+            <red_repair_vehicle>25</red_repair_vehicle>
+            <red_resupply>100</red_resupply>
+            <red_rest>100</red_rest>
+         </Campaign_Decision_Block>
+
+         <Campaign_Decision_Block>
+            <Scenario_Title>
+               <number_in_campaign>[Campaign Battle #05]</number_in_campaign>
+               <battle_title>Bridge Over The Ambleve: Part 2</battle_title>
+            </Scenario_Title>
+            <filename>Kampfgruppe Peiper #05_KG Peiper Mission 4B</filename>
+            <win_threshold>Total Victory</win_threshold>
+            <next_battle_win>#08</next_battle_win>
+            <next_battle_lose>#07</next_battle_lose>
+            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
+            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
+            <blue_refit>0</blue_refit>
+            <blue_repair_vehicle>0</blue_repair_vehicle>
+            <blue_resupply>0</blue_resupply>
+            <blue_rest>0</blue_rest>
+            <red_refit>25</red_refit>
+            <red_repair_vehicle>25</red_repair_vehicle>
+            <red_resupply>100</red_resupply>
+            <red_rest>100</red_rest>
+         </Campaign_Decision_Block>
+
+         <Campaign_Decision_Block>
+            <Scenario_Title>
+               <number_in_campaign>[Campaign Battle #06]</number_in_campaign>
+               <battle_title>Rushing Stavelot</battle_title>
+            </Scenario_Title>
+            <filename>Kampfgruppe Peiper #06_KG Peiper Mission 4C</filename>
+            <win_threshold>Total Victory</win_threshold>
+            <next_battle_win>#10</next_battle_win>
+            <next_battle_lose>#9</next_battle_lose>
+            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
+            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
+            <blue_refit>0</blue_refit>
+            <blue_repair_vehicle>0</blue_repair_vehicle>
+            <blue_resupply>0</blue_resupply>
+            <blue_rest>0</blue_rest>
+            <red_refit>10</red_refit>
+            <red_repair_vehicle>10</red_repair_vehicle>
+            <red_resupply>100</red_resupply>
+            <red_rest>100</red_rest>
+         </Campaign_Decision_Block>
+
+         <Campaign_Decision_Block>
+            <Scenario_Title>
+               <number_in_campaign>[Campaign Battle #07]</number_in_campaign>
+               <battle_title>Storm on Stoumont</battle_title>
+            </Scenario_Title>
+            <filename>Kampfgruppe Peiper #07_KG Peiper Mission 5A</filename>
+            <win_threshold>Minor Victory</win_threshold>
+            <next_battle_win>#11</next_battle_win>
+            <next_battle_lose>Campaign End</next_battle_lose>
+            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
+            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
+            <blue_refit>0</blue_refit>
+            <blue_repair_vehicle>0</blue_repair_vehicle>
+            <blue_resupply>0</blue_resupply>
+            <blue_rest>0</blue_rest>
+            <red_refit>0</red_refit>
+            <red_repair_vehicle>0</red_repair_vehicle>
+            <red_resupply>0</red_resupply>
+            <red_rest>100</red_rest>
+         </Campaign_Decision_Block>
+
+         <Campaign_Decision_Block>
+            <Scenario_Title>
+               <number_in_campaign>[Campaign Battle #08]</number_in_campaign>
+               <battle_title>Storm on Stoumont</battle_title>
+            </Scenario_Title>
+            <filename>Kampfgruppe Peiper #08_KG Peiper Mission 5B</filename>
+            <win_threshold>Minor Victory</win_threshold>
+            <next_battle_win>#12</next_battle_win>
+            <next_battle_lose>Campaign End</next_battle_lose>
+            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
+            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
+            <blue_refit>0</blue_refit>
+            <blue_repair_vehicle>0</blue_repair_vehicle>
+            <blue_resupply>0</blue_resupply>
+            <blue_rest>0</blue_rest>
+            <red_refit>0</red_refit>
+            <red_repair_vehicle>0</red_repair_vehicle>
+            <red_resupply>0</red_resupply>
+            <red_rest>100</red_rest>
+         </Campaign_Decision_Block>
+
+         <Campaign_Decision_Block>
+            <Scenario_Title>
+               <number_in_campaign>[Campaign Battle #09]</number_in_campaign>
+               <battle_title>Storm on Stoumont</battle_title>
+            </Scenario_Title>
+            <filename>Kampfgruppe Peiper #09_KG Peiper Mission 5C</filename>
+            <win_threshold>Draw</win_threshold>
+            <next_battle_win>#13</next_battle_win>
+            <next_battle_lose>Campaign End</next_battle_lose>
+            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
+            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
+            <blue_refit>0</blue_refit>
+            <blue_repair_vehicle>0</blue_repair_vehicle>
+            <blue_resupply>0</blue_resupply>
+            <blue_rest>0</blue_rest>
+            <red_refit>0</red_refit>
+            <red_repair_vehicle>0</red_repair_vehicle>
+            <red_resupply>0</red_resupply>
+            <red_rest>100</red_rest>
+         </Campaign_Decision_Block>
+
+         <Campaign_Decision_Block>
+            <Scenario_Title>
+               <number_in_campaign>[Campaign Battle #10]</number_in_campaign>
+               <battle_title>Storm on Stoumont</battle_title>
+            </Scenario_Title>
+            <filename>Kampfgruppe Peiper #10_KG Peiper Mission 5D</filename>
+            <win_threshold>Draw</win_threshold>
+            <next_battle_win>#14</next_battle_win>
+            <next_battle_lose>Campaign End</next_battle_lose>
+            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
+            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
+            <blue_refit>0</blue_refit>
+            <blue_repair_vehicle>0</blue_repair_vehicle>
+            <blue_resupply>0</blue_resupply>
+            <blue_rest>0</blue_rest>
+            <red_refit>0</red_refit>
+            <red_repair_vehicle>0</red_repair_vehicle>
+            <red_resupply>0</red_resupply>
+            <red_rest>100</red_rest>
+         </Campaign_Decision_Block>
+
+         <Campaign_Decision_Block>
+            <Scenario_Title>
+               <number_in_campaign>[Campaign Battle #11]</number_in_campaign>
+               <battle_title>Lifeline</battle_title>
+            </Scenario_Title>
+            <filename>Kampfgruppe Peiper #11_KG Peiper Mission 6A</filename>
+            <win_threshold>Minor Victory</win_threshold>
+            <next_battle_win>#15</next_battle_win>
+            <next_battle_lose>Campaign End</next_battle_lose>
+            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
+            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
+            <blue_refit>0</blue_refit>
+            <blue_repair_vehicle>0</blue_repair_vehicle>
+            <blue_resupply>0</blue_resupply>
+            <blue_rest>0</blue_rest>
+            <red_refit>0</red_refit>
+            <red_repair_vehicle>0</red_repair_vehicle>
+            <red_resupply>0</red_resupply>
+            <red_rest>100</red_rest>
+         </Campaign_Decision_Block>
+
+         <Campaign_Decision_Block>
+            <Scenario_Title>
+               <number_in_campaign>[Campaign Battle #12]</number_in_campaign>
+               <battle_title>Lifeline</battle_title>
+            </Scenario_Title>
+            <filename>Kampfgruppe Peiper #12_KG Peiper Mission 6B</filename>
+            <win_threshold>Minor Victory</win_threshold>
+            <next_battle_win>#16</next_battle_win>
+            <next_battle_lose>#16</next_battle_lose>
+            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
+            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
+            <blue_refit>0</blue_refit>
+            <blue_repair_vehicle>0</blue_repair_vehicle>
+            <blue_resupply>0</blue_resupply>
+            <blue_rest>0</blue_rest>
+            <red_refit>0</red_refit>
+            <red_repair_vehicle>0</red_repair_vehicle>
+            <red_resupply>0</red_resupply>
+            <red_rest>100</red_rest>
+         </Campaign_Decision_Block>
+
+         <Campaign_Decision_Block>
+            <Scenario_Title>
+               <number_in_campaign>[Campaign Battle #13]</number_in_campaign>
+               <battle_title>Lifeline</battle_title>
+            </Scenario_Title>
+            <filename>Kampfgruppe Peiper #13_KG Peiper Mission 6C</filename>
+            <win_threshold>Minor Victory</win_threshold>
+            <next_battle_win>#17</next_battle_win>
+            <next_battle_lose>Campaign End</next_battle_lose>
+            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
+            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
+            <blue_refit>0</blue_refit>
+            <blue_repair_vehicle>0</blue_repair_vehicle>
+            <blue_resupply>0</blue_resupply>
+            <blue_rest>0</blue_rest>
+            <red_refit>0</red_refit>
+            <red_repair_vehicle>0</red_repair_vehicle>
+            <red_resupply>0</red_resupply>
+            <red_rest>100</red_rest>
+         </Campaign_Decision_Block>
+
+         <Campaign_Decision_Block>
+            <Scenario_Title>
+               <number_in_campaign>[Campaign Battle #14]</number_in_campaign>
+               <battle_title>Lifeline</battle_title>
+            </Scenario_Title>
+            <filename>Kampfgruppe Peiper #14_KG Peiper Mission 6D</filename>
+            <win_threshold>Minor Victory</win_threshold>
+            <next_battle_win>#18</next_battle_win>
+            <next_battle_lose>#18</next_battle_lose>
+            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
+            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
+            <blue_refit>0</blue_refit>
+            <blue_repair_vehicle>0</blue_repair_vehicle>
+            <blue_resupply>0</blue_resupply>
+            <blue_rest>0</blue_rest>
+            <red_refit>0</red_refit>
+            <red_repair_vehicle>0</red_repair_vehicle>
+            <red_resupply>0</red_resupply>
+            <red_rest>100</red_rest>
+         </Campaign_Decision_Block>
+
+         <Campaign_Decision_Block>
+            <Scenario_Title>
+               <number_in_campaign>[Campaign Battle #15]</number_in_campaign>
+               <battle_title>To the Meuse</battle_title>
+            </Scenario_Title>
+            <filename>Kampfgruppe Peiper #15_KG Peiper Mission 7A</filename>
+            <win_threshold>Minor Victory</win_threshold>
+            <next_battle_win>Campaign End</next_battle_win>
+            <next_battle_lose>Campaign End</next_battle_lose>
+            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
+            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
+            <blue_refit>0</blue_refit>
+            <blue_repair_vehicle>0</blue_repair_vehicle>
+            <blue_resupply>0</blue_resupply>
+            <blue_rest>0</blue_rest>
+            <red_refit>0</red_refit>
+            <red_repair_vehicle>0</red_repair_vehicle>
+            <red_resupply>0</red_resupply>
+            <red_rest>100</red_rest>
+         </Campaign_Decision_Block>
+
+         <Campaign_Decision_Block>
+            <Scenario_Title>
+               <number_in_campaign>[Campaign Battle #16]</number_in_campaign>
+               <battle_title>To the Meuse</battle_title>
+            </Scenario_Title>
+            <filename>Kampfgruppe Peiper #16_KG Peiper Mission 7B</filename>
+            <win_threshold>Minor Victory</win_threshold>
+            <next_battle_win>Campaign End</next_battle_win>
+            <next_battle_lose>Campaign End</next_battle_lose>
+            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
+            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
+            <blue_refit>0</blue_refit>
+            <blue_repair_vehicle>0</blue_repair_vehicle>
+            <blue_resupply>0</blue_resupply>
+            <blue_rest>0</blue_rest>
+            <red_refit>0</red_refit>
+            <red_repair_vehicle>0</red_repair_vehicle>
+            <red_resupply>0</red_resupply>
+            <red_rest>100</red_rest>
+         </Campaign_Decision_Block>
+
+         <Campaign_Decision_Block>
+            <Scenario_Title>
+               <number_in_campaign>[Campaign Battle #17]</number_in_campaign>
+               <battle_title>To the Meuse!</battle_title>
+            </Scenario_Title>
+            <filename>Kampfgruppe Peiper #17_KG Peiper Mission 8C</filename>
+            <win_threshold>Minor Victory</win_threshold>
+            <next_battle_win>Campaign End</next_battle_win>
+            <next_battle_lose>Campaign End</next_battle_lose>
+            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
+            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
+            <blue_refit>0</blue_refit>
+            <blue_repair_vehicle>0</blue_repair_vehicle>
+            <blue_resupply>0</blue_resupply>
+            <blue_rest>0</blue_rest>
+            <red_refit>0</red_refit>
+            <red_repair_vehicle>0</red_repair_vehicle>
+            <red_resupply>0</red_resupply>
+            <red_rest>100</red_rest>
+         </Campaign_Decision_Block>
+
+         <Campaign_Decision_Block>
+            <Scenario_Title>
+               <number_in_campaign>[Campaign Battle #18]</number_in_campaign>
+               <battle_title>To the Meuse!</battle_title>
+            </Scenario_Title>
+            <filename>Kampfgruppe Peiper #18_KG Peiper Mission 8D</filename>
+            <win_threshold>Minor Victory</win_threshold>
+            <next_battle_win>Campaign End</next_battle_win>
+            <next_battle_lose>Campaign End</next_battle_lose>
+            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
+            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
+            <blue_refit>0</blue_refit>
+            <blue_repair_vehicle>0</blue_repair_vehicle>
+            <blue_resupply>0</blue_resupply>
+            <blue_rest>0</blue_rest>
+            <red_refit>0</red_refit>
+            <red_repair_vehicle>0</red_repair_vehicle>
+            <red_resupply>0</red_resupply>
+            <red_rest>100</red_rest>
+         </Campaign_Decision_Block>
+
+      </Campaign>
+      <Campaign>
+
+         <title>The Bridge (Easy)</title>
+         <filename>DF The Bridge (Easy)</filename>
+         <picture_link>campaignpics/DF The Bridge (Easy).bmp</picture_link>
+         <description>Ad hoc German forces desperately attempt to hold and retake the Ludendorff Bridge at Remagen - Easier version, with more casualty replacements and vehicle repairs</description>
+         <date_range>
+           <earliest_date>04/04/1945</earliest_date>
+           <latest_date>15/04/1945</latest_date>
+         </date_range>
+         <region_list>
+           <region>Germany</region>
+         </region_list>
+         <campaign_tree_link>campaignpics/The Bridge (Easy)_Tree.png</campaign_tree_link>
+         <game_version>CMFB v2.10 to v2.11</game_version>
+         <Modules_Required>
+            <module1>Downfall </module1>
+         </Modules_Required>
+
+         <Campaign_Decision_Block>
+            <Scenario_Title>
+               <number_in_campaign>[Campaign Battle #00]</number_in_campaign>
+               <battle_title>Ghosts in the Mist</battle_title>
+            </Scenario_Title>
+            <filename>DF The Bridge (Easy) #00_DF The Bridge 01 Ghosts in the Mist</filename>
+            <win_threshold>Minor Victory</win_threshold>
+            <next_battle_win>#01</next_battle_win>
+            <next_battle_lose>#01</next_battle_lose>
+            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
+            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
+            <blue_refit>0</blue_refit>
+            <blue_repair_vehicle>0</blue_repair_vehicle>
+            <blue_resupply>0</blue_resupply>
+            <blue_rest>0</blue_rest>
+            <red_refit>50</red_refit>
+            <red_repair_vehicle>50</red_repair_vehicle>
+            <red_resupply>50</red_resupply>
+            <red_rest>50</red_rest>
+         </Campaign_Decision_Block>
+
+         <Campaign_Decision_Block>
+            <Scenario_Title>
+               <number_in_campaign>[Campaign Battle #01]</number_in_campaign>
+               <battle_title>Backs to the Rhine</battle_title>
+            </Scenario_Title>
+            <filename>DF The Bridge (Easy) #01_DF The Bridge 02 Backs to the Rhine</filename>
+            <win_threshold>Minor Victory</win_threshold>
+            <next_battle_win>#02</next_battle_win>
+            <next_battle_lose>#02</next_battle_lose>
+            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
+            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
+            <blue_refit>0</blue_refit>
+            <blue_repair_vehicle>0</blue_repair_vehicle>
+            <blue_resupply>0</blue_resupply>
+            <blue_rest>0</blue_rest>
+            <red_refit>50</red_refit>
+            <red_repair_vehicle>50</red_repair_vehicle>
+            <red_resupply>50</red_resupply>
+            <red_rest>50</red_rest>
+         </Campaign_Decision_Block>
+
+         <Campaign_Decision_Block>
+            <Scenario_Title>
+               <number_in_campaign>[Campaign Battle #02]</number_in_campaign>
+               <battle_title>Hold at All Cost</battle_title>
+            </Scenario_Title>
+            <filename>DF The Bridge (Easy) #02_DF The Bridge 03 Hold at All Cost</filename>
+            <win_threshold>Minor Victory</win_threshold>
+            <next_battle_win>#03</next_battle_win>
+            <next_battle_lose>#03</next_battle_lose>
+            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
+            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
+            <blue_refit>0</blue_refit>
+            <blue_repair_vehicle>0</blue_repair_vehicle>
+            <blue_resupply>0</blue_resupply>
+            <blue_rest>0</blue_rest>
+            <red_refit>50</red_refit>
+            <red_repair_vehicle>50</red_repair_vehicle>
+            <red_resupply>50</red_resupply>
+            <red_rest>50</red_rest>
+         </Campaign_Decision_Block>
+
+         <Campaign_Decision_Block>
+            <Scenario_Title>
+               <number_in_campaign>[Campaign Battle #03]</number_in_campaign>
+               <battle_title>Erpeler Ley</battle_title>
+            </Scenario_Title>
+            <filename>DF The Bridge (Easy) #03_DF The Bridge 04 Erpeler Ley</filename>
+            <win_threshold>Minor Victory</win_threshold>
+            <next_battle_win>#04</next_battle_win>
+            <next_battle_lose>#04</next_battle_lose>
+            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
+            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
+            <blue_refit>0</blue_refit>
+            <blue_repair_vehicle>0</blue_repair_vehicle>
+            <blue_resupply>0</blue_resupply>
+            <blue_rest>0</blue_rest>
+            <red_refit>50</red_refit>
+            <red_repair_vehicle>50</red_repair_vehicle>
+            <red_resupply>50</red_resupply>
+            <red_rest>50</red_rest>
+         </Campaign_Decision_Block>
+
+         <Campaign_Decision_Block>
+            <Scenario_Title>
+               <number_in_campaign>[Campaign Battle #04]</number_in_campaign>
+               <battle_title>Heister</battle_title>
+            </Scenario_Title>
+            <filename>DF The Bridge (Easy) #04_DF The Bridge 05 Heister</filename>
+            <win_threshold>Minor Victory</win_threshold>
+            <next_battle_win>#05</next_battle_win>
+            <next_battle_lose>#05</next_battle_lose>
+            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
+            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
+            <blue_refit>0</blue_refit>
+            <blue_repair_vehicle>0</blue_repair_vehicle>
+            <blue_resupply>0</blue_resupply>
+            <blue_rest>0</blue_rest>
+            <red_refit>50</red_refit>
+            <red_repair_vehicle>50</red_repair_vehicle>
+            <red_resupply>50</red_resupply>
+            <red_rest>50</red_rest>
+         </Campaign_Decision_Block>
+
+         <Campaign_Decision_Block>
+            <Scenario_Title>
+               <number_in_campaign>[Campaign Battle #05]</number_in_campaign>
+               <battle_title>The Heights</battle_title>
+            </Scenario_Title>
+            <filename>DF The Bridge (Easy) #05_DF The Bridge 06 The Heights</filename>
+            <win_threshold>Minor Victory</win_threshold>
+            <next_battle_win>#06</next_battle_win>
+            <next_battle_lose>Campaign End</next_battle_lose>
+            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
+            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
+            <blue_refit>0</blue_refit>
+            <blue_repair_vehicle>0</blue_repair_vehicle>
+            <blue_resupply>0</blue_resupply>
+            <blue_rest>0</blue_rest>
+            <red_refit>50</red_refit>
+            <red_repair_vehicle>50</red_repair_vehicle>
+            <red_resupply>50</red_resupply>
+            <red_rest>50</red_rest>
+         </Campaign_Decision_Block>
+
+         <Campaign_Decision_Block>
+            <Scenario_Title>
+               <number_in_campaign>[Campaign Battle #06]</number_in_campaign>
+               <battle_title>Tunnel Vision</battle_title>
+            </Scenario_Title>
+            <filename>DF The Bridge (Easy) #06_DF The Bridge 07 Tunnel Vision</filename>
+            <win_threshold>Minor Victory</win_threshold>
+            <next_battle_win>Campaign End</next_battle_win>
+            <next_battle_lose>Campaign End</next_battle_lose>
+            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
+            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
+            <blue_refit>0</blue_refit>
+            <blue_repair_vehicle>0</blue_repair_vehicle>
+            <blue_resupply>0</blue_resupply>
+            <blue_rest>0</blue_rest>
+            <red_refit>25</red_refit>
+            <red_repair_vehicle>25</red_repair_vehicle>
+            <red_resupply>50</red_resupply>
+            <red_rest>50</red_rest>
+         </Campaign_Decision_Block>
+
+      </Campaign>
+      <Campaign>
+
+         <title>Bastogne Plus One</title>
+         <filename>BastognePlus</filename>
+         <picture_link>campaignpics/BastognePlus.bmp</picture_link>
+         <description>The Battle of the Bulge is over. The American counter-offensive begins.</description>
+         <date_range>
+           <earliest_date>17/11/1944</earliest_date>
+           <latest_date>16/02/1945</latest_date>
+         </date_range>
+         <region_list>
+           <region>Ardennes</region>
+           <region>France</region>
+           <region>Germany</region>
+         </region_list>
+         <campaign_tree_link>campaignpics/Bastogne Plus One_Tree.png</campaign_tree_link>
+         <game_version>CMFB v1.00 to v1.01</game_version>
+         <Modules_Required>
+         </Modules_Required>
+
+         <Campaign_Decision_Block>
+            <Scenario_Title>
+               <number_in_campaign>[Campaign Battle #00]</number_in_campaign>
+               <battle_title>The Encounter Escalates</battle_title>
+            </Scenario_Title>
+            <filename>BastognePlus #00_encounter</filename>
+            <win_threshold>Tactical Victory</win_threshold>
+            <next_battle_win>#02</next_battle_win>
+            <next_battle_lose>#01</next_battle_lose>
+            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
+            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
+            <blue_refit>25</blue_refit>
+            <blue_repair_vehicle>40</blue_repair_vehicle>
+            <blue_resupply>70</blue_resupply>
+            <blue_rest>75</blue_rest>
+            <red_refit>20</red_refit>
+            <red_repair_vehicle>30</red_repair_vehicle>
+            <red_resupply>50</red_resupply>
+            <red_rest>60</red_rest>
+         </Campaign_Decision_Block>
+
+         <Campaign_Decision_Block>
+            <Scenario_Title>
+               <number_in_campaign>[Campaign Battle #01]</number_in_campaign>
+               <battle_title>The Encounter After A Loss</battle_title>
+            </Scenario_Title>
+            <filename>BastognePlus #01_encounterL</filename>
+            <win_threshold>Tactical Victory</win_threshold>
+            <next_battle_win>#03</next_battle_win>
+            <next_battle_lose>#02</next_battle_lose>
+            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
+            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
+            <blue_refit>20</blue_refit>
+            <blue_repair_vehicle>40</blue_repair_vehicle>
+            <blue_resupply>60</blue_resupply>
+            <blue_rest>50</blue_rest>
+            <red_refit>20</red_refit>
+            <red_repair_vehicle>40</red_repair_vehicle>
+            <red_resupply>50</red_resupply>
+            <red_rest>50</red_rest>
+         </Campaign_Decision_Block>
+
+         <Campaign_Decision_Block>
+            <Scenario_Title>
+               <number_in_campaign>[Campaign Battle #02]</number_in_campaign>
+               <battle_title>The Encounter After First Win</battle_title>
+            </Scenario_Title>
+            <filename>BastognePlus #02_encounterR</filename>
+            <win_threshold>Tactical Victory</win_threshold>
+            <next_battle_win>#03</next_battle_win>
+            <next_battle_lose>Campaign End</next_battle_lose>
+            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
+            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
+            <blue_refit>20</blue_refit>
+            <blue_repair_vehicle>40</blue_repair_vehicle>
+            <blue_resupply>60</blue_resupply>
+            <blue_rest>50</blue_rest>
+            <red_refit>20</red_refit>
+            <red_repair_vehicle>40</red_repair_vehicle>
+            <red_resupply>50</red_resupply>
+            <red_rest>50</red_rest>
+         </Campaign_Decision_Block>
+
+         <Campaign_Decision_Block>
+            <Scenario_Title>
+               <number_in_campaign>[Campaign Battle #03]</number_in_campaign>
+               <battle_title>Encounter4</battle_title>
+            </Scenario_Title>
+            <filename>BastognePlus #03_encounter4</filename>
+            <win_threshold>Tactical Victory</win_threshold>
+            <next_battle_win>#04</next_battle_win>
+            <next_battle_lose>#05</next_battle_lose>
+            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
+            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
+            <blue_refit>20</blue_refit>
+            <blue_repair_vehicle>40</blue_repair_vehicle>
+            <blue_resupply>60</blue_resupply>
+            <blue_rest>50</blue_rest>
+            <red_refit>20</red_refit>
+            <red_repair_vehicle>40</red_repair_vehicle>
+            <red_resupply>50</red_resupply>
+            <red_rest>50</red_rest>
+         </Campaign_Decision_Block>
+
+         <Campaign_Decision_Block>
+            <Scenario_Title>
+               <number_in_campaign>[Campaign Battle #04]</number_in_campaign>
+               <battle_title>encounter5R</battle_title>
+            </Scenario_Title>
+            <filename>BastognePlus #04_encounter5R</filename>
+            <win_threshold>Tactical Victory</win_threshold>
+            <next_battle_win>#06</next_battle_win>
+            <next_battle_lose>#05</next_battle_lose>
+            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
+            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
+            <blue_refit>20</blue_refit>
+            <blue_repair_vehicle>40</blue_repair_vehicle>
+            <blue_resupply>60</blue_resupply>
+            <blue_rest>50</blue_rest>
+            <red_refit>20</red_refit>
+            <red_repair_vehicle>40</red_repair_vehicle>
+            <red_resupply>50</red_resupply>
+            <red_rest>50</red_rest>
+         </Campaign_Decision_Block>
+
+         <Campaign_Decision_Block>
+            <Scenario_Title>
+               <number_in_campaign>[Campaign Battle #05]</number_in_campaign>
+               <battle_title>encounter5r</battle_title>
+            </Scenario_Title>
+            <filename>BastognePlus #05_encounter5L</filename>
+            <win_threshold>Tactical Victory</win_threshold>
+            <next_battle_win>#04</next_battle_win>
+            <next_battle_lose>Campaign End</next_battle_lose>
+            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
+            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
+            <blue_refit>20</blue_refit>
+            <blue_repair_vehicle>40</blue_repair_vehicle>
+            <blue_resupply>60</blue_resupply>
+            <blue_rest>50</blue_rest>
+            <red_refit>20</red_refit>
+            <red_repair_vehicle>40</red_repair_vehicle>
+            <red_resupply>50</red_resupply>
+            <red_rest>50</red_rest>
+         </Campaign_Decision_Block>
+
+         <Campaign_Decision_Block>
+            <Scenario_Title>
+               <number_in_campaign>[Campaign Battle #06]</number_in_campaign>
+               <battle_title>encounter6</battle_title>
+            </Scenario_Title>
+            <filename>BastognePlus #06_encounter6</filename>
+            <win_threshold>Tactical Victory</win_threshold>
+            <next_battle_win>Campaign End</next_battle_win>
+            <next_battle_lose>Campaign End</next_battle_lose>
+            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
+            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
+            <blue_refit>20</blue_refit>
+            <blue_repair_vehicle>40</blue_repair_vehicle>
+            <blue_resupply>60</blue_resupply>
+            <blue_rest>50</blue_rest>
+            <red_refit>20</red_refit>
+            <red_repair_vehicle>40</red_repair_vehicle>
+            <red_resupply>50</red_resupply>
+            <red_rest>50</red_rest>
+         </Campaign_Decision_Block>
+
+      </Campaign>
+      <Campaign>
+
+         <title>The Road to Bastogne</title>
+         <filename>The-Road-to-Bastogne</filename>
+         <picture_link>campaignpics/The-Road-to-Bastogne.bmp</picture_link>
+         <description>Lead the powerful Panzerfüsilier Bataillon from Führerbegleitbrigade (FBB) during the Ardennes offensive, 7 missions in the campaign.</description>
+         <date_range>
+           <earliest_date>21/01/1945</earliest_date>
+           <latest_date>27/01/1945</latest_date>
+         </date_range>
+         <region_list>
+           <region>Ardennes</region>
+         </region_list>
+         <campaign_tree_link>campaignpics/The Road to Bastogne_Tree.png</campaign_tree_link>
+         <game_version>CMFB v1.02 to v2.00</game_version>
+         <Modules_Required>
+         </Modules_Required>
+
+         <Campaign_Decision_Block>
+            <Scenario_Title>
+               <number_in_campaign>[Campaign Battle #00]</number_in_campaign>
+               <battle_title>Clear Kninelsberg Forest</battle_title>
+            </Scenario_Title>
+            <filename>The-Road-to-Bastogne #00_Clear Kninelsberg Forest</filename>
+            <win_threshold>Draw</win_threshold>
+            <next_battle_win>#01</next_battle_win>
+            <next_battle_lose>Campaign End</next_battle_lose>
+            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
+            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
+            <blue_refit>1</blue_refit>
+            <blue_repair_vehicle>1</blue_repair_vehicle>
+            <blue_resupply>99</blue_resupply>
+            <blue_rest>99</blue_rest>
+            <red_refit>0</red_refit>
+            <red_repair_vehicle>10</red_repair_vehicle>
+            <red_resupply>0</red_resupply>
+            <red_rest>100</red_rest>
+         </Campaign_Decision_Block>
+
+         <Campaign_Decision_Block>
+            <Scenario_Title>
+               <number_in_campaign>[Campaign Battle #01]</number_in_campaign>
+               <battle_title>Hitlers Bodyguard</battle_title>
+            </Scenario_Title>
+            <filename>The-Road-to-Bastogne #01_Hitlers Bodyguard</filename>
+            <win_threshold>Minor Victory</win_threshold>
+            <next_battle_win>#02</next_battle_win>
+            <next_battle_lose>Campaign End</next_battle_lose>
+            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
+            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
+            <blue_refit>1</blue_refit>
+            <blue_repair_vehicle>1</blue_repair_vehicle>
+            <blue_resupply>99</blue_resupply>
+            <blue_rest>99</blue_rest>
+            <red_refit>0</red_refit>
+            <red_repair_vehicle>20</red_repair_vehicle>
+            <red_resupply>0</red_resupply>
+            <red_rest>100</red_rest>
+         </Campaign_Decision_Block>
+
+         <Campaign_Decision_Block>
+            <Scenario_Title>
+               <number_in_campaign>[Campaign Battle #02]</number_in_campaign>
+               <battle_title>St Vith the Breakwater</battle_title>
+            </Scenario_Title>
+            <filename>The-Road-to-Bastogne #02_St Vith the Breakwater</filename>
+            <win_threshold>Draw</win_threshold>
+            <next_battle_win>#03</next_battle_win>
+            <next_battle_lose>Campaign End</next_battle_lose>
+            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
+            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
+            <blue_refit>1</blue_refit>
+            <blue_repair_vehicle>1</blue_repair_vehicle>
+            <blue_resupply>99</blue_resupply>
+            <blue_rest>99</blue_rest>
+            <red_refit>0</red_refit>
+            <red_repair_vehicle>30</red_repair_vehicle>
+            <red_resupply>0</red_resupply>
+            <red_rest>100</red_rest>
+         </Campaign_Decision_Block>
+
+         <Campaign_Decision_Block>
+            <Scenario_Title>
+               <number_in_campaign>[Campaign Battle #03]</number_in_campaign>
+               <battle_title>Cutting the Escape</battle_title>
+            </Scenario_Title>
+            <filename>The-Road-to-Bastogne #03_The Attack on Rodt</filename>
+            <win_threshold>Draw</win_threshold>
+            <next_battle_win>#04</next_battle_win>
+            <next_battle_lose>Campaign End</next_battle_lose>
+            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
+            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
+            <blue_refit>1</blue_refit>
+            <blue_repair_vehicle>1</blue_repair_vehicle>
+            <blue_resupply>99</blue_resupply>
+            <blue_rest>99</blue_rest>
+            <red_refit>0</red_refit>
+            <red_repair_vehicle>20</red_repair_vehicle>
+            <red_resupply>65</red_resupply>
+            <red_rest>100</red_rest>
+         </Campaign_Decision_Block>
+
+         <Campaign_Decision_Block>
+            <Scenario_Title>
+               <number_in_campaign>[Campaign Battle #04]</number_in_campaign>
+               <battle_title>Point 525 Vital Ground</battle_title>
+            </Scenario_Title>
+            <filename>The-Road-to-Bastogne #04_Point 525</filename>
+            <win_threshold>Draw</win_threshold>
+            <next_battle_win>#05</next_battle_win>
+            <next_battle_lose>Campaign End</next_battle_lose>
+            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
+            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
+            <blue_refit>1</blue_refit>
+            <blue_repair_vehicle>1</blue_repair_vehicle>
+            <blue_resupply>99</blue_resupply>
+            <blue_rest>99</blue_rest>
+            <red_refit>0</red_refit>
+            <red_repair_vehicle>25</red_repair_vehicle>
+            <red_resupply>0</red_resupply>
+            <red_rest>100</red_rest>
+         </Campaign_Decision_Block>
+
+         <Campaign_Decision_Block>
+            <Scenario_Title>
+               <number_in_campaign>[Campaign Battle #05]</number_in_campaign>
+               <battle_title>Defend Foy and Recogne</battle_title>
+            </Scenario_Title>
+            <filename>The-Road-to-Bastogne #05_Defend Foy and Recogne</filename>
+            <win_threshold>Draw</win_threshold>
+            <next_battle_win>#06</next_battle_win>
+            <next_battle_lose>Campaign End</next_battle_lose>
+            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
+            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
+            <blue_refit>1</blue_refit>
+            <blue_repair_vehicle>1</blue_repair_vehicle>
+            <blue_resupply>99</blue_resupply>
+            <blue_rest>99</blue_rest>
+            <red_refit>0</red_refit>
+            <red_repair_vehicle>15</red_repair_vehicle>
+            <red_resupply>100</red_resupply>
+            <red_rest>100</red_rest>
+         </Campaign_Decision_Block>
+
+         <Campaign_Decision_Block>
+            <Scenario_Title>
+               <number_in_campaign>[Campaign Battle #06]</number_in_campaign>
+               <battle_title>Breakthrough to Bastogne</battle_title>
+            </Scenario_Title>
+            <filename>The-Road-to-Bastogne #06_Breakthrough to Bastogne</filename>
+            <win_threshold>Minor Victory</win_threshold>
+            <next_battle_win>Campaign End</next_battle_win>
+            <next_battle_lose>Campaign End</next_battle_lose>
+            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
+            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
+            <blue_refit>1</blue_refit>
+            <blue_repair_vehicle>1</blue_repair_vehicle>
+            <blue_resupply>99</blue_resupply>
+            <blue_rest>99</blue_rest>
+            <red_refit>0</red_refit>
+            <red_repair_vehicle>1</red_repair_vehicle>
+            <red_resupply>0</red_resupply>
+            <red_rest>100</red_rest>
+         </Campaign_Decision_Block>
+
+      </Campaign>
+      <Campaign>
+
+         <title>Courage Conquers</title>
+         <filename>Courage Conquers</filename>
+         <picture_link>campaignpics/Courage Conquers.bmp</picture_link>
+         <description>December 23-26, 1944: Lead the Combat Command Reserve of 4th Armored Division as they strike north to relieve the defenders of Bastogne.</description>
+         <date_range>
+           <earliest_date>23/01/1945</earliest_date>
+           <latest_date>26/01/1945</latest_date>
+         </date_range>
+         <region_list>
+           <region>Ardennes</region>
+         </region_list>
+         <campaign_tree_link>campaignpics/Courage Conquers_Tree.png</campaign_tree_link>
+         <game_version>CMFB v1.00 to v1.01</game_version>
+         <Modules_Required>
+         </Modules_Required>
+
+         <Campaign_Decision_Block>
+            <Scenario_Title>
+               <number_in_campaign>[Campaign Battle #00]</number_in_campaign>
+               <battle_title>Hell for Leather</battle_title>
+            </Scenario_Title>
+            <filename>Courage Conquers #00_Courage Conquers Mission 1</filename>
+            <win_threshold>Minor Victory</win_threshold>
+            <next_battle_win>#01</next_battle_win>
+            <next_battle_lose>#02</next_battle_lose>
+            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
+            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
+            <blue_refit>0</blue_refit>
+            <blue_repair_vehicle>0</blue_repair_vehicle>
+            <blue_resupply>0</blue_resupply>
+            <blue_rest>100</blue_rest>
+            <red_refit>0</red_refit>
+            <red_repair_vehicle>0</red_repair_vehicle>
+            <red_resupply>0</red_resupply>
+            <red_rest>100</red_rest>
+         </Campaign_Decision_Block>
+
+         <Campaign_Decision_Block>
+            <Scenario_Title>
+               <number_in_campaign>[Campaign Battle #01]</number_in_campaign>
+               <battle_title>Bigonville</battle_title>
+            </Scenario_Title>
+            <filename>Courage Conquers #01_Courage Conquers Mission 2</filename>
+            <win_threshold>Minor Victory</win_threshold>
+            <next_battle_win>#03</next_battle_win>
+            <next_battle_lose>#03</next_battle_lose>
+            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
+            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
+            <blue_refit>0</blue_refit>
+            <blue_repair_vehicle>0</blue_repair_vehicle>
+            <blue_resupply>0</blue_resupply>
+            <blue_rest>100</blue_rest>
+            <red_refit>0</red_refit>
+            <red_repair_vehicle>0</red_repair_vehicle>
+            <red_resupply>0</red_resupply>
+            <red_rest>100</red_rest>
+         </Campaign_Decision_Block>
+
+         <Campaign_Decision_Block>
+            <Scenario_Title>
+               <number_in_campaign>[Campaign Battle #02]</number_in_campaign>
+               <battle_title>Bigonville</battle_title>
+            </Scenario_Title>
+            <filename>Courage Conquers #02_Courage Conquers Mission 2B</filename>
+            <win_threshold>Minor Victory</win_threshold>
+            <next_battle_win>#03</next_battle_win>
+            <next_battle_lose>#03</next_battle_lose>
+            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
+            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
+            <blue_refit>0</blue_refit>
+            <blue_repair_vehicle>0</blue_repair_vehicle>
+            <blue_resupply>0</blue_resupply>
+            <blue_rest>100</blue_rest>
+            <red_refit>0</red_refit>
+            <red_repair_vehicle>0</red_repair_vehicle>
+            <red_resupply>0</red_resupply>
+            <red_rest>100</red_rest>
+         </Campaign_Decision_Block>
+
+         <Campaign_Decision_Block>
+            <Scenario_Title>
+               <number_in_campaign>[Campaign Battle #03]</number_in_campaign>
+               <battle_title>Spearhead</battle_title>
+            </Scenario_Title>
+            <filename>Courage Conquers #03_Courage Conquers Mission 3</filename>
+            <win_threshold>Minor Victory</win_threshold>
+            <next_battle_win>#04</next_battle_win>
+            <next_battle_lose>#05</next_battle_lose>
+            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
+            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
+            <blue_refit>0</blue_refit>
+            <blue_repair_vehicle>0</blue_repair_vehicle>
+            <blue_resupply>0</blue_resupply>
+            <blue_rest>100</blue_rest>
+            <red_refit>0</red_refit>
+            <red_repair_vehicle>0</red_repair_vehicle>
+            <red_resupply>0</red_resupply>
+            <red_rest>100</red_rest>
+         </Campaign_Decision_Block>
+
+         <Campaign_Decision_Block>
+            <Scenario_Title>
+               <number_in_campaign>[Campaign Battle #04]</number_in_campaign>
+               <battle_title>Assault on Remoiville</battle_title>
+            </Scenario_Title>
+            <filename>Courage Conquers #04_Courage Conquers Mission 4</filename>
+            <win_threshold>Minor Victory</win_threshold>
+            <next_battle_win>#06</next_battle_win>
+            <next_battle_lose>#06</next_battle_lose>
+            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
+            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
+            <blue_refit>0</blue_refit>
+            <blue_repair_vehicle>0</blue_repair_vehicle>
+            <blue_resupply>0</blue_resupply>
+            <blue_rest>100</blue_rest>
+            <red_refit>0</red_refit>
+            <red_repair_vehicle>0</red_repair_vehicle>
+            <red_resupply>0</red_resupply>
+            <red_rest>100</red_rest>
+         </Campaign_Decision_Block>
+
+         <Campaign_Decision_Block>
+            <Scenario_Title>
+               <number_in_campaign>[Campaign Battle #05]</number_in_campaign>
+               <battle_title>Assault on Remoiville</battle_title>
+            </Scenario_Title>
+            <filename>Courage Conquers #05_Courage Conquers Mission 4B</filename>
+            <win_threshold>Minor Victory</win_threshold>
+            <next_battle_win>#06</next_battle_win>
+            <next_battle_lose>#06</next_battle_lose>
+            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
+            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
+            <blue_refit>0</blue_refit>
+            <blue_repair_vehicle>0</blue_repair_vehicle>
+            <blue_resupply>0</blue_resupply>
+            <blue_rest>100</blue_rest>
+            <red_refit>0</red_refit>
+            <red_repair_vehicle>0</red_repair_vehicle>
+            <red_resupply>0</red_resupply>
+            <red_rest>100</red_rest>
+         </Campaign_Decision_Block>
+
+         <Campaign_Decision_Block>
+            <Scenario_Title>
+               <number_in_campaign>[Campaign Battle #06]</number_in_campaign>
+               <battle_title>Crossroads</battle_title>
+            </Scenario_Title>
+            <filename>Courage Conquers #06_Courage Conquers Mission 5</filename>
+            <win_threshold>Minor Victory</win_threshold>
+            <next_battle_win>#07</next_battle_win>
+            <next_battle_lose>#07</next_battle_lose>
+            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
+            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
+            <blue_refit>0</blue_refit>
+            <blue_repair_vehicle>0</blue_repair_vehicle>
+            <blue_resupply>0</blue_resupply>
+            <blue_rest>100</blue_rest>
+            <red_refit>0</red_refit>
+            <red_repair_vehicle>0</red_repair_vehicle>
+            <red_resupply>0</red_resupply>
+            <red_rest>100</red_rest>
+         </Campaign_Decision_Block>
+
+         <Campaign_Decision_Block>
+            <Scenario_Title>
+               <number_in_campaign>[Campaign Battle #07]</number_in_campaign>
+               <battle_title>Concentration Number Nine</battle_title>
+            </Scenario_Title>
+            <filename>Courage Conquers #07_Courage Conquers Mission 6</filename>
+            <win_threshold>Minor Victory</win_threshold>
+            <next_battle_win>Campaign End</next_battle_win>
+            <next_battle_lose>Campaign End</next_battle_lose>
+            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
+            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
+            <blue_refit>0</blue_refit>
+            <blue_repair_vehicle>0</blue_repair_vehicle>
+            <blue_resupply>0</blue_resupply>
+            <blue_rest>100</blue_rest>
+            <red_refit>0</red_refit>
+            <red_repair_vehicle>0</red_repair_vehicle>
+            <red_resupply>0</red_resupply>
+            <red_rest>100</red_rest>
+         </Campaign_Decision_Block>
+
+      </Campaign>
+      <Campaign>
+
+         <title>Claymores Through Kleve (Easy)</title>
+         <filename>DF Claymores Through Kleve (Easy)</filename>
+         <picture_link>campaignpics/DF Claymores Through Kleve (Easy).bmp</picture_link>
+         <description>The 15th Scottish Division fights their way into Germany - Easier version, with more casualty replacements and vehicle repairs</description>
+         <date_range>
+           <earliest_date>18/02/1945</earliest_date>
+           <latest_date>20/03/1945</latest_date>
+         </date_range>
+         <region_list>
+           <region>Germany</region>
+         </region_list>
+         <campaign_tree_link>campaignpics/Claymores Through Kleve (Easy)_Tree.png</campaign_tree_link>
+         <game_version>CMFB v2.10 to v2.11</game_version>
+         <Modules_Required>
+            <module1>Downfall </module1>
+         </Modules_Required>
+
+         <Campaign_Decision_Block>
+            <Scenario_Title>
+               <number_in_campaign>[Campaign Battle #00]</number_in_campaign>
+               <battle_title>Den Hoevel Farm</battle_title>
+            </Scenario_Title>
+            <filename>DF Claymores Through Kleve (Easy) #00_DF Kleve 01 Den Hoevel Farm</filename>
+            <win_threshold>Minor Victory</win_threshold>
+            <next_battle_win>#01</next_battle_win>
+            <next_battle_lose>#01</next_battle_lose>
+            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
+            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
+            <blue_refit>50</blue_refit>
+            <blue_repair_vehicle>50</blue_repair_vehicle>
+            <blue_resupply>75</blue_resupply>
+            <blue_rest>50</blue_rest>
+            <red_refit>0</red_refit>
+            <red_repair_vehicle>0</red_repair_vehicle>
+            <red_resupply>0</red_resupply>
+            <red_rest>0</red_rest>
+         </Campaign_Decision_Block>
+
+         <Campaign_Decision_Block>
+            <Scenario_Title>
+               <number_in_campaign>[Campaign Battle #01]</number_in_campaign>
+               <battle_title>Nijmegen Kleve Road</battle_title>
+            </Scenario_Title>
+            <filename>DF Claymores Through Kleve (Easy) #01_DF Kleve 02 Nijmegen Kleve Road</filename>
+            <win_threshold>Minor Victory</win_threshold>
+            <next_battle_win>#02</next_battle_win>
+            <next_battle_lose>#02</next_battle_lose>
+            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
+            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
+            <blue_refit>50</blue_refit>
+            <blue_repair_vehicle>50</blue_repair_vehicle>
+            <blue_resupply>75</blue_resupply>
+            <blue_rest>50</blue_rest>
+            <red_refit>0</red_refit>
+            <red_repair_vehicle>0</red_repair_vehicle>
+            <red_resupply>0</red_resupply>
+            <red_rest>0</red_rest>
+         </Campaign_Decision_Block>
+
+         <Campaign_Decision_Block>
+            <Scenario_Title>
+               <number_in_campaign>[Campaign Battle #02]</number_in_campaign>
+               <battle_title>Kranenburg</battle_title>
+            </Scenario_Title>
+            <filename>DF Claymores Through Kleve (Easy) #02_DF Kleve 03 Kranenburg</filename>
+            <win_threshold>Minor Victory</win_threshold>
+            <next_battle_win>#03</next_battle_win>
+            <next_battle_lose>#03</next_battle_lose>
+            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
+            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
+            <blue_refit>50</blue_refit>
+            <blue_repair_vehicle>50</blue_repair_vehicle>
+            <blue_resupply>75</blue_resupply>
+            <blue_rest>50</blue_rest>
+            <red_refit>0</red_refit>
+            <red_repair_vehicle>0</red_repair_vehicle>
+            <red_resupply>0</red_resupply>
+            <red_rest>0</red_rest>
+         </Campaign_Decision_Block>
+
+         <Campaign_Decision_Block>
+            <Scenario_Title>
+               <number_in_campaign>[Campaign Battle #03]</number_in_campaign>
+               <battle_title>Reichswald</battle_title>
+            </Scenario_Title>
+            <filename>DF Claymores Through Kleve (Easy) #03_DF Kleve 04 Reichswald</filename>
+            <win_threshold>Minor Victory</win_threshold>
+            <next_battle_win>#04</next_battle_win>
+            <next_battle_lose>#04</next_battle_lose>
+            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
+            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
+            <blue_refit>50</blue_refit>
+            <blue_repair_vehicle>50</blue_repair_vehicle>
+            <blue_resupply>75</blue_resupply>
+            <blue_rest>50</blue_rest>
+            <red_refit>0</red_refit>
+            <red_repair_vehicle>0</red_repair_vehicle>
+            <red_resupply>0</red_resupply>
+            <red_rest>0</red_rest>
+         </Campaign_Decision_Block>
+
+         <Campaign_Decision_Block>
+            <Scenario_Title>
+               <number_in_campaign>[Campaign Battle #04]</number_in_campaign>
+               <battle_title>Materborn</battle_title>
+            </Scenario_Title>
+            <filename>DF Claymores Through Kleve (Easy) #04_DF Kleve 05 Materborn</filename>
+            <win_threshold>Minor Victory</win_threshold>
+            <next_battle_win>#05</next_battle_win>
+            <next_battle_lose>#05</next_battle_lose>
+            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
+            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
+            <blue_refit>50</blue_refit>
+            <blue_repair_vehicle>50</blue_repair_vehicle>
+            <blue_resupply>75</blue_resupply>
+            <blue_rest>50</blue_rest>
+            <red_refit>0</red_refit>
+            <red_repair_vehicle>0</red_repair_vehicle>
+            <red_resupply>0</red_resupply>
+            <red_rest>0</red_rest>
+         </Campaign_Decision_Block>
+
+         <Campaign_Decision_Block>
+            <Scenario_Title>
+               <number_in_campaign>[Campaign Battle #05]</number_in_campaign>
+               <battle_title>Crawling from the Wreckage</battle_title>
+            </Scenario_Title>
+            <filename>DF Claymores Through Kleve (Easy) #05_DF Kleve 06 Crawling from the Wreckage</filename>
+            <win_threshold>Minor Victory</win_threshold>
+            <next_battle_win>#06</next_battle_win>
+            <next_battle_lose>#06</next_battle_lose>
+            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
+            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
+            <blue_refit>50</blue_refit>
+            <blue_repair_vehicle>50</blue_repair_vehicle>
+            <blue_resupply>75</blue_resupply>
+            <blue_rest>50</blue_rest>
+            <red_refit>0</red_refit>
+            <red_repair_vehicle>0</red_repair_vehicle>
+            <red_resupply>0</red_resupply>
+            <red_rest>0</red_rest>
+         </Campaign_Decision_Block>
+
+         <Campaign_Decision_Block>
+            <Scenario_Title>
+               <number_in_campaign>[Campaign Battle #06]</number_in_campaign>
+               <battle_title>Mississippi Mud</battle_title>
+            </Scenario_Title>
+            <filename>DF Claymores Through Kleve (Easy) #06_DF Kleve 07 Mississippi</filename>
+            <win_threshold>Minor Victory</win_threshold>
+            <next_battle_win>Campaign End</next_battle_win>
+            <next_battle_lose>Campaign End</next_battle_lose>
+            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
+            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
+            <blue_refit>50</blue_refit>
+            <blue_repair_vehicle>50</blue_repair_vehicle>
+            <blue_resupply>75</blue_resupply>
+            <blue_rest>50</blue_rest>
+            <red_refit>0</red_refit>
+            <red_repair_vehicle>0</red_repair_vehicle>
+            <red_resupply>0</red_resupply>
+            <red_rest>0</red_rest>
+         </Campaign_Decision_Block>
+
+      </Campaign>
+      <Campaign>
+
+         <title>The Bridge (Hard)</title>
+         <filename>DF The Bridge (Hard)</filename>
+         <picture_link>campaignpics/DF The Bridge (Hard).bmp</picture_link>
+         <description>Ad Hoc German forces desperately attempt to hold and retake the Ludendorff Bridge at Remagen</description>
+         <date_range>
+           <earliest_date>04/04/1945</earliest_date>
+           <latest_date>15/04/1945</latest_date>
+         </date_range>
+         <region_list>
+           <region>Germany</region>
+         </region_list>
+         <campaign_tree_link>campaignpics/The Bridge (Hard)_Tree.png</campaign_tree_link>
+         <game_version>CMFB v2.10 to v2.11</game_version>
+         <Modules_Required>
+            <module1>Downfall </module1>
+         </Modules_Required>
+
+         <Campaign_Decision_Block>
+            <Scenario_Title>
+               <number_in_campaign>[Campaign Battle #00]</number_in_campaign>
+               <battle_title>Ghosts in the Mist</battle_title>
+            </Scenario_Title>
+            <filename>DF The Bridge (Hard) #00_DF The Bridge 01 Ghosts in the Mist</filename>
+            <win_threshold>Minor Victory</win_threshold>
+            <next_battle_win>#01</next_battle_win>
+            <next_battle_lose>#01</next_battle_lose>
+            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
+            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
+            <blue_refit>0</blue_refit>
+            <blue_repair_vehicle>0</blue_repair_vehicle>
+            <blue_resupply>0</blue_resupply>
+            <blue_rest>0</blue_rest>
+            <red_refit>25</red_refit>
+            <red_repair_vehicle>25</red_repair_vehicle>
+            <red_resupply>50</red_resupply>
+            <red_rest>50</red_rest>
+         </Campaign_Decision_Block>
+
+         <Campaign_Decision_Block>
+            <Scenario_Title>
+               <number_in_campaign>[Campaign Battle #01]</number_in_campaign>
+               <battle_title>Backs to the Rhine</battle_title>
+            </Scenario_Title>
+            <filename>DF The Bridge (Hard) #01_DF The Bridge 02 Backs to the Rhine</filename>
+            <win_threshold>Minor Victory</win_threshold>
+            <next_battle_win>#02</next_battle_win>
+            <next_battle_lose>#02</next_battle_lose>
+            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
+            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
+            <blue_refit>0</blue_refit>
+            <blue_repair_vehicle>0</blue_repair_vehicle>
+            <blue_resupply>0</blue_resupply>
+            <blue_rest>0</blue_rest>
+            <red_refit>25</red_refit>
+            <red_repair_vehicle>25</red_repair_vehicle>
+            <red_resupply>50</red_resupply>
+            <red_rest>50</red_rest>
+         </Campaign_Decision_Block>
+
+         <Campaign_Decision_Block>
+            <Scenario_Title>
+               <number_in_campaign>[Campaign Battle #02]</number_in_campaign>
+               <battle_title>Hold at All Cost</battle_title>
+            </Scenario_Title>
+            <filename>DF The Bridge (Hard) #02_DF The Bridge 03 Hold at All Cost</filename>
+            <win_threshold>Minor Victory</win_threshold>
+            <next_battle_win>#03</next_battle_win>
+            <next_battle_lose>#03</next_battle_lose>
+            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
+            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
+            <blue_refit>25</blue_refit>
+            <blue_repair_vehicle>0</blue_repair_vehicle>
+            <blue_resupply>0</blue_resupply>
+            <blue_rest>0</blue_rest>
+            <red_refit>25</red_refit>
+            <red_repair_vehicle>25</red_repair_vehicle>
+            <red_resupply>50</red_resupply>
+            <red_rest>50</red_rest>
+         </Campaign_Decision_Block>
+
+         <Campaign_Decision_Block>
+            <Scenario_Title>
+               <number_in_campaign>[Campaign Battle #03]</number_in_campaign>
+               <battle_title>Erpeler Ley</battle_title>
+            </Scenario_Title>
+            <filename>DF The Bridge (Hard) #03_DF The Bridge 04 Erpeler Ley</filename>
+            <win_threshold>Minor Victory</win_threshold>
+            <next_battle_win>#04</next_battle_win>
+            <next_battle_lose>#04</next_battle_lose>
+            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
+            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
+            <blue_refit>0</blue_refit>
+            <blue_repair_vehicle>0</blue_repair_vehicle>
+            <blue_resupply>0</blue_resupply>
+            <blue_rest>0</blue_rest>
+            <red_refit>25</red_refit>
+            <red_repair_vehicle>25</red_repair_vehicle>
+            <red_resupply>50</red_resupply>
+            <red_rest>50</red_rest>
+         </Campaign_Decision_Block>
+
+         <Campaign_Decision_Block>
+            <Scenario_Title>
+               <number_in_campaign>[Campaign Battle #04]</number_in_campaign>
+               <battle_title>Heister</battle_title>
+            </Scenario_Title>
+            <filename>DF The Bridge (Hard) #04_DF The Bridge 05 Heister</filename>
+            <win_threshold>Minor Victory</win_threshold>
+            <next_battle_win>#05</next_battle_win>
+            <next_battle_lose>#05</next_battle_lose>
+            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
+            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
+            <blue_refit>0</blue_refit>
+            <blue_repair_vehicle>0</blue_repair_vehicle>
+            <blue_resupply>0</blue_resupply>
+            <blue_rest>0</blue_rest>
+            <red_refit>25</red_refit>
+            <red_repair_vehicle>25</red_repair_vehicle>
+            <red_resupply>50</red_resupply>
+            <red_rest>50</red_rest>
+         </Campaign_Decision_Block>
+
+         <Campaign_Decision_Block>
+            <Scenario_Title>
+               <number_in_campaign>[Campaign Battle #05]</number_in_campaign>
+               <battle_title>The Heights</battle_title>
+            </Scenario_Title>
+            <filename>DF The Bridge (Hard) #05_DF The Bridge 06 The Heights</filename>
+            <win_threshold>Minor Victory</win_threshold>
+            <next_battle_win>#06</next_battle_win>
+            <next_battle_lose>Campaign End</next_battle_lose>
+            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
+            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
+            <blue_refit>0</blue_refit>
+            <blue_repair_vehicle>0</blue_repair_vehicle>
+            <blue_resupply>0</blue_resupply>
+            <blue_rest>0</blue_rest>
+            <red_refit>25</red_refit>
+            <red_repair_vehicle>25</red_repair_vehicle>
+            <red_resupply>50</red_resupply>
+            <red_rest>50</red_rest>
+         </Campaign_Decision_Block>
+
+         <Campaign_Decision_Block>
+            <Scenario_Title>
+               <number_in_campaign>[Campaign Battle #06]</number_in_campaign>
+               <battle_title>Tunnel Vision</battle_title>
+            </Scenario_Title>
+            <filename>DF The Bridge (Hard) #06_DF The Bridge 07 Tunnel Vision</filename>
+            <win_threshold>Minor Victory</win_threshold>
+            <next_battle_win>Campaign End</next_battle_win>
+            <next_battle_lose>Campaign End</next_battle_lose>
+            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
+            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
+            <blue_refit>0</blue_refit>
+            <blue_repair_vehicle>0</blue_repair_vehicle>
+            <blue_resupply>0</blue_resupply>
+            <blue_rest>0</blue_rest>
+            <red_refit>25</red_refit>
+            <red_repair_vehicle>25</red_repair_vehicle>
+            <red_resupply>50</red_resupply>
+            <red_rest>50</red_rest>
+         </Campaign_Decision_Block>
+
+      </Campaign>
+      <Campaign>
+
+         <title>Knock &apos;em all Down!</title>
+         <filename>Knock &apos;em all Down!</filename>
+         <picture_link>campaignpics/Knock &apos;em all Down!.bmp</picture_link>
+         <description>3rd Btn., 26th IR Assaults Aachen. This is a Linked Campaign where Force Preservation is Critical to Seizing the City.</description>
+         <date_range>
+           <earliest_date>15/11/1944</earliest_date>
+           <latest_date>16/11/1944</latest_date>
+         </date_range>
+         <region_list>
+           <region>Germany</region>
+         </region_list>
+         <campaign_tree_link>campaignpics/Knock &apos;em all Down!_Tree.png</campaign_tree_link>
+         <game_version>CMFB v1.00 to v1.01</game_version>
+         <Modules_Required>
+         </Modules_Required>
+
+         <Campaign_Decision_Block>
+            <Scenario_Title>
+               <number_in_campaign>[Campaign Battle #00]</number_in_campaign>
+               <battle_title>Aachen- Crawling from the Wreckage</battle_title>
+            </Scenario_Title>
+            <filename>Knock &apos;em all Down! #00_Aachen Crawling from the Wreckage</filename>
+            <win_threshold>Minor Victory</win_threshold>
+            <next_battle_win>#01</next_battle_win>
+            <next_battle_lose>#02</next_battle_lose>
+            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
+            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
+            <blue_refit>10</blue_refit>
+            <blue_repair_vehicle>0</blue_repair_vehicle>
+            <blue_resupply>70</blue_resupply>
+            <blue_rest>50</blue_rest>
+            <red_refit>1</red_refit>
+            <red_repair_vehicle>1</red_repair_vehicle>
+            <red_resupply>20</red_resupply>
+            <red_rest>10</red_rest>
+         </Campaign_Decision_Block>
+
+         <Campaign_Decision_Block>
+            <Scenario_Title>
+               <number_in_campaign>[Campaign Battle #01]</number_in_campaign>
+               <battle_title>Aachen- The Underpass</battle_title>
+            </Scenario_Title>
+            <filename>Knock &apos;em all Down! #01_Aachen The Underpass</filename>
+            <win_threshold>Minor Victory</win_threshold>
+            <next_battle_win>#03</next_battle_win>
+            <next_battle_lose>#04</next_battle_lose>
+            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
+            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
+            <blue_refit>10</blue_refit>
+            <blue_repair_vehicle>0</blue_repair_vehicle>
+            <blue_resupply>80</blue_resupply>
+            <blue_rest>50</blue_rest>
+            <red_refit>1</red_refit>
+            <red_repair_vehicle>1</red_repair_vehicle>
+            <red_resupply>1</red_resupply>
+            <red_rest>1</red_rest>
+         </Campaign_Decision_Block>
+
+         <Campaign_Decision_Block>
+            <Scenario_Title>
+               <number_in_campaign>[Campaign Battle #02]</number_in_campaign>
+               <battle_title>Aachen- The Underpass</battle_title>
+            </Scenario_Title>
+            <filename>Knock &apos;em all Down! #02_Aachen The Underpass LOSS</filename>
+            <win_threshold>Minor Victory</win_threshold>
+            <next_battle_win>#03</next_battle_win>
+            <next_battle_lose>#04</next_battle_lose>
+            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
+            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
+            <blue_refit>10</blue_refit>
+            <blue_repair_vehicle>0</blue_repair_vehicle>
+            <blue_resupply>80</blue_resupply>
+            <blue_rest>50</blue_rest>
+            <red_refit>1</red_refit>
+            <red_repair_vehicle>1</red_repair_vehicle>
+            <red_resupply>1</red_resupply>
+            <red_rest>1</red_rest>
+         </Campaign_Decision_Block>
+
+         <Campaign_Decision_Block>
+            <Scenario_Title>
+               <number_in_campaign>[Campaign Battle #03]</number_in_campaign>
+               <battle_title>Aachen- Ghosts in the Mist</battle_title>
+            </Scenario_Title>
+            <filename>Knock &apos;em all Down! #03_Aachen Ghosts in the Mist</filename>
+            <win_threshold>Draw</win_threshold>
+            <next_battle_win>#05</next_battle_win>
+            <next_battle_lose>#06</next_battle_lose>
+            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
+            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
+            <blue_refit>20</blue_refit>
+            <blue_repair_vehicle>0</blue_repair_vehicle>
+            <blue_resupply>80</blue_resupply>
+            <blue_rest>50</blue_rest>
+            <red_refit>1</red_refit>
+            <red_repair_vehicle>1</red_repair_vehicle>
+            <red_resupply>1</red_resupply>
+            <red_rest>1</red_rest>
+         </Campaign_Decision_Block>
+
+         <Campaign_Decision_Block>
+            <Scenario_Title>
+               <number_in_campaign>[Campaign Battle #04]</number_in_campaign>
+               <battle_title>Aachen- Ghosts in the Mist</battle_title>
+            </Scenario_Title>
+            <filename>Knock &apos;em all Down! #04_Aachen Ghosts in the Mist LOSS</filename>
+            <win_threshold>Draw</win_threshold>
+            <next_battle_win>#05</next_battle_win>
+            <next_battle_lose>#06</next_battle_lose>
+            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
+            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
+            <blue_refit>20</blue_refit>
+            <blue_repair_vehicle>0</blue_repair_vehicle>
+            <blue_resupply>80</blue_resupply>
+            <blue_rest>50</blue_rest>
+            <red_refit>1</red_refit>
+            <red_repair_vehicle>1</red_repair_vehicle>
+            <red_resupply>1</red_resupply>
+            <red_rest>1</red_rest>
+         </Campaign_Decision_Block>
+
+         <Campaign_Decision_Block>
+            <Scenario_Title>
+               <number_in_campaign>[Campaign Battle #05]</number_in_campaign>
+               <battle_title>Aachen- Endgame</battle_title>
+            </Scenario_Title>
+            <filename>Knock &apos;em all Down! #05_Aachen Endgame</filename>
+            <win_threshold>Minor Victory</win_threshold>
+            <next_battle_win>Campaign End</next_battle_win>
+            <next_battle_lose>Campaign End</next_battle_lose>
+            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
+            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
+            <blue_refit>5</blue_refit>
+            <blue_repair_vehicle>0</blue_repair_vehicle>
+            <blue_resupply>5</blue_resupply>
+            <blue_rest>5</blue_rest>
+            <red_refit>1</red_refit>
+            <red_repair_vehicle>1</red_repair_vehicle>
+            <red_resupply>1</red_resupply>
+            <red_rest>1</red_rest>
+         </Campaign_Decision_Block>
+
+         <Campaign_Decision_Block>
+            <Scenario_Title>
+               <number_in_campaign>[Campaign Battle #06]</number_in_campaign>
+               <battle_title>Aachen- Endgame</battle_title>
+            </Scenario_Title>
+            <filename>Knock &apos;em all Down! #06_Aachen Endgame LOSS</filename>
+            <win_threshold>Minor Victory</win_threshold>
+            <next_battle_win>Campaign End</next_battle_win>
+            <next_battle_lose>Campaign End</next_battle_lose>
+            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
+            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
+            <blue_refit>5</blue_refit>
+            <blue_repair_vehicle>0</blue_repair_vehicle>
+            <blue_resupply>5</blue_resupply>
+            <blue_rest>5</blue_rest>
+            <red_refit>1</red_refit>
+            <red_repair_vehicle>1</red_repair_vehicle>
+            <red_resupply>1</red_resupply>
+            <red_rest>1</red_rest>
+         </Campaign_Decision_Block>
+
+      </Campaign>
+   </Campaign_List>
+</Campaign_Listing>

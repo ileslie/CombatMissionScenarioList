@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="Listing_Layout.xsl" ?>
+
+<Scenario_Listing>
+
+   <Scenario_List>
+
+   <containing_campaign>Kampfgruppe Tretter</containing_campaign>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #01]</number_in_campaign>
+         <battle_title>Kampfgruppe Tretter - Counter-Push at Annovka</battle_title>
+      </Title>
+      <filename>Kampfgruppe Bauer v1-2 #01_Kampfgruppe Tretter Scenario 2B</filename>
+      <picture_link>scenpics/Kampfgruppe Bauer v1-21.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>Soviet attack Annovka - KG Tretter counter-attacks to repulse the Soviets</description>
+      <date>12/08/1944</date>
+      <time_of_day>01:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>04:00</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>15.395 Sq. km</map_area>
+         <map_width>3376 m</map_width>
+         <map_depth>4560 m</map_depth>
+      </Map_Size>
+      <region>Soviet Union</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Very Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMRT v2.10 to v2.13</game_version>
+      <Modules_Required>
+         <module1>Fire and Rubble</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #00]</number_in_campaign>
+         <battle_title>Kampfgruppe Tretter - Recon in Force</battle_title>
+      </Title>
+      <filename>Kampfgruppe Bauer v1-2 #00_Kampfgruppe Tretter Scenario 1B</filename>
+      <picture_link>scenpics/Kampfgruppe Bauer v1-20.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>KG Bauer/Tretter arrives in Annovka and gets the task to recon in force to the north.</description>
+      <date>11/08/1944</date>
+      <time_of_day>11:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>02:30</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>15.395 Sq. km</map_area>
+         <map_width>3376 m</map_width>
+         <map_depth>4560 m</map_depth>
+      </Map_Size>
+      <region>Soviet Union</region>
+      <environment>Open</environment>
+      <weather>Overcast</weather>
+      <temperature>Hot</temperature>
+      <ground_condition>Very Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMRT v2.10 to v2.13</game_version>
+      <Modules_Required>
+         <module1>Fire and Rubble</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #02]</number_in_campaign>
+         <battle_title>Kampfgruppe Tretter - Counter-Attack to Lipovka</battle_title>
+      </Title>
+      <filename>Kampfgruppe Bauer v1-2 #02_Kampfgruppe Tretter Scenario 3B</filename>
+      <picture_link>scenpics/Kampfgruppe Bauer v1-22.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>KG Bauer/Tretter counter-attacks to retake Singovo and to relieve a battalion HQ in Lipovka</description>
+      <date>12/08/1944</date>
+      <time_of_day>08:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>03:00</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>16.128 Sq. km</map_area>
+         <map_width>3600 m</map_width>
+         <map_depth>4480 m</map_depth>
+      </Map_Size>
+      <region>Soviet Union</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Hot</temperature>
+      <ground_condition>Very Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMRT v2.10 to v2.13</game_version>
+      <Modules_Required>
+         <module1>Fire and Rubble</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #03]</number_in_campaign>
+         <battle_title>Kampfgruppe Tretter - Counter-Attack at Night</battle_title>
+      </Title>
+      <filename>Kampfgruppe Bauer v1-2 #03_Kampfgruppe Tretter Scenario 4B</filename>
+      <picture_link>scenpics/Kampfgruppe Bauer v1-23.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>Soviet try again to take Annovka - Kampgruppe Bauer/Tretter counter-attacks from Singovo</description>
+      <date>13/08/1944</date>
+      <time_of_day>00:30</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>02:30</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>10.749 Sq. km</map_area>
+         <map_width>3040 m</map_width>
+         <map_depth>3536 m</map_depth>
+      </Map_Size>
+      <region>Soviet Union</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Hot</temperature>
+      <ground_condition>Very Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMRT v2.10 to v2.13</game_version>
+      <Modules_Required>
+         <module1>Fire and Rubble</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #04]</number_in_campaign>
+         <battle_title>Kampfgruppe Tretter - Hasty Defense</battle_title>
+      </Title>
+      <filename>Kampfgruppe Bauer v1-2 #04_Kampfgruppe Tretter Scenario 5B</filename>
+      <picture_link>scenpics/Kampfgruppe Bauer v1-24.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>After repulsing the attack at 0030 Kampfgruppe Bauer/Tretter now sets up a hasty defense in Annovka</description>
+      <date>13/08/1944</date>
+      <time_of_day>03:30</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>02:00</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>10.749 Sq. km</map_area>
+         <map_width>3040 m</map_width>
+         <map_depth>3536 m</map_depth>
+      </Map_Size>
+      <region>Soviet Union</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Hot</temperature>
+      <ground_condition>Very Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMRT v2.10 to v2.13</game_version>
+      <Modules_Required>
+         <module1>Fire and Rubble</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   </Scenario_List>
+</Scenario_Listing>

@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="Listing_Layout.xsl" ?>
+
+<Scenario_Listing>
+
+   <Scenario_List>
+
+   <containing_campaign>The Road to Minsk</containing_campaign>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #00]</number_in_campaign>
+         <battle_title>Stalins Onslaught</battle_title>
+      </Title>
+      <filename>The Road to Minsk #00_Stalins Onslaugth</filename>
+      <picture_link>scenpics/The Road to Minsk0.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>Mission 1. 1015 Hrs 25th of June 1944. Elements of 25th Guards Tank Brigade support 12th Guards Rifle Regiments attack on the german Tiger defense line.</description>
+      <date>25/06/1944</date>
+      <time_of_day>10:15</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>03:00</length>
+      <battle_size>Huge</battle_size>
+      <Map_Size>
+         <map_area>10.389 Sq. km</map_area>
+         <map_width>3888 m</map_width>
+         <map_depth>2672 m</map_depth>
+      </Map_Size>
+      <region>Soviet Union</region>
+      <environment>Open</environment>
+      <weather>Thick Haze</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMRT v1.00 to v1.03</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>10</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #03]</number_in_campaign>
+         <battle_title>A Helping Hand to the Air Force</battle_title>
+      </Title>
+      <filename>The Road to Minsk #03_A Helping Hand to the Air Force</filename>
+      <picture_link>scenpics/The Road to Minsk3.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>Mission 4. Destroy German SP-AA Guns.</description>
+      <date>27/06/1944</date>
+      <time_of_day>13:20</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:55</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>1.081 Sq. km</map_area>
+         <map_width>1072 m</map_width>
+         <map_depth>1008 m</map_depth>
+      </Map_Size>
+      <region>Soviet Union</region>
+      <environment>Village</environment>
+      <weather>Light Rain</weather>
+      <temperature>Cool</temperature>
+      <ground_condition>Damp</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMRT v1.00 to v1.03</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #01]</number_in_campaign>
+         <battle_title>Rhinos on the Loose</battle_title>
+      </Title>
+      <filename>The Road to Minsk #01_Rhinos on the Loose</filename>
+      <picture_link>scenpics/The Road to Minsk1.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>Mission 2. Night attack on German heavy tank destroyers.</description>
+      <date>26/06/1944</date>
+      <time_of_day>00:50</time_of_day>
+      <part_of_day>Night</part_of_day>
+      <length>01:20</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>4.826 Sq. km</map_area>
+         <map_width>2080 m</map_width>
+         <map_depth>2320 m</map_depth>
+      </Map_Size>
+      <region>Soviet Union</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Cool</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMRT v1.00 to v1.03</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #05]</number_in_campaign>
+         <battle_title>Breakthrough to Borisov</battle_title>
+      </Title>
+      <filename>The Road to Minsk #05_Breakthrough to Borisov</filename>
+      <picture_link>scenpics/The Road to Minsk5.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>Mission 6. Clear the town of Nemanitsa.</description>
+      <date>30/06/1944</date>
+      <time_of_day>06:40</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>02:30</length>
+      <battle_size>Huge</battle_size>
+      <Map_Size>
+         <map_area>9.345 Sq. km</map_area>
+         <map_width>3744 m</map_width>
+         <map_depth>2496 m</map_depth>
+      </Map_Size>
+      <region>Soviet Union</region>
+      <environment>Town</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMRT v1.00 to v1.03</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>10</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #04]</number_in_campaign>
+         <battle_title>The Triumph of Soviet Armor</battle_title>
+      </Title>
+      <filename>The Road to Minsk #04_The Triumph of Soviet Armor</filename>
+      <picture_link>scenpics/The Road to Minsk4.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>Mission 5. Clear the roadblock to open up the Smolensk-Minsk highway.</description>
+      <date>28/06/1944</date>
+      <time_of_day>18:35</time_of_day>
+      <part_of_day>Dusk</part_of_day>
+      <length>02:30</length>
+      <battle_size>Large</battle_size>
+      <Map_Size>
+         <map_area>3.192 Sq. km</map_area>
+         <map_width>2320 m</map_width>
+         <map_depth>1376 m</map_depth>
+      </Map_Size>
+      <region>Soviet Union</region>
+      <environment>Town</environment>
+      <weather>Overcast</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Damp</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMRT v1.00 to v1.03</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>9</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #02]</number_in_campaign>
+         <battle_title>Rolling Thunder</battle_title>
+      </Title>
+      <filename>The Road to Minsk #02_Rolling Thunder</filename>
+      <picture_link>scenpics/The Road to Minsk2.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>Mission 3. Open country at last, now our armor can start rolling.</description>
+      <date>26/06/1944</date>
+      <time_of_day>14:20</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>02:30</length>
+      <battle_size>Large</battle_size>
+      <Map_Size>
+         <map_area>6.252 Sq. km</map_area>
+         <map_width>2368 m</map_width>
+         <map_depth>2640 m</map_depth>
+      </Map_Size>
+      <region>Soviet Union</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMRT v1.00 to v1.03</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>9</size_modifier>
+   </Scenario>
+
+   </Scenario_List>
+</Scenario_Listing>

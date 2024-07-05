@@ -1036,12 +1036,12 @@
 	</xsl:template>
 	
 	<xsl:template match="downloadurl">
-		<a class="downloadbutton"><xsl:attribute name="href"><xsl:value-of select="." /></xsl:attribute><xsl:value-of select="translate(./@who, ' ', '&#160;')" />&#160;download</a>
+		<a class="downloadbutton"><xsl:attribute name="href"><xsl:value-of select="." /></xsl:attribute><xsl:attribute name="target">_blank</xsl:attribute><xsl:value-of select="translate(./@who, ' ', '&#160;')" />&#160;download</a>
 		<xsl:text> </xsl:text>
 	</xsl:template>
 	
 	<xsl:template match="infourl">
-		<a class="infobutton"><xsl:attribute name="href"><xsl:value-of select="." /></xsl:attribute><xsl:value-of select="translate(./@who, ' ', '&#160;')" />&#160;information</a>
+		<a class="infobutton"><xsl:attribute name="href"><xsl:value-of select="." /></xsl:attribute><xsl:attribute name="target">_blank</xsl:attribute><xsl:value-of select="translate(./@who, ' ', '&#160;')" />&#160;information</a>
 		<xsl:text> </xsl:text>
 	</xsl:template>
 

@@ -12,97 +12,157 @@
 	<scenario author="Pete Wenman" filename="Radzymin Master Map 5.btt"/>
 	<scenario author="Stephen Hilla aka The Teacher" filename="TTR master map 3.btt">
 		<urls_list>
-			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons/master-map-3/</infourl>
-			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/TTR-master-map-3.zip</downloadurl>
+			<downloadurl who="Scenario Depot" primary="y">http://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons/master-map-3/</downloadurl>
 		</urls_list>
 	</scenario>
 	<scenario author="Stephen Hilla aka The Teacher" filename="TTR Master Map 2.btt">
 		<urls_list>
-			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons/master-map-2/</infourl>
-			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/TTR-Master-Map-2.zip</downloadurl>
+			<downloadurl who="Scenario Depot" primary="y">http://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons/master-map-2/</downloadurl>
 		</urls_list>
 	</scenario>
 	<scenario author="Stephen Hilla aka The Teacher" filename="TTR Master Map 1.btt">
 		<urls_list>
-			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons/master-map-1/</infourl>
-			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/TTR-Master-Map-1.zip</downloadurl>
+			<downloadurl who="Scenario Depot" primary="y">http://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons/master-map-1/</downloadurl>
 		</urls_list>
 	</scenario>
 	<scenario author="H1nd" filename="H1nd_Nemanitsa.btt">
 		<urls_list>
-			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons/communal-farm-nemanitsa/</infourl>
-			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/H1nd_Nemanitsa.zip</downloadurl>
+			<downloadurl who="Scenario Depot" primary="y">http://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons/communal-farm-nemanitsa/</downloadurl>
 		</urls_list>
 	</scenario>
 	<scenario author="H1nd" filename="H1nd_Rough_Marsh_Hills.btt">
 		<urls_list>
-			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons/byelorussian-rough-marshy-terrain/</infourl>
-			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/H1nd_Rough_Marsh_Hills.zip</downloadurl>
+			<downloadurl who="Scenario Depot" primary="y">http://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons/byelorussian-rough-marshy-terrain/</downloadurl>
 		</urls_list>
 	</scenario>
-	<scenario author="information unavailable" filename="Map - Karasilis.btt">
+	<scenario author="Bootie" filename="Map - Karasilis.btt">
 		<urls_list>
-			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons/map-cmrt-karasilis-lithuania/</infourl>
-			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/Map-Karasilis.zip</downloadurl>
+			<downloadurl who="Scenario Depot" primary="y">http://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons/map-cmrt-karasilis-lithuania/</downloadurl>
 		</urls_list>
 	</scenario>
 	<scenario author="Miquel Ramirez" filename="Map - Slobudka.btt">
 		<urls_list>
-			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons/map-slobudka-byelorrusia/</infourl>
-			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/Map-Slobudka.zip</downloadurl>
+			<downloadurl who="Scenario Depot" primary="y">http://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons/map-slobudka-byelorrusia/</downloadurl>
 		</urls_list>
 	</scenario>
 	<scenario author="kevinkin" filename="Farms.btt">
 		<urls_list>
-			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons/firefights-real-time-battle-set/</infourl>
+			<downloadurl who="Scenario Depot" primary="y">http://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons/firefights-real-time-battle-set/</downloadurl>
 			<downloadurl who="Scenario Depot">http://http://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons/firefights-real-time-battle-set/</downloadurl>
 		</urls_list>
 	</scenario>
 	<scenario author="kevinkin" filename="Fords.btt">
 		<urls_list>
-			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons/firefights-real-time-battle-set/</infourl>
+			<downloadurl who="Scenario Depot" primary="y">http://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons/firefights-real-time-battle-set/</downloadurl>
 			<downloadurl who="Scenario Depot">http://http://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons/firefights-real-time-battle-set/</downloadurl>
 		</urls_list>
 	</scenario>
 	<scenario author="kevinkin" filename="Run.btt">
 		<urls_list>
-			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons/firefights-real-time-battle-set/</infourl>
+			<downloadurl who="Scenario Depot" primary="y">http://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons/firefights-real-time-battle-set/</downloadurl>
 			<downloadurl who="Scenario Depot">http://http://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons/firefights-real-time-battle-set/</downloadurl>
 		</urls_list>
 	</scenario>
 	<scenario author="kevinkin" filename="Swamp People.btt">
 		<urls_list>
-			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons/firefights-real-time-battle-set/</infourl>
+			<downloadurl who="Scenario Depot" primary="y">http://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons/firefights-real-time-battle-set/</downloadurl>
 			<downloadurl who="Scenario Depot">http://http://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons/firefights-real-time-battle-set/</downloadurl>
 		</urls_list>
 	</scenario>
 	<scenario author="kevinkin" filename="Woods.btt">
 		<urls_list>
-			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons/firefights-real-time-battle-set/</infourl>
+			<downloadurl who="Scenario Depot" primary="y">http://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons/firefights-real-time-battle-set/</downloadurl>
 			<downloadurl who="Scenario Depot">http://http://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons/firefights-real-time-battle-set/</downloadurl>
 		</urls_list>
 	</scenario>
 	<scenario author="Bootie" filename="FGM Map 2 - A Gift for Guderian.btt">
 		<urls_list>
-			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons/map-a-gift-for-guderian/</infourl>
-			<downloadurl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/download/cmrt/cmrt_maps/MAP-A-Gift-for-Guderian.zip</downloadurl>
+			<downloadurl who="Scenario Depot" primary="y">http://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons/map-a-gift-for-guderian/</downloadurl>
 		</urls_list>
 	</scenario>
 	<scenario author="Bootie" filename="Small Village in the Woods.btt">
 		<urls_list>
-			<infourl who="Scenario Depot">http://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons/mapsmall-village-in-the-woods/</infourl>
-			<downloadurl who="Scenario Depot">http://http://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons/mapsmall-village-in-the-woods/</downloadurl>
+			<downloadurl who="Scenario Depot" primary="y">http://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons/mapsmall-village-in-the-woods/</downloadurl>
 		</urls_list>
 	</scenario>
-	<scenario author="Pete Wenman" filename="Rad-Full-2.btt">
-		<urls_list>
-			<downloadurl who="Battle Front">http://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3074</downloadurl>
-		</urls_list>
-	</scenario>
-	
+    <scenario author="CMFDRJ" filename="GunneryRange_CMRT.btt">
+        <additional_info>The maps from Black Sea training campaign ported to Red Thunder.
+        </additional_info>
+        <urls_list>
+            <downloadurl primary="y" who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons/cmbs-training-maps-ported-to-ww2-bn-fb-fi-rt/</downloadurl>
+        </urls_list>
+    </scenario>
+    <scenario author="Commanderski" filename="Lisow MM.btt">
+        <urls_list>
+            <downloadurl primary="y" who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons/lisow-master-map/</downloadurl>
+        </urls_list>
+    </scenario>
+    <scenario author="CMFDRJ" filename="UrbanTrainingCenter_CMRT.btt">
+        <additional_info>The maps from Black Sea training campaign ported to Red Thunder.
+        </additional_info>
+        <urls_list>
+            <downloadurl primary="y" who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons/cmbs-training-maps-ported-to-ww2-bn-fb-fi-rt/</downloadurl>
+        </urls_list>
+    </scenario>
+    <scenario author="George MC" filename="BP1 Cat and Mouse MM.btt" stock="y"/>
+    <scenario author="George MC" filename="BP1 Deep Raid MM.btt" stock="y"/>
+    <scenario author="George MC" filename="BP1 KG M Mission 1 MM.btt" stock="y"/>
+    <scenario author="George MC" filename="BP1 KG M Mission 2 MM.btt" stock="y"/>
+    <scenario author="George MC" filename="BP1 KG M Mission 3 MM.btt" stock="y"/>
+    <scenario author="George MC" filename="BP1 KG M Mission 4 MM.btt" stock="y"/>
+    <scenario author="George MC" filename="BP1 KG M Mission 5 MM.btt" stock="y"/>
+    <scenario author="George MC" filename="BP1 Lesson 3 SPW MM.btt" stock="y"/>
+    <scenario author="George MC" filename="BP1 Ogledow MM.btt" stock="y"/>
+    <scenario author="George MC" filename="BP1 Ogledow West MM.btt" stock="y"/>
+    <scenario author="George MC" filename="BP1 Panzergrenadiere im HKL MM.btt" stock="y"/>
+    <scenario author="George MC" filename="BP1 Panzergruppe Fluegal MM.btt" stock="y"/>
+    <scenario author="George MC" filename="BP1 Rakow MM.btt" stock="y"/>
+    <scenario author="George MC" filename="BP1 Tlusczc MM.btt" stock="y"/>
+    <scenario author="benpark" filename="FR Arnswalde MM.btt" stock="y"/>
+    <scenario author="benpark" filename="FR Balatonfokajar MM.btt" stock="y"/>
+    <scenario author="benpark" filename="FR Batzlow MM.btt" stock="y"/>
+    <scenario author="benpark" filename="FR Berlin Z East MM.btt" stock="y"/>
+    <scenario author="benpark" filename="FR Berlin Z West MM.btt" stock="y"/>
+    <scenario author="benpark" filename="FR Brzesc Kujawski MM.btt" stock="y"/>
+    <scenario author="benpark" filename="FR Bzura River MM.btt" stock="y"/>
+    <scenario author="benpark" filename="FR Havel Bridge MM.btt" stock="y"/>
+    <scenario author="benpark" filename="FR Hegyikastely MM.btt" stock="y"/>
+    <scenario author="benpark" filename="FR Marzdorf MM.btt" stock="y"/>
+    <scenario author="benpark" filename="FR Muscherin MM.btt" stock="y"/>
+    <scenario author="benpark" filename="FR Naugard MM.btt" stock="y"/>
+    <scenario author="benpark" filename="FR Pettend MM.btt" stock="y"/>
+    <scenario author="benpark" filename="FR Pyritz Lettnin MM.btt" stock="y"/>
+    <scenario author="benpark" filename="FR Pyritz-Repenow MM.btt" stock="y"/>
+    <scenario author="benpark" filename="FR Reitwein MM.btt" stock="y"/>
+    <scenario author="benpark" filename="FR Seregelyes MM.btt" stock="y"/>
+    <scenario author="benpark" filename="FR Simontornya MM.btt" stock="y"/>
+    <scenario author="benpark" filename="FR Sinimaed Hills MM.btt" stock="y"/>
+    <scenario author="benpark" filename="FR Szekesfehervar MM.btt" stock="y"/>
+    <scenario author="benpark" filename="FR Tarjan MM.btt" stock="y"/>
+    <scenario author="benpark" filename="FR_Arnswalde MM.btt" stock="y"/>
+    <scenario author="benpark" filename="FR_Balatonfokajar MM.btt" stock="y"/>
+    <scenario author="benpark" filename="FR_Batzlow MM.btt" stock="y"/>
+    <scenario author="benpark" filename="FR_Berlin Z East MM.btt" stock="y"/>
+    <scenario author="benpark" filename="FR_Berlin Z West MM.btt" stock="y"/>
+    <scenario author="benpark" filename="FR_Brzesc Kujawski MM.btt" stock="y"/>
+    <scenario author="benpark" filename="FR_Bzura River MM.btt" stock="y"/>
+    <scenario author="benpark" filename="FR_Havel Bridge MM.btt" stock="y"/>
+    <scenario author="benpark" filename="FR_Hegyikastely MM.btt" stock="y"/>
+    <scenario author="benpark" filename="FR_Marzdorf MM.btt" stock="y"/>
+    <scenario author="benpark" filename="FR_Muscherin MM.btt" stock="y"/>
+    <scenario author="benpark" filename="FR_Naugard MM.btt" stock="y"/>
+    <scenario author="benpark" filename="FR_Pettend MM.btt" stock="y"/>
+    <scenario author="benpark" filename="FR_Pyritz Lettnin MM.btt" stock="y"/>
+    <scenario author="benpark" filename="FR_Reitwein MM.btt" stock="y"/>
+    <scenario author="benpark" filename="FR_Seregelyes MM.btt" stock="y"/>
+    <scenario author="benpark" filename="FR_Simontornya MM.btt" stock="y"/>
+    <scenario author="benpark" filename="FR_Sinimäed Hills MM.btt" stock="y"/>
+    <scenario author="benpark" filename="FR_Szekesfehervar MM.btt" stock="y"/>
+    <scenario author="benpark" filename="FR_Tarjan MM.btt" stock="y"/>
+    
 <!-- 	<scenario author="" filename=""> -->
 <!-- 		<urls_list> -->
-<!-- 			<infourl who="Scenario Depot"></infourl> -->
+<!-- 			<infourl who="the Blitz"></infourl> -->
 <!-- 			<downloadurl who="Scenario Depot">http://</downloadurl> -->
 <!-- 		</urls_list> -->
 <!-- 	</scenario> -->

@@ -1,0 +1,598 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="Listing_Layout.xsl" ?>
+
+<Scenario_Listing>
+
+   <Scenario_List>
+
+   <Scenario>
+      <Title>
+         <battle_title>Neiderjossa Master Map</battle_title>
+      </Title>
+      <filename>Soviet Campaign Neiderjossa Master</filename>
+      <picture_link>scenpics/Soviet Campaign Neiderjossa Master.bmp</picture_link>
+      <battle_type>Blue Attack</battle_type>
+      <description>Not defined!</description>
+      <date>14/07/1982</date>
+      <time_of_day>05:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:00</length>
+      <battle_size>Large</battle_size>
+      <Map_Size>
+         <map_area>16 Sq. km</map_area>
+         <map_width>4000 m</map_width>
+         <map_depth>4000 m</map_depth>
+      </Map_Size>
+      <region>Germany</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMCW v1.00 to v1.06</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>8</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Pilgerzell Master Map</battle_title>
+      </Title>
+      <filename>US Campaign Pilgerzell Master</filename>
+      <picture_link>scenpics/US Campaign Pilgerzell Master.bmp</picture_link>
+      <battle_type>Red Probe</battle_type>
+      <description>Not defined!</description>
+      <date>15/07/1982</date>
+      <time_of_day>16:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:45</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>6.632 Sq. km</map_area>
+         <map_width>2512 m</map_width>
+         <map_depth>2640 m</map_depth>
+      </Map_Size>
+      <region>Germany</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Cool</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMCW v1.00 to v1.06</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>trash</mod_tag>
+         <mod_tag>lawn</mod_tag>
+         <mod_tag>stoumont</mod_tag>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Meerholz Master Map</battle_title>
+      </Title>
+      <filename>US Campaign Meerholz Master</filename>
+      <picture_link>scenpics/US Campaign Meerholz Master.bmp</picture_link>
+      <battle_type>Red Assault</battle_type>
+      <description>Not defined!</description>
+      <date>18/07/1982</date>
+      <time_of_day>08:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:30</length>
+      <battle_size>Huge</battle_size>
+      <Map_Size>
+         <map_area>16.646 Sq. km</map_area>
+         <map_width>4080 m</map_width>
+         <map_depth>4080 m</map_depth>
+      </Map_Size>
+      <region>Germany</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMCW v1.00 to v1.06</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>10</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Schweben Master Map</battle_title>
+      </Title>
+      <filename>US Campaign Schweben Master</filename>
+      <picture_link>scenpics/US Campaign Schweben Master.bmp</picture_link>
+      <battle_type>Red Assault</battle_type>
+      <description>Not defined!</description>
+      <date>17/07/1982</date>
+      <time_of_day>15:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:00</length>
+      <battle_size>Large</battle_size>
+      <Map_Size>
+         <map_area>14.016 Sq. km</map_area>
+         <map_width>4000 m</map_width>
+         <map_depth>3504 m</map_depth>
+      </Map_Size>
+      <region>Germany</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMCW v1.00 to v1.06</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>trash</mod_tag>
+         <mod_tag>lawn</mod_tag>
+         <mod_tag>stoumont</mod_tag>
+         <mod_tag>warehouse</mod_tag>
+      </Mod_Tags>
+      <size_modifier>8</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Alsfeld Master Map</battle_title>
+      </Title>
+      <filename>Soviet Campaign Alsfeld Master</filename>
+      <picture_link>scenpics/Soviet Campaign Alsfeld Master.bmp</picture_link>
+      <battle_type>Red Assault</battle_type>
+      <description>Not defined!</description>
+      <date>14/07/1982</date>
+      <time_of_day>18:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>02:00</length>
+      <battle_size>Large</battle_size>
+      <Map_Size>
+         <map_area>9.048 Sq. km</map_area>
+         <map_width>3008 m</map_width>
+         <map_depth>3008 m</map_depth>
+      </Map_Size>
+      <region>Germany</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMCW v1.00 to v1.06</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>9</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Haunetal Master Map</battle_title>
+      </Title>
+      <filename>Soviet Campaign Haunetal Master</filename>
+      <picture_link>scenpics/Soviet Campaign Haunetal Master.bmp</picture_link>
+      <battle_type>Blue Attack</battle_type>
+      <description>Not defined!</description>
+      <date>13/07/1982</date>
+      <time_of_day>14:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:30</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>5.631 Sq. km</map_area>
+         <map_width>2496 m</map_width>
+         <map_depth>2256 m</map_depth>
+      </Map_Size>
+      <region>Germany</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMCW v1.00 to v1.06</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Mansbach Master Map</battle_title>
+      </Title>
+      <filename>Soviet Campaign Mansbach Master</filename>
+      <picture_link>scenpics/Soviet Campaign Mansbach Master.bmp</picture_link>
+      <battle_type>Red Attack</battle_type>
+      <description>Not defined!</description>
+      <date>13/07/1982</date>
+      <time_of_day>06:00</time_of_day>
+      <part_of_day>Dawn</part_of_day>
+      <length>01:30</length>
+      <battle_size>Large</battle_size>
+      <Map_Size>
+         <map_area>15.064 Sq. km</map_area>
+         <map_width>5008 m</map_width>
+         <map_depth>3008 m</map_depth>
+      </Map_Size>
+      <region>Germany</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMCW v1.00 to v1.06</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>9</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Wachtersbach Master Map</battle_title>
+      </Title>
+      <filename>US Campaign Wachtersbach Master</filename>
+      <picture_link>scenpics/US Campaign Wachtersbach Master.bmp</picture_link>
+      <battle_type>Blue Attack</battle_type>
+      <description>Not defined!</description>
+      <date>18/07/1982</date>
+      <time_of_day>15:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:30</length>
+      <battle_size>Huge</battle_size>
+      <Map_Size>
+         <map_area>15.064 Sq. km</map_area>
+         <map_width>3008 m</map_width>
+         <map_depth>5008 m</map_depth>
+      </Map_Size>
+      <region>Germany</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMCW v1.00 to v1.06</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>10</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Neuhof Master Map</battle_title>
+      </Title>
+      <filename>US Campaign Neuhof Master</filename>
+      <picture_link>scenpics/US Campaign Neuhof Master.bmp</picture_link>
+      <battle_type>Red Attack</battle_type>
+      <description>Not defined!</description>
+      <date>16/07/1982</date>
+      <time_of_day>11:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:00</length>
+      <battle_size>Huge</battle_size>
+      <Map_Size>
+         <map_area>14.4 Sq. km</map_area>
+         <map_width>3600 m</map_width>
+         <map_depth>4000 m</map_depth>
+      </Map_Size>
+      <region>Germany</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Cool</temperature>
+      <ground_condition>Damp</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMCW v1.00 to v1.06</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>trash</mod_tag>
+         <mod_tag>lawn</mod_tag>
+         <mod_tag>stoumont</mod_tag>
+         <mod_tag>warehouse</mod_tag>
+      </Mod_Tags>
+      <size_modifier>10</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>NTC Master Map Brown Pass</battle_title>
+      </Title>
+      <filename>NTC Master Map Brown Pass</filename>
+      <picture_link>scenpics/NTC Master Map Brown Pass.bmp</picture_link>
+      <battle_type>Blue Probe</battle_type>
+      <description>Not defined!</description>
+      <date>19/07/1982</date>
+      <time_of_day>09:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:45</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>8 Sq. km</map_area>
+         <map_width>4000 m</map_width>
+         <map_depth>2000 m</map_depth>
+      </Map_Size>
+      <region>National Training Center</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Hot</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Axis Force</early_intel>
+      <game_version>CMCW v1.00 to v1.06</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>ntc</mod_tag>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Elm Master Map</battle_title>
+      </Title>
+      <filename>US Campaign Elm Master</filename>
+      <picture_link>scenpics/US Campaign Elm Master.bmp</picture_link>
+      <battle_type>Meeting Engagement</battle_type>
+      <description>Not defined!</description>
+      <date>17/07/1982</date>
+      <time_of_day>17:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:30</length>
+      <battle_size>Huge</battle_size>
+      <Map_Size>
+         <map_area>12.646 Sq. km</map_area>
+         <map_width>4160 m</map_width>
+         <map_depth>3040 m</map_depth>
+      </Map_Size>
+      <region>Germany</region>
+      <environment>Open</environment>
+      <weather>Overcast</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMCW v1.00 to v1.06</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>10</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Lingelbach Master Map</battle_title>
+      </Title>
+      <filename>Soviet Campaign Lingelbach Master</filename>
+      <picture_link>scenpics/Soviet Campaign Lingelbach Master.bmp</picture_link>
+      <battle_type>Red Assault</battle_type>
+      <description>Not defined!</description>
+      <date>14/07/1980</date>
+      <time_of_day>14:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:30</length>
+      <battle_size>Large</battle_size>
+      <Map_Size>
+         <map_area>6.016 Sq. km</map_area>
+         <map_width>3008 m</map_width>
+         <map_depth>2000 m</map_depth>
+      </Map_Size>
+      <region>Germany</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMCW v1.00 to v1.06</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>9</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>NTC Master Map Red Pass</battle_title>
+      </Title>
+      <filename>NTC Master Map Red Pass</filename>
+      <picture_link>scenpics/NTC Master Map Red Pass.bmp</picture_link>
+      <battle_type>Blue Attack</battle_type>
+      <description>Not defined!</description>
+      <date>21/07/1982</date>
+      <time_of_day>13:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:45</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>9.048 Sq. km</map_area>
+         <map_width>3008 m</map_width>
+         <map_depth>3008 m</map_depth>
+      </Map_Size>
+      <region>National Training Center</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Allied Force</early_intel>
+      <game_version>CMCW v1.00 to v1.06</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>NTC master Map North of Brown Pass</battle_title>
+      </Title>
+      <filename>NTC Master Map North of Brown Pass</filename>
+      <picture_link>scenpics/NTC Master Map North of Brown Pass.bmp</picture_link>
+      <battle_type>Blue Attack</battle_type>
+      <description>Not defined!</description>
+      <date>19/07/1982</date>
+      <time_of_day>09:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:40</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>8 Sq. km</map_area>
+         <map_width>4000 m</map_width>
+         <map_depth>2000 m</map_depth>
+      </Map_Size>
+      <region>National Training Center</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Hot</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMCW v1.00 to v1.06</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>ntc</mod_tag>
+      </Mod_Tags>
+      <size_modifier>5</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Dolbach Master Map</battle_title>
+      </Title>
+      <filename>US Campaign Dollbach Master</filename>
+      <picture_link>scenpics/US Campaign Dollbach Master.bmp</picture_link>
+      <battle_type>Blue Attack</battle_type>
+      <description>US Int</description>
+      <date>16/07/1982</date>
+      <time_of_day>16:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:40</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>5.024 Sq. km</map_area>
+         <map_width>2000 m</map_width>
+         <map_depth>2512 m</map_depth>
+      </Map_Size>
+      <region>Germany</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMCW v1.00 to v1.06</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>5</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Starklos 4000 x 3000 - Blank</battle_title>
+      </Title>
+      <filename>Starklos 4000 x 3000 - Blank</filename>
+      <picture_link>scenpics/Starklos 4000 x 3000 - Blank.bmp</picture_link>
+      <battle_type>Blue Attack</battle_type>
+      <description>Not defined!</description>
+      <date>20/06/1979</date>
+      <time_of_day>12:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:30</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>12.032 Sq. km</map_area>
+         <map_width>4000 m</map_width>
+         <map_depth>3008 m</map_depth>
+      </Map_Size>
+      <region>Germany</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMCW v1.00 to v1.06</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>5</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Marborn Master Map</battle_title>
+      </Title>
+      <filename>US Campaign Marborn Master</filename>
+      <picture_link>scenpics/US Campaign Marborn Master.bmp</picture_link>
+      <battle_type>Blue Attack</battle_type>
+      <description>U</description>
+      <date>18/07/1982</date>
+      <time_of_day>09:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:00</length>
+      <battle_size>Large</battle_size>
+      <Map_Size>
+         <map_area>7.508 Sq. km</map_area>
+         <map_width>3008 m</map_width>
+         <map_depth>2496 m</map_depth>
+      </Map_Size>
+      <region>Germany</region>
+      <environment>Open</environment>
+      <weather>Light Rain</weather>
+      <temperature>Cool</temperature>
+      <ground_condition>Damp</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMCW v1.00 to v1.06</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>8</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Eiterfeld Master Map</battle_title>
+      </Title>
+      <filename>Soviet Campaign Eiterfeld Master</filename>
+      <picture_link>scenpics/Soviet Campaign Eiterfeld Master.bmp</picture_link>
+      <battle_type>Red Assault</battle_type>
+      <description>Not defined!</description>
+      <date>13/07/1982</date>
+      <time_of_day>10:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:00</length>
+      <battle_size>Large</battle_size>
+      <Map_Size>
+         <map_area>16 Sq. km</map_area>
+         <map_width>4000 m</map_width>
+         <map_depth>4000 m</map_depth>
+      </Map_Size>
+      <region>Germany</region>
+      <environment>Open</environment>
+      <weather>Light Rain</weather>
+      <temperature>Cool</temperature>
+      <ground_condition>Damp</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMCW v1.00 to v1.06</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>8</size_modifier>
+   </Scenario>
+
+   </Scenario_List>
+</Scenario_Listing>

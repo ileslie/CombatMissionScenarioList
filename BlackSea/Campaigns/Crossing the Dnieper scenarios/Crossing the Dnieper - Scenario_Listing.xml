@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="Listing_Layout.xsl" ?>
+
+<Scenario_Listing>
+
+   <Scenario_List>
+
+   <containing_campaign>Crossing the Dnieper</containing_campaign>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #03]</number_in_campaign>
+         <battle_title>To the Far Bank</battle_title>
+      </Title>
+      <filename>Crossing the Dnieper #03_Crossing the Dnieper Mission 3 2F</filename>
+      <picture_link>scenpics/Crossing the Dnieper3.bmp</picture_link>
+      <battle_type>Red Assault</battle_type>
+      <description>An assault river crossing of the River Dnieper</description>
+      <date>21/06/2017</date>
+      <time_of_day>04:35</time_of_day>
+      <part_of_day>Dawn</part_of_day>
+      <length>02:00</length>
+      <battle_size>Large</battle_size>
+      <Map_Size>
+         <map_area>8.672 Sq. km</map_area>
+         <map_width>4336 m</map_width>
+         <map_depth>2000 m</map_depth>
+      </Map_Size>
+      <region>Unknown</region>
+      <environment>Rough</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>Unknown(137)</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>bs</mod_tag>
+         <mod_tag>trash</mod_tag>
+         <mod_tag>lawn</mod_tag>
+      </Mod_Tags>
+      <size_modifier>9</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #04]</number_in_campaign>
+         <battle_title>First Contact</battle_title>
+      </Title>
+      <filename>Crossing the Dnieper #04_Crossing the Dnieper Mission 4</filename>
+      <picture_link>scenpics/Crossing the Dnieper4.bmp</picture_link>
+      <battle_type>Red Attack</battle_type>
+      <description>The Russian advance drives into the outskirts of Dnipropetrovsk. The first American forces are encountered.</description>
+      <date>22/06/2017</date>
+      <time_of_day>12:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:00</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>0.642 Sq. km</map_area>
+         <map_width>608 m</map_width>
+         <map_depth>1056 m</map_depth>
+      </Map_Size>
+      <region>Ukraine</region>
+      <environment>City</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBS v1.00 to v1.02</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #00]</number_in_campaign>
+         <battle_title>Vesele</battle_title>
+      </Title>
+      <filename>Crossing the Dnieper #00_Crossing the Dnieper Mission 1</filename>
+      <picture_link>scenpics/Crossing the Dnieper0.bmp</picture_link>
+      <battle_type>Red Assault</battle_type>
+      <description>Destroy Ukrainian defenses east of the Dnieper River in preparation for an assault crossing the next morning.</description>
+      <date>20/06/2017</date>
+      <time_of_day>15:30</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:30</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>6.016 Sq. km</map_area>
+         <map_width>3008 m</map_width>
+         <map_depth>2000 m</map_depth>
+      </Map_Size>
+      <region>Ukraine</region>
+      <environment>Hills</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBS v1.00 to v1.02</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #05]</number_in_campaign>
+         <battle_title>Old Town</battle_title>
+      </Title>
+      <filename>Crossing the Dnieper #05_Crossing the Dnieper Mission 5</filename>
+      <picture_link>scenpics/Crossing the Dnieper5.bmp</picture_link>
+      <battle_type>Red Assault</battle_type>
+      <description>Lead an attack to remove American defenses from the outskirts of Dnipropetrovs&apos;k, forcing them to withdraw.</description>
+      <date>23/06/2017</date>
+      <time_of_day>10:10</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>02:30</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>0.498 Sq. km</map_area>
+         <map_width>528 m</map_width>
+         <map_depth>944 m</map_depth>
+      </Map_Size>
+      <region>Ukraine</region>
+      <environment>City</environment>
+      <weather>Thick Haze</weather>
+      <temperature>Cool</temperature>
+      <ground_condition>Very Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBS v1.00 to v1.02</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>lawn</mod_tag>
+         <mod_tag>rubble</mod_tag>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #01]</number_in_campaign>
+         <battle_title>Dnieper Darkness</battle_title>
+      </Title>
+      <filename>Crossing the Dnieper #01_Crossing the Dnieper Mission 2</filename>
+      <picture_link>scenpics/Crossing the Dnieper1.bmp</picture_link>
+      <battle_type>Red Probe</battle_type>
+      <description>Recconiotre and secure the east bank of the Dnieper.</description>
+      <date>22/06/2017</date>
+      <time_of_day>02:35</time_of_day>
+      <part_of_day>Night</part_of_day>
+      <length>01:30</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>4.64 Sq. km</map_area>
+         <map_width>2320 m</map_width>
+         <map_depth>2000 m</map_depth>
+      </Map_Size>
+      <region>Ukraine</region>
+      <environment>Rough</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBS v1.00 to v1.02</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>bs</mod_tag>
+         <mod_tag>trash</mod_tag>
+         <mod_tag>lawn</mod_tag>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #02]</number_in_campaign>
+         <battle_title>To the Far Bank</battle_title>
+      </Title>
+      <filename>Crossing the Dnieper #02_Crossing the Dnieper Mission 3</filename>
+      <picture_link>scenpics/Crossing the Dnieper2.bmp</picture_link>
+      <battle_type>Red Assault</battle_type>
+      <description>An assault river crossing of the River Dnieper</description>
+      <date>21/06/2017</date>
+      <time_of_day>04:35</time_of_day>
+      <part_of_day>Dawn</part_of_day>
+      <length>02:00</length>
+      <battle_size>Large</battle_size>
+      <Map_Size>
+         <map_area>8.672 Sq. km</map_area>
+         <map_width>4336 m</map_width>
+         <map_depth>2000 m</map_depth>
+      </Map_Size>
+      <region>Ukraine</region>
+      <environment>Rough</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Red Force</early_intel>
+      <game_version>CMBS v1.00 to v1.02</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>bs</mod_tag>
+         <mod_tag>trash</mod_tag>
+         <mod_tag>lawn</mod_tag>
+      </Mod_Tags>
+      <size_modifier>9</size_modifier>
+   </Scenario>
+
+   </Scenario_List>
+</Scenario_Listing>

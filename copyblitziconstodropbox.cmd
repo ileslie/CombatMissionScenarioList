@@ -1,0 +1,1 @@
+xcopy P:\ScenarioList\theBlitzIcons D:\Users\Ian\Dropbox\CMScenarioIconsForBlitz /s /d

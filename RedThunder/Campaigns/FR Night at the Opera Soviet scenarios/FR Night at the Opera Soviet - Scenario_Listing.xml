@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="Listing_Layout.xsl" ?>
+
+<Scenario_Listing>
+
+   <Scenario_List>
+
+   <containing_campaign>CMFR Night at the Opera Soviet</containing_campaign>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #01]</number_in_campaign>
+         <battle_title>CMFR Night at the Opera Encore Soviet</battle_title>
+      </Title>
+      <filename>FR Night at the Opera Soviet #01_CMFR Night at the Opera Encore Soviet</filename>
+      <picture_link>scenpics/FR Night at the Opera Soviet1.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>Not defined!</description>
+      <date>27/04/1945</date>
+      <time_of_day>04:30</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>02:00</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>0.914 Sq. km</map_area>
+         <map_width>1328 m</map_width>
+         <map_depth>688 m</map_depth>
+      </Map_Size>
+      <region>Germany</region>
+      <environment>City</environment>
+      <weather>Thick Haze</weather>
+      <temperature>Cool</temperature>
+      <ground_condition>Damp</ground_condition>
+      <early_intel>Allied Force</early_intel>
+      <game_version>pre-release CMRT v2.10</game_version>
+      <Modules_Required>
+         <module1>Fire and Rubble</module1>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>city</mod_tag>
+         <mod_tag>rubble</mod_tag>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #00]</number_in_campaign>
+         <battle_title>CMFR Night at the Opera</battle_title>
+      </Title>
+      <filename>FR Night at the Opera Soviet #00_CMFR Night at the Opera Soviet</filename>
+      <picture_link>scenpics/FR Night at the Opera Soviet0.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>Assault teams force the crossing of the Moltke Bridge, and attempt to seize buildings key to the capture of the Reichstag. Soviet Campaign</description>
+      <date>29/04/1945</date>
+      <time_of_day>19:00</time_of_day>
+      <part_of_day>Dusk</part_of_day>
+      <length>02:00</length>
+      <battle_size>Large</battle_size>
+      <Map_Size>
+         <map_area>0.563 Sq. km</map_area>
+         <map_width>704 m</map_width>
+         <map_depth>800 m</map_depth>
+      </Map_Size>
+      <region>Germany</region>
+      <environment>City</environment>
+      <weather>Thick Haze</weather>
+      <temperature>Cool</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Axis Force</early_intel>
+      <game_version>pre-release CMRT v2.10</game_version>
+      <Modules_Required>
+         <module1>Fire and Rubble</module1>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>city</mod_tag>
+         <mod_tag>rubble</mod_tag>
+         <mod_tag>berlin</mod_tag>
+      </Mod_Tags>
+      <size_modifier>9</size_modifier>
+   </Scenario>
+
+   </Scenario_List>
+</Scenario_Listing>

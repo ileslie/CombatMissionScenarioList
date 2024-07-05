@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scenarios>
+    <scenario author="MOS-96B2P" filename="Alarmeinheiten #00_TOE Choice.btt" stock="y"/>
+    <scenario author="MOS-96B2P" filename="Alarmeinheiten #01_Common TOE.btt" stock="y"/>
+    <scenario author="MOS-96B2P" filename="Alarmeinheiten #02_Mixed TOE.btt" stock="y"/>
+</scenarios>

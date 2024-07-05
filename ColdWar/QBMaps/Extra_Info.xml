@@ -1,118 +1,118 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <scenarios>
-    <scenario author="information unavailable" filename="Aufenau (1888 x 1936) 3obj.btt" stock="y"/>
-    <scenario author="information unavailable" filename="City  (688 X 736) 001 Assault.btt" stock="y"/>
-    <scenario author="information unavailable" filename="City  (688 X 736) 083 Attack.btt" stock="y"/>
-    <scenario author="information unavailable" filename="City  (688 X 736) 167 Probe.btt" stock="y"/>
-    <scenario author="information unavailable" filename="City (688 X 608) 002 Assault.btt" stock="y"/>
-    <scenario author="information unavailable" filename="City (688 X 608) 084 Attack.btt" stock="y"/>
-    <scenario author="information unavailable" filename="City (688 X 608) 168 Probe.btt" stock="y"/>
-    <scenario author="information unavailable" filename="City (688 X 736) 003 Assault.btt" stock="y"/>
-    <scenario author="information unavailable" filename="City (688 X 736) 085 Attack.btt" stock="y"/>
-    <scenario author="information unavailable" filename="City (688 X 736) 169 Probe.btt" stock="y"/>
-    <scenario author="information unavailable" filename="City (704 X 608) 250 Meet.btt" stock="y"/>
-    <scenario author="information unavailable" filename="City (816 X 608) 251 Meet.btt" stock="y"/>
-    <scenario author="information unavailable" filename="City (816 X 688) 252 Meet.btt" stock="y"/>
-    <scenario author="information unavailable" filename="City on Hill (1504 X 608) 004 Assault.btt" stock="y"/>
-    <scenario author="information unavailable" filename="City on Hill (1504 X 608) 086 Attack.btt" stock="y"/>
-    <scenario author="information unavailable" filename="City on Hill (1504 X 608) 170 Probe.btt" stock="y"/>
-    <scenario author="information unavailable" filename="City on Hill-Damaged (1504 X 608) 005 Assault.btt" stock="y"/>
-    <scenario author="information unavailable" filename="City on Hill-Damaged (1504 X 608) 087 Attack.btt" stock="y"/>
-    <scenario author="information unavailable" filename="City on Hill-Damaged (1504 X 608) 171 Probe.btt" stock="y"/>
-    <scenario author="information unavailable" filename="City-Damaged (608 X 912) 006 Assault.btt" stock="y"/>
-    <scenario author="information unavailable" filename="City-Damaged (608 X 912) 088 Attack.btt" stock="y"/>
-    <scenario author="information unavailable" filename="City-Damaged (608 X 912) 172 Probe.btt" stock="y"/>
-    <scenario author="information unavailable" filename="City-Damaged (688 X 608) 007 Assault.btt" stock="y"/>
-    <scenario author="information unavailable" filename="City-Damaged (688 X 608) 089 Attack.btt" stock="y"/>
-    <scenario author="information unavailable" filename="City-Damaged (688 X 608) 173 Probe.btt" stock="y"/>
-    <scenario author="information unavailable" filename="City-Damaged (688 X 736) 008 Assault.btt" stock="y"/>
-    <scenario author="information unavailable" filename="City-Damaged (688 X 736) 090 Attack.btt" stock="y"/>
-    <scenario author="information unavailable" filename="City-Damaged (688 X 736) 174 Probe.btt" stock="y"/>
-    <scenario author="information unavailable" filename="City-Damaged (704 X 608) 253 Meet.btt" stock="y"/>
-    <scenario author="information unavailable" filename="City-Damaged (736 X 800) 254 Meet.btt" stock="y"/>
-    <scenario author="information unavailable" filename="City-Rural (608 X 1200) 255 Meet.btt" stock="y"/>
-    <scenario author="information unavailable" filename="City-Rural-Damaged (608 X 1200) 256 Meet.btt" stock="y"/>
-    <scenario author="information unavailable" filename="City-Water (560 X 1072) 009 Assault.btt" stock="y"/>
-    <scenario author="information unavailable" filename="City-Water (560 X 1072) 091 Attack.btt" stock="y"/>
-    <scenario author="information unavailable" filename="City-Water (560 X 1072) 175 Probe.btt" stock="y"/>
-    <scenario author="information unavailable" filename="City-Water-Damaged (560 X 1072) 010 Assault.btt" stock="y"/>
-    <scenario author="information unavailable" filename="City-Water-Damaged (560 X 1072) 092 Attack.btt" stock="y"/>
-    <scenario author="information unavailable" filename="City-Water-Damaged (560 X 1072) 176 Probe.btt" stock="y"/>
-    <scenario author="information unavailable" filename="City-Water-Rough (640 X 1168) 010 Assault.btt" stock="y"/>
-    <scenario author="information unavailable" filename="City-Water-Rough (640 X 1168) 093 Attack.btt" stock="y"/>
-    <scenario author="information unavailable" filename="City-Water-Rough (640 X 1168) 177 Probe.btt" stock="y"/>
-    <scenario author="information unavailable" filename="City-Water-Rough (640 X 1216) 257 Meet.btt" stock="y"/>
-    <scenario author="information unavailable" filename="CMCW_Cup_Map_A.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Dorfborn (1712x1952).btt" stock="y"/>
-    <scenario author="information unavailable" filename="Forest-Hills (1200 X 608) 012 Assault.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Forest-Hills (1200 X 608) 094 Attack.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Forest-Hills (1200 X 608) 178 Probe.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Forest-Hills-Open (928 X 1056) 258 Meet.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Forest-Rural (1600 X 1041) 259 Meet.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Forest-Rural (1600 X 1600) 013 Assault.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Forest-Rural (1600 X 1600) 095 Attack.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Forest-Rural (1600 X 1600) 179 Probe.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Forest-Water (800 X 336) 014 Assault.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Forest-Water (800 X 336) 096 Attack.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Forest-Water (800 X 336) 180 Probe.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Forest-Water (880 X 336) 260 Meet.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Forest-Water (960 X 528) 261 Meet.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Hill-Water-Village (912 X 816) 022 Assault.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Hill-Water-Village (912 X 816) 105 Attack.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Hill-Water-Village (912 X 816) 188 Probe.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Hills NTC (848 X 1008) 322 Meet.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Hills Rough Water (2512 X 1616) 015 Assault.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Hills Rough Water (2512 X 1616) 097 Attack.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Hills Rough Water (2512 X 1616) 181 Probe.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Hills-Farmland (1344 X 848) 262 Meet.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Hills-Forest (560 X 736) 263 Meet.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Hills-Forest (848 X 1008) 016 Assault.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Hills-Forest (848 X 1008) 098 Attack.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Hills-Forest (848 X 1008) 182 Probe.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Hills-Forest-Open (1200 X 912) 017 Assault.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Hills-Forest-Open (1200 X 912) 099 Attack.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Hills-Forest-Open (1200 X 912) 183 Probe.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Hills-Forest-Open (1504 X 1184) 018 Assault.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Hills-Forest-Open (1504 X 1184) 100 Attack.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Hills-Forest-Open (1504 X 1184) 184 Probe.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Hills-Open-Farmland (752 X 1104) 264 Meet.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Hills-Rough (1200 X 1424) 019 Assault.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Hills-Rough (1200 X 1424) 101 Attack.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Hills-Rough (1200 X 1424) 185 Probe.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Hills-Rural (752 X 1104) 265 Meet.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Hills-Water (1072 X 816) 020 Assault.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Hills-Water (1072 X 816) 103 Attack.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Hills-Water (1072 X 816) 186 Probe.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Hills-Water-Forest  (912 X 512) 266 Meet.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Hills-Water-Forest (912 X 512) 021 Assault.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Hills-Water-Forest (912 X 512) 104 Attack.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Hills-Water-Forest (912 X 512) 187 Probe.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Huge Asintorf-Town (2400 X 2000) 023 Assault.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Huge Asintorf-Town (2400 X 2000) 106 Attack.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Huge Asintorf-Town (2400 X 2000) 189 Probe.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Huge Dam-Rough (2160 X 2784) 024 Assault.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Huge Dam-Rough (2160 X 2784) 107 Attack.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Huge Dam-Rough (2160 X 2784) 190 Probe.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Huge Nottleben-Open (3936 X 992) 025 Assault.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Huge Nottleben-Open (3936 X 992) 108 Attack.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Huge Nottleben-Open (3936 X 992) 191 Probe.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Huge Ortmannsdorf-Village (2192 X 1440) 267 Meet.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Huge Ortmannsdorf-Village (2208 X 1568) 026 Assault.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Huge Ortmannsdorf-Village (2208 X 1568) 109 Attack.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Huge Ortmannsdorf-Village (2208 X 1568) 192 Probe.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Huge Rough-Water (3040 X 2000) 268 Meet.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Huge Rough-Water-Town (3040 X 2000) 027 Assault.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Huge Rough-Water-Town (3040 X 2000) 110 Attack.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Huge Rough-Water-Town (3040 X 2000) 193 Probe.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Huge Town-Military Post (1776 X 2704) 028 Assault.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Huge Town-Military Post (1776 X 2704) 111 Attack.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Huge Town-Military Post (1776 X 2704) 194 Probe.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Huge Town-Rural (2752 X 2256) 029 Assault.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Huge Town-Rural (2752 X 2256) 112 Attack.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Huge Town-Rural (2752 X 2256) 195 Probe.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Kalmus-Rough (1088 X 1104) 030 Assault.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Kalmus-Rough (1088 X 1104) 113 Attack.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Kalmus-Rough (1088 X 1104) 196 Probe.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Aufenau (1888 x 1936) 3obj.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="City  (688 X 736) 001 Assault.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="City  (688 X 736) 083 Attack.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="City  (688 X 736) 167 Probe.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="City (688 X 608) 002 Assault.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="City (688 X 608) 084 Attack.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="City (688 X 608) 168 Probe.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="City (688 X 736) 003 Assault.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="City (688 X 736) 085 Attack.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="City (688 X 736) 169 Probe.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="City (704 X 608) 250 Meet.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="City (816 X 608) 251 Meet.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="City (816 X 688) 252 Meet.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="City on Hill (1504 X 608) 004 Assault.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="City on Hill (1504 X 608) 086 Attack.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="City on Hill (1504 X 608) 170 Probe.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="City on Hill-Damaged (1504 X 608) 005 Assault.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="City on Hill-Damaged (1504 X 608) 087 Attack.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="City on Hill-Damaged (1504 X 608) 171 Probe.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="City-Damaged (608 X 912) 006 Assault.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="City-Damaged (608 X 912) 088 Attack.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="City-Damaged (608 X 912) 172 Probe.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="City-Damaged (688 X 608) 007 Assault.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="City-Damaged (688 X 608) 089 Attack.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="City-Damaged (688 X 608) 173 Probe.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="City-Damaged (688 X 736) 008 Assault.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="City-Damaged (688 X 736) 090 Attack.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="City-Damaged (688 X 736) 174 Probe.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="City-Damaged (704 X 608) 253 Meet.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="City-Damaged (736 X 800) 254 Meet.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="City-Rural (608 X 1200) 255 Meet.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="City-Rural-Damaged (608 X 1200) 256 Meet.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="City-Water (560 X 1072) 009 Assault.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="City-Water (560 X 1072) 091 Attack.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="City-Water (560 X 1072) 175 Probe.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="City-Water-Damaged (560 X 1072) 010 Assault.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="City-Water-Damaged (560 X 1072) 092 Attack.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="City-Water-Damaged (560 X 1072) 176 Probe.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="City-Water-Rough (640 X 1168) 010 Assault.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="City-Water-Rough (640 X 1168) 093 Attack.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="City-Water-Rough (640 X 1168) 177 Probe.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="City-Water-Rough (640 X 1216) 257 Meet.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="CMCW_Cup_Map_A.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Dorfborn (1712x1952).btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Forest-Hills (1200 X 608) 012 Assault.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Forest-Hills (1200 X 608) 094 Attack.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Forest-Hills (1200 X 608) 178 Probe.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Forest-Hills-Open (928 X 1056) 258 Meet.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Forest-Rural (1600 X 1041) 259 Meet.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Forest-Rural (1600 X 1600) 013 Assault.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Forest-Rural (1600 X 1600) 095 Attack.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Forest-Rural (1600 X 1600) 179 Probe.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Forest-Water (800 X 336) 014 Assault.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Forest-Water (800 X 336) 096 Attack.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Forest-Water (800 X 336) 180 Probe.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Forest-Water (880 X 336) 260 Meet.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Forest-Water (960 X 528) 261 Meet.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Hill-Water-Village (912 X 816) 022 Assault.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Hill-Water-Village (912 X 816) 105 Attack.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Hill-Water-Village (912 X 816) 188 Probe.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Hills NTC (848 X 1008) 322 Meet.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Hills Rough Water (2512 X 1616) 015 Assault.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Hills Rough Water (2512 X 1616) 097 Attack.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Hills Rough Water (2512 X 1616) 181 Probe.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Hills-Farmland (1344 X 848) 262 Meet.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Hills-Forest (560 X 736) 263 Meet.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Hills-Forest (848 X 1008) 016 Assault.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Hills-Forest (848 X 1008) 098 Attack.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Hills-Forest (848 X 1008) 182 Probe.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Hills-Forest-Open (1200 X 912) 017 Assault.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Hills-Forest-Open (1200 X 912) 099 Attack.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Hills-Forest-Open (1200 X 912) 183 Probe.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Hills-Forest-Open (1504 X 1184) 018 Assault.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Hills-Forest-Open (1504 X 1184) 100 Attack.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Hills-Forest-Open (1504 X 1184) 184 Probe.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Hills-Open-Farmland (752 X 1104) 264 Meet.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Hills-Rough (1200 X 1424) 019 Assault.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Hills-Rough (1200 X 1424) 101 Attack.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Hills-Rough (1200 X 1424) 185 Probe.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Hills-Rural (752 X 1104) 265 Meet.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Hills-Water (1072 X 816) 020 Assault.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Hills-Water (1072 X 816) 103 Attack.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Hills-Water (1072 X 816) 186 Probe.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Hills-Water-Forest  (912 X 512) 266 Meet.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Hills-Water-Forest (912 X 512) 021 Assault.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Hills-Water-Forest (912 X 512) 104 Attack.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Hills-Water-Forest (912 X 512) 187 Probe.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Huge Asintorf-Town (2400 X 2000) 023 Assault.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Huge Asintorf-Town (2400 X 2000) 106 Attack.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Huge Asintorf-Town (2400 X 2000) 189 Probe.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Huge Dam-Rough (2160 X 2784) 024 Assault.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Huge Dam-Rough (2160 X 2784) 107 Attack.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Huge Dam-Rough (2160 X 2784) 190 Probe.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Huge Nottleben-Open (3936 X 992) 025 Assault.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Huge Nottleben-Open (3936 X 992) 108 Attack.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Huge Nottleben-Open (3936 X 992) 191 Probe.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Huge Ortmannsdorf-Village (2192 X 1440) 267 Meet.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Huge Ortmannsdorf-Village (2208 X 1568) 026 Assault.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Huge Ortmannsdorf-Village (2208 X 1568) 109 Attack.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Huge Ortmannsdorf-Village (2208 X 1568) 192 Probe.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Huge Rough-Water (3040 X 2000) 268 Meet.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Huge Rough-Water-Town (3040 X 2000) 027 Assault.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Huge Rough-Water-Town (3040 X 2000) 110 Attack.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Huge Rough-Water-Town (3040 X 2000) 193 Probe.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Huge Town-Military Post (1776 X 2704) 028 Assault.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Huge Town-Military Post (1776 X 2704) 111 Attack.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Huge Town-Military Post (1776 X 2704) 194 Probe.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Huge Town-Rural (2752 X 2256) 029 Assault.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Huge Town-Rural (2752 X 2256) 112 Attack.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Huge Town-Rural (2752 X 2256) 195 Probe.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Kalmus-Rough (1088 X 1104) 030 Assault.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Kalmus-Rough (1088 X 1104) 113 Attack.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Kalmus-Rough (1088 X 1104) 196 Probe.btt" stock="y"/>
     <scenario author="Bartimeus" filename="Kleinluder.btt">
         <additional_info>A large map (3.1 km per 3.6 km) in agricultural and hilly area of Germany. Use it as you like :-) ! 
         </additional_info>
@@ -120,61 +120,61 @@
             <downloadurl primary="y" who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-cold-war/cm-cold-war-maps/cw-map-kleinluder/</downloadurl>
         </urls_list>
     </scenario>
-    <scenario author="information unavailable" filename="Open (1104 X 784) 031 Assault.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Open (1104 X 784) 114 Attack.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Open (1104 X 784) 197 Probe.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Open (1792 X 816) 269 Meet.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Open (2496 X 1696) 032 Assault.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Open (2496 X 1696) 115 Attack.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Open (2496 X 1696) 198 Probe.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Open (2496 X 1696) 270 Meet.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Open NTC (3008 X 3008) 319 Probe.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Open NTC (3008 X 3008) 320 Attack.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Open NTC (3008 X 3008) 321 Assault.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Open NTC (4000 X 2000) 323 Probe.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Open NTC (4000 X 2000) 324 Attack.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Open NTC (4000 X 2000) 325 Assault.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Open-Farmland (1200 X 800) 271 Meet.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Open-Hills (1248 X 1200) 033 Assault.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Open-Hills (1248 X 1200) 116 Attack.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Open-Hills (1248 X 1200) 199 Probe.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Open-Hills (1248 X 1200) 272 Meet.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Open-Hills-Village (912 X 848) 034 Assault.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Open-Hills-Village (912 X 848) 117 Attack.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Open-Hills-Village (912 X 848) 200 Probe.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Open-Rough (1344 X 848) 274 Meet.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Open-Rough (1536 X 992) 275 Meet.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Open-Rough (1840 X 1242) 035 Assault.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Open-Rough (1840 X 1242) 118 Attack.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Open-Rough (1840 X 1242) 201 Probe.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Open-Rough (880 X 336) 273 Meet.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Open-Rough-Hills (1504 X 1504) 276 Meet.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Open-Rough-Hills (1504 X 1808) 036 Assault.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Open-Rough-Hills (1504 X 1808) 119 Attack.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Open-Rough-Hills (1504 X 1808) 202 Probe.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Open-Rural (672 X 720) 277 Meet.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Open-Rural (944 X 848) 037 Assault.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Open-Rural (944 X 848) 120 Atk Modified.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Open-Rural (944 X 848) 120 Attack.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Open-Rural (944 X 848) 203 Probe.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Open-Rural (944 X 848) 278 Meet.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Open-Rural-Water (912 X 816) 038 Assault.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Open-Rural-Water (912 X 816) 121 Attack.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Open-Rural-Water (912 X 816) 204 Probe.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Open-Village (848 X 1264) 039 Assault.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Open-Village (848 X 1264) 122 Attack.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Open-Village (848 X 1264) 205 Probe.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Open-Village-Damaged (912 X 848) 040 Assault.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Open-Village-Damaged (912 X 848) 123 Attack.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Open-Village-Damaged (912 X 848) 206 Probe.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Plebanie (1200 X 672) 279 Meet.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Plebanie-Open (1200 X 1280) 041 Assault.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Plebanie-Open (1200 X 1280) 124 Attack .btt" stock="y"/>
-    <scenario author="information unavailable" filename="Plebanie-Open (1200 X 1280) 207 Probe.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Podelwitz-Rough (1936 X 1808) 042 Assault.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Podelwitz-Rough (1936 X 1808) 125 Attack.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Podelwitz-Rough (1936 X 1808) 208 Probe.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Podelwitz-Town (1728 X 864) 280 Meet.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Open (1104 X 784) 031 Assault.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Open (1104 X 784) 114 Attack.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Open (1104 X 784) 197 Probe.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Open (1792 X 816) 269 Meet.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Open (2496 X 1696) 032 Assault.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Open (2496 X 1696) 115 Attack.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Open (2496 X 1696) 198 Probe.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Open (2496 X 1696) 270 Meet.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Open NTC (3008 X 3008) 319 Probe.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Open NTC (3008 X 3008) 320 Attack.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Open NTC (3008 X 3008) 321 Assault.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Open NTC (4000 X 2000) 323 Probe.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Open NTC (4000 X 2000) 324 Attack.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Open NTC (4000 X 2000) 325 Assault.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Open-Farmland (1200 X 800) 271 Meet.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Open-Hills (1248 X 1200) 033 Assault.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Open-Hills (1248 X 1200) 116 Attack.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Open-Hills (1248 X 1200) 199 Probe.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Open-Hills (1248 X 1200) 272 Meet.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Open-Hills-Village (912 X 848) 034 Assault.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Open-Hills-Village (912 X 848) 117 Attack.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Open-Hills-Village (912 X 848) 200 Probe.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Open-Rough (1344 X 848) 274 Meet.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Open-Rough (1536 X 992) 275 Meet.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Open-Rough (1840 X 1242) 035 Assault.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Open-Rough (1840 X 1242) 118 Attack.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Open-Rough (1840 X 1242) 201 Probe.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Open-Rough (880 X 336) 273 Meet.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Open-Rough-Hills (1504 X 1504) 276 Meet.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Open-Rough-Hills (1504 X 1808) 036 Assault.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Open-Rough-Hills (1504 X 1808) 119 Attack.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Open-Rough-Hills (1504 X 1808) 202 Probe.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Open-Rural (672 X 720) 277 Meet.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Open-Rural (944 X 848) 037 Assault.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Open-Rural (944 X 848) 120 Atk Modified.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Open-Rural (944 X 848) 120 Attack.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Open-Rural (944 X 848) 203 Probe.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Open-Rural (944 X 848) 278 Meet.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Open-Rural-Water (912 X 816) 038 Assault.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Open-Rural-Water (912 X 816) 121 Attack.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Open-Rural-Water (912 X 816) 204 Probe.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Open-Village (848 X 1264) 039 Assault.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Open-Village (848 X 1264) 122 Attack.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Open-Village (848 X 1264) 205 Probe.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Open-Village-Damaged (912 X 848) 040 Assault.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Open-Village-Damaged (912 X 848) 123 Attack.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Open-Village-Damaged (912 X 848) 206 Probe.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Plebanie (1200 X 672) 279 Meet.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Plebanie-Open (1200 X 1280) 041 Assault.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Plebanie-Open (1200 X 1280) 124 Attack .btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Plebanie-Open (1200 X 1280) 207 Probe.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Podelwitz-Rough (1936 X 1808) 042 Assault.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Podelwitz-Rough (1936 X 1808) 125 Attack.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Podelwitz-Rough (1936 X 1808) 208 Probe.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Podelwitz-Town (1728 X 864) 280 Meet.btt" stock="y"/>
     <scenario author="Bartimeus" filename="Rixfeld.btt">
         <additional_info>Large map for CW : 3.8 km per 3.4 km. Empty of objective and deployment zone. Rural are very open with fields, a river and a little town. Make it your own
         </additional_info>
@@ -182,33 +182,33 @@
             <downloadurl primary="y" who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-cold-war/cm-cold-war-maps/cw-map-rixfeld/</downloadurl>
         </urls_list>
     </scenario>
-    <scenario author="information unavailable" filename="Rough-Hills (544 X 1344) 281 Meet.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Rough-Village (1072 X 896) 282 Meet.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Rough-Village-Damaged (1072 X 896) 283 Meet.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Rough-Water (1088 X 1088) 043 Assault.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Rough-Water (1088 X 1088) 126 Attack.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Rough-Water (1088 X 1088) 209 Probe.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Rough-Water (1088 X 1088) 284 Meet.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Rough-Water-Village (1200 X 1136) 044 Assault.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Rough-Water-Village (1200 X 1136) 127 Attack.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Rough-Water-Village (1200 X 1136) 210 Probe.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Rubkow-Town (1088 X 640) 045 Assault.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Rubkow-Town (1088 X 640) 128 Attack.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Rubkow-Town (1088 X 640) 211 Probe.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Small City-Water (400 X 816) 285 Meet.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Small City-Water (416 X 848) 046 Assault.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Small City-Water (416 X 848) 129 Attack.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Small City-Water (416 X 848) 212 Probe.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Small Hills-Forest (560 X 784) 047 Assault.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Small Hills-Forest (560 X 784) 130 Attack.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Small Hills-Forest (560 X 784) 213 Probe.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Small Hills-Forest (624 X 528) 048 Assault.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Small Hills-Forest (624 X 528) 131 Attack.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Small Hills-Forest (624 X 528) 214 Probe.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Small Hills-Forest-Village (368 X592) 286 Meet.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Small Town-Forest (656 X 688) 049 Assault.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Small Town-Forest (656 X 688) 132 Attack.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Small Town-Forest (656 X 688) 215 Probe.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Rough-Hills (544 X 1344) 281 Meet.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Rough-Village (1072 X 896) 282 Meet.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Rough-Village-Damaged (1072 X 896) 283 Meet.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Rough-Water (1088 X 1088) 043 Assault.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Rough-Water (1088 X 1088) 126 Attack.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Rough-Water (1088 X 1088) 209 Probe.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Rough-Water (1088 X 1088) 284 Meet.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Rough-Water-Village (1200 X 1136) 044 Assault.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Rough-Water-Village (1200 X 1136) 127 Attack.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Rough-Water-Village (1200 X 1136) 210 Probe.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Rubkow-Town (1088 X 640) 045 Assault.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Rubkow-Town (1088 X 640) 128 Attack.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Rubkow-Town (1088 X 640) 211 Probe.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Small City-Water (400 X 816) 285 Meet.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Small City-Water (416 X 848) 046 Assault.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Small City-Water (416 X 848) 129 Attack.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Small City-Water (416 X 848) 212 Probe.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Small Hills-Forest (560 X 784) 047 Assault.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Small Hills-Forest (560 X 784) 130 Attack.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Small Hills-Forest (560 X 784) 213 Probe.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Small Hills-Forest (624 X 528) 048 Assault.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Small Hills-Forest (624 X 528) 131 Attack.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Small Hills-Forest (624 X 528) 214 Probe.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Small Hills-Forest-Village (368 X592) 286 Meet.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Small Town-Forest (656 X 688) 049 Assault.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Small Town-Forest (656 X 688) 132 Attack.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Small Town-Forest (656 X 688) 215 Probe.btt" stock="y"/>
     <scenario author="Bartimeus" filename="Small Valley - Meeting Engagement.btt">
         <additional_info>A medium map (3.1 km per 1.6 km) for quick battle. Versions with attack from the east or the west in the packs. 
         </additional_info>
@@ -258,146 +258,146 @@
             <downloadurl primary="y" who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-cold-war/cmcw-little-valley-qb-pack/</downloadurl>
         </urls_list>
     </scenario>
-    <scenario author="information unavailable" filename="Small Village (554 X 848) 050 Assault.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Small Village (554 X 848) 133 Attack.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Small Village (554 X 848) 216 Probe.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Small Village (976 X 400) 287 Meet.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Small Village-Damaged (554 X 848) 051 Assault.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Small Village-Damaged (554 X 848) 134 Attack.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Small Village-Damaged (554 X 848) 217 Probe.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Small Village-Forest (896 X 400) 052 Assault.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Small Village-Forest (896 X 400) 135 Attack.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Small Village-Forest (896 X 400) 218 Probe.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Small Village-Open (640 X 640) 288 Meet.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Studnitz-Town (1376 X 816) 053 Assault.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Studnitz-Town (1376 X 816) 136 Attack.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Studnitz-Town (1376 X 816) 219 Probe.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Small Village (554 X 848) 050 Assault.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Small Village (554 X 848) 133 Attack.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Small Village (554 X 848) 216 Probe.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Small Village (976 X 400) 287 Meet.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Small Village-Damaged (554 X 848) 051 Assault.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Small Village-Damaged (554 X 848) 134 Attack.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Small Village-Damaged (554 X 848) 217 Probe.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Small Village-Forest (896 X 400) 052 Assault.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Small Village-Forest (896 X 400) 135 Attack.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Small Village-Forest (896 X 400) 218 Probe.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Small Village-Open (640 X 640) 288 Meet.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Studnitz-Town (1376 X 816) 053 Assault.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Studnitz-Town (1376 X 816) 136 Attack.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Studnitz-Town (1376 X 816) 219 Probe.btt" stock="y"/>
     <scenario author="grrrrobots" filename="ThreeVillagesQB.btt">
         <urls_list>
             <downloadurl primary="y" who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-cold-war/cm-cold-war-maps/cmcw-three-villages-qb-map/</downloadurl>
         </urls_list>
     </scenario>
-    <scenario author="information unavailable" filename="Tiny Going to Town (320 X 400) 054 Assault.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Tiny Going to Town (320 X 400) 137 Attack.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Tiny Going to Town (320 X 400) 220 Probe.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Tiny Going To Town (320 X 464) 289 Meet.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Tiny Town (288 X 288) 290 Meet.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Tiny Town (384 X 320) 055 Assault.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Tiny Town (384 X 320) 138 Attack.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Tiny Town (384 X 320) 221 Probe.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Tiny Town (624 X 288) 291 Meet.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Tiny Town-Damage (384 X 320) 056 Assault.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Tiny Town-Damage (384 X 320) 139 Attack.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Tiny Town-Damage (384 X 320) 222 Probe.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Tiny Town-Damaged (288 X 288) 292 Meet.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Tiny Town-Damaged (624 X 288) 293 Meet.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Town (1200 X 832)  296 Meet.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Town (1200 X 832) 057 Assault.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Town (1200 X 832) 140 Attack.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Town (1200 X 832) 223 Probe.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Town (1504 X 1200) 058 Assault.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Town (1504 X 1200) 141 Attack.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Town (1504 X 1200) 224 Probe.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Town (672 X 720) 294 Meet.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Town (704 X 1024) 318 Meet.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Town (704 X 512) 295 Meet.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Town-Damaged (704 X 512) 297 Meet.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Town-Forest (720 X 1024) 059 Assault.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Town-Forest (720 X 1024) 142 Attack.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Town-Forest (720 X 1024) 225 Probe.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Town-Forest (720 X 1184) 298 Meet.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Town-Forest (832 X 608) 060 Assault.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Town-Forest (832 X 608) 143 Attack.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Town-Forest (832 X 608) 226 Probe.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Town-Forest-Damaged (832 X 608) 061 Assault.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Town-Forest-Damaged (832 X 608) 144 Attack.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Town-Forest-Damaged (832 X 608) 227 Probe.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Town-Forest-River (1504 X 1108) 062 Assault.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Town-Forest-River (1504 X 1108) 145 Attack.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Town-Forest-River (1504 X 1108) 228 Probe.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Town-Hills (1568 X 1568) 301 Meet.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Town-Hills (608 X 1152) 063 Assault.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Town-Hills (608 X 1152) 146 Attack.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Town-Hills (608 X 1152) 229 Probe.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Town-Hills (608 X 1504) 299 Meet.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Town-Hills (800 X 1008) 300 Meet.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Town-Hills (800 X 928) 064 Assault.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Town-Hills (800 X 928) 147 Attack MOD.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Town-Hills (800 X 928) 147 Attack.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Town-Hills (800 X 928) 230 Probe.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Town-Hills-Damaged (800 X 1008) 302 Meet.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Town-Hills-Damaged (800 X 1008) 303 Meet.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Town-Hills-Damaged (800 X 928) 065 Assault.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Town-Hills-Damaged (800 X 928) 148 Attack.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Town-Hills-Damaged (800 X 928) 231 Probe.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Town-Hills-Water (1568 X 1568) 304 Meet.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Town-Rough-Forest (1520 X 1408) 066 Assault.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Town-Rough-Forest (1520 X 1408) 149 Attack.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Town-Rough-Forest (1520 X 1408) 232 Probe.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Town-Rural (1600 X 1600) 068 Assault.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Town-Rural (1600 X 1600) 151 Attack.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Town-Rural (1600 X 1600) 234 Probe.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Town-Rural (832 X 736) 067 Assault.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Town-Rural (832 X 736) 150 Attack.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Town-Rural (832 X 736) 233 Probe.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Town-Water (1504 X 1008) 069 Assault.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Town-Water (1504 X 1008) 152 Attack.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Town-Water (1504 X 1008) 235 Probe.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Village  (1792 X 1328) 236 Probe.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Village  (1792 X 1328) 305 Meet.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Village (1792 X 1328) 071 Assault.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Village (1792 X1398) 154 Attack.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Village (464 X 784) 315 Assault.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Village (464 X 784) 316 Attack.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Village (464 X 784) 317 Probe.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Village (544 X 800) 070 Assault.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Village (544 X 800) 153 Attack.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Village (544 X 800) 237 Probe.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Village-Forest (1008 X 992) 308 Meet.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Village-Forest (1040 X 848) 073 Assault.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Village-Forest (1040 X 848) 156 Attack.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Village-Forest (1040 X 848) 239 Probe.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Village-Forest (1744 X 1104) 312 Attack.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Village-Forest (1744 X 1104) 313 Assault.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Village-Forest (1744 X 1104) 314 Probe.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Village-Forest (720 X 496) 072 Assault.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Village-Forest (720 X 496) 155 Attack.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Village-Forest (720 X 496) 238 Probe.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Village-Forest (768 X 496) 306 Meet.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Village-Forest (928 X 922) 307 Meet.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Village-Hills (1568 X 1568) 011 Assault.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Village-Hills (1568 X 1568) 161 Attack.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Village-Hills (1568 X 1568) 244 Probe.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Village-Hills (608 X 1152) 074 Assault.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Village-Hills (608 X 1152) 157 Attack.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Village-Hills (608 X 1152) 240 Probe.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Village-Hills (688 X 736) 075 Assault.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Village-Hills (688 X 736) 158 Attack.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Village-Hills (688 X 736) 241 Probe.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Village-Hills (912 X 512) 076 Assault.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Village-Hills (912 X 512) 159 Attack.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Village-Hills (912 X 512) 242 Probe.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Village-Hills (912 X 816) 077 Assault.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Village-Hills (912 X 816) 160 Attack.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Village-Hills (912 X 816) 243 Probe.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Village-Hills-Damaged (912 X 816) 078 Assault.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Village-Hills-Damaged (912 X 816) 162 Attack.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Village-Hills-Damaged (912 X 816) 245 Probe.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Village-Hills-Forest (736 X 544) 309 Meet.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Village-Hills-Forest-Damaged (736 X 544) 310 Meet.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Village-Water (560 X 912) 079 Assault.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Village-Water (560 X 912) 163 Attack.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Village-Water (560 X 912) 246 Probe.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Village-Water (848 X 1264) 080 Assault.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Village-Water (848 X 1264) 164 Attack.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Village-Water (848 X 1264) 247 Probe.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Voloskersdorf-Village (1456 X 848) 165 Attack.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Volpersdorf-Village (1456 X 848) 081 Assault.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Volpersdorf-Village (1456 X 848) 248 Probe.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Wiktorow-Open (1600 X 1040) 311 Meet.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Zodel-Rough (1200 X 1136) 082 Assault.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Zodel-Rough (1200 X 1136) 166 Attack.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Zodel-Rough (1200 X 1136) 249 Probe.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Tiny Going to Town (320 X 400) 054 Assault.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Tiny Going to Town (320 X 400) 137 Attack.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Tiny Going to Town (320 X 400) 220 Probe.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Tiny Going To Town (320 X 464) 289 Meet.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Tiny Town (288 X 288) 290 Meet.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Tiny Town (384 X 320) 055 Assault.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Tiny Town (384 X 320) 138 Attack.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Tiny Town (384 X 320) 221 Probe.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Tiny Town (624 X 288) 291 Meet.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Tiny Town-Damage (384 X 320) 056 Assault.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Tiny Town-Damage (384 X 320) 139 Attack.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Tiny Town-Damage (384 X 320) 222 Probe.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Tiny Town-Damaged (288 X 288) 292 Meet.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Tiny Town-Damaged (624 X 288) 293 Meet.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Town (1200 X 832)  296 Meet.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Town (1200 X 832) 057 Assault.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Town (1200 X 832) 140 Attack.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Town (1200 X 832) 223 Probe.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Town (1504 X 1200) 058 Assault.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Town (1504 X 1200) 141 Attack.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Town (1504 X 1200) 224 Probe.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Town (672 X 720) 294 Meet.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Town (704 X 1024) 318 Meet.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Town (704 X 512) 295 Meet.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Town-Damaged (704 X 512) 297 Meet.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Town-Forest (720 X 1024) 059 Assault.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Town-Forest (720 X 1024) 142 Attack.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Town-Forest (720 X 1024) 225 Probe.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Town-Forest (720 X 1184) 298 Meet.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Town-Forest (832 X 608) 060 Assault.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Town-Forest (832 X 608) 143 Attack.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Town-Forest (832 X 608) 226 Probe.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Town-Forest-Damaged (832 X 608) 061 Assault.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Town-Forest-Damaged (832 X 608) 144 Attack.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Town-Forest-Damaged (832 X 608) 227 Probe.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Town-Forest-River (1504 X 1108) 062 Assault.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Town-Forest-River (1504 X 1108) 145 Attack.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Town-Forest-River (1504 X 1108) 228 Probe.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Town-Hills (1568 X 1568) 301 Meet.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Town-Hills (608 X 1152) 063 Assault.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Town-Hills (608 X 1152) 146 Attack.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Town-Hills (608 X 1152) 229 Probe.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Town-Hills (608 X 1504) 299 Meet.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Town-Hills (800 X 1008) 300 Meet.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Town-Hills (800 X 928) 064 Assault.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Town-Hills (800 X 928) 147 Attack MOD.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Town-Hills (800 X 928) 147 Attack.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Town-Hills (800 X 928) 230 Probe.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Town-Hills-Damaged (800 X 1008) 302 Meet.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Town-Hills-Damaged (800 X 1008) 303 Meet.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Town-Hills-Damaged (800 X 928) 065 Assault.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Town-Hills-Damaged (800 X 928) 148 Attack.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Town-Hills-Damaged (800 X 928) 231 Probe.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Town-Hills-Water (1568 X 1568) 304 Meet.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Town-Rough-Forest (1520 X 1408) 066 Assault.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Town-Rough-Forest (1520 X 1408) 149 Attack.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Town-Rough-Forest (1520 X 1408) 232 Probe.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Town-Rural (1600 X 1600) 068 Assault.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Town-Rural (1600 X 1600) 151 Attack.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Town-Rural (1600 X 1600) 234 Probe.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Town-Rural (832 X 736) 067 Assault.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Town-Rural (832 X 736) 150 Attack.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Town-Rural (832 X 736) 233 Probe.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Town-Water (1504 X 1008) 069 Assault.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Town-Water (1504 X 1008) 152 Attack.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Town-Water (1504 X 1008) 235 Probe.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Village  (1792 X 1328) 236 Probe.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Village  (1792 X 1328) 305 Meet.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Village (1792 X 1328) 071 Assault.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Village (1792 X1398) 154 Attack.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Village (464 X 784) 315 Assault.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Village (464 X 784) 316 Attack.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Village (464 X 784) 317 Probe.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Village (544 X 800) 070 Assault.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Village (544 X 800) 153 Attack.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Village (544 X 800) 237 Probe.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Village-Forest (1008 X 992) 308 Meet.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Village-Forest (1040 X 848) 073 Assault.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Village-Forest (1040 X 848) 156 Attack.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Village-Forest (1040 X 848) 239 Probe.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Village-Forest (1744 X 1104) 312 Attack.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Village-Forest (1744 X 1104) 313 Assault.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Village-Forest (1744 X 1104) 314 Probe.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Village-Forest (720 X 496) 072 Assault.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Village-Forest (720 X 496) 155 Attack.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Village-Forest (720 X 496) 238 Probe.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Village-Forest (768 X 496) 306 Meet.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Village-Forest (928 X 922) 307 Meet.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Village-Hills (1568 X 1568) 011 Assault.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Village-Hills (1568 X 1568) 161 Attack.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Village-Hills (1568 X 1568) 244 Probe.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Village-Hills (608 X 1152) 074 Assault.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Village-Hills (608 X 1152) 157 Attack.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Village-Hills (608 X 1152) 240 Probe.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Village-Hills (688 X 736) 075 Assault.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Village-Hills (688 X 736) 158 Attack.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Village-Hills (688 X 736) 241 Probe.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Village-Hills (912 X 512) 076 Assault.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Village-Hills (912 X 512) 159 Attack.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Village-Hills (912 X 512) 242 Probe.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Village-Hills (912 X 816) 077 Assault.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Village-Hills (912 X 816) 160 Attack.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Village-Hills (912 X 816) 243 Probe.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Village-Hills-Damaged (912 X 816) 078 Assault.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Village-Hills-Damaged (912 X 816) 162 Attack.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Village-Hills-Damaged (912 X 816) 245 Probe.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Village-Hills-Forest (736 X 544) 309 Meet.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Village-Hills-Forest-Damaged (736 X 544) 310 Meet.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Village-Water (560 X 912) 079 Assault.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Village-Water (560 X 912) 163 Attack.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Village-Water (560 X 912) 246 Probe.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Village-Water (848 X 1264) 080 Assault.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Village-Water (848 X 1264) 164 Attack.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Village-Water (848 X 1264) 247 Probe.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Voloskersdorf-Village (1456 X 848) 165 Attack.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Volpersdorf-Village (1456 X 848) 081 Assault.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Volpersdorf-Village (1456 X 848) 248 Probe.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Wiktorow-Open (1600 X 1040) 311 Meet.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Zodel-Rough (1200 X 1136) 082 Assault.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Zodel-Rough (1200 X 1136) 166 Attack.btt" stock="y"/>
+    <scenario author="IICptMillerII" filename="Zodel-Rough (1200 X 1136) 249 Probe.btt" stock="y"/>
 
 <!--    <scenario author="" filename=""> -->
 <!--        <additional_info> -->

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scenarios>
+    <scenario author="benpark" filename="FR Broken Shields #00_G1 Through the Woods.btt" stock="y"/>
+    <scenario author="benpark" filename="FR Broken Shields #01_G2 Mountain Jam.btt" stock="y"/>
+    <scenario author="benpark" filename="FR Broken Shields #02_G3 Unleashed.btt" stock="y"/>
+    <scenario author="benpark" filename="FR Broken Shields #03_G4 Snow Blind.btt" stock="y"/>
+    <scenario author="benpark" filename="FR Broken Shields #04_G5 Storming the Castle Loss.btt" stock="y"/>
+    <scenario author="benpark" filename="FR Broken Shields #05_G5 Storming the Castle.btt" stock="y"/>
+    <scenario author="benpark" filename="FR Broken Shields #06_G6W Budapest Breakout.btt" stock="y"/>
+    <scenario author="benpark" filename="FR Broken Shields #07_G6 Balatonfkajar.btt" stock="y"/>
+    <scenario author="benpark" filename="FR Broken Shields #08_G7 Pettend.btt" stock="y"/>
+    <scenario author="benpark" filename="FR Broken Shields #09_G8 Szekesfehervar.btt" stock="y"/>
+    <scenario author="benpark" filename="FR Broken Shields #10_G9 Pettend RR Embankment.btt" stock="y"/>
+    <scenario author="benpark" filename="FR Broken Shields #11_G10 The Whirlwind.btt" stock="y"/>
+</scenarios>
