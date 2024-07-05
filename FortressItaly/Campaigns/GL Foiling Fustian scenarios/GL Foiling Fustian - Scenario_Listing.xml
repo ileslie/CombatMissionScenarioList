@@ -9,70 +9,36 @@
 
    <Scenario>
       <Title>
-         <number_in_campaign>[Campaign Battle #04]</number_in_campaign>
-         <battle_title>Death In The Fog</battle_title>
+         <number_in_campaign>[Campaign Battle #06]</number_in_campaign>
+         <battle_title>Burning Bridges</battle_title>
       </Title>
-      <filename>GL Foiling Fustian #04_FJ Mission 4</filename>
-      <picture_link>scenpics/GL Foiling Fustian4.bmp</picture_link>
-      <battle_type>Meeting Engagement</battle_type>
-      <description>The Britsh mount a suprise nighttime crossing of the Simeto River, gaining a bridgehead on the north bank. In the morning fog the Germans counterattack.</description>
-      <date>16/07/1943</date>
-      <time_of_day>05:30</time_of_day>
-      <part_of_day>Day</part_of_day>
+      <filename>GL Foiling Fustian #06_FJ Mission 5</filename>
+      <picture_link>scenpics/GL Foiling Fustian6.bmp</picture_link>
+      <battle_type>Axis Attack</battle_type>
+      <description>Having determined that the British can no longer be held back, the Fallschirmjäger load up aircraft bombs onto trucks and attempt to detonate them on Primosole Bridge.</description>
+      <date>17/07/1943</date>
+      <time_of_day>06:00</time_of_day>
+      <part_of_day>Dawn</part_of_day>
       <length>01:00</length>
-      <battle_size>Medium</battle_size>
+      <battle_size>Large</battle_size>
       <Map_Size>
-         <map_area>0.853 Sq. km</map_area>
-         <map_width>784 m</map_width>
-         <map_depth>1088 m</map_depth>
+         <map_area>0.978 Sq. km</map_area>
+         <map_width>912 m</map_width>
+         <map_depth>1072 m</map_depth>
       </Map_Size>
       <region>Italy</region>
       <environment>Open</environment>
-      <weather>Heavy Fog</weather>
-      <temperature>Cold</temperature>
+      <weather>Light Fog</weather>
+      <temperature>Cool</temperature>
       <ground_condition>Damp</ground_condition>
-      <early_intel>Neither</early_intel>
+      <early_intel>Axis Force</early_intel>
       <game_version>CMFI v1.10</game_version>
       <Modules_Required>
          <module1>Gustav Line</module1>
       </Modules_Required>
       <Mod_Tags>
       </Mod_Tags>
-      <size_modifier>6</size_modifier>
-   </Scenario>
-
-   <Scenario>
-      <Title>
-         <number_in_campaign>[Campaign Battle #05]</number_in_campaign>
-         <battle_title>Death In The Fog</battle_title>
-      </Title>
-      <filename>GL Foiling Fustian #05_FJ Mission 4F</filename>
-      <picture_link>scenpics/GL Foiling Fustian5.bmp</picture_link>
-      <battle_type>Meeting Engagement</battle_type>
-      <description>The Britsh mount a suprise nighttime crossing of the Simeto River, gaining a bridgehead on the north bank. In the morning fog the Germans counterattack.</description>
-      <date>16/07/1943</date>
-      <time_of_day>05:30</time_of_day>
-      <part_of_day>Day</part_of_day>
-      <length>01:00</length>
-      <battle_size>Medium</battle_size>
-      <Map_Size>
-         <map_area>0.853 Sq. km</map_area>
-         <map_width>784 m</map_width>
-         <map_depth>1088 m</map_depth>
-      </Map_Size>
-      <region>Italy</region>
-      <environment>Open</environment>
-      <weather>Heavy Fog</weather>
-      <temperature>Cold</temperature>
-      <ground_condition>Damp</ground_condition>
-      <early_intel>Neither</early_intel>
-      <game_version>CMFI v1.10</game_version>
-      <Modules_Required>
-         <module1>Gustav Line</module1>
-      </Modules_Required>
-      <Mod_Tags>
-      </Mod_Tags>
-      <size_modifier>6</size_modifier>
+      <size_modifier>8</size_modifier>
    </Scenario>
 
    <Scenario>
@@ -82,6 +48,40 @@
       </Title>
       <filename>GL Foiling Fustian #02_FJ Mission 3</filename>
       <picture_link>scenpics/GL Foiling Fustian2.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>The Durham Light Infantry, complete with tank support, arrives to wrest control of Primosole Birdge.</description>
+      <date>15/07/1943</date>
+      <time_of_day>08:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:35</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>1.248 Sq. km</map_area>
+         <map_width>1200 m</map_width>
+         <map_depth>1040 m</map_depth>
+      </Map_Size>
+      <region>Italy</region>
+      <environment>Open</environment>
+      <weather>Mist</weather>
+      <temperature>Cool</temperature>
+      <ground_condition>Very Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFI v1.10</game_version>
+      <Modules_Required>
+         <module1>Gustav Line</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>5</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #03]</number_in_campaign>
+         <battle_title>Onslaught</battle_title>
+      </Title>
+      <filename>GL Foiling Fustian #03_FJ Mission 3F</filename>
+      <picture_link>scenpics/GL Foiling Fustian3.bmp</picture_link>
       <battle_type>Allied Attack</battle_type>
       <description>The Durham Light Infantry, complete with tank support, arrives to wrest control of Primosole Birdge.</description>
       <date>15/07/1943</date>
@@ -179,28 +179,28 @@
 
    <Scenario>
       <Title>
-         <number_in_campaign>[Campaign Battle #03]</number_in_campaign>
-         <battle_title>Onslaught</battle_title>
+         <number_in_campaign>[Campaign Battle #04]</number_in_campaign>
+         <battle_title>Death In The Fog</battle_title>
       </Title>
-      <filename>GL Foiling Fustian #03_FJ Mission 3F</filename>
-      <picture_link>scenpics/GL Foiling Fustian3.bmp</picture_link>
-      <battle_type>Allied Attack</battle_type>
-      <description>The Durham Light Infantry, complete with tank support, arrives to wrest control of Primosole Birdge.</description>
-      <date>15/07/1943</date>
-      <time_of_day>08:00</time_of_day>
+      <filename>GL Foiling Fustian #04_FJ Mission 4</filename>
+      <picture_link>scenpics/GL Foiling Fustian4.bmp</picture_link>
+      <battle_type>Meeting Engagement</battle_type>
+      <description>The Britsh mount a suprise nighttime crossing of the Simeto River, gaining a bridgehead on the north bank. In the morning fog the Germans counterattack.</description>
+      <date>16/07/1943</date>
+      <time_of_day>05:30</time_of_day>
       <part_of_day>Day</part_of_day>
-      <length>00:35</length>
+      <length>01:00</length>
       <battle_size>Medium</battle_size>
       <Map_Size>
-         <map_area>1.248 Sq. km</map_area>
-         <map_width>1200 m</map_width>
-         <map_depth>1040 m</map_depth>
+         <map_area>0.853 Sq. km</map_area>
+         <map_width>784 m</map_width>
+         <map_depth>1088 m</map_depth>
       </Map_Size>
       <region>Italy</region>
       <environment>Open</environment>
-      <weather>Mist</weather>
-      <temperature>Cool</temperature>
-      <ground_condition>Very Dry</ground_condition>
+      <weather>Heavy Fog</weather>
+      <temperature>Cold</temperature>
+      <ground_condition>Damp</ground_condition>
       <early_intel>Neither</early_intel>
       <game_version>CMFI v1.10</game_version>
       <Modules_Required>
@@ -208,41 +208,41 @@
       </Modules_Required>
       <Mod_Tags>
       </Mod_Tags>
-      <size_modifier>5</size_modifier>
+      <size_modifier>6</size_modifier>
    </Scenario>
 
    <Scenario>
       <Title>
-         <number_in_campaign>[Campaign Battle #06]</number_in_campaign>
-         <battle_title>Burning Bridges</battle_title>
+         <number_in_campaign>[Campaign Battle #05]</number_in_campaign>
+         <battle_title>Death In The Fog</battle_title>
       </Title>
-      <filename>GL Foiling Fustian #06_FJ Mission 5</filename>
-      <picture_link>scenpics/GL Foiling Fustian6.bmp</picture_link>
-      <battle_type>Axis Attack</battle_type>
-      <description>Having determined that the British can no longer be held back, the Fallschirmjäger load up aircraft bombs onto trucks and attempt to detonate them on Primosole Bridge.</description>
-      <date>17/07/1943</date>
-      <time_of_day>06:00</time_of_day>
-      <part_of_day>Dawn</part_of_day>
+      <filename>GL Foiling Fustian #05_FJ Mission 4F</filename>
+      <picture_link>scenpics/GL Foiling Fustian5.bmp</picture_link>
+      <battle_type>Meeting Engagement</battle_type>
+      <description>The Britsh mount a suprise nighttime crossing of the Simeto River, gaining a bridgehead on the north bank. In the morning fog the Germans counterattack.</description>
+      <date>16/07/1943</date>
+      <time_of_day>05:30</time_of_day>
+      <part_of_day>Day</part_of_day>
       <length>01:00</length>
-      <battle_size>Large</battle_size>
+      <battle_size>Medium</battle_size>
       <Map_Size>
-         <map_area>0.978 Sq. km</map_area>
-         <map_width>912 m</map_width>
-         <map_depth>1072 m</map_depth>
+         <map_area>0.853 Sq. km</map_area>
+         <map_width>784 m</map_width>
+         <map_depth>1088 m</map_depth>
       </Map_Size>
       <region>Italy</region>
       <environment>Open</environment>
-      <weather>Light Fog</weather>
-      <temperature>Cool</temperature>
+      <weather>Heavy Fog</weather>
+      <temperature>Cold</temperature>
       <ground_condition>Damp</ground_condition>
-      <early_intel>Axis Force</early_intel>
+      <early_intel>Neither</early_intel>
       <game_version>CMFI v1.10</game_version>
       <Modules_Required>
          <module1>Gustav Line</module1>
       </Modules_Required>
       <Mod_Tags>
       </Mod_Tags>
-      <size_modifier>8</size_modifier>
+      <size_modifier>6</size_modifier>
    </Scenario>
 
    </Scenario_List>

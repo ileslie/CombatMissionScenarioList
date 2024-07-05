@@ -1,0 +1,589 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="Listing_Layout.xsl" ?>
+
+<Scenario_Listing>
+
+   <Scenario_List>
+
+   <containing_campaign>CP SoD Chapter V Tiger Trail</containing_campaign>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #04]</number_in_campaign>
+         <battle_title>TT Knights Cross Day</battle_title>
+      </Title>
+      <filename>CP SoD Chapter V Tiger Trail #04_TT Knights Cross Day</filename>
+      <picture_link>scenpics/CP SoD Chapter V Tiger Trail4.bmp</picture_link>
+      <battle_type>Axis Attack</battle_type>
+      <description>17/07/1944 The Soviets have established a Bridgehead in the southern part of Grodno. This bridgehead is to be destroyed at all costs.</description>
+      <date>17/07/1944</date>
+      <time_of_day>16:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>02:30</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>0.502 Sq. km</map_area>
+         <map_width>640 m</map_width>
+         <map_depth>784 m</map_depth>
+      </Map_Size>
+      <region>Eastern Europe</region>
+      <environment>City</environment>
+      <weather>Thick Haze</weather>
+      <temperature>Hot</temperature>
+      <ground_condition>Very Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMRT v2.10 to v2.13</game_version>
+      <Modules_Required>
+         <module1>Fire and Rubble</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #10]</number_in_campaign>
+         <battle_title>TT Threatening Surprise</battle_title>
+      </Title>
+      <filename>CP SoD Chapter V Tiger Trail #10_TT Threatening Surprise</filename>
+      <picture_link>scenpics/CP SoD Chapter V Tiger Trail10.bmp</picture_link>
+      <battle_type>Meeting Engagement</battle_type>
+      <description>20/07/1944 fierce fighting around Adamowicze when Soveit attempt to break through the German Lines</description>
+      <date>20/07/1944</date>
+      <time_of_day>15:30</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>02:00</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>3.548 Sq. km</map_area>
+         <map_width>2112 m</map_width>
+         <map_depth>1680 m</map_depth>
+      </Map_Size>
+      <region>Eastern Europe</region>
+      <environment>Village</environment>
+      <weather>Thick Haze</weather>
+      <temperature>Hot</temperature>
+      <ground_condition>Very Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMRT v2.10 to v2.13</game_version>
+      <Modules_Required>
+         <module1>Fire and Rubble</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #00]</number_in_campaign>
+         <battle_title>TT Lososna Bridge</battle_title>
+      </Title>
+      <filename>CP SoD Chapter V Tiger Trail #00_TT Lososna Bridge</filename>
+      <picture_link>scenpics/CP SoD Chapter V Tiger Trail0.bmp</picture_link>
+      <battle_type>Meeting Engagement</battle_type>
+      <description>16/07/1944 first clash with the Soviets near the Lososna River, south of Grodno</description>
+      <date>16/07/1944</date>
+      <time_of_day>12:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:45</length>
+      <battle_size>Small</battle_size>
+      <Map_Size>
+         <map_area>0.128 Sq. km</map_area>
+         <map_width>400 m</map_width>
+         <map_depth>320 m</map_depth>
+      </Map_Size>
+      <region>Eastern Europe</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Extreme Heat</temperature>
+      <ground_condition>Very Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMRT v2.10 to v2.13</game_version>
+      <Modules_Required>
+         <module1>Fire and Rubble</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>3</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #06]</number_in_campaign>
+         <battle_title>TT Stronghold Adamowicze</battle_title>
+      </Title>
+      <filename>CP SoD Chapter V Tiger Trail #06_TT Stronghold Adamowicze</filename>
+      <picture_link>scenpics/CP SoD Chapter V Tiger Trail6.bmp</picture_link>
+      <battle_type>Axis Attack</battle_type>
+      <description>18/07/1944 Elements of KG Kuehn attacking the Soviet Bridgehead northwest of Grodno</description>
+      <date>18/07/1944</date>
+      <time_of_day>14:45</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>03:00</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>5.024 Sq. km</map_area>
+         <map_width>2512 m</map_width>
+         <map_depth>2000 m</map_depth>
+      </Map_Size>
+      <region>Eastern Europe</region>
+      <environment>Village</environment>
+      <weather>Hazy</weather>
+      <temperature>Hot</temperature>
+      <ground_condition>Very Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMRT v2.10 to v2.13</game_version>
+      <Modules_Required>
+         <module1>Fire and Rubble</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #16]</number_in_campaign>
+         <battle_title>TT Close Combat</battle_title>
+      </Title>
+      <filename>CP SoD Chapter V Tiger Trail #16_TT Close Combat</filename>
+      <picture_link>scenpics/CP SoD Chapter V Tiger Trail16.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>25/07/1944 elements of  3.SS-Panzer-Division &quot;Totenkopf&quot; fighting to hold the Marder-Line</description>
+      <date>25/07/1944</date>
+      <time_of_day>18:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>03:00</length>
+      <battle_size>Large</battle_size>
+      <Map_Size>
+         <map_area>6.016 Sq. km</map_area>
+         <map_width>3008 m</map_width>
+         <map_depth>2000 m</map_depth>
+      </Map_Size>
+      <region>Eastern Europe</region>
+      <environment>Village</environment>
+      <weather>Thick Haze</weather>
+      <temperature>Hot</temperature>
+      <ground_condition>Very Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMRT v2.10 to v2.13</game_version>
+      <Modules_Required>
+         <module1>Fire and Rubble</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>9</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #01]</number_in_campaign>
+         <battle_title>TT Sudden Danger</battle_title>
+      </Title>
+      <filename>CP SoD Chapter V Tiger Trail #01_TT Sudden Danger</filename>
+      <picture_link>scenpics/CP SoD Chapter V Tiger Trail1.bmp</picture_link>
+      <battle_type>Meeting Engagement</battle_type>
+      <description>16/07/1944 The Situation becomes dangerous when Soviets get close to a tank workshop where exposed Tiger Tanks are in combat preparation</description>
+      <date>16/07/1944</date>
+      <time_of_day>17:15</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:30</length>
+      <battle_size>Small</battle_size>
+      <Map_Size>
+         <map_area>0.691 Sq. km</map_area>
+         <map_width>1168 m</map_width>
+         <map_depth>592 m</map_depth>
+      </Map_Size>
+      <region>Eastern Europe</region>
+      <environment>Open</environment>
+      <weather>Hazy</weather>
+      <temperature>Hot</temperature>
+      <ground_condition>Very Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMRT v2.10 to v2.13</game_version>
+      <Modules_Required>
+         <module1>Fire and Rubble</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>5</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #14]</number_in_campaign>
+         <battle_title>TT Thin Shield</battle_title>
+      </Title>
+      <filename>CP SoD Chapter V Tiger Trail #14_TT Thin Shield</filename>
+      <picture_link>scenpics/CP SoD Chapter V Tiger Trail14.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>23/07/1944 Elements of SS-Panzergrenadier-Regiment 6 defending the frontline near Racicze</description>
+      <date>23/07/1944</date>
+      <time_of_day>18:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>02:30</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>4.096 Sq. km</map_area>
+         <map_width>2048 m</map_width>
+         <map_depth>2000 m</map_depth>
+      </Map_Size>
+      <region>Eastern Europe</region>
+      <environment>Village</environment>
+      <weather>Heavy Rain</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Very Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMRT v2.10 to v2.13</game_version>
+      <Modules_Required>
+         <module1>Fire and Rubble</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #07]</number_in_campaign>
+         <battle_title>TT Deadly Storm</battle_title>
+      </Title>
+      <filename>CP SoD Chapter V Tiger Trail #07_TT Deadly Storm</filename>
+      <picture_link>scenpics/CP SoD Chapter V Tiger Trail7.bmp</picture_link>
+      <battle_type>Axis Attack</battle_type>
+      <description>18/07/1944 KG Kuehn is attacking along the westbank of the River Njemen</description>
+      <date>18/07/1944</date>
+      <time_of_day>18:45</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>02:30</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>4 Sq. km</map_area>
+         <map_width>2000 m</map_width>
+         <map_depth>2000 m</map_depth>
+      </Map_Size>
+      <region>Eastern Europe</region>
+      <environment>Open</environment>
+      <weather>Hazy</weather>
+      <temperature>Hot</temperature>
+      <ground_condition>Very Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMRT v2.10 to v2.13</game_version>
+      <Modules_Required>
+         <module1>Fire and Rubble</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #15]</number_in_campaign>
+         <battle_title>TT Flank Guard</battle_title>
+      </Title>
+      <filename>CP SoD Chapter V Tiger Trail #15_TT Flank Guard</filename>
+      <picture_link>scenpics/CP SoD Chapter V Tiger Trail15.bmp</picture_link>
+      <battle_type>Meeting Engagement</battle_type>
+      <description>24/07/1944 two Tigers from 9th Company are tasked to secure the left flank of KG Eckert which is attacking towards the town of Sokolka</description>
+      <date>24/07/1944</date>
+      <time_of_day>14:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>02:00</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>1.064 Sq. km</map_area>
+         <map_width>1056 m</map_width>
+         <map_depth>1008 m</map_depth>
+      </Map_Size>
+      <region>Eastern Europe</region>
+      <environment>Forest</environment>
+      <weather>Hazy</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMRT v2.10 to v2.13</game_version>
+      <Modules_Required>
+         <module1>Fire and Rubble</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #05]</number_in_campaign>
+         <battle_title>TT Dangerous  Path</battle_title>
+      </Title>
+      <filename>CP SoD Chapter V Tiger Trail #05_TT Dangerous Path</filename>
+      <picture_link>scenpics/CP SoD Chapter V Tiger Trail5.bmp</picture_link>
+      <battle_type>Axis Attack</battle_type>
+      <description>17/07/1944 A Convoi of the Tiger&apos;s Supply Platoon gets into a precarious situation while following the Commander of SS-Panzer-Artillerie-Regiment 3</description>
+      <date>17/07/1944</date>
+      <time_of_day>19:30</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:30</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>0.1 Sq. km</map_area>
+         <map_width>480 m</map_width>
+         <map_depth>208 m</map_depth>
+      </Map_Size>
+      <region>Eastern Europe</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Hot</temperature>
+      <ground_condition>Very Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMRT v2.10 to v2.13</game_version>
+      <Modules_Required>
+         <module1>Fire and Rubble</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>5</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #09]</number_in_campaign>
+         <battle_title>TT Iron Fist</battle_title>
+      </Title>
+      <filename>CP SoD Chapter V Tiger Trail #09_TT Iron Fist</filename>
+      <picture_link>scenpics/CP SoD Chapter V Tiger Trail9.bmp</picture_link>
+      <battle_type>Axis Attack</battle_type>
+      <description>20/07/1944 Elements of 3.SS-Panzer-Division &quot;Totenkopf&quot; attacking towards the Augustowski Canal</description>
+      <date>20/07/1944</date>
+      <time_of_day>07:30</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>03:30</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>5.786 Sq. km</map_area>
+         <map_width>1808 m</map_width>
+         <map_depth>3200 m</map_depth>
+      </Map_Size>
+      <region>Eastern Europe</region>
+      <environment>Rough</environment>
+      <weather>Hazy</weather>
+      <temperature>Hot</temperature>
+      <ground_condition>Very Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMRT v2.10 to v2.13</game_version>
+      <Modules_Required>
+         <module1>Fire and Rubble</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #12]</number_in_campaign>
+         <battle_title>TT Bloody Dawn</battle_title>
+      </Title>
+      <filename>CP SoD Chapter V Tiger Trail #12_TT Bloody Dawn</filename>
+      <picture_link>scenpics/CP SoD Chapter V Tiger Trail12.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>21/07/1944 10th Company/SS-Panzergrenadier-Regiment 5 fighting for their lives at Szembilowcze</description>
+      <date>21/07/1944</date>
+      <time_of_day>04:45</time_of_day>
+      <part_of_day>Dawn</part_of_day>
+      <length>01:40</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>1.359 Sq. km</map_area>
+         <map_width>944 m</map_width>
+         <map_depth>1440 m</map_depth>
+      </Map_Size>
+      <region>Eastern Europe</region>
+      <environment>Rough</environment>
+      <weather>Dense Fog</weather>
+      <temperature>Cool</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMRT v2.10 to v2.13</game_version>
+      <Modules_Required>
+         <module1>Fire and Rubble</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #08]</number_in_campaign>
+         <battle_title>TT Roadblock Racicze</battle_title>
+      </Title>
+      <filename>CP SoD Chapter V Tiger Trail #08_TT Roadblock Racicze</filename>
+      <picture_link>scenpics/CP SoD Chapter V Tiger Trail8.bmp</picture_link>
+      <battle_type>Axis Attack</battle_type>
+      <description>19/07/1944 SS-Panzer-Aufklaerungs-Abteilung 3 launches the assault on the south flank of the Soviet Forces west of the Njemen River</description>
+      <date>19/07/1944</date>
+      <time_of_day>07:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>02:30</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>4.096 Sq. km</map_area>
+         <map_width>2048 m</map_width>
+         <map_depth>2000 m</map_depth>
+      </Map_Size>
+      <region>Eastern Europe</region>
+      <environment>Open</environment>
+      <weather>Hazy</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Very Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMRT v2.10 to v2.13</game_version>
+      <Modules_Required>
+         <module1>Fire and Rubble</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #13]</number_in_campaign>
+         <battle_title>TT Collapsing Lines</battle_title>
+      </Title>
+      <filename>CP SoD Chapter V Tiger Trail #13_TT Collapsing Lines</filename>
+      <picture_link>scenpics/CP SoD Chapter V Tiger Trail13.bmp</picture_link>
+      <battle_type>Meeting Engagement</battle_type>
+      <description>21/07/1944 SS-Panzer-AA 3 fighting for survive south of Sopockinie</description>
+      <date>21/07/1944</date>
+      <time_of_day>16:45</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>02:30</length>
+      <battle_size>Large</battle_size>
+      <Map_Size>
+         <map_area>3.768 Sq. km</map_area>
+         <map_width>1840 m</map_width>
+         <map_depth>2048 m</map_depth>
+      </Map_Size>
+      <region>Eastern Europe</region>
+      <environment>Village</environment>
+      <weather>Clear</weather>
+      <temperature>Hot</temperature>
+      <ground_condition>Very Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMRT v2.10 to v2.13</game_version>
+      <Modules_Required>
+         <module1>Fire and Rubble</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>9</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #02]</number_in_campaign>
+         <battle_title>TT Grodno Evacuation</battle_title>
+      </Title>
+      <filename>CP SoD Chapter V Tiger Trail #02_TT Grodno Evacuation</filename>
+      <picture_link>scenpics/CP SoD Chapter V Tiger Trail2.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>17/07/1944 Parts of SS-Police-Reg.22 try to retreat across the Njemen during the fighting for the town of Grodno</description>
+      <date>17/07/1944</date>
+      <time_of_day>05:00</time_of_day>
+      <part_of_day>Dawn</part_of_day>
+      <length>03:00</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>0.276 Sq. km</map_area>
+         <map_width>640 m</map_width>
+         <map_depth>432 m</map_depth>
+      </Map_Size>
+      <region>Eastern Europe</region>
+      <environment>Town</environment>
+      <weather>Dense Fog</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMRT v2.10 to v2.13</game_version>
+      <Modules_Required>
+         <module1>Fire and Rubble</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #03]</number_in_campaign>
+         <battle_title>TT Fatal Ambition</battle_title>
+      </Title>
+      <filename>CP SoD Chapter V Tiger Trail #03_TT Fatal Ambition</filename>
+      <picture_link>scenpics/CP SoD Chapter V Tiger Trail3.bmp</picture_link>
+      <battle_type>Axis Attack</battle_type>
+      <description>17/07/1944 Tiger 913 is immobilized in short distance to the Soviet Frontline - will the crew be rescued on time ?</description>
+      <date>17/07/1944</date>
+      <time_of_day>13:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:00</length>
+      <battle_size>Small</battle_size>
+      <Map_Size>
+         <map_area>0.532 Sq. km</map_area>
+         <map_width>832 m</map_width>
+         <map_depth>640 m</map_depth>
+      </Map_Size>
+      <region>Eastern Europe</region>
+      <environment>Village</environment>
+      <weather>Thick Haze</weather>
+      <temperature>Extreme Heat</temperature>
+      <ground_condition>Very Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMRT v2.10 to v2.13</game_version>
+      <Modules_Required>
+         <module1>Fire and Rubble</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>4</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #11]</number_in_campaign>
+         <battle_title>TT Lonely Cats</battle_title>
+      </Title>
+      <filename>CP SoD Chapter V Tiger Trail #11_TT Lonely Cats</filename>
+      <picture_link>scenpics/CP SoD Chapter V Tiger Trail11.bmp</picture_link>
+      <battle_type>Meeting Engagement</battle_type>
+      <description>20/07/1944  Tiger Tanks of SS&quot;Totenkopf&quot; in defense action north of Sopockinie</description>
+      <date>20/07/1944</date>
+      <time_of_day>18:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>02:00</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>4.397 Sq. km</map_area>
+         <map_width>1808 m</map_width>
+         <map_depth>2432 m</map_depth>
+      </Map_Size>
+      <region>Eastern Europe</region>
+      <environment>Rough</environment>
+      <weather>Hazy</weather>
+      <temperature>Hot</temperature>
+      <ground_condition>Very Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMRT v2.10 to v2.13</game_version>
+      <Modules_Required>
+         <module1>Fire and Rubble</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   </Scenario_List>
+</Scenario_Listing>

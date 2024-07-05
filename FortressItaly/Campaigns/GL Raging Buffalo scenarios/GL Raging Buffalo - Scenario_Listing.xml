@@ -43,25 +43,25 @@
 
    <Scenario>
       <Title>
-         <number_in_campaign>[Campaign Battle #02]</number_in_campaign>
-         <battle_title>Valmontone</battle_title>
+         <number_in_campaign>[Campaign Battle #00]</number_in_campaign>
+         <battle_title>Artena</battle_title>
       </Title>
-      <filename>GL Raging Buffalo #02_Raging Buffalo Mission 3</filename>
-      <picture_link>scenpics/GL Raging Buffalo2.bmp</picture_link>
+      <filename>GL Raging Buffalo #00_Raging Buffalo Mission 1</filename>
+      <picture_link>scenpics/GL Raging Buffalo0.bmp</picture_link>
       <battle_type>Allied Attack</battle_type>
-      <description>1st Armored Division elements reach Valmontone.</description>
-      <date>28/05/1944</date>
-      <time_of_day>12:00</time_of_day>
+      <description>Mechanized cavalry leading the advance reach the hilltop city of Artena and find it only lightly defended by a German rearguard.</description>
+      <date>26/05/1944</date>
+      <time_of_day>15:00</time_of_day>
       <part_of_day>Day</part_of_day>
-      <length>01:00</length>
+      <length>00:45</length>
       <battle_size>Medium</battle_size>
       <Map_Size>
-         <map_area>0.718 Sq. km</map_area>
-         <map_width>976 m</map_width>
-         <map_depth>736 m</map_depth>
+         <map_area>2.399 Sq. km</map_area>
+         <map_width>1456 m</map_width>
+         <map_depth>1648 m</map_depth>
       </Map_Size>
       <region>Italy</region>
-      <environment>Town</environment>
+      <environment>Open</environment>
       <weather>Clear</weather>
       <temperature>Cool</temperature>
       <ground_condition>Dry</ground_condition>
@@ -111,25 +111,25 @@
 
    <Scenario>
       <Title>
-         <number_in_campaign>[Campaign Battle #00]</number_in_campaign>
-         <battle_title>Artena</battle_title>
+         <number_in_campaign>[Campaign Battle #02]</number_in_campaign>
+         <battle_title>Valmontone</battle_title>
       </Title>
-      <filename>GL Raging Buffalo #00_Raging Buffalo Mission 1</filename>
-      <picture_link>scenpics/GL Raging Buffalo0.bmp</picture_link>
+      <filename>GL Raging Buffalo #02_Raging Buffalo Mission 3</filename>
+      <picture_link>scenpics/GL Raging Buffalo2.bmp</picture_link>
       <battle_type>Allied Attack</battle_type>
-      <description>Mechanized cavalry leading the advance reach the hilltop city of Artena and find it only lightly defended by a German rearguard.</description>
-      <date>26/05/1944</date>
-      <time_of_day>15:00</time_of_day>
+      <description>1st Armored Division elements reach Valmontone.</description>
+      <date>28/05/1944</date>
+      <time_of_day>12:00</time_of_day>
       <part_of_day>Day</part_of_day>
-      <length>00:45</length>
+      <length>01:00</length>
       <battle_size>Medium</battle_size>
       <Map_Size>
-         <map_area>2.399 Sq. km</map_area>
-         <map_width>1456 m</map_width>
-         <map_depth>1648 m</map_depth>
+         <map_area>0.718 Sq. km</map_area>
+         <map_width>976 m</map_width>
+         <map_depth>736 m</map_depth>
       </Map_Size>
       <region>Italy</region>
-      <environment>Open</environment>
+      <environment>Town</environment>
       <weather>Clear</weather>
       <temperature>Cool</temperature>
       <ground_condition>Dry</ground_condition>

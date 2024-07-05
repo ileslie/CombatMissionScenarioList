@@ -9,6 +9,40 @@
 
    <Scenario>
       <Title>
+         <number_in_campaign>[Campaign Battle #03]</number_in_campaign>
+         <battle_title>Wacht Am Rapido Battle 3F</battle_title>
+      </Title>
+      <filename>Wacht Am Rapido #03_Battle 3 FJ DICE ROLL</filename>
+      <picture_link>scenpics/Wacht Am Rapido3.bmp</picture_link>
+      <battle_type>Axis Attack</battle_type>
+      <description>Player dice roll for results of airborne drop for Operation Strauss</description>
+      <date>25/12/1943</date>
+      <time_of_day>08:10</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:10</length>
+      <battle_size>Small</battle_size>
+      <Map_Size>
+         <map_area>0.043 Sq. km</map_area>
+         <map_width>208 m</map_width>
+         <map_depth>208 m</map_depth>
+      </Map_Size>
+      <region>Italy</region>
+      <environment>Forest</environment>
+      <weather>Light Snow</weather>
+      <temperature>Cold</temperature>
+      <ground_condition>Light Snow</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFI v1.20</game_version>
+      <Modules_Required>
+         <module1>Gustav Line</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>2</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
          <number_in_campaign>[Campaign Battle #06]</number_in_campaign>
          <battle_title>Wacht Am Rapido Highway Battle</battle_title>
       </Title>
@@ -39,40 +73,6 @@
       <Mod_Tags>
       </Mod_Tags>
       <size_modifier>5</size_modifier>
-   </Scenario>
-
-   <Scenario>
-      <Title>
-         <number_in_campaign>[Campaign Battle #05]</number_in_campaign>
-         <battle_title>Wacht AM Rapido Battle 3BF</battle_title>
-      </Title>
-      <filename>Wacht Am Rapido #05_Battle 3FJB</filename>
-      <picture_link>scenpics/Wacht Am Rapido5.bmp</picture_link>
-      <battle_type>Axis Attack</battle_type>
-      <description>Not defined!</description>
-      <date>25/12/1943</date>
-      <time_of_day>08:10</time_of_day>
-      <part_of_day>Day</part_of_day>
-      <length>00:30</length>
-      <battle_size>Small</battle_size>
-      <Map_Size>
-         <map_area>0.221 Sq. km</map_area>
-         <map_width>768 m</map_width>
-         <map_depth>288 m</map_depth>
-      </Map_Size>
-      <region>Italy</region>
-      <environment>Forest</environment>
-      <weather>Overcast</weather>
-      <temperature>Cold</temperature>
-      <ground_condition>Light Snow</ground_condition>
-      <early_intel>Axis Force</early_intel>
-      <game_version>CMFI v1.20</game_version>
-      <Modules_Required>
-         <module1>Gustav Line</module1>
-      </Modules_Required>
-      <Mod_Tags>
-      </Mod_Tags>
-      <size_modifier>3</size_modifier>
    </Scenario>
 
    <Scenario>
@@ -111,15 +111,221 @@
 
    <Scenario>
       <Title>
-         <number_in_campaign>[Campaign Battle #03]</number_in_campaign>
-         <battle_title>Wacht Am Rapido Battle 3F</battle_title>
+         <number_in_campaign>[Campaign Battle #07]</number_in_campaign>
+         <battle_title>Street Battle with immobilized Tiger</battle_title>
       </Title>
-      <filename>Wacht Am Rapido #03_Battle 3 FJ DICE ROLL</filename>
-      <picture_link>scenpics/Wacht Am Rapido3.bmp</picture_link>
+      <filename>Wacht Am Rapido #07_Battle 5 STREET</filename>
+      <picture_link>scenpics/Wacht Am Rapido7.bmp</picture_link>
       <battle_type>Axis Attack</battle_type>
-      <description>Player dice roll for results of airborne drop for Operation Strauss</description>
+      <description>Not defined!</description>
+      <date>25/12/1943</date>
+      <time_of_day>10:05</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:15</length>
+      <battle_size>Tiny</battle_size>
+      <Map_Size>
+         <map_area>0.043 Sq. km</map_area>
+         <map_width>208 m</map_width>
+         <map_depth>208 m</map_depth>
+      </Map_Size>
+      <region>Italy</region>
+      <environment>Town</environment>
+      <weather>Light Snow</weather>
+      <temperature>Cold</temperature>
+      <ground_condition>Light Snow</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFI v1.20</game_version>
+      <Modules_Required>
+         <module1>Gustav Line</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>1</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #09]</number_in_campaign>
+         <battle_title>GL Wacht Am Rapido Teaser Battle v2</battle_title>
+      </Title>
+      <filename>Wacht Am Rapido #09_Battle 7 FLANK</filename>
+      <picture_link>scenpics/Wacht Am Rapido9.bmp</picture_link>
+      <battle_type>Allied Probe</battle_type>
+      <description>This is a stand alone teaser battle for the Wacht Am Rapido campaign. Playable as axis vs AI.</description>
+      <date>25/12/1943</date>
+      <time_of_day>14:30</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:20</length>
+      <battle_size>Small</battle_size>
+      <Map_Size>
+         <map_area>0.174 Sq. km</map_area>
+         <map_width>640 m</map_width>
+         <map_depth>272 m</map_depth>
+      </Map_Size>
+      <region>Italy</region>
+      <environment>Village</environment>
+      <weather>Flurries</weather>
+      <temperature>Cold</temperature>
+      <ground_condition>Patchy Snow</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFI v1.20</game_version>
+      <Modules_Required>
+         <module1>Gustav Line</module1>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>gloves</mod_tag>
+      </Mod_Tags>
+      <size_modifier>2</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #02]</number_in_campaign>
+         <battle_title>Wacht Am Rapido Battle 2B, Axis versus allied AI</battle_title>
+      </Title>
+      <filename>Wacht Am Rapido #02_Battle 2B 508 SPA</filename>
+      <picture_link>scenpics/Wacht Am Rapido2.bmp</picture_link>
+      <battle_type>Axis Attack</battle_type>
+      <description>Not defined!</description>
+      <date>25/12/1943</date>
+      <time_of_day>05:00</time_of_day>
+      <part_of_day>Dawn</part_of_day>
+      <length>00:50</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>0.176 Sq. km</map_area>
+         <map_width>688 m</map_width>
+         <map_depth>256 m</map_depth>
+      </Map_Size>
+      <region>Italy</region>
+      <environment>Rough</environment>
+      <weather>Light Snow</weather>
+      <temperature>Cold</temperature>
+      <ground_condition>Light Snow</ground_condition>
+      <early_intel>Axis Force</early_intel>
+      <game_version>CMFI v1.20</game_version>
+      <Modules_Required>
+         <module1>Gustav Line</module1>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>gloves</mod_tag>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #12]</number_in_campaign>
+         <battle_title>Final Battle at the docks in Napoli</battle_title>
+      </Title>
+      <filename>Wacht Am Rapido #12_Battle 9 FINAL</filename>
+      <picture_link>scenpics/Wacht Am Rapido12.bmp</picture_link>
+      <battle_type>Axis Attack</battle_type>
+      <description>Not defined!</description>
+      <date>25/12/1943</date>
+      <time_of_day>18:40</time_of_day>
+      <part_of_day>Dusk</part_of_day>
+      <length>00:40</length>
+      <battle_size>Small</battle_size>
+      <Map_Size>
+         <map_area>0.043 Sq. km</map_area>
+         <map_width>208 m</map_width>
+         <map_depth>208 m</map_depth>
+      </Map_Size>
+      <region>Italy</region>
+      <environment>City</environment>
+      <weather>Light Snow</weather>
+      <temperature>Cold</temperature>
+      <ground_condition>Patchy Snow</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFI v1.20</game_version>
+      <Modules_Required>
+         <module1>Gustav Line</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>3</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #04]</number_in_campaign>
+         <battle_title>Wacht AM Rapido Battle 3AF</battle_title>
+      </Title>
+      <filename>Wacht Am Rapido #04_Battle 3FJA</filename>
+      <picture_link>scenpics/Wacht Am Rapido4.bmp</picture_link>
+      <battle_type>Axis Attack</battle_type>
+      <description>FJ Gruppe Kerner</description>
       <date>25/12/1943</date>
       <time_of_day>08:10</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:30</length>
+      <battle_size>Small</battle_size>
+      <Map_Size>
+         <map_area>0.221 Sq. km</map_area>
+         <map_width>768 m</map_width>
+         <map_depth>288 m</map_depth>
+      </Map_Size>
+      <region>Italy</region>
+      <environment>Forest</environment>
+      <weather>Overcast</weather>
+      <temperature>Cold</temperature>
+      <ground_condition>Light Snow</ground_condition>
+      <early_intel>Axis Force</early_intel>
+      <game_version>CMFI v1.20</game_version>
+      <Modules_Required>
+         <module1>Gustav Line</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>3</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #05]</number_in_campaign>
+         <battle_title>Wacht AM Rapido Battle 3BF</battle_title>
+      </Title>
+      <filename>Wacht Am Rapido #05_Battle 3FJB</filename>
+      <picture_link>scenpics/Wacht Am Rapido5.bmp</picture_link>
+      <battle_type>Axis Attack</battle_type>
+      <description>Not defined!</description>
+      <date>25/12/1943</date>
+      <time_of_day>08:10</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:30</length>
+      <battle_size>Small</battle_size>
+      <Map_Size>
+         <map_area>0.221 Sq. km</map_area>
+         <map_width>768 m</map_width>
+         <map_depth>288 m</map_depth>
+      </Map_Size>
+      <region>Italy</region>
+      <environment>Forest</environment>
+      <weather>Overcast</weather>
+      <temperature>Cold</temperature>
+      <ground_condition>Light Snow</ground_condition>
+      <early_intel>Axis Force</early_intel>
+      <game_version>CMFI v1.20</game_version>
+      <Modules_Required>
+         <module1>Gustav Line</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>3</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #00]</number_in_campaign>
+         <battle_title>Wacht Am Rapido Battle 1</battle_title>
+      </Title>
+      <filename>Wacht Am Rapido #00_Battle 1 Choose Forces</filename>
+      <picture_link>scenpics/Wacht Am Rapido0.bmp</picture_link>
+      <battle_type>Axis Attack</battle_type>
+      <description>Not defined!</description>
+      <date>24/12/1943</date>
+      <time_of_day>23:50</time_of_day>
       <part_of_day>Day</part_of_day>
       <length>00:10</length>
       <battle_size>Small</battle_size>
@@ -130,7 +336,7 @@
       </Map_Size>
       <region>Italy</region>
       <environment>Forest</environment>
-      <weather>Light Snow</weather>
+      <weather>Hazy</weather>
       <temperature>Cold</temperature>
       <ground_condition>Light Snow</ground_condition>
       <early_intel>Neither</early_intel>
@@ -179,95 +385,26 @@
 
    <Scenario>
       <Title>
-         <number_in_campaign>[Campaign Battle #09]</number_in_campaign>
-         <battle_title>GL Wacht Am Rapido Teaser Battle v2</battle_title>
+         <number_in_campaign>[Campaign Battle #08]</number_in_campaign>
+         <battle_title>Wacht Am Rapido: Battle 4A</battle_title>
       </Title>
-      <filename>Wacht Am Rapido #09_Battle 7 FLANK</filename>
-      <picture_link>scenpics/Wacht Am Rapido9.bmp</picture_link>
-      <battle_type>Allied Probe</battle_type>
-      <description>This is a stand alone teaser battle for the Wacht Am Rapido campaign. Playable as axis vs AI.</description>
-      <date>25/12/1943</date>
-      <time_of_day>14:30</time_of_day>
-      <part_of_day>Day</part_of_day>
-      <length>00:20</length>
-      <battle_size>Small</battle_size>
-      <Map_Size>
-         <map_area>0.174 Sq. km</map_area>
-         <map_width>640 m</map_width>
-         <map_depth>272 m</map_depth>
-      </Map_Size>
-      <region>Italy</region>
-      <environment>Village</environment>
-      <weather>Flurries</weather>
-      <temperature>Cold</temperature>
-      <ground_condition>Patchy Snow</ground_condition>
-      <early_intel>Neither</early_intel>
-      <game_version>CMFI v1.20</game_version>
-      <Modules_Required>
-         <module1>Gustav Line</module1>
-      </Modules_Required>
-      <Mod_Tags>
-         <mod_tag>gloves</mod_tag>
-      </Mod_Tags>
-      <size_modifier>2</size_modifier>
-   </Scenario>
-
-   <Scenario>
-      <Title>
-         <number_in_campaign>[Campaign Battle #12]</number_in_campaign>
-         <battle_title>Final Battle at the docks in Napoli</battle_title>
-      </Title>
-      <filename>Wacht Am Rapido #12_Battle 9 FINAL</filename>
-      <picture_link>scenpics/Wacht Am Rapido12.bmp</picture_link>
-      <battle_type>Axis Attack</battle_type>
+      <filename>Wacht Am Rapido #08_Battle 6 BRIDGE</filename>
+      <picture_link>scenpics/Wacht Am Rapido8.bmp</picture_link>
+      <battle_type>Axis Probe</battle_type>
       <description>Not defined!</description>
       <date>25/12/1943</date>
-      <time_of_day>18:40</time_of_day>
-      <part_of_day>Dusk</part_of_day>
-      <length>00:40</length>
-      <battle_size>Small</battle_size>
-      <Map_Size>
-         <map_area>0.043 Sq. km</map_area>
-         <map_width>208 m</map_width>
-         <map_depth>208 m</map_depth>
-      </Map_Size>
-      <region>Italy</region>
-      <environment>City</environment>
-      <weather>Light Snow</weather>
-      <temperature>Cold</temperature>
-      <ground_condition>Patchy Snow</ground_condition>
-      <early_intel>Neither</early_intel>
-      <game_version>CMFI v1.20</game_version>
-      <Modules_Required>
-         <module1>Gustav Line</module1>
-      </Modules_Required>
-      <Mod_Tags>
-      </Mod_Tags>
-      <size_modifier>3</size_modifier>
-   </Scenario>
-
-   <Scenario>
-      <Title>
-         <number_in_campaign>[Campaign Battle #00]</number_in_campaign>
-         <battle_title>Wacht Am Rapido Battle 1</battle_title>
-      </Title>
-      <filename>Wacht Am Rapido #00_Battle 1 Choose Forces</filename>
-      <picture_link>scenpics/Wacht Am Rapido0.bmp</picture_link>
-      <battle_type>Axis Attack</battle_type>
-      <description>Not defined!</description>
-      <date>24/12/1943</date>
-      <time_of_day>23:50</time_of_day>
+      <time_of_day>12:25</time_of_day>
       <part_of_day>Day</part_of_day>
       <length>00:10</length>
-      <battle_size>Small</battle_size>
+      <battle_size>Tiny</battle_size>
       <Map_Size>
-         <map_area>0.043 Sq. km</map_area>
-         <map_width>208 m</map_width>
-         <map_depth>208 m</map_depth>
+         <map_area>0.221 Sq. km</map_area>
+         <map_width>768 m</map_width>
+         <map_depth>288 m</map_depth>
       </Map_Size>
       <region>Italy</region>
-      <environment>Forest</environment>
-      <weather>Hazy</weather>
+      <environment>Town</environment>
+      <weather>Heavy Snow</weather>
       <temperature>Cold</temperature>
       <ground_condition>Light Snow</ground_condition>
       <early_intel>Neither</early_intel>
@@ -277,7 +414,7 @@
       </Modules_Required>
       <Mod_Tags>
       </Mod_Tags>
-      <size_modifier>2</size_modifier>
+      <size_modifier>1</size_modifier>
    </Scenario>
 
    <Scenario>
@@ -313,143 +450,6 @@
          <mod_tag>gloves</mod_tag>
       </Mod_Tags>
       <size_modifier>5</size_modifier>
-   </Scenario>
-
-   <Scenario>
-      <Title>
-         <number_in_campaign>[Campaign Battle #07]</number_in_campaign>
-         <battle_title>Street Battle with immobilized Tiger</battle_title>
-      </Title>
-      <filename>Wacht Am Rapido #07_Battle 5 STREET</filename>
-      <picture_link>scenpics/Wacht Am Rapido7.bmp</picture_link>
-      <battle_type>Axis Attack</battle_type>
-      <description>Not defined!</description>
-      <date>25/12/1943</date>
-      <time_of_day>10:05</time_of_day>
-      <part_of_day>Day</part_of_day>
-      <length>00:15</length>
-      <battle_size>Tiny</battle_size>
-      <Map_Size>
-         <map_area>0.043 Sq. km</map_area>
-         <map_width>208 m</map_width>
-         <map_depth>208 m</map_depth>
-      </Map_Size>
-      <region>Italy</region>
-      <environment>Town</environment>
-      <weather>Light Snow</weather>
-      <temperature>Cold</temperature>
-      <ground_condition>Light Snow</ground_condition>
-      <early_intel>Neither</early_intel>
-      <game_version>CMFI v1.20</game_version>
-      <Modules_Required>
-         <module1>Gustav Line</module1>
-      </Modules_Required>
-      <Mod_Tags>
-      </Mod_Tags>
-      <size_modifier>1</size_modifier>
-   </Scenario>
-
-   <Scenario>
-      <Title>
-         <number_in_campaign>[Campaign Battle #04]</number_in_campaign>
-         <battle_title>Wacht AM Rapido Battle 3AF</battle_title>
-      </Title>
-      <filename>Wacht Am Rapido #04_Battle 3FJA</filename>
-      <picture_link>scenpics/Wacht Am Rapido4.bmp</picture_link>
-      <battle_type>Axis Attack</battle_type>
-      <description>FJ Gruppe Kerner</description>
-      <date>25/12/1943</date>
-      <time_of_day>08:10</time_of_day>
-      <part_of_day>Day</part_of_day>
-      <length>00:30</length>
-      <battle_size>Small</battle_size>
-      <Map_Size>
-         <map_area>0.221 Sq. km</map_area>
-         <map_width>768 m</map_width>
-         <map_depth>288 m</map_depth>
-      </Map_Size>
-      <region>Italy</region>
-      <environment>Forest</environment>
-      <weather>Overcast</weather>
-      <temperature>Cold</temperature>
-      <ground_condition>Light Snow</ground_condition>
-      <early_intel>Axis Force</early_intel>
-      <game_version>CMFI v1.20</game_version>
-      <Modules_Required>
-         <module1>Gustav Line</module1>
-      </Modules_Required>
-      <Mod_Tags>
-      </Mod_Tags>
-      <size_modifier>3</size_modifier>
-   </Scenario>
-
-   <Scenario>
-      <Title>
-         <number_in_campaign>[Campaign Battle #08]</number_in_campaign>
-         <battle_title>Wacht Am Rapido: Battle 4A</battle_title>
-      </Title>
-      <filename>Wacht Am Rapido #08_Battle 6 BRIDGE</filename>
-      <picture_link>scenpics/Wacht Am Rapido8.bmp</picture_link>
-      <battle_type>Axis Probe</battle_type>
-      <description>Not defined!</description>
-      <date>25/12/1943</date>
-      <time_of_day>12:25</time_of_day>
-      <part_of_day>Day</part_of_day>
-      <length>00:10</length>
-      <battle_size>Tiny</battle_size>
-      <Map_Size>
-         <map_area>0.221 Sq. km</map_area>
-         <map_width>768 m</map_width>
-         <map_depth>288 m</map_depth>
-      </Map_Size>
-      <region>Italy</region>
-      <environment>Town</environment>
-      <weather>Heavy Snow</weather>
-      <temperature>Cold</temperature>
-      <ground_condition>Light Snow</ground_condition>
-      <early_intel>Neither</early_intel>
-      <game_version>CMFI v1.20</game_version>
-      <Modules_Required>
-         <module1>Gustav Line</module1>
-      </Modules_Required>
-      <Mod_Tags>
-      </Mod_Tags>
-      <size_modifier>1</size_modifier>
-   </Scenario>
-
-   <Scenario>
-      <Title>
-         <number_in_campaign>[Campaign Battle #02]</number_in_campaign>
-         <battle_title>Wacht Am Rapido Battle 2B, Axis versus allied AI</battle_title>
-      </Title>
-      <filename>Wacht Am Rapido #02_Battle 2B 508 SPA</filename>
-      <picture_link>scenpics/Wacht Am Rapido2.bmp</picture_link>
-      <battle_type>Axis Attack</battle_type>
-      <description>Not defined!</description>
-      <date>25/12/1943</date>
-      <time_of_day>05:00</time_of_day>
-      <part_of_day>Dawn</part_of_day>
-      <length>00:50</length>
-      <battle_size>Medium</battle_size>
-      <Map_Size>
-         <map_area>0.176 Sq. km</map_area>
-         <map_width>688 m</map_width>
-         <map_depth>256 m</map_depth>
-      </Map_Size>
-      <region>Italy</region>
-      <environment>Rough</environment>
-      <weather>Light Snow</weather>
-      <temperature>Cold</temperature>
-      <ground_condition>Light Snow</ground_condition>
-      <early_intel>Axis Force</early_intel>
-      <game_version>CMFI v1.20</game_version>
-      <Modules_Required>
-         <module1>Gustav Line</module1>
-      </Modules_Required>
-      <Mod_Tags>
-         <mod_tag>gloves</mod_tag>
-      </Mod_Tags>
-      <size_modifier>6</size_modifier>
    </Scenario>
 
    </Scenario_List>

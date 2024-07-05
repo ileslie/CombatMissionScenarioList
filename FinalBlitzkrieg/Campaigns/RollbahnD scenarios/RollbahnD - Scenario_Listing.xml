@@ -9,6 +9,113 @@
 
    <Scenario>
       <Title>
+         <number_in_campaign>[Campaign Battle #24]</number_in_campaign>
+         <battle_title>Violence at the Preventorium</battle_title>
+      </Title>
+      <filename>RollbahnD #24_S18</filename>
+      <picture_link>scenpics/RollbahnD24.bmp</picture_link>
+      <battle_type>Axis Assault</battle_type>
+      <description>Peiper continues west</description>
+      <date>20/12/1944</date>
+      <time_of_day>23:00</time_of_day>
+      <part_of_day>Dawn</part_of_day>
+      <length>02:30</length>
+      <battle_size>Large</battle_size>
+      <Map_Size>
+         <map_area>2.253 Sq. km</map_area>
+         <map_width>1280 m</map_width>
+         <map_depth>1760 m</map_depth>
+      </Map_Size>
+      <region>Ardennes</region>
+      <environment>Hills</environment>
+      <weather>Mist</weather>
+      <temperature>Cold</temperature>
+      <ground_condition>Muddy</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFB v2.03</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>stoumont</mod_tag>
+         <mod_tag>ardennes</mod_tag>
+         <mod_tag>muddy</mod_tag>
+      </Mod_Tags>
+      <size_modifier>9</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #20]</number_in_campaign>
+         <battle_title>Chewin them up at Cheneux</battle_title>
+      </Title>
+      <filename>RollbahnD #20_S14</filename>
+      <picture_link>scenpics/RollbahnD20.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>Ami Counter Attack</description>
+      <date>20/12/1944</date>
+      <time_of_day>14:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:30</length>
+      <battle_size>Huge</battle_size>
+      <Map_Size>
+         <map_area>0.879 Sq. km</map_area>
+         <map_width>1056 m</map_width>
+         <map_depth>832 m</map_depth>
+      </Map_Size>
+      <region>Ardennes</region>
+      <environment>Open</environment>
+      <weather>Heavy Fog</weather>
+      <temperature>Cold</temperature>
+      <ground_condition>Muddy</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFB v2.03</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>ardennes</mod_tag>
+         <mod_tag>muddy</mod_tag>
+      </Mod_Tags>
+      <size_modifier>10</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #16]</number_in_campaign>
+         <battle_title>Too Tight at Targnon</battle_title>
+      </Title>
+      <filename>RollbahnD #16_s11</filename>
+      <picture_link>scenpics/RollbahnD16.bmp</picture_link>
+      <battle_type>Axis Probe</battle_type>
+      <description>The high watermark of the German advance</description>
+      <date>19/12/1944</date>
+      <time_of_day>11:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:00</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>2.912 Sq. km</map_area>
+         <map_width>2000 m</map_width>
+         <map_depth>1456 m</map_depth>
+      </Map_Size>
+      <region>Ardennes</region>
+      <environment>Forest</environment>
+      <weather>Light Fog and Rain</weather>
+      <temperature>Cold</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFB v2.03</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>stoumont</mod_tag>
+         <mod_tag>ardennes</mod_tag>
+         <mod_tag>muddy</mod_tag>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
          <number_in_campaign>[Campaign Battle #18]</number_in_campaign>
          <battle_title>Ster Way To Heaven</battle_title>
       </Title>
@@ -45,362 +152,6 @@
 
    <Scenario>
       <Title>
-         <number_in_campaign>[Campaign Battle #27]</number_in_campaign>
-         <battle_title>Punishment at Parfondry</battle_title>
-      </Title>
-      <filename>RollbahnD #27_S24</filename>
-      <picture_link>scenpics/RollbahnD27.bmp</picture_link>
-      <battle_type>Axis Assault</battle_type>
-      <description>30 Div puts pressure on Knittel</description>
-      <date>21/12/1944</date>
-      <time_of_day>12:30</time_of_day>
-      <part_of_day>Day</part_of_day>
-      <length>02:00</length>
-      <battle_size>Huge</battle_size>
-      <Map_Size>
-         <map_area>8.433 Sq. km</map_area>
-         <map_width>3904 m</map_width>
-         <map_depth>2160 m</map_depth>
-      </Map_Size>
-      <region>Ardennes</region>
-      <environment>Town</environment>
-      <weather>Light Fog</weather>
-      <temperature>Cold</temperature>
-      <ground_condition>Muddy</ground_condition>
-      <early_intel>Neither</early_intel>
-      <game_version>CMFB v2.03</game_version>
-      <Modules_Required>
-      </Modules_Required>
-      <Mod_Tags>
-         <mod_tag>stavelot</mod_tag>
-         <mod_tag>ardennes</mod_tag>
-         <mod_tag>muddy</mod_tag>
-      </Mod_Tags>
-      <size_modifier>10</size_modifier>
-   </Scenario>
-
-   <Scenario>
-      <Title>
-         <number_in_campaign>[Campaign Battle #06]</number_in_campaign>
-         <battle_title>Bull-in-gen China Shop</battle_title>
-      </Title>
-      <filename>RollbahnD #06_s3</filename>
-      <picture_link>scenpics/RollbahnD6.bmp</picture_link>
-      <battle_type>Axis Attack</battle_type>
-      <description>KG Peiper hunts for the Fuel Dump</description>
-      <date>18/12/1944</date>
-      <time_of_day>07:00</time_of_day>
-      <part_of_day>Dawn</part_of_day>
-      <length>02:30</length>
-      <battle_size>Huge</battle_size>
-      <Map_Size>
-         <map_area>9.472 Sq. km</map_area>
-         <map_width>3200 m</map_width>
-         <map_depth>2960 m</map_depth>
-      </Map_Size>
-      <region>Ardennes</region>
-      <environment>Open</environment>
-      <weather>Overcast</weather>
-      <temperature>Cold</temperature>
-      <ground_condition>Patchy Snow</ground_condition>
-      <early_intel>Neither</early_intel>
-      <game_version>CMFB v2.03</game_version>
-      <Modules_Required>
-      </Modules_Required>
-      <Mod_Tags>
-         <mod_tag>ardennes</mod_tag>
-         <mod_tag>muddy</mod_tag>
-      </Mod_Tags>
-      <size_modifier>10</size_modifier>
-   </Scenario>
-
-   <Scenario>
-      <Title>
-         <number_in_campaign>[Campaign Battle #02]</number_in_campaign>
-         <battle_title>Leaving Lanzerath</battle_title>
-      </Title>
-      <filename>RollbahnD #02_s1</filename>
-      <picture_link>scenpics/RollbahnD2.bmp</picture_link>
-      <battle_type>Axis Probe</battle_type>
-      <description>9./Regiment 3./Fallshirmjager Division attack on Lanzerath</description>
-      <date>14/12/1944</date>
-      <time_of_day>14:30</time_of_day>
-      <part_of_day>Day</part_of_day>
-      <length>01:30</length>
-      <battle_size>Medium</battle_size>
-      <Map_Size>
-         <map_area>2.304 Sq. km</map_area>
-         <map_width>1440 m</map_width>
-         <map_depth>1600 m</map_depth>
-      </Map_Size>
-      <region>Ardennes</region>
-      <environment>Hills</environment>
-      <weather>Light Fog</weather>
-      <temperature>Freezing</temperature>
-      <ground_condition>Patchy Snow</ground_condition>
-      <early_intel>Axis Force</early_intel>
-      <game_version>CMFB v2.03</game_version>
-      <Modules_Required>
-      </Modules_Required>
-      <Mod_Tags>
-         <mod_tag>germany</mod_tag>
-         <mod_tag>snow</mod_tag>
-      </Mod_Tags>
-      <size_modifier>7</size_modifier>
-   </Scenario>
-
-   <Scenario>
-      <Title>
-         <number_in_campaign>[Campaign Battle #32]</number_in_campaign>
-         <battle_title>Kicking Coblenz</battle_title>
-      </Title>
-      <filename>RollbahnD #32_S21</filename>
-      <picture_link>scenpics/RollbahnD32.bmp</picture_link>
-      <battle_type>Axis Assault</battle_type>
-      <description>SG Knittel cling on to Stavelot</description>
-      <date>22/12/1944</date>
-      <time_of_day>13:30</time_of_day>
-      <part_of_day>Day</part_of_day>
-      <length>01:00</length>
-      <battle_size>Huge</battle_size>
-      <Map_Size>
-         <map_area>0.578 Sq. km</map_area>
-         <map_width>976 m</map_width>
-         <map_depth>592 m</map_depth>
-      </Map_Size>
-      <region>Ardennes</region>
-      <environment>Town</environment>
-      <weather>Light Snow</weather>
-      <temperature>Cold</temperature>
-      <ground_condition>Muddy</ground_condition>
-      <early_intel>Neither</early_intel>
-      <game_version>CMFB v2.03</game_version>
-      <Modules_Required>
-      </Modules_Required>
-      <Mod_Tags>
-         <mod_tag>stavelot</mod_tag>
-         <mod_tag>ardennes</mod_tag>
-         <mod_tag>muddy</mod_tag>
-      </Mod_Tags>
-      <size_modifier>10</size_modifier>
-   </Scenario>
-
-   <Scenario>
-      <Title>
-         <number_in_campaign>[Campaign Battle #08]</number_in_campaign>
-         <battle_title>Laying down the Recht</battle_title>
-      </Title>
-      <filename>RollbahnD #08_Recht</filename>
-      <picture_link>scenpics/RollbahnD8.bmp</picture_link>
-      <battle_type>Axis Probe</battle_type>
-      <description>KG Hansen makes contact </description>
-      <date>18/12/1944</date>
-      <time_of_day>02:00</time_of_day>
-      <part_of_day>Day</part_of_day>
-      <length>01:30</length>
-      <battle_size>Medium</battle_size>
-      <Map_Size>
-         <map_area>3.128 Sq. km</map_area>
-         <map_width>3008 m</map_width>
-         <map_depth>1040 m</map_depth>
-      </Map_Size>
-      <region>Ardennes</region>
-      <environment>Open</environment>
-      <weather>Overcast</weather>
-      <temperature>Cold</temperature>
-      <ground_condition>Muddy</ground_condition>
-      <early_intel>Neither</early_intel>
-      <game_version>CMFB v2.03</game_version>
-      <Modules_Required>
-      </Modules_Required>
-      <Mod_Tags>
-         <mod_tag>stavelot</mod_tag>
-         <mod_tag>ardennes</mod_tag>
-         <mod_tag>muddy</mod_tag>
-      </Mod_Tags>
-      <size_modifier>7</size_modifier>
-   </Scenario>
-
-   <Scenario>
-      <Title>
-         <number_in_campaign>[Campaign Battle #03]</number_in_campaign>
-         <battle_title>Minen The Gap</battle_title>
-      </Title>
-      <filename>RollbahnD #03_s0</filename>
-      <picture_link>scenpics/RollbahnD3.bmp</picture_link>
-      <battle_type>Axis Probe</battle_type>
-      <description>Peipers Spitze advances to link up with the Fallshirmjager</description>
-      <date>16/12/1944</date>
-      <time_of_day>17:00</time_of_day>
-      <part_of_day>Dusk</part_of_day>
-      <length>00:45</length>
-      <battle_size>Large</battle_size>
-      <Map_Size>
-         <map_area>6.182 Sq. km</map_area>
-         <map_width>2800 m</map_width>
-         <map_depth>2208 m</map_depth>
-      </Map_Size>
-      <region>Ardennes</region>
-      <environment>Open</environment>
-      <weather>Heavy Fog</weather>
-      <temperature>Freezing</temperature>
-      <ground_condition>Patchy Snow</ground_condition>
-      <early_intel>Neither</early_intel>
-      <game_version>CMFB v2.03</game_version>
-      <Modules_Required>
-      </Modules_Required>
-      <Mod_Tags>
-         <mod_tag>germany</mod_tag>
-         <mod_tag>snow</mod_tag>
-      </Mod_Tags>
-      <size_modifier>7</size_modifier>
-   </Scenario>
-
-   <Scenario>
-      <Title>
-         <number_in_campaign>[Campaign Battle #22]</number_in_campaign>
-         <battle_title>TF Lovelady:Closing the door</battle_title>
-      </Title>
-      <filename>RollbahnD #22_S16</filename>
-      <picture_link>scenpics/RollbahnD22.bmp</picture_link>
-      <battle_type>Allied Probe</battle_type>
-      <description>TF Lovelady probes Peipers rearguard</description>
-      <date>20/12/1944</date>
-      <time_of_day>16:00</time_of_day>
-      <part_of_day>Day</part_of_day>
-      <length>00:30</length>
-      <battle_size>Large</battle_size>
-      <Map_Size>
-         <map_area>5.092 Sq. km</map_area>
-         <map_width>2448 m</map_width>
-         <map_depth>2080 m</map_depth>
-      </Map_Size>
-      <region>Ardennes</region>
-      <environment>Open</environment>
-      <weather>Overcast</weather>
-      <temperature>Cold</temperature>
-      <ground_condition>Muddy</ground_condition>
-      <early_intel>Neither</early_intel>
-      <game_version>CMFB v2.03</game_version>
-      <Modules_Required>
-      </Modules_Required>
-      <Mod_Tags>
-         <mod_tag>ardennes</mod_tag>
-         <mod_tag>muddy</mod_tag>
-      </Mod_Tags>
-      <size_modifier>7</size_modifier>
-   </Scenario>
-
-   <Scenario>
-      <Title>
-         <number_in_campaign>[Campaign Battle #13]</number_in_campaign>
-         <battle_title>Probe At Stavelot</battle_title>
-      </Title>
-      <filename>RollbahnD #13_ProbeAtStavelot</filename>
-      <picture_link>scenpics/RollbahnD13.bmp</picture_link>
-      <battle_type>Axis Assault</battle_type>
-      <description>The Amis attempt to capture the Bridge</description>
-      <date>18/12/1944</date>
-      <time_of_day>15:00</time_of_day>
-      <part_of_day>Day</part_of_day>
-      <length>01:00</length>
-      <battle_size>Large</battle_size>
-      <Map_Size>
-         <map_area>8.433 Sq. km</map_area>
-         <map_width>3904 m</map_width>
-         <map_depth>2160 m</map_depth>
-      </Map_Size>
-      <region>Ardennes</region>
-      <environment>Town</environment>
-      <weather>Overcast</weather>
-      <temperature>Cold</temperature>
-      <ground_condition>Muddy</ground_condition>
-      <early_intel>Neither</early_intel>
-      <game_version>CMFB v2.03</game_version>
-      <Modules_Required>
-      </Modules_Required>
-      <Mod_Tags>
-         <mod_tag>stavelot</mod_tag>
-         <mod_tag>ardennes</mod_tag>
-         <mod_tag>muddy</mod_tag>
-      </Mod_Tags>
-      <size_modifier>8</size_modifier>
-   </Scenario>
-
-   <Scenario>
-      <Title>
-         <number_in_campaign>[Campaign Battle #31]</number_in_campaign>
-         <battle_title>Borgoumont Bounce</battle_title>
-      </Title>
-      <filename>RollbahnD #31_S25</filename>
-      <picture_link>scenpics/RollbahnD31.bmp</picture_link>
-      <battle_type>Axis Probe</battle_type>
-      <description>KG Peiper thrusts north east from La Gleize</description>
-      <date>22/12/1944</date>
-      <time_of_day>13:00</time_of_day>
-      <part_of_day>Dusk</part_of_day>
-      <length>01:00</length>
-      <battle_size>Medium</battle_size>
-      <Map_Size>
-         <map_area>1.749 Sq. km</map_area>
-         <map_width>1584 m</map_width>
-         <map_depth>1104 m</map_depth>
-      </Map_Size>
-      <region>Ardennes</region>
-      <environment>Open</environment>
-      <weather>Light Snow</weather>
-      <temperature>Cold</temperature>
-      <ground_condition>Muddy</ground_condition>
-      <early_intel>Neither</early_intel>
-      <game_version>CMFB v2.03</game_version>
-      <Modules_Required>
-      </Modules_Required>
-      <Mod_Tags>
-         <mod_tag>stoumont</mod_tag>
-         <mod_tag>ardennes</mod_tag>
-         <mod_tag>muddy</mod_tag>
-      </Mod_Tags>
-      <size_modifier>6</size_modifier>
-   </Scenario>
-
-   <Scenario>
-      <Title>
-         <number_in_campaign>[Campaign Battle #28]</number_in_campaign>
-         <battle_title>TF Jordan Storms Stoumont</battle_title>
-      </Title>
-      <filename>RollbahnD #28_S23</filename>
-      <picture_link>scenpics/RollbahnD28.bmp</picture_link>
-      <battle_type>Axis Assault</battle_type>
-      <description>Peiper continues west</description>
-      <date>21/12/1944</date>
-      <time_of_day>14:00</time_of_day>
-      <part_of_day>Dawn</part_of_day>
-      <length>02:30</length>
-      <battle_size>Large</battle_size>
-      <Map_Size>
-         <map_area>2.225 Sq. km</map_area>
-         <map_width>1264 m</map_width>
-         <map_depth>1760 m</map_depth>
-      </Map_Size>
-      <region>Ardennes</region>
-      <environment>Hills</environment>
-      <weather>Light Fog</weather>
-      <temperature>Cold</temperature>
-      <ground_condition>Muddy</ground_condition>
-      <early_intel>Neither</early_intel>
-      <game_version>CMFB v2.03</game_version>
-      <Modules_Required>
-      </Modules_Required>
-      <Mod_Tags>
-         <mod_tag>stoumont</mod_tag>
-         <mod_tag>ardennes</mod_tag>
-         <mod_tag>muddy</mod_tag>
-      </Mod_Tags>
-      <size_modifier>9</size_modifier>
-   </Scenario>
-
-   <Scenario>
-      <Title>
          <number_in_campaign>[Campaign Battle #00]</number_in_campaign>
          <battle_title>Choice to skip to campaign 2</battle_title>
       </Title>
@@ -430,41 +181,6 @@
       <Mod_Tags>
       </Mod_Tags>
       <size_modifier>5</size_modifier>
-   </Scenario>
-
-   <Scenario>
-      <Title>
-         <number_in_campaign>[Campaign Battle #20]</number_in_campaign>
-         <battle_title>Chewin them up at Cheneux</battle_title>
-      </Title>
-      <filename>RollbahnD #20_S14</filename>
-      <picture_link>scenpics/RollbahnD20.bmp</picture_link>
-      <battle_type>Allied Attack</battle_type>
-      <description>Ami Counter Attack</description>
-      <date>20/12/1944</date>
-      <time_of_day>14:00</time_of_day>
-      <part_of_day>Day</part_of_day>
-      <length>01:30</length>
-      <battle_size>Huge</battle_size>
-      <Map_Size>
-         <map_area>0.879 Sq. km</map_area>
-         <map_width>1056 m</map_width>
-         <map_depth>832 m</map_depth>
-      </Map_Size>
-      <region>Ardennes</region>
-      <environment>Open</environment>
-      <weather>Heavy Fog</weather>
-      <temperature>Cold</temperature>
-      <ground_condition>Muddy</ground_condition>
-      <early_intel>Neither</early_intel>
-      <game_version>CMFB v2.03</game_version>
-      <Modules_Required>
-      </Modules_Required>
-      <Mod_Tags>
-         <mod_tag>ardennes</mod_tag>
-         <mod_tag>muddy</mod_tag>
-      </Mod_Tags>
-      <size_modifier>10</size_modifier>
    </Scenario>
 
    <Scenario>
@@ -505,198 +221,22 @@
 
    <Scenario>
       <Title>
-         <number_in_campaign>[Campaign Battle #35]</number_in_campaign>
-         <battle_title>Katz und Maus</battle_title>
+         <number_in_campaign>[Campaign Battle #22]</number_in_campaign>
+         <battle_title>TF Lovelady:Closing the door</battle_title>
       </Title>
-      <filename>RollbahnD #35_S28</filename>
-      <picture_link>scenpics/RollbahnD35.bmp</picture_link>
-      <battle_type>Meeting Engagement</battle_type>
-      <description>Peiper marches back East</description>
-      <date>24/12/1944</date>
-      <time_of_day>23:50</time_of_day>
-      <part_of_day>Night</part_of_day>
-      <length>02:30</length>
-      <battle_size>Huge</battle_size>
-      <Map_Size>
-         <map_area>5.024 Sq. km</map_area>
-         <map_width>2512 m</map_width>
-         <map_depth>2000 m</map_depth>
-      </Map_Size>
-      <region>Ardennes</region>
-      <environment>Forest</environment>
-      <weather>Overcast</weather>
-      <temperature>Cold</temperature>
-      <ground_condition>Light Snow</ground_condition>
-      <early_intel>Neither</early_intel>
-      <game_version>CMFB v2.03</game_version>
-      <Modules_Required>
-      </Modules_Required>
-      <Mod_Tags>
-      </Mod_Tags>
-      <size_modifier>10</size_modifier>
-   </Scenario>
-
-   <Scenario>
-      <Title>
-         <number_in_campaign>[Campaign Battle #07]</number_in_campaign>
-         <battle_title>Butchers Of Baugnez</battle_title>
-      </Title>
-      <filename>RollbahnD #07_s4</filename>
-      <picture_link>scenpics/RollbahnD7.bmp</picture_link>
-      <battle_type>Axis Probe</battle_type>
-      <description>Gepanzertze Peiper continues its drive west</description>
-      <date>17/12/1944</date>
-      <time_of_day>13:00</time_of_day>
-      <part_of_day>Day</part_of_day>
-      <length>02:30</length>
-      <battle_size>Huge</battle_size>
-      <Map_Size>
-         <map_area>15.872 Sq. km</map_area>
-         <map_width>3968 m</map_width>
-         <map_depth>4000 m</map_depth>
-      </Map_Size>
-      <region>Ardennes</region>
-      <environment>Open</environment>
-      <weather>Overcast</weather>
-      <temperature>Cold</temperature>
-      <ground_condition>Muddy</ground_condition>
-      <early_intel>Allied Force</early_intel>
-      <game_version>CMFB v2.03</game_version>
-      <Modules_Required>
-      </Modules_Required>
-      <Mod_Tags>
-         <mod_tag>ligneuville</mod_tag>
-         <mod_tag>ardennes</mod_tag>
-         <mod_tag>muddy</mod_tag>
-      </Mod_Tags>
-      <size_modifier>10</size_modifier>
-   </Scenario>
-
-   <Scenario>
-      <Title>
-         <number_in_campaign>[Campaign Battle #34]</number_in_campaign>
-         <battle_title>Hansens Surprise</battle_title>
-      </Title>
-      <filename>RollbahnD #34_S27</filename>
-      <picture_link>scenpics/RollbahnD34.bmp</picture_link>
-      <battle_type>Axis Attack</battle_type>
-      <description>Hansen pushes north</description>
-      <date>22/12/1944</date>
-      <time_of_day>15:00</time_of_day>
-      <part_of_day>Day</part_of_day>
-      <length>02:00</length>
-      <battle_size>Large</battle_size>
-      <Map_Size>
-         <map_area>2.458 Sq. km</map_area>
-         <map_width>1536 m</map_width>
-         <map_depth>1600 m</map_depth>
-      </Map_Size>
-      <region>Ardennes</region>
-      <environment>Open</environment>
-      <weather>Light Fog</weather>
-      <temperature>Cold</temperature>
-      <ground_condition>Muddy</ground_condition>
-      <early_intel>Neither</early_intel>
-      <game_version>CMFB v2.03</game_version>
-      <Modules_Required>
-      </Modules_Required>
-      <Mod_Tags>
-         <mod_tag>ardennes</mod_tag>
-         <mod_tag>muddy</mod_tag>
-      </Mod_Tags>
-      <size_modifier>9</size_modifier>
-   </Scenario>
-
-   <Scenario>
-      <Title>
-         <number_in_campaign>[Campaign Battle #21]</number_in_campaign>
-         <battle_title>TF McGeorge: Treachery at Les Tcheous</battle_title>
-      </Title>
-      <filename>RollbahnD #21_S15</filename>
-      <picture_link>scenpics/RollbahnD21.bmp</picture_link>
+      <filename>RollbahnD #22_S16</filename>
+      <picture_link>scenpics/RollbahnD22.bmp</picture_link>
       <battle_type>Allied Probe</battle_type>
-      <description>30th Division probe towards La Gleize</description>
+      <description>TF Lovelady probes Peipers rearguard</description>
       <date>20/12/1944</date>
-      <time_of_day>14:00</time_of_day>
+      <time_of_day>16:00</time_of_day>
       <part_of_day>Day</part_of_day>
-      <length>01:00</length>
-      <battle_size>Medium</battle_size>
-      <Map_Size>
-         <map_area>5.984 Sq. km</map_area>
-         <map_width>2000 m</map_width>
-         <map_depth>2992 m</map_depth>
-      </Map_Size>
-      <region>Ardennes</region>
-      <environment>Open</environment>
-      <weather>Dense Fog</weather>
-      <temperature>Cold</temperature>
-      <ground_condition>Muddy</ground_condition>
-      <early_intel>Neither</early_intel>
-      <game_version>CMFB v2.03</game_version>
-      <Modules_Required>
-      </Modules_Required>
-      <Mod_Tags>
-         <mod_tag>stoumont</mod_tag>
-         <mod_tag>ardennes</mod_tag>
-         <mod_tag>muddy</mod_tag>
-      </Mod_Tags>
-      <size_modifier>6</size_modifier>
-   </Scenario>
-
-   <Scenario>
-      <Title>
-         <number_in_campaign>[Campaign Battle #15]</number_in_campaign>
-         <battle_title>Duel In The Mist</battle_title>
-      </Title>
-      <filename>RollbahnD #15_s10</filename>
-      <picture_link>scenpics/RollbahnD15.bmp</picture_link>
-      <battle_type>Axis Assault</battle_type>
-      <description>Peiper continues West</description>
-      <date>19/12/1944</date>
-      <time_of_day>07:00</time_of_day>
-      <part_of_day>Dawn</part_of_day>
-      <length>02:30</length>
+      <length>00:30</length>
       <battle_size>Large</battle_size>
       <Map_Size>
-         <map_area>3.126 Sq. km</map_area>
-         <map_width>1776 m</map_width>
-         <map_depth>1760 m</map_depth>
-      </Map_Size>
-      <region>Ardennes</region>
-      <environment>Hills</environment>
-      <weather>Mist</weather>
-      <temperature>Cold</temperature>
-      <ground_condition>Muddy</ground_condition>
-      <early_intel>Neither</early_intel>
-      <game_version>CMFB v2.03</game_version>
-      <Modules_Required>
-      </Modules_Required>
-      <Mod_Tags>
-         <mod_tag>stoumont</mod_tag>
-         <mod_tag>ardennes</mod_tag>
-         <mod_tag>muddy</mod_tag>
-      </Mod_Tags>
-      <size_modifier>9</size_modifier>
-   </Scenario>
-
-   <Scenario>
-      <Title>
-         <number_in_campaign>[Campaign Battle #12]</number_in_campaign>
-         <battle_title>Jabos!</battle_title>
-      </Title>
-      <filename>RollbahnD #12_s7</filename>
-      <picture_link>scenpics/RollbahnD12.bmp</picture_link>
-      <battle_type>Axis Attack</battle_type>
-      <description>Peiper continues his advance</description>
-      <date>18/12/1944</date>
-      <time_of_day>14:00</time_of_day>
-      <part_of_day>Day</part_of_day>
-      <length>01:00</length>
-      <battle_size>Huge</battle_size>
-      <Map_Size>
-         <map_area>2.113 Sq. km</map_area>
-         <map_width>2032 m</map_width>
-         <map_depth>1040 m</map_depth>
+         <map_area>5.092 Sq. km</map_area>
+         <map_width>2448 m</map_width>
+         <map_depth>2080 m</map_depth>
       </Map_Size>
       <region>Ardennes</region>
       <environment>Open</environment>
@@ -708,81 +248,117 @@
       <Modules_Required>
       </Modules_Required>
       <Mod_Tags>
-         <mod_tag>ardennes</mod_tag>
-         <mod_tag>muddy</mod_tag>
-      </Mod_Tags>
-      <size_modifier>10</size_modifier>
-   </Scenario>
-
-   <Scenario>
-      <Title>
-         <number_in_campaign>[Campaign Battle #14]</number_in_campaign>
-         <battle_title>NeufMoulin Rouge</battle_title>
-      </Title>
-      <filename>RollbahnD #14_s9</filename>
-      <picture_link>scenpics/RollbahnD14.bmp</picture_link>
-      <battle_type>Axis Probe</battle_type>
-      <description>Scouting Route  to Werbomont</description>
-      <date>18/12/1944</date>
-      <time_of_day>22:00</time_of_day>
-      <part_of_day>Night</part_of_day>
-      <length>01:00</length>
-      <battle_size>Medium</battle_size>
-      <Map_Size>
-         <map_area>0.564 Sq. km</map_area>
-         <map_width>928 m</map_width>
-         <map_depth>608 m</map_depth>
-      </Map_Size>
-      <region>Ardennes</region>
-      <environment>Open</environment>
-      <weather>Clear</weather>
-      <temperature>Cold</temperature>
-      <ground_condition>Dry</ground_condition>
-      <early_intel>Neither</early_intel>
-      <game_version>CMFB v2.03</game_version>
-      <Modules_Required>
-      </Modules_Required>
-      <Mod_Tags>
-         <mod_tag>ardennes</mod_tag>
-         <mod_tag>muddy</mod_tag>
-      </Mod_Tags>
-      <size_modifier>6</size_modifier>
-   </Scenario>
-
-   <Scenario>
-      <Title>
-         <number_in_campaign>[Campaign Battle #33]</number_in_campaign>
-         <battle_title>TF McGeorge: Assaulting Festung La Gleize</battle_title>
-      </Title>
-      <filename>RollbahnD #33_S26</filename>
-      <picture_link>scenpics/RollbahnD33.bmp</picture_link>
-      <battle_type>Allied Attack</battle_type>
-      <description>30th Division assaults La Gleize</description>
-      <date>22/12/1944</date>
-      <time_of_day>14:00</time_of_day>
-      <part_of_day>Dusk</part_of_day>
-      <length>02:00</length>
-      <battle_size>Medium</battle_size>
-      <Map_Size>
-         <map_area>5.984 Sq. km</map_area>
-         <map_width>2000 m</map_width>
-         <map_depth>2992 m</map_depth>
-      </Map_Size>
-      <region>Ardennes</region>
-      <environment>Open</environment>
-      <weather>Light Fog</weather>
-      <temperature>Cold</temperature>
-      <ground_condition>Muddy</ground_condition>
-      <early_intel>Neither</early_intel>
-      <game_version>CMFB v2.03</game_version>
-      <Modules_Required>
-      </Modules_Required>
-      <Mod_Tags>
-         <mod_tag>stoumont</mod_tag>
          <mod_tag>ardennes</mod_tag>
          <mod_tag>muddy</mod_tag>
       </Mod_Tags>
       <size_modifier>7</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #05]</number_in_campaign>
+         <battle_title>Hurrying Through Honsfeld</battle_title>
+      </Title>
+      <filename>RollbahnD #05_s2b</filename>
+      <picture_link>scenpics/RollbahnD5.bmp</picture_link>
+      <battle_type>Axis Attack</battle_type>
+      <description>Advance NW through Honsfeld</description>
+      <date>17/12/1944</date>
+      <time_of_day>05:30</time_of_day>
+      <part_of_day>Dawn</part_of_day>
+      <length>01:00</length>
+      <battle_size>Large</battle_size>
+      <Map_Size>
+         <map_area>1.358 Sq. km</map_area>
+         <map_width>1248 m</map_width>
+         <map_depth>1088 m</map_depth>
+      </Map_Size>
+      <region>Ardennes</region>
+      <environment>Open</environment>
+      <weather>Flurries</weather>
+      <temperature>Freezing</temperature>
+      <ground_condition>Patchy Snow</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFB v2.03</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>ardennes</mod_tag>
+         <mod_tag>snow</mod_tag>
+      </Mod_Tags>
+      <size_modifier>8</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #28]</number_in_campaign>
+         <battle_title>TF Jordan Storms Stoumont</battle_title>
+      </Title>
+      <filename>RollbahnD #28_S23</filename>
+      <picture_link>scenpics/RollbahnD28.bmp</picture_link>
+      <battle_type>Axis Assault</battle_type>
+      <description>Peiper continues west</description>
+      <date>21/12/1944</date>
+      <time_of_day>14:00</time_of_day>
+      <part_of_day>Dawn</part_of_day>
+      <length>02:30</length>
+      <battle_size>Large</battle_size>
+      <Map_Size>
+         <map_area>2.225 Sq. km</map_area>
+         <map_width>1264 m</map_width>
+         <map_depth>1760 m</map_depth>
+      </Map_Size>
+      <region>Ardennes</region>
+      <environment>Hills</environment>
+      <weather>Light Fog</weather>
+      <temperature>Cold</temperature>
+      <ground_condition>Muddy</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFB v2.03</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>stoumont</mod_tag>
+         <mod_tag>ardennes</mod_tag>
+         <mod_tag>muddy</mod_tag>
+      </Mod_Tags>
+      <size_modifier>9</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #31]</number_in_campaign>
+         <battle_title>Borgoumont Bounce</battle_title>
+      </Title>
+      <filename>RollbahnD #31_S25</filename>
+      <picture_link>scenpics/RollbahnD31.bmp</picture_link>
+      <battle_type>Axis Probe</battle_type>
+      <description>KG Peiper thrusts north east from La Gleize</description>
+      <date>22/12/1944</date>
+      <time_of_day>13:00</time_of_day>
+      <part_of_day>Dusk</part_of_day>
+      <length>01:00</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>1.749 Sq. km</map_area>
+         <map_width>1584 m</map_width>
+         <map_depth>1104 m</map_depth>
+      </Map_Size>
+      <region>Ardennes</region>
+      <environment>Open</environment>
+      <weather>Light Snow</weather>
+      <temperature>Cold</temperature>
+      <ground_condition>Muddy</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFB v2.03</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>stoumont</mod_tag>
+         <mod_tag>ardennes</mod_tag>
+         <mod_tag>muddy</mod_tag>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
    </Scenario>
 
    <Scenario>
@@ -823,26 +399,26 @@
 
    <Scenario>
       <Title>
-         <number_in_campaign>[Campaign Battle #17]</number_in_campaign>
-         <battle_title>Searching For Gas</battle_title>
+         <number_in_campaign>[Campaign Battle #21]</number_in_campaign>
+         <battle_title>TF McGeorge: Treachery at Les Tcheous</battle_title>
       </Title>
-      <filename>RollbahnD #17_Rosier</filename>
-      <picture_link>scenpics/RollbahnD17.bmp</picture_link>
-      <battle_type>Axis Probe</battle_type>
-      <description>VorausKompanie conduct recon towards Spa</description>
-      <date>19/12/1944</date>
-      <time_of_day>12:00</time_of_day>
+      <filename>RollbahnD #21_S15</filename>
+      <picture_link>scenpics/RollbahnD21.bmp</picture_link>
+      <battle_type>Allied Probe</battle_type>
+      <description>30th Division probe towards La Gleize</description>
+      <date>20/12/1944</date>
+      <time_of_day>14:00</time_of_day>
       <part_of_day>Day</part_of_day>
-      <length>00:45</length>
+      <length>01:00</length>
       <battle_size>Medium</battle_size>
       <Map_Size>
-         <map_area>0.934 Sq. km</map_area>
-         <map_width>1024 m</map_width>
-         <map_depth>912 m</map_depth>
+         <map_area>5.984 Sq. km</map_area>
+         <map_width>2000 m</map_width>
+         <map_depth>2992 m</map_depth>
       </Map_Size>
       <region>Ardennes</region>
       <environment>Open</environment>
-      <weather>Overcast</weather>
+      <weather>Dense Fog</weather>
       <temperature>Cold</temperature>
       <ground_condition>Muddy</ground_condition>
       <early_intel>Neither</early_intel>
@@ -859,22 +435,130 @@
 
    <Scenario>
       <Title>
-         <number_in_campaign>[Campaign Battle #19]</number_in_campaign>
-         <battle_title>Stationary at Stavelot Station</battle_title>
+         <number_in_campaign>[Campaign Battle #25]</number_in_campaign>
+         <battle_title>The KG X Factor</battle_title>
       </Title>
-      <filename>RollbahnD #19_S13</filename>
-      <picture_link>scenpics/RollbahnD19.bmp</picture_link>
+      <filename>RollbahnD #25_S19</filename>
+      <picture_link>scenpics/RollbahnD25.bmp</picture_link>
       <battle_type>Axis Assault</battle_type>
-      <description>SG Knittel attempts to secure western Stavelot</description>
-      <date>20/12/1944</date>
-      <time_of_day>08:30</time_of_day>
+      <description>Skorzeny&apos;s KG X attempt to cross the Warche at Malmedy</description>
+      <date>21/12/1944</date>
+      <time_of_day>07:30</time_of_day>
+      <part_of_day>Dawn</part_of_day>
+      <length>02:30</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>2.016 Sq. km</map_area>
+         <map_width>1008 m</map_width>
+         <map_depth>2000 m</map_depth>
+      </Map_Size>
+      <region>Ardennes</region>
+      <environment>Open</environment>
+      <weather>Overcast</weather>
+      <temperature>Cold</temperature>
+      <ground_condition>Muddy</ground_condition>
+      <early_intel>Allied Force</early_intel>
+      <game_version>CMFB v2.03</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>germany</mod_tag>
+         <mod_tag>muddy</mod_tag>
+         <mod_tag>malmedy</mod_tag>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #29]</number_in_campaign>
+         <battle_title>Cold Hearts at Froidcour</battle_title>
+      </Title>
+      <filename>RollbahnD #29_S29</filename>
+      <picture_link>scenpics/RollbahnD29.bmp</picture_link>
+      <battle_type>Axis Assault</battle_type>
+      <description>McCown goes into the woods</description>
+      <date>21/12/1944</date>
+      <time_of_day>15:00</time_of_day>
+      <part_of_day>Dawn</part_of_day>
+      <length>01:30</length>
+      <battle_size>Large</battle_size>
+      <Map_Size>
+         <map_area>1.094 Sq. km</map_area>
+         <map_width>912 m</map_width>
+         <map_depth>1200 m</map_depth>
+      </Map_Size>
+      <region>Ardennes</region>
+      <environment>Hills</environment>
+      <weather>Light Fog</weather>
+      <temperature>Cold</temperature>
+      <ground_condition>Muddy</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFB v2.03</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>stoumont</mod_tag>
+         <mod_tag>ardennes</mod_tag>
+         <mod_tag>muddy</mod_tag>
+      </Mod_Tags>
+      <size_modifier>9</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #33]</number_in_campaign>
+         <battle_title>TF McGeorge: Assaulting Festung La Gleize</battle_title>
+      </Title>
+      <filename>RollbahnD #33_S26</filename>
+      <picture_link>scenpics/RollbahnD33.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>30th Division assaults La Gleize</description>
+      <date>22/12/1944</date>
+      <time_of_day>14:00</time_of_day>
+      <part_of_day>Dusk</part_of_day>
+      <length>02:00</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>5.984 Sq. km</map_area>
+         <map_width>2000 m</map_width>
+         <map_depth>2992 m</map_depth>
+      </Map_Size>
+      <region>Ardennes</region>
+      <environment>Open</environment>
+      <weather>Light Fog</weather>
+      <temperature>Cold</temperature>
+      <ground_condition>Muddy</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFB v2.03</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>stoumont</mod_tag>
+         <mod_tag>ardennes</mod_tag>
+         <mod_tag>muddy</mod_tag>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #27]</number_in_campaign>
+         <battle_title>Punishment at Parfondry</battle_title>
+      </Title>
+      <filename>RollbahnD #27_S24</filename>
+      <picture_link>scenpics/RollbahnD27.bmp</picture_link>
+      <battle_type>Axis Assault</battle_type>
+      <description>30 Div puts pressure on Knittel</description>
+      <date>21/12/1944</date>
+      <time_of_day>12:30</time_of_day>
       <part_of_day>Day</part_of_day>
       <length>02:00</length>
       <battle_size>Huge</battle_size>
       <Map_Size>
-         <map_area>2.004 Sq. km</map_area>
-         <map_width>2160 m</map_width>
-         <map_depth>928 m</map_depth>
+         <map_area>8.433 Sq. km</map_area>
+         <map_width>3904 m</map_width>
+         <map_depth>2160 m</map_depth>
       </Map_Size>
       <region>Ardennes</region>
       <environment>Town</environment>
@@ -887,6 +571,76 @@
       </Modules_Required>
       <Mod_Tags>
          <mod_tag>stavelot</mod_tag>
+         <mod_tag>ardennes</mod_tag>
+         <mod_tag>muddy</mod_tag>
+      </Mod_Tags>
+      <size_modifier>10</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #04]</number_in_campaign>
+         <battle_title>Breakthrough at Buchholz</battle_title>
+      </Title>
+      <filename>RollbahnD #04_s2a</filename>
+      <picture_link>scenpics/RollbahnD4.bmp</picture_link>
+      <battle_type>Axis Attack</battle_type>
+      <description>Clear the Buchholz area for the Spitze</description>
+      <date>17/12/1944</date>
+      <time_of_day>04:30</time_of_day>
+      <part_of_day>Dawn</part_of_day>
+      <length>02:00</length>
+      <battle_size>Large</battle_size>
+      <Map_Size>
+         <map_area>2.806 Sq. km</map_area>
+         <map_width>1808 m</map_width>
+         <map_depth>1552 m</map_depth>
+      </Map_Size>
+      <region>Ardennes</region>
+      <environment>Open</environment>
+      <weather>Flurries</weather>
+      <temperature>Freezing</temperature>
+      <ground_condition>Patchy Snow</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFB v2.03</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>ardennes</mod_tag>
+         <mod_tag>snow</mod_tag>
+      </Mod_Tags>
+      <size_modifier>9</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #12]</number_in_campaign>
+         <battle_title>Jabos!</battle_title>
+      </Title>
+      <filename>RollbahnD #12_s7</filename>
+      <picture_link>scenpics/RollbahnD12.bmp</picture_link>
+      <battle_type>Axis Attack</battle_type>
+      <description>Peiper continues his advance</description>
+      <date>18/12/1944</date>
+      <time_of_day>14:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:00</length>
+      <battle_size>Huge</battle_size>
+      <Map_Size>
+         <map_area>2.113 Sq. km</map_area>
+         <map_width>2032 m</map_width>
+         <map_depth>1040 m</map_depth>
+      </Map_Size>
+      <region>Ardennes</region>
+      <environment>Open</environment>
+      <weather>Overcast</weather>
+      <temperature>Cold</temperature>
+      <ground_condition>Muddy</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFB v2.03</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
          <mod_tag>ardennes</mod_tag>
          <mod_tag>muddy</mod_tag>
       </Mod_Tags>
@@ -930,114 +684,6 @@
 
    <Scenario>
       <Title>
-         <number_in_campaign>[Campaign Battle #10]</number_in_campaign>
-         <battle_title>Storming Stavelot</battle_title>
-      </Title>
-      <filename>RollbahnD #10_StormingStavelot</filename>
-      <picture_link>scenpics/RollbahnD10.bmp</picture_link>
-      <battle_type>Axis Assault</battle_type>
-      <description>KG Peiper strikes for the bridge at Stavelot</description>
-      <date>18/12/1944</date>
-      <time_of_day>07:00</time_of_day>
-      <part_of_day>Dawn</part_of_day>
-      <length>02:30</length>
-      <battle_size>Large</battle_size>
-      <Map_Size>
-         <map_area>8.433 Sq. km</map_area>
-         <map_width>3904 m</map_width>
-         <map_depth>2160 m</map_depth>
-      </Map_Size>
-      <region>Ardennes</region>
-      <environment>Town</environment>
-      <weather>Overcast</weather>
-      <temperature>Cold</temperature>
-      <ground_condition>Muddy</ground_condition>
-      <early_intel>Neither</early_intel>
-      <game_version>CMFB v2.03</game_version>
-      <Modules_Required>
-      </Modules_Required>
-      <Mod_Tags>
-         <mod_tag>stavelot</mod_tag>
-         <mod_tag>ardennes</mod_tag>
-         <mod_tag>muddy</mod_tag>
-      </Mod_Tags>
-      <size_modifier>9</size_modifier>
-   </Scenario>
-
-   <Scenario>
-      <Title>
-         <number_in_campaign>[Campaign Battle #25]</number_in_campaign>
-         <battle_title>The KG X Factor</battle_title>
-      </Title>
-      <filename>RollbahnD #25_S19</filename>
-      <picture_link>scenpics/RollbahnD25.bmp</picture_link>
-      <battle_type>Axis Assault</battle_type>
-      <description>Skorzeny&apos;s KG X attempt to cross the Warche at Malmedy</description>
-      <date>21/12/1944</date>
-      <time_of_day>07:30</time_of_day>
-      <part_of_day>Dawn</part_of_day>
-      <length>02:30</length>
-      <battle_size>Medium</battle_size>
-      <Map_Size>
-         <map_area>2.016 Sq. km</map_area>
-         <map_width>1008 m</map_width>
-         <map_depth>2000 m</map_depth>
-      </Map_Size>
-      <region>Ardennes</region>
-      <environment>Open</environment>
-      <weather>Overcast</weather>
-      <temperature>Cold</temperature>
-      <ground_condition>Muddy</ground_condition>
-      <early_intel>Allied Force</early_intel>
-      <game_version>CMFB v2.03</game_version>
-      <Modules_Required>
-      </Modules_Required>
-      <Mod_Tags>
-         <mod_tag>germany</mod_tag>
-         <mod_tag>muddy</mod_tag>
-         <mod_tag>malmedy</mod_tag>
-      </Mod_Tags>
-      <size_modifier>7</size_modifier>
-   </Scenario>
-
-   <Scenario>
-      <Title>
-         <number_in_campaign>[Campaign Battle #24]</number_in_campaign>
-         <battle_title>Violence at the Preventorium</battle_title>
-      </Title>
-      <filename>RollbahnD #24_S18</filename>
-      <picture_link>scenpics/RollbahnD24.bmp</picture_link>
-      <battle_type>Axis Assault</battle_type>
-      <description>Peiper continues west</description>
-      <date>20/12/1944</date>
-      <time_of_day>23:00</time_of_day>
-      <part_of_day>Dawn</part_of_day>
-      <length>02:30</length>
-      <battle_size>Large</battle_size>
-      <Map_Size>
-         <map_area>2.253 Sq. km</map_area>
-         <map_width>1280 m</map_width>
-         <map_depth>1760 m</map_depth>
-      </Map_Size>
-      <region>Ardennes</region>
-      <environment>Hills</environment>
-      <weather>Mist</weather>
-      <temperature>Cold</temperature>
-      <ground_condition>Muddy</ground_condition>
-      <early_intel>Neither</early_intel>
-      <game_version>CMFB v2.03</game_version>
-      <Modules_Required>
-      </Modules_Required>
-      <Mod_Tags>
-         <mod_tag>stoumont</mod_tag>
-         <mod_tag>ardennes</mod_tag>
-         <mod_tag>muddy</mod_tag>
-      </Mod_Tags>
-      <size_modifier>9</size_modifier>
-   </Scenario>
-
-   <Scenario>
-      <Title>
          <number_in_campaign>[Campaign Battle #11]</number_in_campaign>
          <battle_title>Trois Is A Crowd</battle_title>
       </Title>
@@ -1069,6 +715,111 @@
          <mod_tag>muddy</mod_tag>
       </Mod_Tags>
       <size_modifier>9</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #07]</number_in_campaign>
+         <battle_title>Butchers Of Baugnez</battle_title>
+      </Title>
+      <filename>RollbahnD #07_s4</filename>
+      <picture_link>scenpics/RollbahnD7.bmp</picture_link>
+      <battle_type>Axis Probe</battle_type>
+      <description>Gepanzertze Peiper continues its drive west</description>
+      <date>17/12/1944</date>
+      <time_of_day>13:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>02:30</length>
+      <battle_size>Huge</battle_size>
+      <Map_Size>
+         <map_area>15.872 Sq. km</map_area>
+         <map_width>3968 m</map_width>
+         <map_depth>4000 m</map_depth>
+      </Map_Size>
+      <region>Ardennes</region>
+      <environment>Open</environment>
+      <weather>Overcast</weather>
+      <temperature>Cold</temperature>
+      <ground_condition>Muddy</ground_condition>
+      <early_intel>Allied Force</early_intel>
+      <game_version>CMFB v2.03</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>ligneuville</mod_tag>
+         <mod_tag>ardennes</mod_tag>
+         <mod_tag>muddy</mod_tag>
+      </Mod_Tags>
+      <size_modifier>10</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #35]</number_in_campaign>
+         <battle_title>Katz und Maus</battle_title>
+      </Title>
+      <filename>RollbahnD #35_S28</filename>
+      <picture_link>scenpics/RollbahnD35.bmp</picture_link>
+      <battle_type>Meeting Engagement</battle_type>
+      <description>Peiper marches back East</description>
+      <date>24/12/1944</date>
+      <time_of_day>23:50</time_of_day>
+      <part_of_day>Night</part_of_day>
+      <length>02:30</length>
+      <battle_size>Huge</battle_size>
+      <Map_Size>
+         <map_area>5.024 Sq. km</map_area>
+         <map_width>2512 m</map_width>
+         <map_depth>2000 m</map_depth>
+      </Map_Size>
+      <region>Ardennes</region>
+      <environment>Forest</environment>
+      <weather>Overcast</weather>
+      <temperature>Cold</temperature>
+      <ground_condition>Light Snow</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFB v2.03</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>10</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #08]</number_in_campaign>
+         <battle_title>Laying down the Recht</battle_title>
+      </Title>
+      <filename>RollbahnD #08_Recht</filename>
+      <picture_link>scenpics/RollbahnD8.bmp</picture_link>
+      <battle_type>Axis Probe</battle_type>
+      <description>KG Hansen makes contact </description>
+      <date>18/12/1944</date>
+      <time_of_day>02:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:30</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>3.128 Sq. km</map_area>
+         <map_width>3008 m</map_width>
+         <map_depth>1040 m</map_depth>
+      </Map_Size>
+      <region>Ardennes</region>
+      <environment>Open</environment>
+      <weather>Overcast</weather>
+      <temperature>Cold</temperature>
+      <ground_condition>Muddy</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFB v2.03</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>stavelot</mod_tag>
+         <mod_tag>ardennes</mod_tag>
+         <mod_tag>muddy</mod_tag>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
    </Scenario>
 
    <Scenario>
@@ -1108,26 +859,168 @@
 
    <Scenario>
       <Title>
-         <number_in_campaign>[Campaign Battle #05]</number_in_campaign>
-         <battle_title>Hurrying Through Honsfeld</battle_title>
+         <number_in_campaign>[Campaign Battle #34]</number_in_campaign>
+         <battle_title>Hansens Surprise</battle_title>
       </Title>
-      <filename>RollbahnD #05_s2b</filename>
-      <picture_link>scenpics/RollbahnD5.bmp</picture_link>
+      <filename>RollbahnD #34_S27</filename>
+      <picture_link>scenpics/RollbahnD34.bmp</picture_link>
       <battle_type>Axis Attack</battle_type>
-      <description>Advance NW through Honsfeld</description>
-      <date>17/12/1944</date>
-      <time_of_day>05:30</time_of_day>
-      <part_of_day>Dawn</part_of_day>
-      <length>01:00</length>
+      <description>Hansen pushes north</description>
+      <date>22/12/1944</date>
+      <time_of_day>15:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>02:00</length>
       <battle_size>Large</battle_size>
       <Map_Size>
-         <map_area>1.358 Sq. km</map_area>
-         <map_width>1248 m</map_width>
-         <map_depth>1088 m</map_depth>
+         <map_area>2.458 Sq. km</map_area>
+         <map_width>1536 m</map_width>
+         <map_depth>1600 m</map_depth>
       </Map_Size>
       <region>Ardennes</region>
       <environment>Open</environment>
-      <weather>Flurries</weather>
+      <weather>Light Fog</weather>
+      <temperature>Cold</temperature>
+      <ground_condition>Muddy</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFB v2.03</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>ardennes</mod_tag>
+         <mod_tag>muddy</mod_tag>
+      </Mod_Tags>
+      <size_modifier>9</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #14]</number_in_campaign>
+         <battle_title>NeufMoulin Rouge</battle_title>
+      </Title>
+      <filename>RollbahnD #14_s9</filename>
+      <picture_link>scenpics/RollbahnD14.bmp</picture_link>
+      <battle_type>Axis Probe</battle_type>
+      <description>Scouting Route  to Werbomont</description>
+      <date>18/12/1944</date>
+      <time_of_day>22:00</time_of_day>
+      <part_of_day>Night</part_of_day>
+      <length>01:00</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>0.564 Sq. km</map_area>
+         <map_width>928 m</map_width>
+         <map_depth>608 m</map_depth>
+      </Map_Size>
+      <region>Ardennes</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Cold</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFB v2.03</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>ardennes</mod_tag>
+         <mod_tag>muddy</mod_tag>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #10]</number_in_campaign>
+         <battle_title>Storming Stavelot</battle_title>
+      </Title>
+      <filename>RollbahnD #10_StormingStavelot</filename>
+      <picture_link>scenpics/RollbahnD10.bmp</picture_link>
+      <battle_type>Axis Assault</battle_type>
+      <description>KG Peiper strikes for the bridge at Stavelot</description>
+      <date>18/12/1944</date>
+      <time_of_day>07:00</time_of_day>
+      <part_of_day>Dawn</part_of_day>
+      <length>02:30</length>
+      <battle_size>Large</battle_size>
+      <Map_Size>
+         <map_area>8.433 Sq. km</map_area>
+         <map_width>3904 m</map_width>
+         <map_depth>2160 m</map_depth>
+      </Map_Size>
+      <region>Ardennes</region>
+      <environment>Town</environment>
+      <weather>Overcast</weather>
+      <temperature>Cold</temperature>
+      <ground_condition>Muddy</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFB v2.03</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>stavelot</mod_tag>
+         <mod_tag>ardennes</mod_tag>
+         <mod_tag>muddy</mod_tag>
+      </Mod_Tags>
+      <size_modifier>9</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #13]</number_in_campaign>
+         <battle_title>Probe At Stavelot</battle_title>
+      </Title>
+      <filename>RollbahnD #13_ProbeAtStavelot</filename>
+      <picture_link>scenpics/RollbahnD13.bmp</picture_link>
+      <battle_type>Axis Assault</battle_type>
+      <description>The Amis attempt to capture the Bridge</description>
+      <date>18/12/1944</date>
+      <time_of_day>15:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:00</length>
+      <battle_size>Large</battle_size>
+      <Map_Size>
+         <map_area>8.433 Sq. km</map_area>
+         <map_width>3904 m</map_width>
+         <map_depth>2160 m</map_depth>
+      </Map_Size>
+      <region>Ardennes</region>
+      <environment>Town</environment>
+      <weather>Overcast</weather>
+      <temperature>Cold</temperature>
+      <ground_condition>Muddy</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFB v2.03</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>stavelot</mod_tag>
+         <mod_tag>ardennes</mod_tag>
+         <mod_tag>muddy</mod_tag>
+      </Mod_Tags>
+      <size_modifier>8</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #03]</number_in_campaign>
+         <battle_title>Minen The Gap</battle_title>
+      </Title>
+      <filename>RollbahnD #03_s0</filename>
+      <picture_link>scenpics/RollbahnD3.bmp</picture_link>
+      <battle_type>Axis Probe</battle_type>
+      <description>Peipers Spitze advances to link up with the Fallshirmjager</description>
+      <date>16/12/1944</date>
+      <time_of_day>17:00</time_of_day>
+      <part_of_day>Dusk</part_of_day>
+      <length>00:45</length>
+      <battle_size>Large</battle_size>
+      <Map_Size>
+         <map_area>6.182 Sq. km</map_area>
+         <map_width>2800 m</map_width>
+         <map_depth>2208 m</map_depth>
+      </Map_Size>
+      <region>Ardennes</region>
+      <environment>Open</environment>
+      <weather>Heavy Fog</weather>
       <temperature>Freezing</temperature>
       <ground_condition>Patchy Snow</ground_condition>
       <early_intel>Neither</early_intel>
@@ -1135,34 +1028,34 @@
       <Modules_Required>
       </Modules_Required>
       <Mod_Tags>
-         <mod_tag>ardennes</mod_tag>
+         <mod_tag>germany</mod_tag>
          <mod_tag>snow</mod_tag>
       </Mod_Tags>
-      <size_modifier>8</size_modifier>
+      <size_modifier>7</size_modifier>
    </Scenario>
 
    <Scenario>
       <Title>
-         <number_in_campaign>[Campaign Battle #29]</number_in_campaign>
-         <battle_title>Cold Hearts at Froidcour</battle_title>
+         <number_in_campaign>[Campaign Battle #17]</number_in_campaign>
+         <battle_title>Searching For Gas</battle_title>
       </Title>
-      <filename>RollbahnD #29_S29</filename>
-      <picture_link>scenpics/RollbahnD29.bmp</picture_link>
-      <battle_type>Axis Assault</battle_type>
-      <description>McCown goes into the woods</description>
-      <date>21/12/1944</date>
-      <time_of_day>15:00</time_of_day>
-      <part_of_day>Dawn</part_of_day>
-      <length>01:30</length>
-      <battle_size>Large</battle_size>
+      <filename>RollbahnD #17_Rosier</filename>
+      <picture_link>scenpics/RollbahnD17.bmp</picture_link>
+      <battle_type>Axis Probe</battle_type>
+      <description>VorausKompanie conduct recon towards Spa</description>
+      <date>19/12/1944</date>
+      <time_of_day>12:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:45</length>
+      <battle_size>Medium</battle_size>
       <Map_Size>
-         <map_area>1.094 Sq. km</map_area>
-         <map_width>912 m</map_width>
-         <map_depth>1200 m</map_depth>
+         <map_area>0.934 Sq. km</map_area>
+         <map_width>1024 m</map_width>
+         <map_depth>912 m</map_depth>
       </Map_Size>
       <region>Ardennes</region>
-      <environment>Hills</environment>
-      <weather>Light Fog</weather>
+      <environment>Open</environment>
+      <weather>Overcast</weather>
       <temperature>Cold</temperature>
       <ground_condition>Muddy</ground_condition>
       <early_intel>Neither</early_intel>
@@ -1174,7 +1067,78 @@
          <mod_tag>ardennes</mod_tag>
          <mod_tag>muddy</mod_tag>
       </Mod_Tags>
-      <size_modifier>9</size_modifier>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #06]</number_in_campaign>
+         <battle_title>Bull-in-gen China Shop</battle_title>
+      </Title>
+      <filename>RollbahnD #06_s3</filename>
+      <picture_link>scenpics/RollbahnD6.bmp</picture_link>
+      <battle_type>Axis Attack</battle_type>
+      <description>KG Peiper hunts for the Fuel Dump</description>
+      <date>18/12/1944</date>
+      <time_of_day>07:00</time_of_day>
+      <part_of_day>Dawn</part_of_day>
+      <length>02:30</length>
+      <battle_size>Huge</battle_size>
+      <Map_Size>
+         <map_area>9.472 Sq. km</map_area>
+         <map_width>3200 m</map_width>
+         <map_depth>2960 m</map_depth>
+      </Map_Size>
+      <region>Ardennes</region>
+      <environment>Open</environment>
+      <weather>Overcast</weather>
+      <temperature>Cold</temperature>
+      <ground_condition>Patchy Snow</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFB v2.03</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>ardennes</mod_tag>
+         <mod_tag>muddy</mod_tag>
+      </Mod_Tags>
+      <size_modifier>10</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #32]</number_in_campaign>
+         <battle_title>Kicking Coblenz</battle_title>
+      </Title>
+      <filename>RollbahnD #32_S21</filename>
+      <picture_link>scenpics/RollbahnD32.bmp</picture_link>
+      <battle_type>Axis Assault</battle_type>
+      <description>SG Knittel cling on to Stavelot</description>
+      <date>22/12/1944</date>
+      <time_of_day>13:30</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:00</length>
+      <battle_size>Huge</battle_size>
+      <Map_Size>
+         <map_area>0.578 Sq. km</map_area>
+         <map_width>976 m</map_width>
+         <map_depth>592 m</map_depth>
+      </Map_Size>
+      <region>Ardennes</region>
+      <environment>Town</environment>
+      <weather>Light Snow</weather>
+      <temperature>Cold</temperature>
+      <ground_condition>Muddy</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFB v2.03</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>stavelot</mod_tag>
+         <mod_tag>ardennes</mod_tag>
+         <mod_tag>muddy</mod_tag>
+      </Mod_Tags>
+      <size_modifier>10</size_modifier>
    </Scenario>
 
    <Scenario>
@@ -1214,63 +1178,63 @@
 
    <Scenario>
       <Title>
-         <number_in_campaign>[Campaign Battle #04]</number_in_campaign>
-         <battle_title>Breakthrough at Buchholz</battle_title>
+         <number_in_campaign>[Campaign Battle #02]</number_in_campaign>
+         <battle_title>Leaving Lanzerath</battle_title>
       </Title>
-      <filename>RollbahnD #04_s2a</filename>
-      <picture_link>scenpics/RollbahnD4.bmp</picture_link>
-      <battle_type>Axis Attack</battle_type>
-      <description>Clear the Buchholz area for the Spitze</description>
-      <date>17/12/1944</date>
-      <time_of_day>04:30</time_of_day>
-      <part_of_day>Dawn</part_of_day>
-      <length>02:00</length>
-      <battle_size>Large</battle_size>
+      <filename>RollbahnD #02_s1</filename>
+      <picture_link>scenpics/RollbahnD2.bmp</picture_link>
+      <battle_type>Axis Probe</battle_type>
+      <description>9./Regiment 3./Fallshirmjager Division attack on Lanzerath</description>
+      <date>14/12/1944</date>
+      <time_of_day>14:30</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:30</length>
+      <battle_size>Medium</battle_size>
       <Map_Size>
-         <map_area>2.806 Sq. km</map_area>
-         <map_width>1808 m</map_width>
-         <map_depth>1552 m</map_depth>
+         <map_area>2.304 Sq. km</map_area>
+         <map_width>1440 m</map_width>
+         <map_depth>1600 m</map_depth>
       </Map_Size>
       <region>Ardennes</region>
-      <environment>Open</environment>
-      <weather>Flurries</weather>
+      <environment>Hills</environment>
+      <weather>Light Fog</weather>
       <temperature>Freezing</temperature>
       <ground_condition>Patchy Snow</ground_condition>
-      <early_intel>Neither</early_intel>
+      <early_intel>Axis Force</early_intel>
       <game_version>CMFB v2.03</game_version>
       <Modules_Required>
       </Modules_Required>
       <Mod_Tags>
-         <mod_tag>ardennes</mod_tag>
+         <mod_tag>germany</mod_tag>
          <mod_tag>snow</mod_tag>
       </Mod_Tags>
-      <size_modifier>9</size_modifier>
+      <size_modifier>7</size_modifier>
    </Scenario>
 
    <Scenario>
       <Title>
-         <number_in_campaign>[Campaign Battle #16]</number_in_campaign>
-         <battle_title>Too Tight at Targnon</battle_title>
+         <number_in_campaign>[Campaign Battle #15]</number_in_campaign>
+         <battle_title>Duel In The Mist</battle_title>
       </Title>
-      <filename>RollbahnD #16_s11</filename>
-      <picture_link>scenpics/RollbahnD16.bmp</picture_link>
-      <battle_type>Axis Probe</battle_type>
-      <description>The high watermark of the German advance</description>
+      <filename>RollbahnD #15_s10</filename>
+      <picture_link>scenpics/RollbahnD15.bmp</picture_link>
+      <battle_type>Axis Assault</battle_type>
+      <description>Peiper continues West</description>
       <date>19/12/1944</date>
-      <time_of_day>11:00</time_of_day>
-      <part_of_day>Day</part_of_day>
-      <length>01:00</length>
-      <battle_size>Medium</battle_size>
+      <time_of_day>07:00</time_of_day>
+      <part_of_day>Dawn</part_of_day>
+      <length>02:30</length>
+      <battle_size>Large</battle_size>
       <Map_Size>
-         <map_area>2.912 Sq. km</map_area>
-         <map_width>2000 m</map_width>
-         <map_depth>1456 m</map_depth>
+         <map_area>3.126 Sq. km</map_area>
+         <map_width>1776 m</map_width>
+         <map_depth>1760 m</map_depth>
       </Map_Size>
       <region>Ardennes</region>
-      <environment>Forest</environment>
-      <weather>Light Fog and Rain</weather>
+      <environment>Hills</environment>
+      <weather>Mist</weather>
       <temperature>Cold</temperature>
-      <ground_condition>Dry</ground_condition>
+      <ground_condition>Muddy</ground_condition>
       <early_intel>Neither</early_intel>
       <game_version>CMFB v2.03</game_version>
       <Modules_Required>
@@ -1280,7 +1244,43 @@
          <mod_tag>ardennes</mod_tag>
          <mod_tag>muddy</mod_tag>
       </Mod_Tags>
-      <size_modifier>6</size_modifier>
+      <size_modifier>9</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #19]</number_in_campaign>
+         <battle_title>Stationary at Stavelot Station</battle_title>
+      </Title>
+      <filename>RollbahnD #19_S13</filename>
+      <picture_link>scenpics/RollbahnD19.bmp</picture_link>
+      <battle_type>Axis Assault</battle_type>
+      <description>SG Knittel attempts to secure western Stavelot</description>
+      <date>20/12/1944</date>
+      <time_of_day>08:30</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>02:00</length>
+      <battle_size>Huge</battle_size>
+      <Map_Size>
+         <map_area>2.004 Sq. km</map_area>
+         <map_width>2160 m</map_width>
+         <map_depth>928 m</map_depth>
+      </Map_Size>
+      <region>Ardennes</region>
+      <environment>Town</environment>
+      <weather>Light Fog</weather>
+      <temperature>Cold</temperature>
+      <ground_condition>Muddy</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFB v2.03</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>stavelot</mod_tag>
+         <mod_tag>ardennes</mod_tag>
+         <mod_tag>muddy</mod_tag>
+      </Mod_Tags>
+      <size_modifier>10</size_modifier>
    </Scenario>
 
    </Scenario_List>

@@ -9,6 +9,74 @@
 
    <Scenario>
       <Title>
+         <number_in_campaign>[Campaign Battle #01]</number_in_campaign>
+         <battle_title>ASL PB2 Howard&apos;s Men</battle_title>
+      </Title>
+      <filename>Benouville_Bridge #01_ASL_PB2</filename>
+      <picture_link>scenpics/Benouville_Bridge1.bmp</picture_link>
+      <battle_type>Axis Attack</battle_type>
+      <description>6th AB Div D Co Assoult on the Canal de Caen Bridge</description>
+      <date>06/06/1944</date>
+      <time_of_day>01:30</time_of_day>
+      <part_of_day>Dusk</part_of_day>
+      <length>00:15</length>
+      <battle_size>Large</battle_size>
+      <Map_Size>
+         <map_area>1.792 Sq. km</map_area>
+         <map_width>1120 m</map_width>
+         <map_depth>1600 m</map_depth>
+      </Map_Size>
+      <region>France</region>
+      <environment>Village</environment>
+      <weather>Hazy</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Damp</ground_condition>
+      <early_intel>Allied Force</early_intel>
+      <game_version>CMBN v1.10</game_version>
+      <Modules_Required>
+         <module1>Commonwealth</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #05]</number_in_campaign>
+         <battle_title>Blue Bonnet Over The Border</battle_title>
+      </Title>
+      <filename>Benouville_Bridge #05_Blue_Bonnet</filename>
+      <picture_link>scenpics/Benouville_Bridge5.bmp</picture_link>
+      <battle_type>Meeting Engagement</battle_type>
+      <description>6th AB Div D Co Assoult on the Canal de Caen Bridge</description>
+      <date>06/06/1944</date>
+      <time_of_day>13:30</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:20</length>
+      <battle_size>Large</battle_size>
+      <Map_Size>
+         <map_area>1.792 Sq. km</map_area>
+         <map_width>1120 m</map_width>
+         <map_depth>1600 m</map_depth>
+      </Map_Size>
+      <region>France</region>
+      <environment>Village</environment>
+      <weather>Hazy</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Damp</ground_condition>
+      <early_intel>Allied Force</early_intel>
+      <game_version>CMBN v1.10</game_version>
+      <Modules_Required>
+         <module1>Commonwealth</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
          <number_in_campaign>[Campaign Battle #02]</number_in_campaign>
          <battle_title>ASL PB3 Piecemeal</battle_title>
       </Title>
@@ -77,108 +145,6 @@
 
    <Scenario>
       <Title>
-         <number_in_campaign>[Campaign Battle #05]</number_in_campaign>
-         <battle_title>Blue Bonnet Over The Border</battle_title>
-      </Title>
-      <filename>Benouville_Bridge #05_Blue_Bonnet</filename>
-      <picture_link>scenpics/Benouville_Bridge5.bmp</picture_link>
-      <battle_type>Meeting Engagement</battle_type>
-      <description>6th AB Div D Co Assoult on the Canal de Caen Bridge</description>
-      <date>06/06/1944</date>
-      <time_of_day>13:30</time_of_day>
-      <part_of_day>Day</part_of_day>
-      <length>00:20</length>
-      <battle_size>Large</battle_size>
-      <Map_Size>
-         <map_area>1.792 Sq. km</map_area>
-         <map_width>1120 m</map_width>
-         <map_depth>1600 m</map_depth>
-      </Map_Size>
-      <region>France</region>
-      <environment>Village</environment>
-      <weather>Hazy</weather>
-      <temperature>Warm</temperature>
-      <ground_condition>Damp</ground_condition>
-      <early_intel>Allied Force</early_intel>
-      <game_version>CMBN v1.10</game_version>
-      <Modules_Required>
-         <module1>Commonwealth</module1>
-      </Modules_Required>
-      <Mod_Tags>
-      </Mod_Tags>
-      <size_modifier>6</size_modifier>
-   </Scenario>
-
-   <Scenario>
-      <Title>
-         <number_in_campaign>[Campaign Battle #00]</number_in_campaign>
-         <battle_title>ASL PB1 Ham And Bloody Jam</battle_title>
-      </Title>
-      <filename>Benouville_Bridge #00_ASL_PB1</filename>
-      <picture_link>scenpics/Benouville_Bridge0.bmp</picture_link>
-      <battle_type>Allied Attack</battle_type>
-      <description>6th AB Div D Co Assoult on the Canal de Caen Bridge</description>
-      <date>06/06/1944</date>
-      <time_of_day>00:15</time_of_day>
-      <part_of_day>Night</part_of_day>
-      <length>00:10</length>
-      <battle_size>Small</battle_size>
-      <Map_Size>
-         <map_area>1.792 Sq. km</map_area>
-         <map_width>1120 m</map_width>
-         <map_depth>1600 m</map_depth>
-      </Map_Size>
-      <region>France</region>
-      <environment>Village</environment>
-      <weather>Hazy</weather>
-      <temperature>Warm</temperature>
-      <ground_condition>Damp</ground_condition>
-      <early_intel>Allied Force</early_intel>
-      <game_version>CMBN v1.10</game_version>
-      <Modules_Required>
-         <module1>Commonwealth</module1>
-      </Modules_Required>
-      <Mod_Tags>
-      </Mod_Tags>
-      <size_modifier>2</size_modifier>
-   </Scenario>
-
-   <Scenario>
-      <Title>
-         <number_in_campaign>[Campaign Battle #01]</number_in_campaign>
-         <battle_title>ASL PB2 Howard&apos;s Men</battle_title>
-      </Title>
-      <filename>Benouville_Bridge #01_ASL_PB2</filename>
-      <picture_link>scenpics/Benouville_Bridge1.bmp</picture_link>
-      <battle_type>Axis Attack</battle_type>
-      <description>6th AB Div D Co Assoult on the Canal de Caen Bridge</description>
-      <date>06/06/1944</date>
-      <time_of_day>01:30</time_of_day>
-      <part_of_day>Dusk</part_of_day>
-      <length>00:15</length>
-      <battle_size>Large</battle_size>
-      <Map_Size>
-         <map_area>1.792 Sq. km</map_area>
-         <map_width>1120 m</map_width>
-         <map_depth>1600 m</map_depth>
-      </Map_Size>
-      <region>France</region>
-      <environment>Village</environment>
-      <weather>Hazy</weather>
-      <temperature>Warm</temperature>
-      <ground_condition>Damp</ground_condition>
-      <early_intel>Allied Force</early_intel>
-      <game_version>CMBN v1.10</game_version>
-      <Modules_Required>
-         <module1>Commonwealth</module1>
-      </Modules_Required>
-      <Mod_Tags>
-      </Mod_Tags>
-      <size_modifier>6</size_modifier>
-   </Scenario>
-
-   <Scenario>
-      <Title>
          <number_in_campaign>[Campaign Battle #06]</number_in_campaign>
          <battle_title>ASL PB6 It&apos;s About Time</battle_title>
       </Title>
@@ -229,6 +195,40 @@
          <map_area>0.143 Sq. km</map_area>
          <map_width>256 m</map_width>
          <map_depth>560 m</map_depth>
+      </Map_Size>
+      <region>France</region>
+      <environment>Village</environment>
+      <weather>Hazy</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Damp</ground_condition>
+      <early_intel>Allied Force</early_intel>
+      <game_version>CMBN v1.10</game_version>
+      <Modules_Required>
+         <module1>Commonwealth</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>2</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #00]</number_in_campaign>
+         <battle_title>ASL PB1 Ham And Bloody Jam</battle_title>
+      </Title>
+      <filename>Benouville_Bridge #00_ASL_PB1</filename>
+      <picture_link>scenpics/Benouville_Bridge0.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>6th AB Div D Co Assoult on the Canal de Caen Bridge</description>
+      <date>06/06/1944</date>
+      <time_of_day>00:15</time_of_day>
+      <part_of_day>Night</part_of_day>
+      <length>00:10</length>
+      <battle_size>Small</battle_size>
+      <Map_Size>
+         <map_area>1.792 Sq. km</map_area>
+         <map_width>1120 m</map_width>
+         <map_depth>1600 m</map_depth>
       </Map_Size>
       <region>France</region>
       <environment>Village</environment>

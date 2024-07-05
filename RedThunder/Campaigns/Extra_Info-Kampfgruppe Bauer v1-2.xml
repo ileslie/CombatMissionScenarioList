@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <scenarios>
-    <scenario author="author unknown" filename="Kampfgruppe Bauer v1-2 #00_Kampfgruppe Tretter Scenario 1B.btt" stock="y"/>
-    <scenario author="author unknown" filename="Kampfgruppe Bauer v1-2 #01_Kampfgruppe Tretter Scenario 2B.btt" stock="y"/>
-    <scenario author="author unknown" filename="Kampfgruppe Bauer v1-2 #02_Kampfgruppe Tretter Scenario 3B.btt" stock="y"/>
-    <scenario author="author unknown" filename="Kampfgruppe Bauer v1-2 #03_Kampfgruppe Tretter Scenario 4B.btt" stock="y"/>
-    <scenario author="author unknown" filename="Kampfgruppe Bauer v1-2 #04_Kampfgruppe Tretter Scenario 5B.btt" stock="y"/>
+    <scenario author="AndreasP" filename="Kampfgruppe Bauer v1-2 #00_Kampfgruppe Tretter Scenario 1B.btt" stock="y"/>
+    <scenario author="AndreasP" filename="Kampfgruppe Bauer v1-2 #01_Kampfgruppe Tretter Scenario 2B.btt" stock="y"/>
+    <scenario author="AndreasP" filename="Kampfgruppe Bauer v1-2 #02_Kampfgruppe Tretter Scenario 3B.btt" stock="y"/>
+    <scenario author="AndreasP" filename="Kampfgruppe Bauer v1-2 #03_Kampfgruppe Tretter Scenario 4B.btt" stock="y"/>
+    <scenario author="AndreasP" filename="Kampfgruppe Bauer v1-2 #04_Kampfgruppe Tretter Scenario 5B.btt" stock="y"/>
 </scenarios>

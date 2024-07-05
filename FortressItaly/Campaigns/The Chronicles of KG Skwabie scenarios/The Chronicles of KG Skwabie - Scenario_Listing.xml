@@ -9,104 +9,104 @@
 
    <Scenario>
       <Title>
-         <number_in_campaign>[Campaign Battle #16]</number_in_campaign>
-         <battle_title>In For a Pound</battle_title>
+         <number_in_campaign>[Campaign Battle #02]</number_in_campaign>
+         <battle_title>Bad Day at Beach RED</battle_title>
       </Title>
-      <filename>The Chronicles of KG Skwabie #16_GL In For a Pound_edited</filename>
-      <picture_link>scenpics/The Chronicles of KG Skwabie16.bmp</picture_link>
-      <battle_type>Meeting Engagement</battle_type>
-      <description>British and German mixed forces clash in this meeting engagement south of Catania. Playable in all modes.</description>
-      <date>18/05/1944</date>
-      <time_of_day>10:15</time_of_day>
-      <part_of_day>Day</part_of_day>
-      <length>04:00</length>
-      <battle_size>Medium</battle_size>
-      <Map_Size>
-         <map_area>0.653 Sq. km</map_area>
-         <map_width>704 m</map_width>
-         <map_depth>928 m</map_depth>
-      </Map_Size>
-      <region>Italy</region>
-      <environment>Open</environment>
-      <weather>Clear</weather>
-      <temperature>Warm</temperature>
-      <ground_condition>Very Dry</ground_condition>
-      <early_intel>Neither</early_intel>
-      <game_version>CMFI v1.10</game_version>
-      <Modules_Required>
-         <module1>Gustav Line</module1>
-      </Modules_Required>
-      <Mod_Tags>
-      </Mod_Tags>
-      <size_modifier>7</size_modifier>
-   </Scenario>
-
-   <Scenario>
-      <Title>
-         <number_in_campaign>[Campaign Battle #17]</number_in_campaign>
-         <battle_title>King Ludwig</battle_title>
-      </Title>
-      <filename>The Chronicles of KG Skwabie #17_GL King Ludwig_edited</filename>
-      <picture_link>scenpics/The Chronicles of KG Skwabie17.bmp</picture_link>
-      <battle_type>Allied Assault</battle_type>
-      <description>1st Hampshires attack Regalbuto Ridge.  Playable in all modes.</description>
-      <date>29/05/1944</date>
-      <time_of_day>16:00</time_of_day>
-      <part_of_day>Dusk</part_of_day>
-      <length>04:00</length>
-      <battle_size>Medium</battle_size>
-      <Map_Size>
-         <map_area>1.28 Sq. km</map_area>
-         <map_width>1600 m</map_width>
-         <map_depth>800 m</map_depth>
-      </Map_Size>
-      <region>Italy</region>
-      <environment>Hills</environment>
-      <weather>Clear</weather>
-      <temperature>Hot</temperature>
-      <ground_condition>Very Dry</ground_condition>
-      <early_intel>Neither</early_intel>
-      <game_version>CMFI v1.10</game_version>
-      <Modules_Required>
-         <module1>Gustav Line</module1>
-      </Modules_Required>
-      <Mod_Tags>
-      </Mod_Tags>
-      <size_modifier>7</size_modifier>
-   </Scenario>
-
-   <Scenario>
-      <Title>
-         <number_in_campaign>[Campaign Battle #07]</number_in_campaign>
-         <battle_title>Catch a Tiger</battle_title>
-      </Title>
-      <filename>The Chronicles of KG Skwabie #07_Catch a Tiger_edited</filename>
-      <picture_link>scenpics/The Chronicles of KG Skwabie7.bmp</picture_link>
+      <filename>The Chronicles of KG Skwabie #02_Bad Day at Beach RED_edited</filename>
+      <picture_link>scenpics/The Chronicles of KG Skwabie2.bmp</picture_link>
       <battle_type>Allied Attack</battle_type>
-      <description>In the hasty retreat from Troina, an immobilized German tank is left behind. Kill it so the main force can advance. Best as US vs AI.</description>
-      <date>06/05/1944</date>
-      <time_of_day>07:15</time_of_day>
+      <description>US Rangers do what they do best and assault prepared Coastal Defences to the West of Gela</description>
+      <date>10/05/1944</date>
+      <time_of_day>05:35</time_of_day>
       <part_of_day>Dawn</part_of_day>
       <length>04:00</length>
-      <battle_size>Tiny</battle_size>
+      <battle_size>Medium</battle_size>
       <Map_Size>
-         <map_area>0.37 Sq. km</map_area>
-         <map_width>608 m</map_width>
-         <map_depth>608 m</map_depth>
+         <map_area>0.758 Sq. km</map_area>
+         <map_width>1008 m</map_width>
+         <map_depth>752 m</map_depth>
       </Map_Size>
       <region>Italy</region>
       <environment>Rough</environment>
       <weather>Clear</weather>
       <temperature>Warm</temperature>
-      <ground_condition>Dry</ground_condition>
-      <early_intel>Allied Force</early_intel>
+      <ground_condition>Very Dry</ground_condition>
+      <early_intel>Neither</early_intel>
       <game_version>CMFI v1.10</game_version>
       <Modules_Required>
          <module1>Gustav Line</module1>
       </Modules_Required>
       <Mod_Tags>
       </Mod_Tags>
-      <size_modifier>4</size_modifier>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #04]</number_in_campaign>
+         <battle_title>Biazzo Ridge</battle_title>
+      </Title>
+      <filename>The Chronicles of KG Skwabie #04_Biazzo Ridge_edited</filename>
+      <picture_link>scenpics/The Chronicles of KG Skwabie4.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>Colonel Gavin assaults Biazzo Ridge while on his way to Gela</description>
+      <date>11/05/1944</date>
+      <time_of_day>14:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>04:00</length>
+      <battle_size>Large</battle_size>
+      <Map_Size>
+         <map_area>3.424 Sq. km</map_area>
+         <map_width>1712 m</map_width>
+         <map_depth>2000 m</map_depth>
+      </Map_Size>
+      <region>Italy</region>
+      <environment>Rough</environment>
+      <weather>Clear</weather>
+      <temperature>Hot</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFI v1.10</game_version>
+      <Modules_Required>
+         <module1>Gustav Line</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>9</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #15]</number_in_campaign>
+         <battle_title>Hilltop to Hilltop</battle_title>
+      </Title>
+      <filename>The Chronicles of KG Skwabie #15_GL Hilltop to Hilltop_edited</filename>
+      <picture_link>scenpics/The Chronicles of KG Skwabie15.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>Rangers fight down one hill and back up another in the rain.  Best played as Allies vs AI.</description>
+      <date>24/04/1944</date>
+      <time_of_day>06:20</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>04:00</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>0.952 Sq. km</map_area>
+         <map_width>944 m</map_width>
+         <map_depth>1008 m</map_depth>
+      </Map_Size>
+      <region>Italy</region>
+      <environment>Open</environment>
+      <weather>Overcast</weather>
+      <temperature>Cool</temperature>
+      <ground_condition>Muddy</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFI v1.10</game_version>
+      <Modules_Required>
+         <module1>Gustav Line</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
    </Scenario>
 
    <Scenario>
@@ -179,6 +179,142 @@
 
    <Scenario>
       <Title>
+         <number_in_campaign>[Campaign Battle #16]</number_in_campaign>
+         <battle_title>In For a Pound</battle_title>
+      </Title>
+      <filename>The Chronicles of KG Skwabie #16_GL In For a Pound_edited</filename>
+      <picture_link>scenpics/The Chronicles of KG Skwabie16.bmp</picture_link>
+      <battle_type>Meeting Engagement</battle_type>
+      <description>British and German mixed forces clash in this meeting engagement south of Catania. Playable in all modes.</description>
+      <date>18/05/1944</date>
+      <time_of_day>10:15</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>04:00</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>0.653 Sq. km</map_area>
+         <map_width>704 m</map_width>
+         <map_depth>928 m</map_depth>
+      </Map_Size>
+      <region>Italy</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Very Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFI v1.10</game_version>
+      <Modules_Required>
+         <module1>Gustav Line</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #17]</number_in_campaign>
+         <battle_title>King Ludwig</battle_title>
+      </Title>
+      <filename>The Chronicles of KG Skwabie #17_GL King Ludwig_edited</filename>
+      <picture_link>scenpics/The Chronicles of KG Skwabie17.bmp</picture_link>
+      <battle_type>Allied Assault</battle_type>
+      <description>1st Hampshires attack Regalbuto Ridge.  Playable in all modes.</description>
+      <date>29/05/1944</date>
+      <time_of_day>16:00</time_of_day>
+      <part_of_day>Dusk</part_of_day>
+      <length>04:00</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>1.28 Sq. km</map_area>
+         <map_width>1600 m</map_width>
+         <map_depth>800 m</map_depth>
+      </Map_Size>
+      <region>Italy</region>
+      <environment>Hills</environment>
+      <weather>Clear</weather>
+      <temperature>Hot</temperature>
+      <ground_condition>Very Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFI v1.10</game_version>
+      <Modules_Required>
+         <module1>Gustav Line</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #05]</number_in_campaign>
+         <battle_title>Butera Station</battle_title>
+      </Title>
+      <filename>The Chronicles of KG Skwabie #05_Butera Station_edited</filename>
+      <picture_link>scenpics/The Chronicles of KG Skwabie5.bmp</picture_link>
+      <battle_type>Meeting Engagement</battle_type>
+      <description>A US patrol moves to blunt the attack of Italian infantry from the Livorno Division moving toward Gela. Best as US vs AI.</description>
+      <date>11/05/1944</date>
+      <time_of_day>11:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>04:00</length>
+      <battle_size>Large</battle_size>
+      <Map_Size>
+         <map_area>3.232 Sq. km</map_area>
+         <map_width>2000 m</map_width>
+         <map_depth>1616 m</map_depth>
+      </Map_Size>
+      <region>Italy</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Very Dry</ground_condition>
+      <early_intel>Allied Force</early_intel>
+      <game_version>CMFI v1.10</game_version>
+      <Modules_Required>
+         <module1>Gustav Line</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>9</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #09]</number_in_campaign>
+         <battle_title>Fight at Vallebruca</battle_title>
+      </Title>
+      <filename>The Chronicles of KG Skwabie #09_Fight at Vallebruca_edited</filename>
+      <picture_link>scenpics/The Chronicles of KG Skwabie9.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>The Americans are pushing to Messina along the northern coast while the the 29th Panzergrenadier Division delays them at every town and ridge.</description>
+      <date>10/05/1944</date>
+      <time_of_day>15:30</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>04:00</length>
+      <battle_size>Small</battle_size>
+      <Map_Size>
+         <map_area>0.18 Sq. km</map_area>
+         <map_width>256 m</map_width>
+         <map_depth>704 m</map_depth>
+      </Map_Size>
+      <region>Italy</region>
+      <environment>Village</environment>
+      <weather>Clear</weather>
+      <temperature>Hot</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFI v1.10</game_version>
+      <Modules_Required>
+         <module1>Gustav Line</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>5</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
          <number_in_campaign>[Campaign Battle #19]</number_in_campaign>
          <battle_title>Lancing the Abscess</battle_title>
       </Title>
@@ -213,28 +349,28 @@
 
    <Scenario>
       <Title>
-         <number_in_campaign>[Campaign Battle #08]</number_in_campaign>
-         <battle_title>Clearing the Niscemi Highway</battle_title>
+         <number_in_campaign>[Campaign Battle #10]</number_in_campaign>
+         <battle_title>Gateway To Palmermo</battle_title>
       </Title>
-      <filename>The Chronicles of KG Skwabie #08_Clearing the Niscemi Highway_edited</filename>
-      <picture_link>scenpics/The Chronicles of KG Skwabie8.bmp</picture_link>
-      <battle_type>Axis Attack</battle_type>
-      <description>A joint Luftwaffe/Bersaglieri force move to smash a troublesome outpost of American paratroopers entrenched astride the Niscemi highway.</description>
-      <date>12/05/1944</date>
-      <time_of_day>10:50</time_of_day>
+      <filename>The Chronicles of KG Skwabie #10_Gateway to Palermo_edited</filename>
+      <picture_link>scenpics/The Chronicles of KG Skwabie10.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>Patton meets fierce resistance in Corleone as he heads West to Palermo. ALLIED ATTACK</description>
+      <date>19/05/1944</date>
+      <time_of_day>17:20</time_of_day>
       <part_of_day>Day</part_of_day>
       <length>04:00</length>
       <battle_size>Medium</battle_size>
       <Map_Size>
-         <map_area>0.754 Sq. km</map_area>
-         <map_width>736 m</map_width>
-         <map_depth>1024 m</map_depth>
+         <map_area>0.31 Sq. km</map_area>
+         <map_width>624 m</map_width>
+         <map_depth>496 m</map_depth>
       </Map_Size>
       <region>Italy</region>
-      <environment>Hills</environment>
+      <environment>Town</environment>
       <weather>Clear</weather>
       <temperature>Warm</temperature>
-      <ground_condition>Very Dry</ground_condition>
+      <ground_condition>Dry</ground_condition>
       <early_intel>Neither</early_intel>
       <game_version>CMFI v1.10</game_version>
       <Modules_Required>
@@ -281,40 +417,6 @@
 
    <Scenario>
       <Title>
-         <number_in_campaign>[Campaign Battle #05]</number_in_campaign>
-         <battle_title>Butera Station</battle_title>
-      </Title>
-      <filename>The Chronicles of KG Skwabie #05_Butera Station_edited</filename>
-      <picture_link>scenpics/The Chronicles of KG Skwabie5.bmp</picture_link>
-      <battle_type>Meeting Engagement</battle_type>
-      <description>A US patrol moves to blunt the attack of Italian infantry from the Livorno Division moving toward Gela. Best as US vs AI.</description>
-      <date>11/05/1944</date>
-      <time_of_day>11:00</time_of_day>
-      <part_of_day>Day</part_of_day>
-      <length>04:00</length>
-      <battle_size>Large</battle_size>
-      <Map_Size>
-         <map_area>3.232 Sq. km</map_area>
-         <map_width>2000 m</map_width>
-         <map_depth>1616 m</map_depth>
-      </Map_Size>
-      <region>Italy</region>
-      <environment>Open</environment>
-      <weather>Clear</weather>
-      <temperature>Warm</temperature>
-      <ground_condition>Very Dry</ground_condition>
-      <early_intel>Allied Force</early_intel>
-      <game_version>CMFI v1.10</game_version>
-      <Modules_Required>
-         <module1>Gustav Line</module1>
-      </Modules_Required>
-      <Mod_Tags>
-      </Mod_Tags>
-      <size_modifier>9</size_modifier>
-   </Scenario>
-
-   <Scenario>
-      <Title>
          <number_in_campaign>[Campaign Battle #12]</number_in_campaign>
          <battle_title>Bear Claws</battle_title>
       </Title>
@@ -349,131 +451,63 @@
 
    <Scenario>
       <Title>
-         <number_in_campaign>[Campaign Battle #02]</number_in_campaign>
-         <battle_title>Bad Day at Beach RED</battle_title>
+         <number_in_campaign>[Campaign Battle #14]</number_in_campaign>
+         <battle_title>Elephants and Tigers</battle_title>
       </Title>
-      <filename>The Chronicles of KG Skwabie #02_Bad Day at Beach RED_edited</filename>
-      <picture_link>scenpics/The Chronicles of KG Skwabie2.bmp</picture_link>
-      <battle_type>Allied Attack</battle_type>
-      <description>US Rangers do what they do best and assault prepared Coastal Defences to the West of Gela</description>
-      <date>10/05/1944</date>
-      <time_of_day>05:35</time_of_day>
-      <part_of_day>Dawn</part_of_day>
-      <length>04:00</length>
-      <battle_size>Medium</battle_size>
-      <Map_Size>
-         <map_area>0.758 Sq. km</map_area>
-         <map_width>1008 m</map_width>
-         <map_depth>752 m</map_depth>
-      </Map_Size>
-      <region>Italy</region>
-      <environment>Rough</environment>
-      <weather>Clear</weather>
-      <temperature>Warm</temperature>
-      <ground_condition>Very Dry</ground_condition>
-      <early_intel>Neither</early_intel>
-      <game_version>CMFI v1.10</game_version>
-      <Modules_Required>
-         <module1>Gustav Line</module1>
-      </Modules_Required>
-      <Mod_Tags>
-      </Mod_Tags>
-      <size_modifier>7</size_modifier>
-   </Scenario>
-
-   <Scenario>
-      <Title>
-         <number_in_campaign>[Campaign Battle #10]</number_in_campaign>
-         <battle_title>Gateway To Palmermo</battle_title>
-      </Title>
-      <filename>The Chronicles of KG Skwabie #10_Gateway to Palermo_edited</filename>
-      <picture_link>scenpics/The Chronicles of KG Skwabie10.bmp</picture_link>
-      <battle_type>Allied Attack</battle_type>
-      <description>Patton meets fierce resistance in Corleone as he heads West to Palermo. ALLIED ATTACK</description>
-      <date>19/05/1944</date>
-      <time_of_day>17:20</time_of_day>
-      <part_of_day>Day</part_of_day>
-      <length>04:00</length>
-      <battle_size>Medium</battle_size>
-      <Map_Size>
-         <map_area>0.31 Sq. km</map_area>
-         <map_width>624 m</map_width>
-         <map_depth>496 m</map_depth>
-      </Map_Size>
-      <region>Italy</region>
-      <environment>Town</environment>
-      <weather>Clear</weather>
-      <temperature>Warm</temperature>
-      <ground_condition>Dry</ground_condition>
-      <early_intel>Neither</early_intel>
-      <game_version>CMFI v1.10</game_version>
-      <Modules_Required>
-         <module1>Gustav Line</module1>
-      </Modules_Required>
-      <Mod_Tags>
-      </Mod_Tags>
-      <size_modifier>7</size_modifier>
-   </Scenario>
-
-   <Scenario>
-      <Title>
-         <number_in_campaign>[Campaign Battle #04]</number_in_campaign>
-         <battle_title>Biazzo Ridge</battle_title>
-      </Title>
-      <filename>The Chronicles of KG Skwabie #04_Biazzo Ridge_edited</filename>
-      <picture_link>scenpics/The Chronicles of KG Skwabie4.bmp</picture_link>
-      <battle_type>Allied Attack</battle_type>
-      <description>Colonel Gavin assaults Biazzo Ridge while on his way to Gela</description>
-      <date>11/05/1944</date>
-      <time_of_day>14:00</time_of_day>
-      <part_of_day>Day</part_of_day>
-      <length>04:00</length>
-      <battle_size>Large</battle_size>
-      <Map_Size>
-         <map_area>3.424 Sq. km</map_area>
-         <map_width>1712 m</map_width>
-         <map_depth>2000 m</map_depth>
-      </Map_Size>
-      <region>Italy</region>
-      <environment>Rough</environment>
-      <weather>Clear</weather>
-      <temperature>Hot</temperature>
-      <ground_condition>Dry</ground_condition>
-      <early_intel>Neither</early_intel>
-      <game_version>CMFI v1.10</game_version>
-      <Modules_Required>
-         <module1>Gustav Line</module1>
-      </Modules_Required>
-      <Mod_Tags>
-      </Mod_Tags>
-      <size_modifier>9</size_modifier>
-   </Scenario>
-
-   <Scenario>
-      <Title>
-         <number_in_campaign>[Campaign Battle #18]</number_in_campaign>
-         <battle_title>Kiwi Soldiers</battle_title>
-      </Title>
-      <filename>The Chronicles of KG Skwabie #18_GL Kiwi Soldiers_edited</filename>
-      <picture_link>scenpics/The Chronicles of KG Skwabie18.bmp</picture_link>
+      <filename>The Chronicles of KG Skwabie #14_GL Elephants and Tigers_edited</filename>
+      <picture_link>scenpics/The Chronicles of KG Skwabie14.bmp</picture_link>
       <battle_type>Allied Probe</battle_type>
-      <description>14 Platoon consolidate their area after an attack. Best played as Allies or HvH.</description>
-      <date>09/03/1944</date>
-      <time_of_day>14:15</time_of_day>
+      <description>The Tigers of the 5th Bttn The Hampshire Regt must locate an Elephant Tank Destroyer. Best played as Allied VS AI, but can also be played Axis VS AI and HvH.</description>
+      <date>10/04/1944</date>
+      <time_of_day>08:15</time_of_day>
       <part_of_day>Day</part_of_day>
       <length>04:00</length>
-      <battle_size>Tiny</battle_size>
+      <battle_size>Medium</battle_size>
       <Map_Size>
-         <map_area>0.043 Sq. km</map_area>
-         <map_width>208 m</map_width>
-         <map_depth>208 m</map_depth>
+         <map_area>0.915 Sq. km</map_area>
+         <map_width>1040 m</map_width>
+         <map_depth>880 m</map_depth>
       </Map_Size>
       <region>Italy</region>
-      <environment>Village</environment>
-      <weather>Light Rain</weather>
+      <environment>Open</environment>
+      <weather>Mist</weather>
       <temperature>Cool</temperature>
       <ground_condition>Wet</ground_condition>
       <early_intel>Neither</early_intel>
+      <game_version>CMFI v1.10</game_version>
+      <Modules_Required>
+         <module1>Gustav Line</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #07]</number_in_campaign>
+         <battle_title>Catch a Tiger</battle_title>
+      </Title>
+      <filename>The Chronicles of KG Skwabie #07_Catch a Tiger_edited</filename>
+      <picture_link>scenpics/The Chronicles of KG Skwabie7.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>In the hasty retreat from Troina, an immobilized German tank is left behind. Kill it so the main force can advance. Best as US vs AI.</description>
+      <date>06/05/1944</date>
+      <time_of_day>07:15</time_of_day>
+      <part_of_day>Dawn</part_of_day>
+      <length>04:00</length>
+      <battle_size>Tiny</battle_size>
+      <Map_Size>
+         <map_area>0.37 Sq. km</map_area>
+         <map_width>608 m</map_width>
+         <map_depth>608 m</map_depth>
+      </Map_Size>
+      <region>Italy</region>
+      <environment>Rough</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Allied Force</early_intel>
       <game_version>CMFI v1.10</game_version>
       <Modules_Required>
          <module1>Gustav Line</module1>
@@ -519,26 +553,26 @@
 
    <Scenario>
       <Title>
-         <number_in_campaign>[Campaign Battle #14]</number_in_campaign>
-         <battle_title>Elephants and Tigers</battle_title>
+         <number_in_campaign>[Campaign Battle #18]</number_in_campaign>
+         <battle_title>Kiwi Soldiers</battle_title>
       </Title>
-      <filename>The Chronicles of KG Skwabie #14_GL Elephants and Tigers_edited</filename>
-      <picture_link>scenpics/The Chronicles of KG Skwabie14.bmp</picture_link>
+      <filename>The Chronicles of KG Skwabie #18_GL Kiwi Soldiers_edited</filename>
+      <picture_link>scenpics/The Chronicles of KG Skwabie18.bmp</picture_link>
       <battle_type>Allied Probe</battle_type>
-      <description>The Tigers of the 5th Bttn The Hampshire Regt must locate an Elephant Tank Destroyer. Best played as Allied VS AI, but can also be played Axis VS AI and HvH.</description>
-      <date>10/04/1944</date>
-      <time_of_day>08:15</time_of_day>
+      <description>14 Platoon consolidate their area after an attack. Best played as Allies or HvH.</description>
+      <date>09/03/1944</date>
+      <time_of_day>14:15</time_of_day>
       <part_of_day>Day</part_of_day>
       <length>04:00</length>
-      <battle_size>Medium</battle_size>
+      <battle_size>Tiny</battle_size>
       <Map_Size>
-         <map_area>0.915 Sq. km</map_area>
-         <map_width>1040 m</map_width>
-         <map_depth>880 m</map_depth>
+         <map_area>0.043 Sq. km</map_area>
+         <map_width>208 m</map_width>
+         <map_depth>208 m</map_depth>
       </Map_Size>
       <region>Italy</region>
-      <environment>Open</environment>
-      <weather>Mist</weather>
+      <environment>Village</environment>
+      <weather>Light Rain</weather>
       <temperature>Cool</temperature>
       <ground_condition>Wet</ground_condition>
       <early_intel>Neither</early_intel>
@@ -548,7 +582,7 @@
       </Modules_Required>
       <Mod_Tags>
       </Mod_Tags>
-      <size_modifier>7</size_modifier>
+      <size_modifier>4</size_modifier>
    </Scenario>
 
    <Scenario>
@@ -587,28 +621,28 @@
 
    <Scenario>
       <Title>
-         <number_in_campaign>[Campaign Battle #09]</number_in_campaign>
-         <battle_title>Fight at Vallebruca</battle_title>
+         <number_in_campaign>[Campaign Battle #08]</number_in_campaign>
+         <battle_title>Clearing the Niscemi Highway</battle_title>
       </Title>
-      <filename>The Chronicles of KG Skwabie #09_Fight at Vallebruca_edited</filename>
-      <picture_link>scenpics/The Chronicles of KG Skwabie9.bmp</picture_link>
-      <battle_type>Allied Attack</battle_type>
-      <description>The Americans are pushing to Messina along the northern coast while the the 29th Panzergrenadier Division delays them at every town and ridge.</description>
-      <date>10/05/1944</date>
-      <time_of_day>15:30</time_of_day>
+      <filename>The Chronicles of KG Skwabie #08_Clearing the Niscemi Highway_edited</filename>
+      <picture_link>scenpics/The Chronicles of KG Skwabie8.bmp</picture_link>
+      <battle_type>Axis Attack</battle_type>
+      <description>A joint Luftwaffe/Bersaglieri force move to smash a troublesome outpost of American paratroopers entrenched astride the Niscemi highway.</description>
+      <date>12/05/1944</date>
+      <time_of_day>10:50</time_of_day>
       <part_of_day>Day</part_of_day>
       <length>04:00</length>
-      <battle_size>Small</battle_size>
+      <battle_size>Medium</battle_size>
       <Map_Size>
-         <map_area>0.18 Sq. km</map_area>
-         <map_width>256 m</map_width>
-         <map_depth>704 m</map_depth>
+         <map_area>0.754 Sq. km</map_area>
+         <map_width>736 m</map_width>
+         <map_depth>1024 m</map_depth>
       </Map_Size>
       <region>Italy</region>
-      <environment>Village</environment>
+      <environment>Hills</environment>
       <weather>Clear</weather>
-      <temperature>Hot</temperature>
-      <ground_condition>Dry</ground_condition>
+      <temperature>Warm</temperature>
+      <ground_condition>Very Dry</ground_condition>
       <early_intel>Neither</early_intel>
       <game_version>CMFI v1.10</game_version>
       <Modules_Required>
@@ -616,7 +650,7 @@
       </Modules_Required>
       <Mod_Tags>
       </Mod_Tags>
-      <size_modifier>5</size_modifier>
+      <size_modifier>7</size_modifier>
    </Scenario>
 
    <Scenario>
@@ -651,40 +685,6 @@
       <Mod_Tags>
       </Mod_Tags>
       <size_modifier>5</size_modifier>
-   </Scenario>
-
-   <Scenario>
-      <Title>
-         <number_in_campaign>[Campaign Battle #15]</number_in_campaign>
-         <battle_title>Hilltop to Hilltop</battle_title>
-      </Title>
-      <filename>The Chronicles of KG Skwabie #15_GL Hilltop to Hilltop_edited</filename>
-      <picture_link>scenpics/The Chronicles of KG Skwabie15.bmp</picture_link>
-      <battle_type>Allied Attack</battle_type>
-      <description>Rangers fight down one hill and back up another in the rain.  Best played as Allies vs AI.</description>
-      <date>24/04/1944</date>
-      <time_of_day>06:20</time_of_day>
-      <part_of_day>Day</part_of_day>
-      <length>04:00</length>
-      <battle_size>Medium</battle_size>
-      <Map_Size>
-         <map_area>0.952 Sq. km</map_area>
-         <map_width>944 m</map_width>
-         <map_depth>1008 m</map_depth>
-      </Map_Size>
-      <region>Italy</region>
-      <environment>Open</environment>
-      <weather>Overcast</weather>
-      <temperature>Cool</temperature>
-      <ground_condition>Muddy</ground_condition>
-      <early_intel>Neither</early_intel>
-      <game_version>CMFI v1.10</game_version>
-      <Modules_Required>
-         <module1>Gustav Line</module1>
-      </Modules_Required>
-      <Mod_Tags>
-      </Mod_Tags>
-      <size_modifier>7</size_modifier>
    </Scenario>
 
    </Scenario_List>

@@ -7,6 +7,318 @@
 
       <Campaign>
 
+         <title>Crossing the Dnieper</title>
+         <filename>Crossing the Dnieper</filename>
+         <picture_link>campaignpics/Crossing the Dnieper.bmp</picture_link>
+         <description>Lead a Russian assault across the Dnieper as part of an offensive on the city of Dnipropetrovsk.</description>
+         <date_range>
+           <earliest_date>20/07/2017</earliest_date>
+           <latest_date>23/07/2017</latest_date>
+         </date_range>
+         <region_list>
+           <region>Unknown</region>
+           <region>Ukraine</region>
+         </region_list>
+         <campaign_tree_link>campaignpics/Crossing the Dnieper_Tree.png</campaign_tree_link>
+         <game_version>CMBS v1.00 to v1.02</game_version>
+         <Modules_Required>
+         </Modules_Required>
+
+         <Campaign_Decision_Block>
+            <Scenario_Title>
+               <number_in_campaign>[Campaign Battle #00]</number_in_campaign>
+               <battle_title>Vesele</battle_title>
+            </Scenario_Title>
+            <filename>Crossing the Dnieper #00_Crossing the Dnieper Mission 1</filename>
+            <win_threshold>Draw</win_threshold>
+            <next_battle_win>#01</next_battle_win>
+            <next_battle_lose>#01</next_battle_lose>
+            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
+            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
+            <blue_refit>0</blue_refit>
+            <blue_repair_vehicle>0</blue_repair_vehicle>
+            <blue_resupply>0</blue_resupply>
+            <blue_rest>100</blue_rest>
+            <red_refit>0</red_refit>
+            <red_repair_vehicle>0</red_repair_vehicle>
+            <red_resupply>0</red_resupply>
+            <red_rest>100</red_rest>
+         </Campaign_Decision_Block>
+
+         <Campaign_Decision_Block>
+            <Scenario_Title>
+               <number_in_campaign>[Campaign Battle #01]</number_in_campaign>
+               <battle_title>Dnieper Darkness</battle_title>
+            </Scenario_Title>
+            <filename>Crossing the Dnieper #01_Crossing the Dnieper Mission 2</filename>
+            <win_threshold>Draw</win_threshold>
+            <next_battle_win>#02</next_battle_win>
+            <next_battle_lose>#03</next_battle_lose>
+            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
+            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
+            <blue_refit>0</blue_refit>
+            <blue_repair_vehicle>0</blue_repair_vehicle>
+            <blue_resupply>0</blue_resupply>
+            <blue_rest>100</blue_rest>
+            <red_refit>0</red_refit>
+            <red_repair_vehicle>0</red_repair_vehicle>
+            <red_resupply>0</red_resupply>
+            <red_rest>100</red_rest>
+         </Campaign_Decision_Block>
+
+         <Campaign_Decision_Block>
+            <Scenario_Title>
+               <number_in_campaign>[Campaign Battle #02]</number_in_campaign>
+               <battle_title>To the Far Bank</battle_title>
+            </Scenario_Title>
+            <filename>Crossing the Dnieper #02_Crossing the Dnieper Mission 3</filename>
+            <win_threshold>Draw</win_threshold>
+            <next_battle_win>#04</next_battle_win>
+            <next_battle_lose>Campaign End</next_battle_lose>
+            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
+            <maximum_allowed_victory>Tactical Defeat</maximum_allowed_victory>
+            <blue_refit>0</blue_refit>
+            <blue_repair_vehicle>0</blue_repair_vehicle>
+            <blue_resupply>0</blue_resupply>
+            <blue_rest>100</blue_rest>
+            <red_refit>0</red_refit>
+            <red_repair_vehicle>0</red_repair_vehicle>
+            <red_resupply>100</red_resupply>
+            <red_rest>100</red_rest>
+         </Campaign_Decision_Block>
+
+         <Campaign_Decision_Block>
+            <Scenario_Title>
+               <number_in_campaign>[Campaign Battle #03]</number_in_campaign>
+               <battle_title>To the Far Bank</battle_title>
+            </Scenario_Title>
+            <filename>Crossing the Dnieper #03_Crossing the Dnieper Mission 3 2F</filename>
+            <win_threshold>Draw</win_threshold>
+            <next_battle_win>#04</next_battle_win>
+            <next_battle_lose>Campaign End</next_battle_lose>
+            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
+            <maximum_allowed_victory>Tactical Defeat</maximum_allowed_victory>
+            <blue_refit>0</blue_refit>
+            <blue_repair_vehicle>0</blue_repair_vehicle>
+            <blue_resupply>0</blue_resupply>
+            <blue_rest>100</blue_rest>
+            <red_refit>0</red_refit>
+            <red_repair_vehicle>0</red_repair_vehicle>
+            <red_resupply>100</red_resupply>
+            <red_rest>100</red_rest>
+         </Campaign_Decision_Block>
+
+         <Campaign_Decision_Block>
+            <Scenario_Title>
+               <number_in_campaign>[Campaign Battle #04]</number_in_campaign>
+               <battle_title>First Contact</battle_title>
+            </Scenario_Title>
+            <filename>Crossing the Dnieper #04_Crossing the Dnieper Mission 4</filename>
+            <win_threshold>Draw</win_threshold>
+            <next_battle_win>#05</next_battle_win>
+            <next_battle_lose>#05</next_battle_lose>
+            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
+            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
+            <blue_refit>0</blue_refit>
+            <blue_repair_vehicle>0</blue_repair_vehicle>
+            <blue_resupply>0</blue_resupply>
+            <blue_rest>0</blue_rest>
+            <red_refit>0</red_refit>
+            <red_repair_vehicle>0</red_repair_vehicle>
+            <red_resupply>0</red_resupply>
+            <red_rest>100</red_rest>
+         </Campaign_Decision_Block>
+
+         <Campaign_Decision_Block>
+            <Scenario_Title>
+               <number_in_campaign>[Campaign Battle #05]</number_in_campaign>
+               <battle_title>Old Town</battle_title>
+            </Scenario_Title>
+            <filename>Crossing the Dnieper #05_Crossing the Dnieper Mission 5</filename>
+            <win_threshold>Draw</win_threshold>
+            <next_battle_win>Campaign End</next_battle_win>
+            <next_battle_lose>Campaign End</next_battle_lose>
+            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
+            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
+            <blue_refit>0</blue_refit>
+            <blue_repair_vehicle>0</blue_repair_vehicle>
+            <blue_resupply>0</blue_resupply>
+            <blue_rest>0</blue_rest>
+            <red_refit>0</red_refit>
+            <red_repair_vehicle>0</red_repair_vehicle>
+            <red_resupply>0</red_resupply>
+            <red_rest>100</red_rest>
+         </Campaign_Decision_Block>
+
+      </Campaign>
+      <Campaign>
+
+         <title>Task Force 3-69</title>
+         <filename>Task Force 3-69</filename>
+         <picture_link>campaignpics/Task Force 3-69.bmp</picture_link>
+         <description>Command an armored fist in the form of Task Force 3-69 as you battle the Russian advance south of Kiev. United States campaign.</description>
+         <date_range>
+           <earliest_date>09/08/2017</earliest_date>
+           <latest_date>16/08/2017</latest_date>
+         </date_range>
+         <region_list>
+           <region>Ukraine</region>
+         </region_list>
+         <campaign_tree_link>campaignpics/Task Force 3-69_Tree.png</campaign_tree_link>
+         <game_version>CMBS v1.00 to v1.02</game_version>
+         <Modules_Required>
+         </Modules_Required>
+
+         <Campaign_Decision_Block>
+            <Scenario_Title>
+               <number_in_campaign>[Campaign Battle #00]</number_in_campaign>
+               <battle_title>Speed and Power</battle_title>
+            </Scenario_Title>
+            <filename>Task Force 3-69 #00_Task Force 3 69 01 Speed and Power</filename>
+            <win_threshold>Draw</win_threshold>
+            <next_battle_win>#01</next_battle_win>
+            <next_battle_lose>#01</next_battle_lose>
+            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
+            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
+            <blue_refit>0</blue_refit>
+            <blue_repair_vehicle>0</blue_repair_vehicle>
+            <blue_resupply>100</blue_resupply>
+            <blue_rest>100</blue_rest>
+            <red_refit>0</red_refit>
+            <red_repair_vehicle>0</red_repair_vehicle>
+            <red_resupply>0</red_resupply>
+            <red_rest>100</red_rest>
+         </Campaign_Decision_Block>
+
+         <Campaign_Decision_Block>
+            <Scenario_Title>
+               <number_in_campaign>[Campaign Battle #01]</number_in_campaign>
+               <battle_title>The Outskirts</battle_title>
+            </Scenario_Title>
+            <filename>Task Force 3-69 #01_Task Force 3 69 02 The Outskirts</filename>
+            <win_threshold>Draw</win_threshold>
+            <next_battle_win>#02</next_battle_win>
+            <next_battle_lose>#03</next_battle_lose>
+            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
+            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
+            <blue_refit>0</blue_refit>
+            <blue_repair_vehicle>25</blue_repair_vehicle>
+            <blue_resupply>100</blue_resupply>
+            <blue_rest>100</blue_rest>
+            <red_refit>0</red_refit>
+            <red_repair_vehicle>0</red_repair_vehicle>
+            <red_resupply>0</red_resupply>
+            <red_rest>100</red_rest>
+         </Campaign_Decision_Block>
+
+         <Campaign_Decision_Block>
+            <Scenario_Title>
+               <number_in_campaign>[Campaign Battle #02]</number_in_campaign>
+               <battle_title>Poking the Bear</battle_title>
+            </Scenario_Title>
+            <filename>Task Force 3-69 #02_Task Force 3 69 03 Poking the Bear 2W</filename>
+            <win_threshold>Draw</win_threshold>
+            <next_battle_win>#04</next_battle_win>
+            <next_battle_lose>#05</next_battle_lose>
+            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
+            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
+            <blue_refit>50</blue_refit>
+            <blue_repair_vehicle>25</blue_repair_vehicle>
+            <blue_resupply>100</blue_resupply>
+            <blue_rest>100</blue_rest>
+            <red_refit>0</red_refit>
+            <red_repair_vehicle>0</red_repair_vehicle>
+            <red_resupply>0</red_resupply>
+            <red_rest>100</red_rest>
+         </Campaign_Decision_Block>
+
+         <Campaign_Decision_Block>
+            <Scenario_Title>
+               <number_in_campaign>[Campaign Battle #03]</number_in_campaign>
+               <battle_title>Poking the Bear</battle_title>
+            </Scenario_Title>
+            <filename>Task Force 3-69 #03_Task Force 3 69 03 Poking the Bear 2F</filename>
+            <win_threshold>Draw</win_threshold>
+            <next_battle_win>#04</next_battle_win>
+            <next_battle_lose>#05</next_battle_lose>
+            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
+            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
+            <blue_refit>50</blue_refit>
+            <blue_repair_vehicle>25</blue_repair_vehicle>
+            <blue_resupply>100</blue_resupply>
+            <blue_rest>100</blue_rest>
+            <red_refit>0</red_refit>
+            <red_repair_vehicle>0</red_repair_vehicle>
+            <red_resupply>0</red_resupply>
+            <red_rest>100</red_rest>
+         </Campaign_Decision_Block>
+
+         <Campaign_Decision_Block>
+            <Scenario_Title>
+               <number_in_campaign>[Campaign Battle #04]</number_in_campaign>
+               <battle_title>Backs to the Wall</battle_title>
+            </Scenario_Title>
+            <filename>Task Force 3-69 #04_Task Force 3 69 04 Backs to the Wall 3W</filename>
+            <win_threshold>Draw</win_threshold>
+            <next_battle_win>#06</next_battle_win>
+            <next_battle_lose>Campaign End</next_battle_lose>
+            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
+            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
+            <blue_refit>0</blue_refit>
+            <blue_repair_vehicle>25</blue_repair_vehicle>
+            <blue_resupply>100</blue_resupply>
+            <blue_rest>100</blue_rest>
+            <red_refit>0</red_refit>
+            <red_repair_vehicle>0</red_repair_vehicle>
+            <red_resupply>0</red_resupply>
+            <red_rest>100</red_rest>
+         </Campaign_Decision_Block>
+
+         <Campaign_Decision_Block>
+            <Scenario_Title>
+               <number_in_campaign>[Campaign Battle #05]</number_in_campaign>
+               <battle_title>Backs to the Wall</battle_title>
+            </Scenario_Title>
+            <filename>Task Force 3-69 #05_Task Force 3 69 04 Backs to the Wall 3F</filename>
+            <win_threshold>Draw</win_threshold>
+            <next_battle_win>#06</next_battle_win>
+            <next_battle_lose>Campaign End</next_battle_lose>
+            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
+            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
+            <blue_refit>0</blue_refit>
+            <blue_repair_vehicle>25</blue_repair_vehicle>
+            <blue_resupply>100</blue_resupply>
+            <blue_rest>100</blue_rest>
+            <red_refit>0</red_refit>
+            <red_repair_vehicle>0</red_repair_vehicle>
+            <red_resupply>0</red_resupply>
+            <red_rest>100</red_rest>
+         </Campaign_Decision_Block>
+
+         <Campaign_Decision_Block>
+            <Scenario_Title>
+               <number_in_campaign>[Campaign Battle #06]</number_in_campaign>
+               <battle_title>Vanguard</battle_title>
+            </Scenario_Title>
+            <filename>Task Force 3-69 #06_Task Force 3 69 05 Vanguard</filename>
+            <win_threshold>Draw</win_threshold>
+            <next_battle_win>Campaign End</next_battle_win>
+            <next_battle_lose>Campaign End</next_battle_lose>
+            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
+            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
+            <blue_refit>0</blue_refit>
+            <blue_repair_vehicle>25</blue_repair_vehicle>
+            <blue_resupply>100</blue_resupply>
+            <blue_rest>100</blue_rest>
+            <red_refit>0</red_refit>
+            <red_repair_vehicle>0</red_repair_vehicle>
+            <red_resupply>0</red_resupply>
+            <red_rest>0</red_rest>
+         </Campaign_Decision_Block>
+
+      </Campaign>
+      <Campaign>
+
          <title>The Shield of Kiev</title>
          <filename>The Shield of Kiev</filename>
          <picture_link>campaignpics/The Shield of Kiev.bmp</picture_link>
@@ -148,6 +460,442 @@
             <red_repair_vehicle>0</red_repair_vehicle>
             <red_resupply>0</red_resupply>
             <red_rest>100</red_rest>
+         </Campaign_Decision_Block>
+
+      </Campaign>
+      <Campaign>
+
+         <title>The Push From Dniprodzerhyn&apos;sk</title>
+         <filename>The Push From Dniprodzerhyn&apos;sk</filename>
+         <picture_link>campaignpics/The Push From Dniprodzerhyn&apos;sk.bmp</picture_link>
+         <description>Lead the forces of the 205th Motorized Rifle Brigade as they attack along Highway H11</description>
+         <date_range>
+           <earliest_date>15/07/2017</earliest_date>
+           <latest_date>23/07/2017</latest_date>
+         </date_range>
+         <region_list>
+           <region>Ukraine</region>
+         </region_list>
+         <campaign_tree_link>campaignpics/The Push From Dniprodzerhyn&apos;sk_Tree.png</campaign_tree_link>
+         <game_version>CMBS v1.04 to v2.10</game_version>
+         <Modules_Required>
+            <module1>Battle Pack #1 </module1>
+         </Modules_Required>
+
+         <Campaign_Decision_Block>
+            <Scenario_Title>
+               <number_in_campaign>[Campaign Battle #00]</number_in_campaign>
+               <battle_title>Seek and Destroy</battle_title>
+            </Scenario_Title>
+            <filename>The Push From Dniprodzerhyn&apos;sk #00_RUS MSN 01 Seek and Destroy</filename>
+            <win_threshold>Draw</win_threshold>
+            <next_battle_win>#01</next_battle_win>
+            <next_battle_lose>#01</next_battle_lose>
+            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
+            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
+            <blue_refit>0</blue_refit>
+            <blue_repair_vehicle>0</blue_repair_vehicle>
+            <blue_resupply>0</blue_resupply>
+            <blue_rest>0</blue_rest>
+            <red_refit>0</red_refit>
+            <red_repair_vehicle>10</red_repair_vehicle>
+            <red_resupply>10</red_resupply>
+            <red_rest>100</red_rest>
+         </Campaign_Decision_Block>
+
+         <Campaign_Decision_Block>
+            <Scenario_Title>
+               <number_in_campaign>[Campaign Battle #01]</number_in_campaign>
+               <battle_title>Grind Them to Dust</battle_title>
+            </Scenario_Title>
+            <filename>The Push From Dniprodzerhyn&apos;sk #01_RUS MSN 02 Grind Them to Dust</filename>
+            <win_threshold>Draw</win_threshold>
+            <next_battle_win>#02</next_battle_win>
+            <next_battle_lose>#02</next_battle_lose>
+            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
+            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
+            <blue_refit>0</blue_refit>
+            <blue_repair_vehicle>0</blue_repair_vehicle>
+            <blue_resupply>0</blue_resupply>
+            <blue_rest>0</blue_rest>
+            <red_refit>15</red_refit>
+            <red_repair_vehicle>15</red_repair_vehicle>
+            <red_resupply>15</red_resupply>
+            <red_rest>100</red_rest>
+         </Campaign_Decision_Block>
+
+         <Campaign_Decision_Block>
+            <Scenario_Title>
+               <number_in_campaign>[Campaign Battle #02]</number_in_campaign>
+               <battle_title>Hammer and Anvil</battle_title>
+            </Scenario_Title>
+            <filename>The Push From Dniprodzerhyn&apos;sk #02_RUS MSN 03 Hammer and Anvil</filename>
+            <win_threshold>Draw</win_threshold>
+            <next_battle_win>#03</next_battle_win>
+            <next_battle_lose>#03</next_battle_lose>
+            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
+            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
+            <blue_refit>0</blue_refit>
+            <blue_repair_vehicle>0</blue_repair_vehicle>
+            <blue_resupply>0</blue_resupply>
+            <blue_rest>0</blue_rest>
+            <red_refit>15</red_refit>
+            <red_repair_vehicle>20</red_repair_vehicle>
+            <red_resupply>30</red_resupply>
+            <red_rest>100</red_rest>
+         </Campaign_Decision_Block>
+
+         <Campaign_Decision_Block>
+            <Scenario_Title>
+               <number_in_campaign>[Campaign Battle #03]</number_in_campaign>
+               <battle_title>Highway to Hell</battle_title>
+            </Scenario_Title>
+            <filename>The Push From Dniprodzerhyn&apos;sk #03_RUS MSN 04 Highway to Hell</filename>
+            <win_threshold>Minor Victory</win_threshold>
+            <next_battle_win>#04</next_battle_win>
+            <next_battle_lose>Campaign End</next_battle_lose>
+            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
+            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
+            <blue_refit>0</blue_refit>
+            <blue_repair_vehicle>0</blue_repair_vehicle>
+            <blue_resupply>0</blue_resupply>
+            <blue_rest>0</blue_rest>
+            <red_refit>30</red_refit>
+            <red_repair_vehicle>30</red_repair_vehicle>
+            <red_resupply>75</red_resupply>
+            <red_rest>100</red_rest>
+         </Campaign_Decision_Block>
+
+         <Campaign_Decision_Block>
+            <Scenario_Title>
+               <number_in_campaign>[Campaign Battle #04]</number_in_campaign>
+               <battle_title>Heros of the 205th</battle_title>
+            </Scenario_Title>
+            <filename>The Push From Dniprodzerhyn&apos;sk #04_RUS MSN 05 Heros of the 205th</filename>
+            <win_threshold>Minor Victory</win_threshold>
+            <next_battle_win>Campaign End</next_battle_win>
+            <next_battle_lose>#5</next_battle_lose>
+            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
+            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
+            <blue_refit>0</blue_refit>
+            <blue_repair_vehicle>0</blue_repair_vehicle>
+            <blue_resupply>0</blue_resupply>
+            <blue_rest>0</blue_rest>
+            <red_refit>20</red_refit>
+            <red_repair_vehicle>10</red_repair_vehicle>
+            <red_resupply>40</red_resupply>
+            <red_rest>80</red_rest>
+         </Campaign_Decision_Block>
+
+         <Campaign_Decision_Block>
+            <Scenario_Title>
+               <number_in_campaign>[Campaign Battle #05]</number_in_campaign>
+               <battle_title>The Last Stand of 1st Company</battle_title>
+            </Scenario_Title>
+            <filename>The Push From Dniprodzerhyn&apos;sk #05_RUS MSN 06 The Last Stand</filename>
+            <win_threshold>Minor Victory</win_threshold>
+            <next_battle_win>Campaign End</next_battle_win>
+            <next_battle_lose>Campaign End</next_battle_lose>
+            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
+            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
+            <blue_refit>0</blue_refit>
+            <blue_repair_vehicle>0</blue_repair_vehicle>
+            <blue_resupply>0</blue_resupply>
+            <blue_rest>0</blue_rest>
+            <red_refit>100</red_refit>
+            <red_repair_vehicle>100</red_repair_vehicle>
+            <red_resupply>100</red_resupply>
+            <red_rest>100</red_rest>
+         </Campaign_Decision_Block>
+
+      </Campaign>
+      <Campaign>
+
+         <title>Training Campaign</title>
+         <filename>Training Campaign</filename>
+         <picture_link>campaignpics/Training Campaign.bmp</picture_link>
+         <description>Learn the basics of Combat Mission in this training campaign.</description>
+         <date_range>
+           <earliest_date>01/07/2017</earliest_date>
+           <latest_date>04/07/2017</latest_date>
+         </date_range>
+         <region_list>
+           <region>Ukraine</region>
+         </region_list>
+         <campaign_tree_link>campaignpics/Training Campaign_Tree.png</campaign_tree_link>
+         <game_version>CMBS v1.00 to v1.02</game_version>
+         <Modules_Required>
+         </Modules_Required>
+
+         <Campaign_Decision_Block>
+            <Scenario_Title>
+               <number_in_campaign>[Campaign Battle #00]</number_in_campaign>
+               <battle_title>Basic Gunnery Range</battle_title>
+            </Scenario_Title>
+            <filename>Training Campaign #00_Training Campaign 01</filename>
+            <win_threshold>Draw</win_threshold>
+            <next_battle_win>#01</next_battle_win>
+            <next_battle_lose>#01</next_battle_lose>
+            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
+            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
+            <blue_refit>100</blue_refit>
+            <blue_repair_vehicle>100</blue_repair_vehicle>
+            <blue_resupply>100</blue_resupply>
+            <blue_rest>100</blue_rest>
+            <red_refit>100</red_refit>
+            <red_repair_vehicle>100</red_repair_vehicle>
+            <red_resupply>100</red_resupply>
+            <red_rest>100</red_rest>
+         </Campaign_Decision_Block>
+
+         <Campaign_Decision_Block>
+            <Scenario_Title>
+               <number_in_campaign>[Campaign Battle #01]</number_in_campaign>
+               <battle_title>Advanced Gunnery Range</battle_title>
+            </Scenario_Title>
+            <filename>Training Campaign #01_Training Campaign 02</filename>
+            <win_threshold>Draw</win_threshold>
+            <next_battle_win>#02</next_battle_win>
+            <next_battle_lose>#02</next_battle_lose>
+            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
+            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
+            <blue_refit>100</blue_refit>
+            <blue_repair_vehicle>100</blue_repair_vehicle>
+            <blue_resupply>100</blue_resupply>
+            <blue_rest>100</blue_rest>
+            <red_refit>100</red_refit>
+            <red_repair_vehicle>100</red_repair_vehicle>
+            <red_resupply>100</red_resupply>
+            <red_rest>100</red_rest>
+         </Campaign_Decision_Block>
+
+         <Campaign_Decision_Block>
+            <Scenario_Title>
+               <number_in_campaign>[Campaign Battle #02]</number_in_campaign>
+               <battle_title>Fire Support Training</battle_title>
+            </Scenario_Title>
+            <filename>Training Campaign #02_Training Campaign 03</filename>
+            <win_threshold>Draw</win_threshold>
+            <next_battle_win>#03</next_battle_win>
+            <next_battle_lose>#03</next_battle_lose>
+            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
+            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
+            <blue_refit>100</blue_refit>
+            <blue_repair_vehicle>100</blue_repair_vehicle>
+            <blue_resupply>100</blue_resupply>
+            <blue_rest>100</blue_rest>
+            <red_refit>100</red_refit>
+            <red_repair_vehicle>100</red_repair_vehicle>
+            <red_resupply>100</red_resupply>
+            <red_rest>100</red_rest>
+         </Campaign_Decision_Block>
+
+         <Campaign_Decision_Block>
+            <Scenario_Title>
+               <number_in_campaign>[Campaign Battle #03]</number_in_campaign>
+               <battle_title>Practical Exercise</battle_title>
+            </Scenario_Title>
+            <filename>Training Campaign #03_Training Campaign 04</filename>
+            <win_threshold>Draw</win_threshold>
+            <next_battle_win>Campaign End</next_battle_win>
+            <next_battle_lose>Campaign End</next_battle_lose>
+            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
+            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
+            <blue_refit>100</blue_refit>
+            <blue_repair_vehicle>100</blue_repair_vehicle>
+            <blue_resupply>100</blue_resupply>
+            <blue_rest>100</blue_rest>
+            <red_refit>100</red_refit>
+            <red_repair_vehicle>100</red_repair_vehicle>
+            <red_resupply>100</red_resupply>
+            <red_rest>100</red_rest>
+         </Campaign_Decision_Block>
+
+      </Campaign>
+      <Campaign>
+
+         <title>Task Force Spartan Resolve</title>
+         <filename>Task Force Spartan Resolve</filename>
+         <picture_link>campaignpics/Task Force Spartan Resolve.bmp</picture_link>
+         <description>Lead Attack Company, 1st Battalion, 503rd Airborne, 173rd Airborne Brigade, as they bolster the defense of Cherkasy</description>
+         <date_range>
+           <earliest_date>02/07/2017</earliest_date>
+           <latest_date>16/07/2017</latest_date>
+         </date_range>
+         <region_list>
+           <region>Ukraine</region>
+         </region_list>
+         <campaign_tree_link>campaignpics/Task Force Spartan Resolve_Tree.png</campaign_tree_link>
+         <game_version>CMBS v1.03</game_version>
+         <Modules_Required>
+         </Modules_Required>
+
+         <Campaign_Decision_Block>
+            <Scenario_Title>
+               <number_in_campaign>[Campaign Battle #00]</number_in_campaign>
+               <battle_title>We Own the Night</battle_title>
+            </Scenario_Title>
+            <filename>Task Force Spartan Resolve #00_TF SR 01 We Own the Night</filename>
+            <win_threshold>Draw</win_threshold>
+            <next_battle_win>#01</next_battle_win>
+            <next_battle_lose>#01</next_battle_lose>
+            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
+            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
+            <blue_refit>30</blue_refit>
+            <blue_repair_vehicle>0</blue_repair_vehicle>
+            <blue_resupply>70</blue_resupply>
+            <blue_rest>100</blue_rest>
+            <red_refit>0</red_refit>
+            <red_repair_vehicle>0</red_repair_vehicle>
+            <red_resupply>0</red_resupply>
+            <red_rest>100</red_rest>
+         </Campaign_Decision_Block>
+
+         <Campaign_Decision_Block>
+            <Scenario_Title>
+               <number_in_campaign>[Campaign Battle #01]</number_in_campaign>
+               <battle_title>The Maelstrom</battle_title>
+            </Scenario_Title>
+            <filename>Task Force Spartan Resolve #01_TF SR 02 The Maelstrom</filename>
+            <win_threshold>Draw</win_threshold>
+            <next_battle_win>#02</next_battle_win>
+            <next_battle_lose>#02</next_battle_lose>
+            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
+            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
+            <blue_refit>50</blue_refit>
+            <blue_repair_vehicle>50</blue_repair_vehicle>
+            <blue_resupply>80</blue_resupply>
+            <blue_rest>100</blue_rest>
+            <red_refit>0</red_refit>
+            <red_repair_vehicle>0</red_repair_vehicle>
+            <red_resupply>0</red_resupply>
+            <red_rest>100</red_rest>
+         </Campaign_Decision_Block>
+
+         <Campaign_Decision_Block>
+            <Scenario_Title>
+               <number_in_campaign>[Campaign Battle #02]</number_in_campaign>
+               <battle_title>War Angel Down</battle_title>
+            </Scenario_Title>
+            <filename>Task Force Spartan Resolve #02_TF SR 03 War Angel Down</filename>
+            <win_threshold>Draw</win_threshold>
+            <next_battle_win>#03</next_battle_win>
+            <next_battle_lose>#03</next_battle_lose>
+            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
+            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
+            <blue_refit>70</blue_refit>
+            <blue_repair_vehicle>50</blue_repair_vehicle>
+            <blue_resupply>80</blue_resupply>
+            <blue_rest>100</blue_rest>
+            <red_refit>0</red_refit>
+            <red_repair_vehicle>0</red_repair_vehicle>
+            <red_resupply>0</red_resupply>
+            <red_rest>100</red_rest>
+         </Campaign_Decision_Block>
+
+         <Campaign_Decision_Block>
+            <Scenario_Title>
+               <number_in_campaign>[Campaign Battle #03]</number_in_campaign>
+               <battle_title>By the Dawn&apos;s Early Light</battle_title>
+            </Scenario_Title>
+            <filename>Task Force Spartan Resolve #03_TF SR 04 By the Dawns Early Light</filename>
+            <win_threshold>Draw</win_threshold>
+            <next_battle_win>#04</next_battle_win>
+            <next_battle_lose>#04</next_battle_lose>
+            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
+            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
+            <blue_refit>70</blue_refit>
+            <blue_repair_vehicle>50</blue_repair_vehicle>
+            <blue_resupply>80</blue_resupply>
+            <blue_rest>100</blue_rest>
+            <red_refit>0</red_refit>
+            <red_repair_vehicle>0</red_repair_vehicle>
+            <red_resupply>0</red_resupply>
+            <red_rest>100</red_rest>
+         </Campaign_Decision_Block>
+
+         <Campaign_Decision_Block>
+            <Scenario_Title>
+               <number_in_campaign>[Campaign Battle #04]</number_in_campaign>
+               <battle_title>Acts of Valor</battle_title>
+            </Scenario_Title>
+            <filename>Task Force Spartan Resolve #04_TF SR 05 Acts of Valor</filename>
+            <win_threshold>Draw</win_threshold>
+            <next_battle_win>#05</next_battle_win>
+            <next_battle_lose>#06</next_battle_lose>
+            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
+            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
+            <blue_refit>60</blue_refit>
+            <blue_repair_vehicle>50</blue_repair_vehicle>
+            <blue_resupply>90</blue_resupply>
+            <blue_rest>90</blue_rest>
+            <red_refit>0</red_refit>
+            <red_repair_vehicle>0</red_repair_vehicle>
+            <red_resupply>0</red_resupply>
+            <red_rest>100</red_rest>
+         </Campaign_Decision_Block>
+
+         <Campaign_Decision_Block>
+            <Scenario_Title>
+               <number_in_campaign>[Campaign Battle #05]</number_in_campaign>
+               <battle_title>Blood in the Streets</battle_title>
+            </Scenario_Title>
+            <filename>Task Force Spartan Resolve #05_TF SR 06 Blood in the Streets 4W</filename>
+            <win_threshold>Draw</win_threshold>
+            <next_battle_win>#07</next_battle_win>
+            <next_battle_lose>Campaign End</next_battle_lose>
+            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
+            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
+            <blue_refit>70</blue_refit>
+            <blue_repair_vehicle>50</blue_repair_vehicle>
+            <blue_resupply>70</blue_resupply>
+            <blue_rest>90</blue_rest>
+            <red_refit>0</red_refit>
+            <red_repair_vehicle>0</red_repair_vehicle>
+            <red_resupply>0</red_resupply>
+            <red_rest>100</red_rest>
+         </Campaign_Decision_Block>
+
+         <Campaign_Decision_Block>
+            <Scenario_Title>
+               <number_in_campaign>[Campaign Battle #06]</number_in_campaign>
+               <battle_title>Blood in the Streets</battle_title>
+            </Scenario_Title>
+            <filename>Task Force Spartan Resolve #06_TF SR 06 Blood in the Streets 4F</filename>
+            <win_threshold>Draw</win_threshold>
+            <next_battle_win>#07</next_battle_win>
+            <next_battle_lose>Campaign End</next_battle_lose>
+            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
+            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
+            <blue_refit>50</blue_refit>
+            <blue_repair_vehicle>30</blue_repair_vehicle>
+            <blue_resupply>50</blue_resupply>
+            <blue_rest>80</blue_rest>
+            <red_refit>0</red_refit>
+            <red_repair_vehicle>0</red_repair_vehicle>
+            <red_resupply>0</red_resupply>
+            <red_rest>100</red_rest>
+         </Campaign_Decision_Block>
+
+         <Campaign_Decision_Block>
+            <Scenario_Title>
+               <number_in_campaign>[Campaign Battle #07]</number_in_campaign>
+               <battle_title>Lock Shields</battle_title>
+            </Scenario_Title>
+            <filename>Task Force Spartan Resolve #07_TF SR 07 Lock Shields</filename>
+            <win_threshold>Draw</win_threshold>
+            <next_battle_win>Campaign End</next_battle_win>
+            <next_battle_lose>Campaign End</next_battle_lose>
+            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
+            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
+            <blue_refit>70</blue_refit>
+            <blue_repair_vehicle>20</blue_repair_vehicle>
+            <blue_resupply>90</blue_resupply>
+            <blue_rest>90</blue_rest>
+            <red_refit>0</red_refit>
+            <red_repair_vehicle>0</red_repair_vehicle>
+            <red_resupply>0</red_resupply>
+            <red_rest>0</red_rest>
          </Campaign_Decision_Block>
 
       </Campaign>
@@ -420,754 +1168,6 @@
             <red_repair_vehicle>0</red_repair_vehicle>
             <red_resupply>0</red_resupply>
             <red_rest>0</red_rest>
-         </Campaign_Decision_Block>
-
-      </Campaign>
-      <Campaign>
-
-         <title>Task Force Spartan Resolve</title>
-         <filename>Task Force Spartan Resolve</filename>
-         <picture_link>campaignpics/Task Force Spartan Resolve.bmp</picture_link>
-         <description>Lead Attack Company, 1st Battalion, 503rd Airborne, 173rd Airborne Brigade, as they bolster the defense of Cherkasy</description>
-         <date_range>
-           <earliest_date>02/07/2017</earliest_date>
-           <latest_date>16/07/2017</latest_date>
-         </date_range>
-         <region_list>
-           <region>Ukraine</region>
-         </region_list>
-         <campaign_tree_link>campaignpics/Task Force Spartan Resolve_Tree.png</campaign_tree_link>
-         <game_version>CMBS v1.03</game_version>
-         <Modules_Required>
-         </Modules_Required>
-
-         <Campaign_Decision_Block>
-            <Scenario_Title>
-               <number_in_campaign>[Campaign Battle #00]</number_in_campaign>
-               <battle_title>We Own the Night</battle_title>
-            </Scenario_Title>
-            <filename>Task Force Spartan Resolve #00_TF SR 01 We Own the Night</filename>
-            <win_threshold>Draw</win_threshold>
-            <next_battle_win>#01</next_battle_win>
-            <next_battle_lose>#01</next_battle_lose>
-            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
-            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
-            <blue_refit>30</blue_refit>
-            <blue_repair_vehicle>0</blue_repair_vehicle>
-            <blue_resupply>70</blue_resupply>
-            <blue_rest>100</blue_rest>
-            <red_refit>0</red_refit>
-            <red_repair_vehicle>0</red_repair_vehicle>
-            <red_resupply>0</red_resupply>
-            <red_rest>100</red_rest>
-         </Campaign_Decision_Block>
-
-         <Campaign_Decision_Block>
-            <Scenario_Title>
-               <number_in_campaign>[Campaign Battle #01]</number_in_campaign>
-               <battle_title>The Maelstrom</battle_title>
-            </Scenario_Title>
-            <filename>Task Force Spartan Resolve #01_TF SR 02 The Maelstrom</filename>
-            <win_threshold>Draw</win_threshold>
-            <next_battle_win>#02</next_battle_win>
-            <next_battle_lose>#02</next_battle_lose>
-            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
-            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
-            <blue_refit>50</blue_refit>
-            <blue_repair_vehicle>50</blue_repair_vehicle>
-            <blue_resupply>80</blue_resupply>
-            <blue_rest>100</blue_rest>
-            <red_refit>0</red_refit>
-            <red_repair_vehicle>0</red_repair_vehicle>
-            <red_resupply>0</red_resupply>
-            <red_rest>100</red_rest>
-         </Campaign_Decision_Block>
-
-         <Campaign_Decision_Block>
-            <Scenario_Title>
-               <number_in_campaign>[Campaign Battle #02]</number_in_campaign>
-               <battle_title>War Angel Down</battle_title>
-            </Scenario_Title>
-            <filename>Task Force Spartan Resolve #02_TF SR 03 War Angel Down</filename>
-            <win_threshold>Draw</win_threshold>
-            <next_battle_win>#03</next_battle_win>
-            <next_battle_lose>#03</next_battle_lose>
-            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
-            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
-            <blue_refit>70</blue_refit>
-            <blue_repair_vehicle>50</blue_repair_vehicle>
-            <blue_resupply>80</blue_resupply>
-            <blue_rest>100</blue_rest>
-            <red_refit>0</red_refit>
-            <red_repair_vehicle>0</red_repair_vehicle>
-            <red_resupply>0</red_resupply>
-            <red_rest>100</red_rest>
-         </Campaign_Decision_Block>
-
-         <Campaign_Decision_Block>
-            <Scenario_Title>
-               <number_in_campaign>[Campaign Battle #03]</number_in_campaign>
-               <battle_title>By the Dawn&apos;s Early Light</battle_title>
-            </Scenario_Title>
-            <filename>Task Force Spartan Resolve #03_TF SR 04 By the Dawns Early Light</filename>
-            <win_threshold>Draw</win_threshold>
-            <next_battle_win>#04</next_battle_win>
-            <next_battle_lose>#04</next_battle_lose>
-            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
-            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
-            <blue_refit>70</blue_refit>
-            <blue_repair_vehicle>50</blue_repair_vehicle>
-            <blue_resupply>80</blue_resupply>
-            <blue_rest>100</blue_rest>
-            <red_refit>0</red_refit>
-            <red_repair_vehicle>0</red_repair_vehicle>
-            <red_resupply>0</red_resupply>
-            <red_rest>100</red_rest>
-         </Campaign_Decision_Block>
-
-         <Campaign_Decision_Block>
-            <Scenario_Title>
-               <number_in_campaign>[Campaign Battle #04]</number_in_campaign>
-               <battle_title>Acts of Valor</battle_title>
-            </Scenario_Title>
-            <filename>Task Force Spartan Resolve #04_TF SR 05 Acts of Valor</filename>
-            <win_threshold>Draw</win_threshold>
-            <next_battle_win>#05</next_battle_win>
-            <next_battle_lose>#06</next_battle_lose>
-            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
-            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
-            <blue_refit>60</blue_refit>
-            <blue_repair_vehicle>50</blue_repair_vehicle>
-            <blue_resupply>90</blue_resupply>
-            <blue_rest>90</blue_rest>
-            <red_refit>0</red_refit>
-            <red_repair_vehicle>0</red_repair_vehicle>
-            <red_resupply>0</red_resupply>
-            <red_rest>100</red_rest>
-         </Campaign_Decision_Block>
-
-         <Campaign_Decision_Block>
-            <Scenario_Title>
-               <number_in_campaign>[Campaign Battle #05]</number_in_campaign>
-               <battle_title>Blood in the Streets</battle_title>
-            </Scenario_Title>
-            <filename>Task Force Spartan Resolve #05_TF SR 06 Blood in the Streets 4W</filename>
-            <win_threshold>Draw</win_threshold>
-            <next_battle_win>#07</next_battle_win>
-            <next_battle_lose>Campaign End</next_battle_lose>
-            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
-            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
-            <blue_refit>70</blue_refit>
-            <blue_repair_vehicle>50</blue_repair_vehicle>
-            <blue_resupply>70</blue_resupply>
-            <blue_rest>90</blue_rest>
-            <red_refit>0</red_refit>
-            <red_repair_vehicle>0</red_repair_vehicle>
-            <red_resupply>0</red_resupply>
-            <red_rest>100</red_rest>
-         </Campaign_Decision_Block>
-
-         <Campaign_Decision_Block>
-            <Scenario_Title>
-               <number_in_campaign>[Campaign Battle #06]</number_in_campaign>
-               <battle_title>Blood in the Streets</battle_title>
-            </Scenario_Title>
-            <filename>Task Force Spartan Resolve #06_TF SR 06 Blood in the Streets 4F</filename>
-            <win_threshold>Draw</win_threshold>
-            <next_battle_win>#07</next_battle_win>
-            <next_battle_lose>Campaign End</next_battle_lose>
-            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
-            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
-            <blue_refit>50</blue_refit>
-            <blue_repair_vehicle>30</blue_repair_vehicle>
-            <blue_resupply>50</blue_resupply>
-            <blue_rest>80</blue_rest>
-            <red_refit>0</red_refit>
-            <red_repair_vehicle>0</red_repair_vehicle>
-            <red_resupply>0</red_resupply>
-            <red_rest>100</red_rest>
-         </Campaign_Decision_Block>
-
-         <Campaign_Decision_Block>
-            <Scenario_Title>
-               <number_in_campaign>[Campaign Battle #07]</number_in_campaign>
-               <battle_title>Lock Shields</battle_title>
-            </Scenario_Title>
-            <filename>Task Force Spartan Resolve #07_TF SR 07 Lock Shields</filename>
-            <win_threshold>Draw</win_threshold>
-            <next_battle_win>Campaign End</next_battle_win>
-            <next_battle_lose>Campaign End</next_battle_lose>
-            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
-            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
-            <blue_refit>70</blue_refit>
-            <blue_repair_vehicle>20</blue_repair_vehicle>
-            <blue_resupply>90</blue_resupply>
-            <blue_rest>90</blue_rest>
-            <red_refit>0</red_refit>
-            <red_repair_vehicle>0</red_repair_vehicle>
-            <red_resupply>0</red_resupply>
-            <red_rest>0</red_rest>
-         </Campaign_Decision_Block>
-
-      </Campaign>
-      <Campaign>
-
-         <title>Task Force 3-69</title>
-         <filename>Task Force 3-69</filename>
-         <picture_link>campaignpics/Task Force 3-69.bmp</picture_link>
-         <description>Command an armored fist in the form of Task Force 3-69 as you battle the Russian advance south of Kiev. United States campaign.</description>
-         <date_range>
-           <earliest_date>09/08/2017</earliest_date>
-           <latest_date>16/08/2017</latest_date>
-         </date_range>
-         <region_list>
-           <region>Ukraine</region>
-         </region_list>
-         <campaign_tree_link>campaignpics/Task Force 3-69_Tree.png</campaign_tree_link>
-         <game_version>CMBS v1.00 to v1.02</game_version>
-         <Modules_Required>
-         </Modules_Required>
-
-         <Campaign_Decision_Block>
-            <Scenario_Title>
-               <number_in_campaign>[Campaign Battle #00]</number_in_campaign>
-               <battle_title>Speed and Power</battle_title>
-            </Scenario_Title>
-            <filename>Task Force 3-69 #00_Task Force 3 69 01 Speed and Power</filename>
-            <win_threshold>Draw</win_threshold>
-            <next_battle_win>#01</next_battle_win>
-            <next_battle_lose>#01</next_battle_lose>
-            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
-            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
-            <blue_refit>0</blue_refit>
-            <blue_repair_vehicle>0</blue_repair_vehicle>
-            <blue_resupply>100</blue_resupply>
-            <blue_rest>100</blue_rest>
-            <red_refit>0</red_refit>
-            <red_repair_vehicle>0</red_repair_vehicle>
-            <red_resupply>0</red_resupply>
-            <red_rest>100</red_rest>
-         </Campaign_Decision_Block>
-
-         <Campaign_Decision_Block>
-            <Scenario_Title>
-               <number_in_campaign>[Campaign Battle #01]</number_in_campaign>
-               <battle_title>The Outskirts</battle_title>
-            </Scenario_Title>
-            <filename>Task Force 3-69 #01_Task Force 3 69 02 The Outskirts</filename>
-            <win_threshold>Draw</win_threshold>
-            <next_battle_win>#02</next_battle_win>
-            <next_battle_lose>#03</next_battle_lose>
-            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
-            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
-            <blue_refit>0</blue_refit>
-            <blue_repair_vehicle>25</blue_repair_vehicle>
-            <blue_resupply>100</blue_resupply>
-            <blue_rest>100</blue_rest>
-            <red_refit>0</red_refit>
-            <red_repair_vehicle>0</red_repair_vehicle>
-            <red_resupply>0</red_resupply>
-            <red_rest>100</red_rest>
-         </Campaign_Decision_Block>
-
-         <Campaign_Decision_Block>
-            <Scenario_Title>
-               <number_in_campaign>[Campaign Battle #02]</number_in_campaign>
-               <battle_title>Poking the Bear</battle_title>
-            </Scenario_Title>
-            <filename>Task Force 3-69 #02_Task Force 3 69 03 Poking the Bear 2W</filename>
-            <win_threshold>Draw</win_threshold>
-            <next_battle_win>#04</next_battle_win>
-            <next_battle_lose>#05</next_battle_lose>
-            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
-            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
-            <blue_refit>50</blue_refit>
-            <blue_repair_vehicle>25</blue_repair_vehicle>
-            <blue_resupply>100</blue_resupply>
-            <blue_rest>100</blue_rest>
-            <red_refit>0</red_refit>
-            <red_repair_vehicle>0</red_repair_vehicle>
-            <red_resupply>0</red_resupply>
-            <red_rest>100</red_rest>
-         </Campaign_Decision_Block>
-
-         <Campaign_Decision_Block>
-            <Scenario_Title>
-               <number_in_campaign>[Campaign Battle #03]</number_in_campaign>
-               <battle_title>Poking the Bear</battle_title>
-            </Scenario_Title>
-            <filename>Task Force 3-69 #03_Task Force 3 69 03 Poking the Bear 2F</filename>
-            <win_threshold>Draw</win_threshold>
-            <next_battle_win>#04</next_battle_win>
-            <next_battle_lose>#05</next_battle_lose>
-            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
-            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
-            <blue_refit>50</blue_refit>
-            <blue_repair_vehicle>25</blue_repair_vehicle>
-            <blue_resupply>100</blue_resupply>
-            <blue_rest>100</blue_rest>
-            <red_refit>0</red_refit>
-            <red_repair_vehicle>0</red_repair_vehicle>
-            <red_resupply>0</red_resupply>
-            <red_rest>100</red_rest>
-         </Campaign_Decision_Block>
-
-         <Campaign_Decision_Block>
-            <Scenario_Title>
-               <number_in_campaign>[Campaign Battle #04]</number_in_campaign>
-               <battle_title>Backs to the Wall</battle_title>
-            </Scenario_Title>
-            <filename>Task Force 3-69 #04_Task Force 3 69 04 Backs to the Wall 3W</filename>
-            <win_threshold>Draw</win_threshold>
-            <next_battle_win>#06</next_battle_win>
-            <next_battle_lose>Campaign End</next_battle_lose>
-            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
-            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
-            <blue_refit>0</blue_refit>
-            <blue_repair_vehicle>25</blue_repair_vehicle>
-            <blue_resupply>100</blue_resupply>
-            <blue_rest>100</blue_rest>
-            <red_refit>0</red_refit>
-            <red_repair_vehicle>0</red_repair_vehicle>
-            <red_resupply>0</red_resupply>
-            <red_rest>100</red_rest>
-         </Campaign_Decision_Block>
-
-         <Campaign_Decision_Block>
-            <Scenario_Title>
-               <number_in_campaign>[Campaign Battle #05]</number_in_campaign>
-               <battle_title>Backs to the Wall</battle_title>
-            </Scenario_Title>
-            <filename>Task Force 3-69 #05_Task Force 3 69 04 Backs to the Wall 3F</filename>
-            <win_threshold>Draw</win_threshold>
-            <next_battle_win>#06</next_battle_win>
-            <next_battle_lose>Campaign End</next_battle_lose>
-            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
-            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
-            <blue_refit>0</blue_refit>
-            <blue_repair_vehicle>25</blue_repair_vehicle>
-            <blue_resupply>100</blue_resupply>
-            <blue_rest>100</blue_rest>
-            <red_refit>0</red_refit>
-            <red_repair_vehicle>0</red_repair_vehicle>
-            <red_resupply>0</red_resupply>
-            <red_rest>100</red_rest>
-         </Campaign_Decision_Block>
-
-         <Campaign_Decision_Block>
-            <Scenario_Title>
-               <number_in_campaign>[Campaign Battle #06]</number_in_campaign>
-               <battle_title>Vanguard</battle_title>
-            </Scenario_Title>
-            <filename>Task Force 3-69 #06_Task Force 3 69 05 Vanguard</filename>
-            <win_threshold>Draw</win_threshold>
-            <next_battle_win>Campaign End</next_battle_win>
-            <next_battle_lose>Campaign End</next_battle_lose>
-            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
-            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
-            <blue_refit>0</blue_refit>
-            <blue_repair_vehicle>25</blue_repair_vehicle>
-            <blue_resupply>100</blue_resupply>
-            <blue_rest>100</blue_rest>
-            <red_refit>0</red_refit>
-            <red_repair_vehicle>0</red_repair_vehicle>
-            <red_resupply>0</red_resupply>
-            <red_rest>0</red_rest>
-         </Campaign_Decision_Block>
-
-      </Campaign>
-      <Campaign>
-
-         <title>The Push From Dniprodzerhyn&apos;sk</title>
-         <filename>The Push From Dniprodzerhyn&apos;sk</filename>
-         <picture_link>campaignpics/The Push From Dniprodzerhyn&apos;sk.bmp</picture_link>
-         <description>Lead the forces of the 205th Motorized Rifle Brigade as they attack along Highway H11</description>
-         <date_range>
-           <earliest_date>15/07/2017</earliest_date>
-           <latest_date>23/07/2017</latest_date>
-         </date_range>
-         <region_list>
-           <region>Ukraine</region>
-         </region_list>
-         <campaign_tree_link>campaignpics/The Push From Dniprodzerhyn&apos;sk_Tree.png</campaign_tree_link>
-         <game_version>CMBS v1.04 to v2.10</game_version>
-         <Modules_Required>
-            <module1>Battle Pack #1 </module1>
-         </Modules_Required>
-
-         <Campaign_Decision_Block>
-            <Scenario_Title>
-               <number_in_campaign>[Campaign Battle #00]</number_in_campaign>
-               <battle_title>Seek and Destroy</battle_title>
-            </Scenario_Title>
-            <filename>The Push From Dniprodzerhyn&apos;sk #00_RUS MSN 01 Seek and Destroy</filename>
-            <win_threshold>Draw</win_threshold>
-            <next_battle_win>#01</next_battle_win>
-            <next_battle_lose>#01</next_battle_lose>
-            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
-            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
-            <blue_refit>0</blue_refit>
-            <blue_repair_vehicle>0</blue_repair_vehicle>
-            <blue_resupply>0</blue_resupply>
-            <blue_rest>0</blue_rest>
-            <red_refit>0</red_refit>
-            <red_repair_vehicle>10</red_repair_vehicle>
-            <red_resupply>10</red_resupply>
-            <red_rest>100</red_rest>
-         </Campaign_Decision_Block>
-
-         <Campaign_Decision_Block>
-            <Scenario_Title>
-               <number_in_campaign>[Campaign Battle #01]</number_in_campaign>
-               <battle_title>Grind Them to Dust</battle_title>
-            </Scenario_Title>
-            <filename>The Push From Dniprodzerhyn&apos;sk #01_RUS MSN 02 Grind Them to Dust</filename>
-            <win_threshold>Draw</win_threshold>
-            <next_battle_win>#02</next_battle_win>
-            <next_battle_lose>#02</next_battle_lose>
-            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
-            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
-            <blue_refit>0</blue_refit>
-            <blue_repair_vehicle>0</blue_repair_vehicle>
-            <blue_resupply>0</blue_resupply>
-            <blue_rest>0</blue_rest>
-            <red_refit>15</red_refit>
-            <red_repair_vehicle>15</red_repair_vehicle>
-            <red_resupply>15</red_resupply>
-            <red_rest>100</red_rest>
-         </Campaign_Decision_Block>
-
-         <Campaign_Decision_Block>
-            <Scenario_Title>
-               <number_in_campaign>[Campaign Battle #02]</number_in_campaign>
-               <battle_title>Hammer and Anvil</battle_title>
-            </Scenario_Title>
-            <filename>The Push From Dniprodzerhyn&apos;sk #02_RUS MSN 03 Hammer and Anvil</filename>
-            <win_threshold>Draw</win_threshold>
-            <next_battle_win>#03</next_battle_win>
-            <next_battle_lose>#03</next_battle_lose>
-            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
-            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
-            <blue_refit>0</blue_refit>
-            <blue_repair_vehicle>0</blue_repair_vehicle>
-            <blue_resupply>0</blue_resupply>
-            <blue_rest>0</blue_rest>
-            <red_refit>15</red_refit>
-            <red_repair_vehicle>20</red_repair_vehicle>
-            <red_resupply>30</red_resupply>
-            <red_rest>100</red_rest>
-         </Campaign_Decision_Block>
-
-         <Campaign_Decision_Block>
-            <Scenario_Title>
-               <number_in_campaign>[Campaign Battle #03]</number_in_campaign>
-               <battle_title>Highway to Hell</battle_title>
-            </Scenario_Title>
-            <filename>The Push From Dniprodzerhyn&apos;sk #03_RUS MSN 04 Highway to Hell</filename>
-            <win_threshold>Minor Victory</win_threshold>
-            <next_battle_win>#04</next_battle_win>
-            <next_battle_lose>Campaign End</next_battle_lose>
-            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
-            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
-            <blue_refit>0</blue_refit>
-            <blue_repair_vehicle>0</blue_repair_vehicle>
-            <blue_resupply>0</blue_resupply>
-            <blue_rest>0</blue_rest>
-            <red_refit>30</red_refit>
-            <red_repair_vehicle>30</red_repair_vehicle>
-            <red_resupply>75</red_resupply>
-            <red_rest>100</red_rest>
-         </Campaign_Decision_Block>
-
-         <Campaign_Decision_Block>
-            <Scenario_Title>
-               <number_in_campaign>[Campaign Battle #04]</number_in_campaign>
-               <battle_title>Heros of the 205th</battle_title>
-            </Scenario_Title>
-            <filename>The Push From Dniprodzerhyn&apos;sk #04_RUS MSN 05 Heros of the 205th</filename>
-            <win_threshold>Minor Victory</win_threshold>
-            <next_battle_win>Campaign End</next_battle_win>
-            <next_battle_lose>#5</next_battle_lose>
-            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
-            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
-            <blue_refit>0</blue_refit>
-            <blue_repair_vehicle>0</blue_repair_vehicle>
-            <blue_resupply>0</blue_resupply>
-            <blue_rest>0</blue_rest>
-            <red_refit>20</red_refit>
-            <red_repair_vehicle>10</red_repair_vehicle>
-            <red_resupply>40</red_resupply>
-            <red_rest>80</red_rest>
-         </Campaign_Decision_Block>
-
-         <Campaign_Decision_Block>
-            <Scenario_Title>
-               <number_in_campaign>[Campaign Battle #05]</number_in_campaign>
-               <battle_title>The Last Stand of 1st Company</battle_title>
-            </Scenario_Title>
-            <filename>The Push From Dniprodzerhyn&apos;sk #05_RUS MSN 06 The Last Stand</filename>
-            <win_threshold>Minor Victory</win_threshold>
-            <next_battle_win>Campaign End</next_battle_win>
-            <next_battle_lose>Campaign End</next_battle_lose>
-            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
-            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
-            <blue_refit>0</blue_refit>
-            <blue_repair_vehicle>0</blue_repair_vehicle>
-            <blue_resupply>0</blue_resupply>
-            <blue_rest>0</blue_rest>
-            <red_refit>100</red_refit>
-            <red_repair_vehicle>100</red_repair_vehicle>
-            <red_resupply>100</red_resupply>
-            <red_rest>100</red_rest>
-         </Campaign_Decision_Block>
-
-      </Campaign>
-      <Campaign>
-
-         <title>Training Campaign</title>
-         <filename>Training Campaign</filename>
-         <picture_link>campaignpics/Training Campaign.bmp</picture_link>
-         <description>Learn the basics of Combat Mission in this training campaign.</description>
-         <date_range>
-           <earliest_date>01/07/2017</earliest_date>
-           <latest_date>04/07/2017</latest_date>
-         </date_range>
-         <region_list>
-           <region>Ukraine</region>
-         </region_list>
-         <campaign_tree_link>campaignpics/Training Campaign_Tree.png</campaign_tree_link>
-         <game_version>CMBS v1.00 to v1.02</game_version>
-         <Modules_Required>
-         </Modules_Required>
-
-         <Campaign_Decision_Block>
-            <Scenario_Title>
-               <number_in_campaign>[Campaign Battle #00]</number_in_campaign>
-               <battle_title>Basic Gunnery Range</battle_title>
-            </Scenario_Title>
-            <filename>Training Campaign #00_Training Campaign 01</filename>
-            <win_threshold>Draw</win_threshold>
-            <next_battle_win>#01</next_battle_win>
-            <next_battle_lose>#01</next_battle_lose>
-            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
-            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
-            <blue_refit>100</blue_refit>
-            <blue_repair_vehicle>100</blue_repair_vehicle>
-            <blue_resupply>100</blue_resupply>
-            <blue_rest>100</blue_rest>
-            <red_refit>100</red_refit>
-            <red_repair_vehicle>100</red_repair_vehicle>
-            <red_resupply>100</red_resupply>
-            <red_rest>100</red_rest>
-         </Campaign_Decision_Block>
-
-         <Campaign_Decision_Block>
-            <Scenario_Title>
-               <number_in_campaign>[Campaign Battle #01]</number_in_campaign>
-               <battle_title>Advanced Gunnery Range</battle_title>
-            </Scenario_Title>
-            <filename>Training Campaign #01_Training Campaign 02</filename>
-            <win_threshold>Draw</win_threshold>
-            <next_battle_win>#02</next_battle_win>
-            <next_battle_lose>#02</next_battle_lose>
-            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
-            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
-            <blue_refit>100</blue_refit>
-            <blue_repair_vehicle>100</blue_repair_vehicle>
-            <blue_resupply>100</blue_resupply>
-            <blue_rest>100</blue_rest>
-            <red_refit>100</red_refit>
-            <red_repair_vehicle>100</red_repair_vehicle>
-            <red_resupply>100</red_resupply>
-            <red_rest>100</red_rest>
-         </Campaign_Decision_Block>
-
-         <Campaign_Decision_Block>
-            <Scenario_Title>
-               <number_in_campaign>[Campaign Battle #02]</number_in_campaign>
-               <battle_title>Fire Support Training</battle_title>
-            </Scenario_Title>
-            <filename>Training Campaign #02_Training Campaign 03</filename>
-            <win_threshold>Draw</win_threshold>
-            <next_battle_win>#03</next_battle_win>
-            <next_battle_lose>#03</next_battle_lose>
-            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
-            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
-            <blue_refit>100</blue_refit>
-            <blue_repair_vehicle>100</blue_repair_vehicle>
-            <blue_resupply>100</blue_resupply>
-            <blue_rest>100</blue_rest>
-            <red_refit>100</red_refit>
-            <red_repair_vehicle>100</red_repair_vehicle>
-            <red_resupply>100</red_resupply>
-            <red_rest>100</red_rest>
-         </Campaign_Decision_Block>
-
-         <Campaign_Decision_Block>
-            <Scenario_Title>
-               <number_in_campaign>[Campaign Battle #03]</number_in_campaign>
-               <battle_title>Practical Exercise</battle_title>
-            </Scenario_Title>
-            <filename>Training Campaign #03_Training Campaign 04</filename>
-            <win_threshold>Draw</win_threshold>
-            <next_battle_win>Campaign End</next_battle_win>
-            <next_battle_lose>Campaign End</next_battle_lose>
-            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
-            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
-            <blue_refit>100</blue_refit>
-            <blue_repair_vehicle>100</blue_repair_vehicle>
-            <blue_resupply>100</blue_resupply>
-            <blue_rest>100</blue_rest>
-            <red_refit>100</red_refit>
-            <red_repair_vehicle>100</red_repair_vehicle>
-            <red_resupply>100</red_resupply>
-            <red_rest>100</red_rest>
-         </Campaign_Decision_Block>
-
-      </Campaign>
-      <Campaign>
-
-         <title>Crossing the Dnieper</title>
-         <filename>Crossing the Dnieper</filename>
-         <picture_link>campaignpics/Crossing the Dnieper.bmp</picture_link>
-         <description>Lead a Russian assault across the Dnieper as part of an offensive on the city of Dnipropetrovsk.</description>
-         <date_range>
-           <earliest_date>20/07/2017</earliest_date>
-           <latest_date>23/07/2017</latest_date>
-         </date_range>
-         <region_list>
-           <region>Unknown</region>
-           <region>Ukraine</region>
-         </region_list>
-         <campaign_tree_link>campaignpics/Crossing the Dnieper_Tree.png</campaign_tree_link>
-         <game_version>CMBS v1.00 to v1.02</game_version>
-         <Modules_Required>
-         </Modules_Required>
-
-         <Campaign_Decision_Block>
-            <Scenario_Title>
-               <number_in_campaign>[Campaign Battle #00]</number_in_campaign>
-               <battle_title>Vesele</battle_title>
-            </Scenario_Title>
-            <filename>Crossing the Dnieper #00_Crossing the Dnieper Mission 1</filename>
-            <win_threshold>Draw</win_threshold>
-            <next_battle_win>#01</next_battle_win>
-            <next_battle_lose>#01</next_battle_lose>
-            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
-            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
-            <blue_refit>0</blue_refit>
-            <blue_repair_vehicle>0</blue_repair_vehicle>
-            <blue_resupply>0</blue_resupply>
-            <blue_rest>100</blue_rest>
-            <red_refit>0</red_refit>
-            <red_repair_vehicle>0</red_repair_vehicle>
-            <red_resupply>0</red_resupply>
-            <red_rest>100</red_rest>
-         </Campaign_Decision_Block>
-
-         <Campaign_Decision_Block>
-            <Scenario_Title>
-               <number_in_campaign>[Campaign Battle #01]</number_in_campaign>
-               <battle_title>Dnieper Darkness</battle_title>
-            </Scenario_Title>
-            <filename>Crossing the Dnieper #01_Crossing the Dnieper Mission 2</filename>
-            <win_threshold>Draw</win_threshold>
-            <next_battle_win>#02</next_battle_win>
-            <next_battle_lose>#03</next_battle_lose>
-            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
-            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
-            <blue_refit>0</blue_refit>
-            <blue_repair_vehicle>0</blue_repair_vehicle>
-            <blue_resupply>0</blue_resupply>
-            <blue_rest>100</blue_rest>
-            <red_refit>0</red_refit>
-            <red_repair_vehicle>0</red_repair_vehicle>
-            <red_resupply>0</red_resupply>
-            <red_rest>100</red_rest>
-         </Campaign_Decision_Block>
-
-         <Campaign_Decision_Block>
-            <Scenario_Title>
-               <number_in_campaign>[Campaign Battle #02]</number_in_campaign>
-               <battle_title>To the Far Bank</battle_title>
-            </Scenario_Title>
-            <filename>Crossing the Dnieper #02_Crossing the Dnieper Mission 3</filename>
-            <win_threshold>Draw</win_threshold>
-            <next_battle_win>#04</next_battle_win>
-            <next_battle_lose>Campaign End</next_battle_lose>
-            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
-            <maximum_allowed_victory>Tactical Defeat</maximum_allowed_victory>
-            <blue_refit>0</blue_refit>
-            <blue_repair_vehicle>0</blue_repair_vehicle>
-            <blue_resupply>0</blue_resupply>
-            <blue_rest>100</blue_rest>
-            <red_refit>0</red_refit>
-            <red_repair_vehicle>0</red_repair_vehicle>
-            <red_resupply>100</red_resupply>
-            <red_rest>100</red_rest>
-         </Campaign_Decision_Block>
-
-         <Campaign_Decision_Block>
-            <Scenario_Title>
-               <number_in_campaign>[Campaign Battle #03]</number_in_campaign>
-               <battle_title>To the Far Bank</battle_title>
-            </Scenario_Title>
-            <filename>Crossing the Dnieper #03_Crossing the Dnieper Mission 3 2F</filename>
-            <win_threshold>Draw</win_threshold>
-            <next_battle_win>#04</next_battle_win>
-            <next_battle_lose>Campaign End</next_battle_lose>
-            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
-            <maximum_allowed_victory>Tactical Defeat</maximum_allowed_victory>
-            <blue_refit>0</blue_refit>
-            <blue_repair_vehicle>0</blue_repair_vehicle>
-            <blue_resupply>0</blue_resupply>
-            <blue_rest>100</blue_rest>
-            <red_refit>0</red_refit>
-            <red_repair_vehicle>0</red_repair_vehicle>
-            <red_resupply>100</red_resupply>
-            <red_rest>100</red_rest>
-         </Campaign_Decision_Block>
-
-         <Campaign_Decision_Block>
-            <Scenario_Title>
-               <number_in_campaign>[Campaign Battle #04]</number_in_campaign>
-               <battle_title>First Contact</battle_title>
-            </Scenario_Title>
-            <filename>Crossing the Dnieper #04_Crossing the Dnieper Mission 4</filename>
-            <win_threshold>Draw</win_threshold>
-            <next_battle_win>#05</next_battle_win>
-            <next_battle_lose>#05</next_battle_lose>
-            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
-            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
-            <blue_refit>0</blue_refit>
-            <blue_repair_vehicle>0</blue_repair_vehicle>
-            <blue_resupply>0</blue_resupply>
-            <blue_rest>0</blue_rest>
-            <red_refit>0</red_refit>
-            <red_repair_vehicle>0</red_repair_vehicle>
-            <red_resupply>0</red_resupply>
-            <red_rest>100</red_rest>
-         </Campaign_Decision_Block>
-
-         <Campaign_Decision_Block>
-            <Scenario_Title>
-               <number_in_campaign>[Campaign Battle #05]</number_in_campaign>
-               <battle_title>Old Town</battle_title>
-            </Scenario_Title>
-            <filename>Crossing the Dnieper #05_Crossing the Dnieper Mission 5</filename>
-            <win_threshold>Draw</win_threshold>
-            <next_battle_win>Campaign End</next_battle_win>
-            <next_battle_lose>Campaign End</next_battle_lose>
-            <minimum_required_victory>Don't care / determined from overall score</minimum_required_victory>
-            <maximum_allowed_victory>Don't care / determined from overall score</maximum_allowed_victory>
-            <blue_refit>0</blue_refit>
-            <blue_repair_vehicle>0</blue_repair_vehicle>
-            <blue_resupply>0</blue_resupply>
-            <blue_rest>0</blue_rest>
-            <red_refit>0</red_refit>
-            <red_repair_vehicle>0</red_repair_vehicle>
-            <red_resupply>0</red_resupply>
-            <red_rest>100</red_rest>
          </Campaign_Decision_Block>
 
       </Campaign>

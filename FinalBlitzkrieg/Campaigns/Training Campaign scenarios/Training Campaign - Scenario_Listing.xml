@@ -9,39 +9,6 @@
 
    <Scenario>
       <Title>
-         <number_in_campaign>[Campaign Battle #02]</number_in_campaign>
-         <battle_title>Panzers on the Move!</battle_title>
-      </Title>
-      <filename>Training Campaign #02_Training Campaign Mission 3</filename>
-      <picture_link>scenpics/Training Campaign2.bmp</picture_link>
-      <battle_type>Axis Attack</battle_type>
-      <description>The Germans counterattack to take West Lutrebois. Defend your positions and counterattack to take out their HQ.</description>
-      <date>30/12/1944</date>
-      <time_of_day>10:00</time_of_day>
-      <part_of_day>Day</part_of_day>
-      <length>00:45</length>
-      <battle_size>Small</battle_size>
-      <Map_Size>
-         <map_area>0.498 Sq. km</map_area>
-         <map_width>944 m</map_width>
-         <map_depth>528 m</map_depth>
-      </Map_Size>
-      <region>Ardennes</region>
-      <environment>Town</environment>
-      <weather>Light Snow</weather>
-      <temperature>Freezing</temperature>
-      <ground_condition>Light Snow</ground_condition>
-      <early_intel>Neither</early_intel>
-      <game_version>CMFB v1.00 to v1.01</game_version>
-      <Modules_Required>
-      </Modules_Required>
-      <Mod_Tags>
-      </Mod_Tags>
-      <size_modifier>3</size_modifier>
-   </Scenario>
-
-   <Scenario>
-      <Title>
          <number_in_campaign>[Campaign Battle #03]</number_in_campaign>
          <battle_title>Shield and Hammer</battle_title>
       </Title>
@@ -71,6 +38,39 @@
       <Mod_Tags>
       </Mod_Tags>
       <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #00]</number_in_campaign>
+         <battle_title>Target Range</battle_title>
+      </Title>
+      <filename>Training Campaign #00_Training Campaign Mission 1</filename>
+      <picture_link>scenpics/Training Campaign0.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>Practice basic movement and combat commands on this training range.</description>
+      <date>23/12/1944</date>
+      <time_of_day>12:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:15</length>
+      <battle_size>Tiny</battle_size>
+      <Map_Size>
+         <map_area>0.209 Sq. km</map_area>
+         <map_width>256 m</map_width>
+         <map_depth>816 m</map_depth>
+      </Map_Size>
+      <region>Ardennes</region>
+      <environment>Open</environment>
+      <weather>Flurries</weather>
+      <temperature>Freezing</temperature>
+      <ground_condition>Light Snow</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFB v1.00 to v1.01</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>1</size_modifier>
    </Scenario>
 
    <Scenario>
@@ -108,26 +108,26 @@
 
    <Scenario>
       <Title>
-         <number_in_campaign>[Campaign Battle #00]</number_in_campaign>
-         <battle_title>Target Range</battle_title>
+         <number_in_campaign>[Campaign Battle #02]</number_in_campaign>
+         <battle_title>Panzers on the Move!</battle_title>
       </Title>
-      <filename>Training Campaign #00_Training Campaign Mission 1</filename>
-      <picture_link>scenpics/Training Campaign0.bmp</picture_link>
-      <battle_type>Allied Attack</battle_type>
-      <description>Practice basic movement and combat commands on this training range.</description>
-      <date>23/12/1944</date>
-      <time_of_day>12:00</time_of_day>
+      <filename>Training Campaign #02_Training Campaign Mission 3</filename>
+      <picture_link>scenpics/Training Campaign2.bmp</picture_link>
+      <battle_type>Axis Attack</battle_type>
+      <description>The Germans counterattack to take West Lutrebois. Defend your positions and counterattack to take out their HQ.</description>
+      <date>30/12/1944</date>
+      <time_of_day>10:00</time_of_day>
       <part_of_day>Day</part_of_day>
-      <length>00:15</length>
-      <battle_size>Tiny</battle_size>
+      <length>00:45</length>
+      <battle_size>Small</battle_size>
       <Map_Size>
-         <map_area>0.209 Sq. km</map_area>
-         <map_width>256 m</map_width>
-         <map_depth>816 m</map_depth>
+         <map_area>0.498 Sq. km</map_area>
+         <map_width>944 m</map_width>
+         <map_depth>528 m</map_depth>
       </Map_Size>
       <region>Ardennes</region>
-      <environment>Open</environment>
-      <weather>Flurries</weather>
+      <environment>Town</environment>
+      <weather>Light Snow</weather>
       <temperature>Freezing</temperature>
       <ground_condition>Light Snow</ground_condition>
       <early_intel>Neither</early_intel>
@@ -136,7 +136,7 @@
       </Modules_Required>
       <Mod_Tags>
       </Mod_Tags>
-      <size_modifier>1</size_modifier>
+      <size_modifier>3</size_modifier>
    </Scenario>
 
    </Scenario_List>

@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="Listing_Layout.xsl" ?>
+
+<Scenario_Listing>
+
+   <Scenario_List>
+
+   <containing_campaign>Training Campaign</containing_campaign>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #01]</number_in_campaign>
+         <battle_title>Assault on Hill 124</battle_title>
+      </Title>
+      <filename>Training Campaign #01_TC2 Assault on Hill 124</filename>
+      <picture_link>scenpics/Training Campaign1.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>In preparation for the attack on the twon objective, you are ordered to secure a fortified German hilltop outpost.</description>
+      <date>22/06/1944</date>
+      <time_of_day>10:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:30</length>
+      <battle_size>Tiny</battle_size>
+      <Map_Size>
+         <map_area>0.223 Sq. km</map_area>
+         <map_width>480 m</map_width>
+         <map_depth>464 m</map_depth>
+      </Map_Size>
+      <region>Soviet Union</region>
+      <environment>Hills</environment>
+      <weather>Clear</weather>
+      <temperature>Cool</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Axis Force</early_intel>
+      <game_version>CMRT v1.00 to v1.03</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>2</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #02]</number_in_campaign>
+         <battle_title>When Germans Attack</battle_title>
+      </Title>
+      <filename>Training Campaign #02_TC3 When Germans Attack</filename>
+      <picture_link>scenpics/Training Campaign2.bmp</picture_link>
+      <battle_type>Axis Attack</battle_type>
+      <description>The Germans mount an immediate counterattack to retake Hill 124.</description>
+      <date>22/06/1944</date>
+      <time_of_day>12:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:30</length>
+      <battle_size>Small</battle_size>
+      <Map_Size>
+         <map_area>0.313 Sq. km</map_area>
+         <map_width>592 m</map_width>
+         <map_depth>528 m</map_depth>
+      </Map_Size>
+      <region>Soviet Union</region>
+      <environment>Hills</environment>
+      <weather>Clear</weather>
+      <temperature>Cool</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMRT v1.00 to v1.03</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>3</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #00]</number_in_campaign>
+         <battle_title>Training Day</battle_title>
+      </Title>
+      <filename>Training Campaign #00_TC1 Training Day</filename>
+      <picture_link>scenpics/Training Campaign0.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>Learn the basics of controlling troops in Combat Mission on this training maneuever.</description>
+      <date>22/06/1944</date>
+      <time_of_day>09:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:15</length>
+      <battle_size>Small</battle_size>
+      <Map_Size>
+         <map_area>0.209 Sq. km</map_area>
+         <map_width>256 m</map_width>
+         <map_depth>816 m</map_depth>
+      </Map_Size>
+      <region>Soviet Union</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Cool</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMRT v1.00 to v1.03</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>2</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #03]</number_in_campaign>
+         <battle_title>Final Assault</battle_title>
+      </Title>
+      <filename>Training Campaign #03_TC4 Final Assault</filename>
+      <picture_link>scenpics/Training Campaign3.bmp</picture_link>
+      <battle_type>Allied Assault</battle_type>
+      <description>After repelling the German counterattack on Hill 124, complete your mission and assault the village.</description>
+      <date>22/06/1944</date>
+      <time_of_day>15:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:00</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>0.448 Sq. km</map_area>
+         <map_width>848 m</map_width>
+         <map_depth>528 m</map_depth>
+      </Map_Size>
+      <region>Soviet Union</region>
+      <environment>Village</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Axis Force</early_intel>
+      <game_version>CMRT v1.00 to v1.03</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   </Scenario_List>
+</Scenario_Listing>

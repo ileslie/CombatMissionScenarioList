@@ -9,36 +9,70 @@
 
    <Scenario>
       <Title>
-         <number_in_campaign>[Campaign Battle #06]</number_in_campaign>
-         <battle_title>Tunnel Vision</battle_title>
+         <number_in_campaign>[Campaign Battle #01]</number_in_campaign>
+         <battle_title>Backs to the Rhine</battle_title>
       </Title>
-      <filename>DF The Bridge (Hard) #06_DF The Bridge 07 Tunnel Vision</filename>
-      <picture_link>scenpics/DF The Bridge (Hard)6.bmp</picture_link>
-      <battle_type>Axis Attack</battle_type>
+      <filename>DF The Bridge (Hard) #01_DF The Bridge 02 Backs to the Rhine</filename>
+      <picture_link>scenpics/DF The Bridge (Hard)1.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
       <description>Not defined!</description>
-      <date>15/03/1945</date>
-      <time_of_day>11:00</time_of_day>
+      <date>08/03/1945</date>
+      <time_of_day>07:20</time_of_day>
       <part_of_day>Day</part_of_day>
-      <length>01:40</length>
+      <length>01:30</length>
       <battle_size>Medium</battle_size>
       <Map_Size>
-         <map_area>1.248 Sq. km</map_area>
-         <map_width>736 m</map_width>
-         <map_depth>1696 m</map_depth>
+         <map_area>0.986 Sq. km</map_area>
+         <map_width>1120 m</map_width>
+         <map_depth>880 m</map_depth>
       </Map_Size>
       <region>Germany</region>
-      <environment>Town</environment>
-      <weather>Heavy Rain</weather>
+      <environment>Open</environment>
+      <weather>Mist and Rain</weather>
       <temperature>Cold</temperature>
-      <ground_condition>Muddy</ground_condition>
+      <ground_condition>Damp</ground_condition>
       <early_intel>Neither</early_intel>
-      <game_version>CMFB v2.10</game_version>
+      <game_version>CMFB v2.10 to v2.11</game_version>
       <Modules_Required>
          <module1>Downfall</module1>
       </Modules_Required>
       <Mod_Tags>
       </Mod_Tags>
       <size_modifier>7</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #03]</number_in_campaign>
+         <battle_title>Erpeler Ley</battle_title>
+      </Title>
+      <filename>DF The Bridge (Hard) #03_DF The Bridge 04 Erpeler Ley</filename>
+      <picture_link>scenpics/DF The Bridge (Hard)3.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>Not defined!</description>
+      <date>10/03/1945</date>
+      <time_of_day>09:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:20</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>1.88 Sq. km</map_area>
+         <map_width>1728 m</map_width>
+         <map_depth>1088 m</map_depth>
+      </Map_Size>
+      <region>Germany</region>
+      <environment>Hills</environment>
+      <weather>Overcast</weather>
+      <temperature>Cold</temperature>
+      <ground_condition>Damp</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFB v2.10 to v2.11</game_version>
+      <Modules_Required>
+         <module1>Downfall</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
    </Scenario>
 
    <Scenario>
@@ -66,7 +100,41 @@
       <temperature>Cold</temperature>
       <ground_condition>Dry</ground_condition>
       <early_intel>Neither</early_intel>
-      <game_version>CMFB v2.10</game_version>
+      <game_version>CMFB v2.10 to v2.11</game_version>
+      <Modules_Required>
+         <module1>Downfall</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #06]</number_in_campaign>
+         <battle_title>Tunnel Vision</battle_title>
+      </Title>
+      <filename>DF The Bridge (Hard) #06_DF The Bridge 07 Tunnel Vision</filename>
+      <picture_link>scenpics/DF The Bridge (Hard)6.bmp</picture_link>
+      <battle_type>Axis Attack</battle_type>
+      <description>Not defined!</description>
+      <date>15/03/1945</date>
+      <time_of_day>11:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:40</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>1.248 Sq. km</map_area>
+         <map_width>736 m</map_width>
+         <map_depth>1696 m</map_depth>
+      </Map_Size>
+      <region>Germany</region>
+      <environment>Town</environment>
+      <weather>Heavy Rain</weather>
+      <temperature>Cold</temperature>
+      <ground_condition>Muddy</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFB v2.10 to v2.11</game_version>
       <Modules_Required>
          <module1>Downfall</module1>
       </Modules_Required>
@@ -100,7 +168,7 @@
       <temperature>Cold</temperature>
       <ground_condition>Damp</ground_condition>
       <early_intel>Allied Force</early_intel>
-      <game_version>CMFB v2.10</game_version>
+      <game_version>CMFB v2.10 to v2.11</game_version>
       <Modules_Required>
          <module1>Downfall</module1>
       </Modules_Required>
@@ -134,47 +202,13 @@
       <temperature>Cold</temperature>
       <ground_condition>Damp</ground_condition>
       <early_intel>Allied Force</early_intel>
-      <game_version>CMFB v2.10</game_version>
+      <game_version>CMFB v2.10 to v2.11</game_version>
       <Modules_Required>
          <module1>Downfall</module1>
       </Modules_Required>
       <Mod_Tags>
       </Mod_Tags>
       <size_modifier>4</size_modifier>
-   </Scenario>
-
-   <Scenario>
-      <Title>
-         <number_in_campaign>[Campaign Battle #01]</number_in_campaign>
-         <battle_title>Backs to the Rhine</battle_title>
-      </Title>
-      <filename>DF The Bridge (Hard) #01_DF The Bridge 02 Backs to the Rhine</filename>
-      <picture_link>scenpics/DF The Bridge (Hard)1.bmp</picture_link>
-      <battle_type>Allied Attack</battle_type>
-      <description>Not defined!</description>
-      <date>08/03/1945</date>
-      <time_of_day>07:20</time_of_day>
-      <part_of_day>Day</part_of_day>
-      <length>01:30</length>
-      <battle_size>Medium</battle_size>
-      <Map_Size>
-         <map_area>0.986 Sq. km</map_area>
-         <map_width>1120 m</map_width>
-         <map_depth>880 m</map_depth>
-      </Map_Size>
-      <region>Germany</region>
-      <environment>Open</environment>
-      <weather>Mist and Rain</weather>
-      <temperature>Cold</temperature>
-      <ground_condition>Damp</ground_condition>
-      <early_intel>Neither</early_intel>
-      <game_version>CMFB v2.10</game_version>
-      <Modules_Required>
-         <module1>Downfall</module1>
-      </Modules_Required>
-      <Mod_Tags>
-      </Mod_Tags>
-      <size_modifier>7</size_modifier>
    </Scenario>
 
    <Scenario>
@@ -202,41 +236,7 @@
       <temperature>Cold</temperature>
       <ground_condition>Wet</ground_condition>
       <early_intel>Neither</early_intel>
-      <game_version>CMFB v2.10</game_version>
-      <Modules_Required>
-         <module1>Downfall</module1>
-      </Modules_Required>
-      <Mod_Tags>
-      </Mod_Tags>
-      <size_modifier>6</size_modifier>
-   </Scenario>
-
-   <Scenario>
-      <Title>
-         <number_in_campaign>[Campaign Battle #03]</number_in_campaign>
-         <battle_title>Erpeler Ley</battle_title>
-      </Title>
-      <filename>DF The Bridge (Hard) #03_DF The Bridge 04 Erpeler Ley</filename>
-      <picture_link>scenpics/DF The Bridge (Hard)3.bmp</picture_link>
-      <battle_type>Allied Attack</battle_type>
-      <description>Not defined!</description>
-      <date>10/03/1945</date>
-      <time_of_day>09:00</time_of_day>
-      <part_of_day>Day</part_of_day>
-      <length>01:20</length>
-      <battle_size>Medium</battle_size>
-      <Map_Size>
-         <map_area>1.88 Sq. km</map_area>
-         <map_width>1728 m</map_width>
-         <map_depth>1088 m</map_depth>
-      </Map_Size>
-      <region>Germany</region>
-      <environment>Hills</environment>
-      <weather>Overcast</weather>
-      <temperature>Cold</temperature>
-      <ground_condition>Damp</ground_condition>
-      <early_intel>Neither</early_intel>
-      <game_version>CMFB v2.10</game_version>
+      <game_version>CMFB v2.10 to v2.11</game_version>
       <Modules_Required>
          <module1>Downfall</module1>
       </Modules_Required>

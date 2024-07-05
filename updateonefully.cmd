@@ -6,10 +6,13 @@ set GAMENAME=%1
 shift
 
 call updateonelist.cmd %GAMENAME%
+if errorlevel 1 exit /b 1
 
 call generateonehtml.cmd %GAMENAME% %1
+if errorlevel 1 exit /b 1
 
 call ftpone.cmd %GAMENAME%
+if errorlevel 1 exit /b 1
 
 goto end
 

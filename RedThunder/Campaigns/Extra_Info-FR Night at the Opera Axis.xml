@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <scenarios>
-    <scenario author="author unknown" filename="FR Night at the Opera Axis #00_CMFR Night at the Opera Axis.btt" stock="y"/>
-    <scenario author="author unknown" filename="FR Night at the Opera Axis #01_CMFR Night at the Opera Encore Axis.btt" stock="y"/>
+    <scenario author="benpark" filename="FR Night at the Opera Axis #00_CMFR Night at the Opera Axis.btt" stock="y"/>
+    <scenario author="benpark" filename="FR Night at the Opera Axis #01_CMFR Night at the Opera Encore Axis.btt" stock="y"/>
 </scenarios>

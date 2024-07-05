@@ -9,11 +9,11 @@
 
    <Scenario>
       <Title>
-         <number_in_campaign>[Campaign Battle #05]</number_in_campaign>
+         <number_in_campaign>[Campaign Battle #06]</number_in_campaign>
          <battle_title>Blood in the Streets</battle_title>
       </Title>
-      <filename>Task Force Spartan Resolve #05_TF SR 06 Blood in the Streets 4W</filename>
-      <picture_link>scenpics/Task Force Spartan Resolve5.bmp</picture_link>
+      <filename>Task Force Spartan Resolve #06_TF SR 06 Blood in the Streets 4F</filename>
+      <picture_link>scenpics/Task Force Spartan Resolve6.bmp</picture_link>
       <battle_type>Red Assault</battle_type>
       <description>Elements of the UKR 30th Mech Brigade and Attack Company conduct a desperate rear guard action in the center of Chapajevka</description>
       <date>13/06/2017</date>
@@ -39,40 +39,6 @@
          <mod_tag>173rd</mod_tag>
       </Mod_Tags>
       <size_modifier>6</size_modifier>
-   </Scenario>
-
-   <Scenario>
-      <Title>
-         <number_in_campaign>[Campaign Battle #07]</number_in_campaign>
-         <battle_title>Lock Shields</battle_title>
-      </Title>
-      <filename>Task Force Spartan Resolve #07_TF SR 07 Lock Shields</filename>
-      <picture_link>scenpics/Task Force Spartan Resolve7.bmp</picture_link>
-      <battle_type>Red Assault</battle_type>
-      <description>Attack Company and elements of 30th Mech Brigade must defend the outskirts of Cherkasy against a Russian assault</description>
-      <date>16/06/2017</date>
-      <time_of_day>07:00</time_of_day>
-      <part_of_day>Day</part_of_day>
-      <length>01:30</length>
-      <battle_size>Medium</battle_size>
-      <Map_Size>
-         <map_area>1.71 Sq. km</map_area>
-         <map_width>1696 m</map_width>
-         <map_depth>1008 m</map_depth>
-      </Map_Size>
-      <region>Ukraine</region>
-      <environment>Village</environment>
-      <weather>Clear</weather>
-      <temperature>Warm</temperature>
-      <ground_condition>Dry</ground_condition>
-      <early_intel>Red Force</early_intel>
-      <game_version>CMBS v1.03</game_version>
-      <Modules_Required>
-      </Modules_Required>
-      <Mod_Tags>
-         <mod_tag>173rd</mod_tag>
-      </Mod_Tags>
-      <size_modifier>7</size_modifier>
    </Scenario>
 
    <Scenario>
@@ -111,11 +77,11 @@
 
    <Scenario>
       <Title>
-         <number_in_campaign>[Campaign Battle #06]</number_in_campaign>
+         <number_in_campaign>[Campaign Battle #05]</number_in_campaign>
          <battle_title>Blood in the Streets</battle_title>
       </Title>
-      <filename>Task Force Spartan Resolve #06_TF SR 06 Blood in the Streets 4F</filename>
-      <picture_link>scenpics/Task Force Spartan Resolve6.bmp</picture_link>
+      <filename>Task Force Spartan Resolve #05_TF SR 06 Blood in the Streets 4W</filename>
+      <picture_link>scenpics/Task Force Spartan Resolve5.bmp</picture_link>
       <battle_type>Red Assault</battle_type>
       <description>Elements of the UKR 30th Mech Brigade and Attack Company conduct a desperate rear guard action in the center of Chapajevka</description>
       <date>13/06/2017</date>
@@ -202,6 +168,40 @@
       <temperature>Warm</temperature>
       <ground_condition>Dry</ground_condition>
       <early_intel>Blue Force</early_intel>
+      <game_version>CMBS v1.03</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>173rd</mod_tag>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #07]</number_in_campaign>
+         <battle_title>Lock Shields</battle_title>
+      </Title>
+      <filename>Task Force Spartan Resolve #07_TF SR 07 Lock Shields</filename>
+      <picture_link>scenpics/Task Force Spartan Resolve7.bmp</picture_link>
+      <battle_type>Red Assault</battle_type>
+      <description>Attack Company and elements of 30th Mech Brigade must defend the outskirts of Cherkasy against a Russian assault</description>
+      <date>16/06/2017</date>
+      <time_of_day>07:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:30</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>1.71 Sq. km</map_area>
+         <map_width>1696 m</map_width>
+         <map_depth>1008 m</map_depth>
+      </Map_Size>
+      <region>Ukraine</region>
+      <environment>Village</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Red Force</early_intel>
       <game_version>CMBS v1.03</game_version>
       <Modules_Required>
       </Modules_Required>

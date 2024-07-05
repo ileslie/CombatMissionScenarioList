@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="Listing_Layout.xsl" ?>
+
+<Scenario_Listing>
+
+   <Scenario_List>
+
+   <containing_campaign>CP SoD Chapter II Into Hell</containing_campaign>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #02]</number_in_campaign>
+         <battle_title>IH Frontline Probing</battle_title>
+      </Title>
+      <filename>CP SoD Chapter II Into Hell #02_IH Frontline Probing</filename>
+      <picture_link>scenpics/CP SoD Chapter II Into Hell2.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>17/06/1944 Soviet Attack in the early morning</description>
+      <date>22/06/1944</date>
+      <time_of_day>04:30</time_of_day>
+      <part_of_day>Dawn</part_of_day>
+      <length>02:00</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>1.016 Sq. km</map_area>
+         <map_width>1024 m</map_width>
+         <map_depth>992 m</map_depth>
+      </Map_Size>
+      <region>Eastern Europe</region>
+      <environment>Open</environment>
+      <weather>Thick Haze</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Very Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMRT v2.10 to v2.13</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #06]</number_in_campaign>
+         <battle_title>IH Burning Night</battle_title>
+      </Title>
+      <filename>CP SoD Chapter II Into Hell #06_IH Burning Night</filename>
+      <picture_link>scenpics/CP SoD Chapter II Into Hell6.bmp</picture_link>
+      <battle_type>Axis Attack</battle_type>
+      <description>23/06/1944 After the frontline has collapsed, small German Units still continue to offer tough resistance </description>
+      <date>23/06/1944</date>
+      <time_of_day>02:30</time_of_day>
+      <part_of_day>Night</part_of_day>
+      <length>00:45</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>0.06 Sq. km</map_area>
+         <map_width>288 m</map_width>
+         <map_depth>208 m</map_depth>
+      </Map_Size>
+      <region>Soviet Union</region>
+      <environment>Forest</environment>
+      <weather>Thick Haze</weather>
+      <temperature>Hot</temperature>
+      <ground_condition>Very Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMRT v2.10 to v2.13</game_version>
+      <Modules_Required>
+         <module1>Fire and Rubble</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #00]</number_in_campaign>
+         <battle_title>IH Ugly Nose</battle_title>
+      </Title>
+      <filename>CP SoD Chapter II Into Hell #00_IH Ugly Nose</filename>
+      <picture_link>scenpics/CP SoD Chapter II Into Hell0.bmp</picture_link>
+      <battle_type>Axis Attack</battle_type>
+      <description>08/06/1944 KG Strempel attacks a heavy fortified Soviet Position west of the Obol River</description>
+      <date>22/06/1944</date>
+      <time_of_day>16:45</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>03:00</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>1.855 Sq. km</map_area>
+         <map_width>1840 m</map_width>
+         <map_depth>1008 m</map_depth>
+      </Map_Size>
+      <region>Soviet Union</region>
+      <environment>Open</environment>
+      <weather>Hazy</weather>
+      <temperature>Extreme Heat</temperature>
+      <ground_condition>Very Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMRT v2.10 to v2.13</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #07]</number_in_campaign>
+         <battle_title>IH Red Wave</battle_title>
+      </Title>
+      <filename>CP SoD Chapter II Into Hell #07_IH Red Wave</filename>
+      <picture_link>scenpics/CP SoD Chapter II Into Hell7.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>23/06/1944 The remaining parts of GR 461 try to defend the vital supply route northeast of the Town of Obol</description>
+      <date>23/06/1944</date>
+      <time_of_day>06:30</time_of_day>
+      <part_of_day>Dawn</part_of_day>
+      <length>04:00</length>
+      <battle_size>Large</battle_size>
+      <Map_Size>
+         <map_area>3.821 Sq. km</map_area>
+         <map_width>2912 m</map_width>
+         <map_depth>1312 m</map_depth>
+      </Map_Size>
+      <region>Soviet Union</region>
+      <environment>Open</environment>
+      <weather>Thick Haze</weather>
+      <temperature>Hot</temperature>
+      <ground_condition>Very Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMRT v2.10 to v2.13</game_version>
+      <Modules_Required>
+         <module1>Fire and Rubble</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>9</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #04]</number_in_campaign>
+         <battle_title>IH Night Birds</battle_title>
+      </Title>
+      <filename>CP SoD Chapter II Into Hell #04_IH Night Birds</filename>
+      <picture_link>scenpics/CP SoD Chapter II Into Hell4.bmp</picture_link>
+      <battle_type>Meeting Engagement</battle_type>
+      <description>21/06/1944 German and Soviet Patrols meet each other in the morning fog</description>
+      <date>22/06/1944</date>
+      <time_of_day>03:45</time_of_day>
+      <part_of_day>Dawn</part_of_day>
+      <length>00:30</length>
+      <battle_size>Small</battle_size>
+      <Map_Size>
+         <map_area>0.134 Sq. km</map_area>
+         <map_width>400 m</map_width>
+         <map_depth>336 m</map_depth>
+      </Map_Size>
+      <region>Soviet Union</region>
+      <environment>Open</environment>
+      <weather>Light Fog</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Very Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMRT v2.10 to v2.13</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>3</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #01]</number_in_campaign>
+         <battle_title>IH Hard Knock</battle_title>
+      </Title>
+      <filename>CP SoD Chapter II Into Hell #01_IH Hard Knock</filename>
+      <picture_link>scenpics/CP SoD Chapter II Into Hell1.bmp</picture_link>
+      <battle_type>Axis Assault</battle_type>
+      <description>14/06/1944 German Assault Troop attacks Soviet Fortification in the early morning</description>
+      <date>22/06/1944</date>
+      <time_of_day>04:30</time_of_day>
+      <part_of_day>Dawn</part_of_day>
+      <length>00:45</length>
+      <battle_size>Small</battle_size>
+      <Map_Size>
+         <map_area>0.102 Sq. km</map_area>
+         <map_width>400 m</map_width>
+         <map_depth>256 m</map_depth>
+      </Map_Size>
+      <region>Eastern Europe</region>
+      <environment>Open</environment>
+      <weather>Thick Haze</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Very Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMRT v2.10 to v2.13</game_version>
+      <Modules_Required>
+         <module1>Fire and Rubble</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>3</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #05]</number_in_campaign>
+         <battle_title>IH Hells Gate</battle_title>
+      </Title>
+      <filename>CP SoD Chapter II Into Hell #05_IH Hells Gate</filename>
+      <picture_link>scenpics/CP SoD Chapter II Into Hell5.bmp</picture_link>
+      <battle_type>Allied Assault</battle_type>
+      <description>22/06/1944 The huge Soviet Summer Offensive is starting at dawn</description>
+      <date>22/06/1944</date>
+      <time_of_day>06:30</time_of_day>
+      <part_of_day>Dawn</part_of_day>
+      <length>04:00</length>
+      <battle_size>Large</battle_size>
+      <Map_Size>
+         <map_area>5.091 Sq. km</map_area>
+         <map_width>2816 m</map_width>
+         <map_depth>1808 m</map_depth>
+      </Map_Size>
+      <region>Soviet Union</region>
+      <environment>Open</environment>
+      <weather>Heavy Fog</weather>
+      <temperature>Hot</temperature>
+      <ground_condition>Very Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMRT v2.10 to v2.13</game_version>
+      <Modules_Required>
+         <module1>Fire and Rubble</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>9</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #03]</number_in_campaign>
+         <battle_title>IH Tongue Hunting</battle_title>
+      </Title>
+      <filename>CP SoD Chapter II Into Hell #03_IH Tongue Hunting</filename>
+      <picture_link>scenpics/CP SoD Chapter II Into Hell3.bmp</picture_link>
+      <battle_type>Axis Assault</battle_type>
+      <description>20/06/1944 German Night Attack at a Soviet combat outpost</description>
+      <date>22/06/1944</date>
+      <time_of_day>01:00</time_of_day>
+      <part_of_day>Night</part_of_day>
+      <length>00:40</length>
+      <battle_size>Tiny</battle_size>
+      <Map_Size>
+         <map_area>0.078 Sq. km</map_area>
+         <map_width>288 m</map_width>
+         <map_depth>272 m</map_depth>
+      </Map_Size>
+      <region>Soviet Union</region>
+      <environment>Open</environment>
+      <weather>Hazy</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Very Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMRT v2.10 to v2.13</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>2</size_modifier>
+   </Scenario>
+
+   </Scenario_List>
+</Scenario_Listing>

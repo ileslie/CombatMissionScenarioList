@@ -9,43 +9,6 @@
 
    <Scenario>
       <Title>
-         <number_in_campaign>[Campaign Battle #00]</number_in_campaign>
-         <battle_title>Prelude on the Seine</battle_title>
-      </Title>
-      <filename>Amiens Tonight #00_BP1C 01 Prelude v04</filename>
-      <picture_link>scenpics/Amiens Tonight0.bmp</picture_link>
-      <battle_type>Allied Attack</battle_type>
-      <description>4 SOM LI clear the woods east of Vernon</description>
-      <date>27/08/1944</date>
-      <time_of_day>11:30</time_of_day>
-      <part_of_day>Day</part_of_day>
-      <length>02:00</length>
-      <battle_size>Large</battle_size>
-      <Map_Size>
-         <map_area>2.635 Sq. km</map_area>
-         <map_width>1984 m</map_width>
-         <map_depth>1328 m</map_depth>
-      </Map_Size>
-      <region>France</region>
-      <environment>Forest</environment>
-      <weather>Clear</weather>
-      <temperature>Cool</temperature>
-      <ground_condition>Damp</ground_condition>
-      <early_intel>Neither</early_intel>
-      <game_version>CMBN v3.10 to v3.12</game_version>
-      <Modules_Required>
-         <module1>Commonwealth</module1>
-         <module2>Market Garden</module2>
-         <module3>Vehicle Pack</module3>
-         <module4>Battle Pack #1</module4>
-      </Modules_Required>
-      <Mod_Tags>
-      </Mod_Tags>
-      <size_modifier>9</size_modifier>
-   </Scenario>
-
-   <Scenario>
-      <Title>
          <number_in_campaign>[Campaign Battle #01]</number_in_campaign>
          <battle_title>Tally-Ho!</battle_title>
       </Title>
@@ -81,33 +44,72 @@
 
    <Scenario>
       <Title>
-         <number_in_campaign>[Campaign Battle #04]</number_in_campaign>
-         <battle_title>... and the beat goes on ...</battle_title>
+         <number_in_campaign>[Campaign Battle #03]</number_in_campaign>
+         <battle_title>To the Green Fields Beyond</battle_title>
       </Title>
-      <filename>Amiens Tonight #04_BP1C 05 Beat Goes On v02</filename>
-      <picture_link>scenpics/Amiens Tonight4.bmp</picture_link>
+      <filename>Amiens Tonight #03_BP1C 04 Green Fields v04</filename>
+      <picture_link>scenpics/Amiens Tonight3.bmp</picture_link>
       <battle_type>Allied Probe</battle_type>
-      <description>23H sweep across the plains of northern France</description>
-      <date>01/09/1944</date>
-      <time_of_day>10:10</time_of_day>
+      <description>C Company moves to occupy a night laager</description>
+      <date>31/08/1944</date>
+      <time_of_day>17:30</time_of_day>
       <part_of_day>Day</part_of_day>
-      <length>01:50</length>
+      <length>01:00</length>
       <battle_size>Large</battle_size>
       <Map_Size>
-         <map_area>5.557 Sq. km</map_area>
-         <map_width>2144 m</map_width>
-         <map_depth>2592 m</map_depth>
+         <map_area>1.651 Sq. km</map_area>
+         <map_width>1200 m</map_width>
+         <map_depth>1376 m</map_depth>
       </Map_Size>
       <region>France</region>
       <environment>Open</environment>
       <weather>Clear</weather>
-      <temperature>Warm</temperature>
-      <ground_condition>Dry</ground_condition>
+      <temperature>Cool</temperature>
+      <ground_condition>Damp</ground_condition>
       <early_intel>Neither</early_intel>
       <game_version>CMBN v3.10 to v3.12</game_version>
       <Modules_Required>
-         <module1>Market Garden</module1>
-         <module2>Battle Pack #1</module2>
+         <module1>Commonwealth</module1>
+         <module2>Market Garden</module2>
+         <module3>Vehicle Pack</module3>
+         <module4>Battle Pack #1</module4>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>8</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #00]</number_in_campaign>
+         <battle_title>Prelude on the Seine</battle_title>
+      </Title>
+      <filename>Amiens Tonight #00_BP1C 01 Prelude v04</filename>
+      <picture_link>scenpics/Amiens Tonight0.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>4 SOM LI clear the woods east of Vernon</description>
+      <date>27/08/1944</date>
+      <time_of_day>11:30</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>02:00</length>
+      <battle_size>Large</battle_size>
+      <Map_Size>
+         <map_area>2.635 Sq. km</map_area>
+         <map_width>1984 m</map_width>
+         <map_depth>1328 m</map_depth>
+      </Map_Size>
+      <region>France</region>
+      <environment>Forest</environment>
+      <weather>Clear</weather>
+      <temperature>Cool</temperature>
+      <ground_condition>Damp</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMBN v3.10 to v3.12</game_version>
+      <Modules_Required>
+         <module1>Commonwealth</module1>
+         <module2>Market Garden</module2>
+         <module3>Vehicle Pack</module3>
+         <module4>Battle Pack #1</module4>
       </Modules_Required>
       <Mod_Tags>
       </Mod_Tags>
@@ -153,39 +155,37 @@
 
    <Scenario>
       <Title>
-         <number_in_campaign>[Campaign Battle #03]</number_in_campaign>
-         <battle_title>To the Green Fields Beyond</battle_title>
+         <number_in_campaign>[Campaign Battle #04]</number_in_campaign>
+         <battle_title>... and the beat goes on ...</battle_title>
       </Title>
-      <filename>Amiens Tonight #03_BP1C 04 Green Fields v04</filename>
-      <picture_link>scenpics/Amiens Tonight3.bmp</picture_link>
+      <filename>Amiens Tonight #04_BP1C 05 Beat Goes On v02</filename>
+      <picture_link>scenpics/Amiens Tonight4.bmp</picture_link>
       <battle_type>Allied Probe</battle_type>
-      <description>C Company moves to occupy a night laager</description>
-      <date>31/08/1944</date>
-      <time_of_day>17:30</time_of_day>
+      <description>23H sweep across the plains of northern France</description>
+      <date>01/09/1944</date>
+      <time_of_day>10:10</time_of_day>
       <part_of_day>Day</part_of_day>
-      <length>01:00</length>
+      <length>01:50</length>
       <battle_size>Large</battle_size>
       <Map_Size>
-         <map_area>1.651 Sq. km</map_area>
-         <map_width>1200 m</map_width>
-         <map_depth>1376 m</map_depth>
+         <map_area>5.557 Sq. km</map_area>
+         <map_width>2144 m</map_width>
+         <map_depth>2592 m</map_depth>
       </Map_Size>
       <region>France</region>
       <environment>Open</environment>
       <weather>Clear</weather>
-      <temperature>Cool</temperature>
-      <ground_condition>Damp</ground_condition>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
       <early_intel>Neither</early_intel>
       <game_version>CMBN v3.10 to v3.12</game_version>
       <Modules_Required>
-         <module1>Commonwealth</module1>
-         <module2>Market Garden</module2>
-         <module3>Vehicle Pack</module3>
-         <module4>Battle Pack #1</module4>
+         <module1>Market Garden</module1>
+         <module2>Battle Pack #1</module2>
       </Modules_Required>
       <Mod_Tags>
       </Mod_Tags>
-      <size_modifier>8</size_modifier>
+      <size_modifier>9</size_modifier>
    </Scenario>
 
    </Scenario_List>

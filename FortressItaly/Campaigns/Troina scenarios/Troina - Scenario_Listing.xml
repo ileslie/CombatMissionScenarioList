@@ -9,72 +9,6 @@
 
    <Scenario>
       <Title>
-         <number_in_campaign>[Campaign Battle #00]</number_in_campaign>
-         <battle_title>Hill 1234</battle_title>
-      </Title>
-      <filename>Troina #00_Fi Cmpn 51 Hill 1234</filename>
-      <picture_link>scenpics/Troina0.bmp</picture_link>
-      <battle_type>Allied Attack</battle_type>
-      <description>Advance elements of 3/39 move to secure high ground northeast of Cerami in preparation for the northern arm of the planned Troina envelopment.</description>
-      <date>31/07/1943</date>
-      <time_of_day>12:00</time_of_day>
-      <part_of_day>Day</part_of_day>
-      <length>02:00</length>
-      <battle_size>Medium</battle_size>
-      <Map_Size>
-         <map_area>0.909 Sq. km</map_area>
-         <map_width>1184 m</map_width>
-         <map_depth>768 m</map_depth>
-      </Map_Size>
-      <region>Italy</region>
-      <environment>Hills</environment>
-      <weather>Hazy</weather>
-      <temperature>Warm</temperature>
-      <ground_condition>Dry</ground_condition>
-      <early_intel>Neither</early_intel>
-      <game_version>CMFI v1.00</game_version>
-      <Modules_Required>
-      </Modules_Required>
-      <Mod_Tags>
-      </Mod_Tags>
-      <size_modifier>7</size_modifier>
-   </Scenario>
-
-   <Scenario>
-      <Title>
-         <number_in_campaign>[Campaign Battle #05]</number_in_campaign>
-         <battle_title>Cutting the Cesarò Road</battle_title>
-      </Title>
-      <filename>Troina #05_FI Cmpn 55 Cutting the Cesaro Road</filename>
-      <picture_link>scenpics/Troina5.bmp</picture_link>
-      <battle_type>Allied Assault</battle_type>
-      <description>3/39 inflitrates overnight to the outskirts of Troina, intent on cutting the only open road from Troina at dawn.</description>
-      <date>05/08/1943</date>
-      <time_of_day>05:45</time_of_day>
-      <part_of_day>Day</part_of_day>
-      <length>03:00</length>
-      <battle_size>Large</battle_size>
-      <Map_Size>
-         <map_area>1.72 Sq. km</map_area>
-         <map_width>1280 m</map_width>
-         <map_depth>1344 m</map_depth>
-      </Map_Size>
-      <region>Italy</region>
-      <environment>Open</environment>
-      <weather>Hazy</weather>
-      <temperature>Cool</temperature>
-      <ground_condition>Dry</ground_condition>
-      <early_intel>Neither</early_intel>
-      <game_version>CMFI v1.00</game_version>
-      <Modules_Required>
-      </Modules_Required>
-      <Mod_Tags>
-      </Mod_Tags>
-      <size_modifier>9</size_modifier>
-   </Scenario>
-
-   <Scenario>
-      <Title>
          <number_in_campaign>[Campaign Battle #01]</number_in_campaign>
          <battle_title>Hill 1209</battle_title>
       </Title>
@@ -97,72 +31,6 @@
       <weather>Hazy</weather>
       <temperature>Hot</temperature>
       <ground_condition>Very Dry</ground_condition>
-      <early_intel>Neither</early_intel>
-      <game_version>CMFI v1.00</game_version>
-      <Modules_Required>
-      </Modules_Required>
-      <Mod_Tags>
-      </Mod_Tags>
-      <size_modifier>7</size_modifier>
-   </Scenario>
-
-   <Scenario>
-      <Title>
-         <number_in_campaign>[Campaign Battle #04]</number_in_campaign>
-         <battle_title>On The Precipice</battle_title>
-      </Title>
-      <filename>Troina #04_Fi Cmpn 54 On The Precipice</filename>
-      <picture_link>scenpics/Troina4.bmp</picture_link>
-      <battle_type>Axis Assault</battle_type>
-      <description>2/16 has been attacked with force on Hill 1034 by determined Germans throughout the day. In the afternoon, the Germans make one last massed push to retake Hill 1034.</description>
-      <date>03/08/1943</date>
-      <time_of_day>15:00</time_of_day>
-      <part_of_day>Day</part_of_day>
-      <length>01:00</length>
-      <battle_size>Medium</battle_size>
-      <Map_Size>
-         <map_area>0.899 Sq. km</map_area>
-         <map_width>1248 m</map_width>
-         <map_depth>720 m</map_depth>
-      </Map_Size>
-      <region>Italy</region>
-      <environment>Rough</environment>
-      <weather>Hazy</weather>
-      <temperature>Warm</temperature>
-      <ground_condition>Very Dry</ground_condition>
-      <early_intel>Neither</early_intel>
-      <game_version>CMFI v1.00</game_version>
-      <Modules_Required>
-      </Modules_Required>
-      <Mod_Tags>
-      </Mod_Tags>
-      <size_modifier>6</size_modifier>
-   </Scenario>
-
-   <Scenario>
-      <Title>
-         <number_in_campaign>[Campaign Battle #07]</number_in_campaign>
-         <battle_title>No Escape</battle_title>
-      </Title>
-      <filename>Troina #07_Fi Cmpn 56 No Escape</filename>
-      <picture_link>scenpics/Troina7.bmp</picture_link>
-      <battle_type>Allied Assault</battle_type>
-      <description>A sizeable portion of the German force has been trapped in Troina. Finish the defenders at the town center.</description>
-      <date>06/08/1943</date>
-      <time_of_day>13:00</time_of_day>
-      <part_of_day>Day</part_of_day>
-      <length>02:30</length>
-      <battle_size>Medium</battle_size>
-      <Map_Size>
-         <map_area>0.08 Sq. km</map_area>
-         <map_width>384 m</map_width>
-         <map_depth>208 m</map_depth>
-      </Map_Size>
-      <region>Italy</region>
-      <environment>City</environment>
-      <weather>Thick Haze</weather>
-      <temperature>Hot</temperature>
-      <ground_condition>Dry</ground_condition>
       <early_intel>Neither</early_intel>
       <game_version>CMFI v1.00</game_version>
       <Modules_Required>
@@ -236,6 +104,138 @@
       <Mod_Tags>
       </Mod_Tags>
       <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #04]</number_in_campaign>
+         <battle_title>On The Precipice</battle_title>
+      </Title>
+      <filename>Troina #04_Fi Cmpn 54 On The Precipice</filename>
+      <picture_link>scenpics/Troina4.bmp</picture_link>
+      <battle_type>Axis Assault</battle_type>
+      <description>2/16 has been attacked with force on Hill 1034 by determined Germans throughout the day. In the afternoon, the Germans make one last massed push to retake Hill 1034.</description>
+      <date>03/08/1943</date>
+      <time_of_day>15:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:00</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>0.899 Sq. km</map_area>
+         <map_width>1248 m</map_width>
+         <map_depth>720 m</map_depth>
+      </Map_Size>
+      <region>Italy</region>
+      <environment>Rough</environment>
+      <weather>Hazy</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Very Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFI v1.00</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #05]</number_in_campaign>
+         <battle_title>Cutting the Cesarò Road</battle_title>
+      </Title>
+      <filename>Troina #05_FI Cmpn 55 Cutting the Cesaro Road</filename>
+      <picture_link>scenpics/Troina5.bmp</picture_link>
+      <battle_type>Allied Assault</battle_type>
+      <description>3/39 inflitrates overnight to the outskirts of Troina, intent on cutting the only open road from Troina at dawn.</description>
+      <date>05/08/1943</date>
+      <time_of_day>05:45</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>03:00</length>
+      <battle_size>Large</battle_size>
+      <Map_Size>
+         <map_area>1.72 Sq. km</map_area>
+         <map_width>1280 m</map_width>
+         <map_depth>1344 m</map_depth>
+      </Map_Size>
+      <region>Italy</region>
+      <environment>Open</environment>
+      <weather>Hazy</weather>
+      <temperature>Cool</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFI v1.00</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>9</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #00]</number_in_campaign>
+         <battle_title>Hill 1234</battle_title>
+      </Title>
+      <filename>Troina #00_Fi Cmpn 51 Hill 1234</filename>
+      <picture_link>scenpics/Troina0.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>Advance elements of 3/39 move to secure high ground northeast of Cerami in preparation for the northern arm of the planned Troina envelopment.</description>
+      <date>31/07/1943</date>
+      <time_of_day>12:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>02:00</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>0.909 Sq. km</map_area>
+         <map_width>1184 m</map_width>
+         <map_depth>768 m</map_depth>
+      </Map_Size>
+      <region>Italy</region>
+      <environment>Hills</environment>
+      <weather>Hazy</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFI v1.00</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #07]</number_in_campaign>
+         <battle_title>No Escape</battle_title>
+      </Title>
+      <filename>Troina #07_Fi Cmpn 56 No Escape</filename>
+      <picture_link>scenpics/Troina7.bmp</picture_link>
+      <battle_type>Allied Assault</battle_type>
+      <description>A sizeable portion of the German force has been trapped in Troina. Finish the defenders at the town center.</description>
+      <date>06/08/1943</date>
+      <time_of_day>13:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>02:30</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>0.08 Sq. km</map_area>
+         <map_width>384 m</map_width>
+         <map_depth>208 m</map_depth>
+      </Map_Size>
+      <region>Italy</region>
+      <environment>City</environment>
+      <weather>Thick Haze</weather>
+      <temperature>Hot</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFI v1.00</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
    </Scenario>
 
    <Scenario>

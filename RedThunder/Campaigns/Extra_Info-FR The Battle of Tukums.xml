@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <scenarios>
-    <scenario author="author unknown" filename="FR The Battle of Tukums #00_1Planes Trains and Panzers.btt" stock="y"/>
-    <scenario author="author unknown" filename="FR The Battle of Tukums #01_2ATukums.btt" stock="y"/>
-    <scenario author="author unknown" filename="FR The Battle of Tukums #02_2BTukums.btt" stock="y"/>
-    <scenario author="author unknown" filename="FR The Battle of Tukums #03_3AUnleashed.btt" stock="y"/>
-    <scenario author="author unknown" filename="FR The Battle of Tukums #04_3BUnleashed.btt" stock="y"/>
-    <scenario author="author unknown" filename="FR The Battle of Tukums #05_3CUnleashed.btt" stock="y"/>
+    <scenario author="Ithikial_AU" filename="FR The Battle of Tukums #00_1Planes Trains and Panzers.btt" stock="y"/>
+    <scenario author="Ithikial_AU" filename="FR The Battle of Tukums #01_2ATukums.btt" stock="y"/>
+    <scenario author="Ithikial_AU" filename="FR The Battle of Tukums #02_2BTukums.btt" stock="y"/>
+    <scenario author="Ithikial_AU" filename="FR The Battle of Tukums #03_3AUnleashed.btt" stock="y"/>
+    <scenario author="Ithikial_AU" filename="FR The Battle of Tukums #04_3BUnleashed.btt" stock="y"/>
+    <scenario author="Ithikial_AU" filename="FR The Battle of Tukums #05_3CUnleashed.btt" stock="y"/>
 </scenarios>

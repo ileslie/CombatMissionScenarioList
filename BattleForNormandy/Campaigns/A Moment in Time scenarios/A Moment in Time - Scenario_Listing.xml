@@ -9,40 +9,6 @@
 
    <Scenario>
       <Title>
-         <number_in_campaign>[Campaign Battle #02]</number_in_campaign>
-         <battle_title>In The Zone</battle_title>
-      </Title>
-      <filename>A Moment in Time #02_MG Ger 03 In The Zone v10</filename>
-      <picture_link>scenpics/A Moment in Time2.bmp</picture_link>
-      <battle_type>Axis Attack</battle_type>
-      <description>Push the Americans back to overrun their landing zones.</description>
-      <date>19/09/1944</date>
-      <time_of_day>10:20</time_of_day>
-      <part_of_day>Day</part_of_day>
-      <length>00:40</length>
-      <battle_size>Small</battle_size>
-      <Map_Size>
-         <map_area>0.237 Sq. km</map_area>
-         <map_width>672 m</map_width>
-         <map_depth>352 m</map_depth>
-      </Map_Size>
-      <region>Holland</region>
-      <environment>Village</environment>
-      <weather>Clear</weather>
-      <temperature>Warm</temperature>
-      <ground_condition>Damp</ground_condition>
-      <early_intel>Axis Force</early_intel>
-      <game_version>CMBN v2.10</game_version>
-      <Modules_Required>
-         <module1>Market Garden</module1>
-      </Modules_Required>
-      <Mod_Tags>
-      </Mod_Tags>
-      <size_modifier>3</size_modifier>
-   </Scenario>
-
-   <Scenario>
-      <Title>
          <number_in_campaign>[Campaign Battle #01]</number_in_campaign>
          <battle_title>On The Brink</battle_title>
       </Title>
@@ -66,40 +32,6 @@
       <temperature>Warm</temperature>
       <ground_condition>Dry</ground_condition>
       <early_intel>Neither</early_intel>
-      <game_version>CMBN v2.10</game_version>
-      <Modules_Required>
-         <module1>Market Garden</module1>
-      </Modules_Required>
-      <Mod_Tags>
-      </Mod_Tags>
-      <size_modifier>3</size_modifier>
-   </Scenario>
-
-   <Scenario>
-      <Title>
-         <number_in_campaign>[Campaign Battle #00]</number_in_campaign>
-         <battle_title>School Daze</battle_title>
-      </Title>
-      <filename>A Moment in Time #00_MG Ger 01 School Daze v10</filename>
-      <picture_link>scenpics/A Moment in Time0.bmp</picture_link>
-      <battle_type>Axis Attack</battle_type>
-      <description>Crush the British forces holding out east of the Anhem Bridge</description>
-      <date>19/09/1944</date>
-      <time_of_day>10:10</time_of_day>
-      <part_of_day>Day</part_of_day>
-      <length>00:50</length>
-      <battle_size>Small</battle_size>
-      <Map_Size>
-         <map_area>0.218 Sq. km</map_area>
-         <map_width>400 m</map_width>
-         <map_depth>544 m</map_depth>
-      </Map_Size>
-      <region>Holland</region>
-      <environment>City</environment>
-      <weather>Thick Haze</weather>
-      <temperature>Warm</temperature>
-      <ground_condition>Damp</ground_condition>
-      <early_intel>Axis Force</early_intel>
       <game_version>CMBN v2.10</game_version>
       <Modules_Required>
          <module1>Market Garden</module1>
@@ -145,6 +77,40 @@
 
    <Scenario>
       <Title>
+         <number_in_campaign>[Campaign Battle #00]</number_in_campaign>
+         <battle_title>School Daze</battle_title>
+      </Title>
+      <filename>A Moment in Time #00_MG Ger 01 School Daze v10</filename>
+      <picture_link>scenpics/A Moment in Time0.bmp</picture_link>
+      <battle_type>Axis Attack</battle_type>
+      <description>Crush the British forces holding out east of the Anhem Bridge</description>
+      <date>19/09/1944</date>
+      <time_of_day>10:10</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:50</length>
+      <battle_size>Small</battle_size>
+      <Map_Size>
+         <map_area>0.218 Sq. km</map_area>
+         <map_width>400 m</map_width>
+         <map_depth>544 m</map_depth>
+      </Map_Size>
+      <region>Holland</region>
+      <environment>City</environment>
+      <weather>Thick Haze</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Damp</ground_condition>
+      <early_intel>Axis Force</early_intel>
+      <game_version>CMBN v2.10</game_version>
+      <Modules_Required>
+         <module1>Market Garden</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>3</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
          <number_in_campaign>[Campaign Battle #04]</number_in_campaign>
          <battle_title>Hell&apos;s Highway</battle_title>
       </Title>
@@ -175,6 +141,40 @@
       <Mod_Tags>
       </Mod_Tags>
       <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #02]</number_in_campaign>
+         <battle_title>In The Zone</battle_title>
+      </Title>
+      <filename>A Moment in Time #02_MG Ger 03 In The Zone v10</filename>
+      <picture_link>scenpics/A Moment in Time2.bmp</picture_link>
+      <battle_type>Axis Attack</battle_type>
+      <description>Push the Americans back to overrun their landing zones.</description>
+      <date>19/09/1944</date>
+      <time_of_day>10:20</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:40</length>
+      <battle_size>Small</battle_size>
+      <Map_Size>
+         <map_area>0.237 Sq. km</map_area>
+         <map_width>672 m</map_width>
+         <map_depth>352 m</map_depth>
+      </Map_Size>
+      <region>Holland</region>
+      <environment>Village</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Damp</ground_condition>
+      <early_intel>Axis Force</early_intel>
+      <game_version>CMBN v2.10</game_version>
+      <Modules_Required>
+         <module1>Market Garden</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>3</size_modifier>
    </Scenario>
 
    <Scenario>

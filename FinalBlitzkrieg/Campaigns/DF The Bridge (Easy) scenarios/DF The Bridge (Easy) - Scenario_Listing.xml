@@ -9,40 +9,6 @@
 
    <Scenario>
       <Title>
-         <number_in_campaign>[Campaign Battle #05]</number_in_campaign>
-         <battle_title>The Heights</battle_title>
-      </Title>
-      <filename>DF The Bridge (Easy) #05_DF The Bridge 06 The Heights</filename>
-      <picture_link>scenpics/DF The Bridge (Easy)5.bmp</picture_link>
-      <battle_type>Axis Attack</battle_type>
-      <description>Not defined!</description>
-      <date>14/03/1945</date>
-      <time_of_day>07:35</time_of_day>
-      <part_of_day>Day</part_of_day>
-      <length>02:00</length>
-      <battle_size>Large</battle_size>
-      <Map_Size>
-         <map_area>1.608 Sq. km</map_area>
-         <map_width>1648 m</map_width>
-         <map_depth>976 m</map_depth>
-      </Map_Size>
-      <region>Germany</region>
-      <environment>Village</environment>
-      <weather>Mist</weather>
-      <temperature>Cold</temperature>
-      <ground_condition>Damp</ground_condition>
-      <early_intel>Allied Force</early_intel>
-      <game_version>CMFB v2.10</game_version>
-      <Modules_Required>
-         <module1>Downfall</module1>
-      </Modules_Required>
-      <Mod_Tags>
-      </Mod_Tags>
-      <size_modifier>9</size_modifier>
-   </Scenario>
-
-   <Scenario>
-      <Title>
          <number_in_campaign>[Campaign Battle #01]</number_in_campaign>
          <battle_title>Backs to the Rhine</battle_title>
       </Title>
@@ -66,109 +32,7 @@
       <temperature>Cold</temperature>
       <ground_condition>Damp</ground_condition>
       <early_intel>Neither</early_intel>
-      <game_version>CMFB v2.10</game_version>
-      <Modules_Required>
-         <module1>Downfall</module1>
-      </Modules_Required>
-      <Mod_Tags>
-      </Mod_Tags>
-      <size_modifier>7</size_modifier>
-   </Scenario>
-
-   <Scenario>
-      <Title>
-         <number_in_campaign>[Campaign Battle #06]</number_in_campaign>
-         <battle_title>Tunnel Vision</battle_title>
-      </Title>
-      <filename>DF The Bridge (Easy) #06_DF The Bridge 07 Tunnel Vision</filename>
-      <picture_link>scenpics/DF The Bridge (Easy)6.bmp</picture_link>
-      <battle_type>Axis Attack</battle_type>
-      <description>Not defined!</description>
-      <date>15/03/1945</date>
-      <time_of_day>11:00</time_of_day>
-      <part_of_day>Day</part_of_day>
-      <length>01:40</length>
-      <battle_size>Medium</battle_size>
-      <Map_Size>
-         <map_area>1.248 Sq. km</map_area>
-         <map_width>736 m</map_width>
-         <map_depth>1696 m</map_depth>
-      </Map_Size>
-      <region>Germany</region>
-      <environment>Town</environment>
-      <weather>Heavy Rain</weather>
-      <temperature>Cold</temperature>
-      <ground_condition>Muddy</ground_condition>
-      <early_intel>Neither</early_intel>
-      <game_version>CMFB v2.10</game_version>
-      <Modules_Required>
-         <module1>Downfall</module1>
-      </Modules_Required>
-      <Mod_Tags>
-      </Mod_Tags>
-      <size_modifier>7</size_modifier>
-   </Scenario>
-
-   <Scenario>
-      <Title>
-         <number_in_campaign>[Campaign Battle #02]</number_in_campaign>
-         <battle_title>Hold at All Cost</battle_title>
-      </Title>
-      <filename>DF The Bridge (Easy) #02_DF The Bridge 03 Hold at All Cost</filename>
-      <picture_link>scenpics/DF The Bridge (Easy)2.bmp</picture_link>
-      <battle_type>Allied Attack</battle_type>
-      <description>Not defined!</description>
-      <date>09/03/1945</date>
-      <time_of_day>13:15</time_of_day>
-      <part_of_day>Day</part_of_day>
-      <length>01:20</length>
-      <battle_size>Medium</battle_size>
-      <Map_Size>
-         <map_area>2.98 Sq. km</map_area>
-         <map_width>1552 m</map_width>
-         <map_depth>1920 m</map_depth>
-      </Map_Size>
-      <region>Germany</region>
-      <environment>Town</environment>
-      <weather>Mist and Rain</weather>
-      <temperature>Cold</temperature>
-      <ground_condition>Wet</ground_condition>
-      <early_intel>Neither</early_intel>
-      <game_version>CMFB v2.10</game_version>
-      <Modules_Required>
-         <module1>Downfall</module1>
-      </Modules_Required>
-      <Mod_Tags>
-      </Mod_Tags>
-      <size_modifier>6</size_modifier>
-   </Scenario>
-
-   <Scenario>
-      <Title>
-         <number_in_campaign>[Campaign Battle #04]</number_in_campaign>
-         <battle_title>Heister</battle_title>
-      </Title>
-      <filename>DF The Bridge (Easy) #04_DF The Bridge 05 Heister</filename>
-      <picture_link>scenpics/DF The Bridge (Easy)4.bmp</picture_link>
-      <battle_type>Allied Attack</battle_type>
-      <description>Not defined!</description>
-      <date>12/03/1945</date>
-      <time_of_day>14:00</time_of_day>
-      <part_of_day>Day</part_of_day>
-      <length>01:30</length>
-      <battle_size>Medium</battle_size>
-      <Map_Size>
-         <map_area>1.905 Sq. km</map_area>
-         <map_width>1488 m</map_width>
-         <map_depth>1280 m</map_depth>
-      </Map_Size>
-      <region>Germany</region>
-      <environment>Town</environment>
-      <weather>Overcast</weather>
-      <temperature>Cold</temperature>
-      <ground_condition>Dry</ground_condition>
-      <early_intel>Neither</early_intel>
-      <game_version>CMFB v2.10</game_version>
+      <game_version>CMFB v2.10 to v2.11</game_version>
       <Modules_Required>
          <module1>Downfall</module1>
       </Modules_Required>
@@ -202,13 +66,47 @@
       <temperature>Cold</temperature>
       <ground_condition>Damp</ground_condition>
       <early_intel>Allied Force</early_intel>
-      <game_version>CMFB v2.10</game_version>
+      <game_version>CMFB v2.10 to v2.11</game_version>
       <Modules_Required>
          <module1>Downfall</module1>
       </Modules_Required>
       <Mod_Tags>
       </Mod_Tags>
       <size_modifier>4</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #02]</number_in_campaign>
+         <battle_title>Hold at All Cost</battle_title>
+      </Title>
+      <filename>DF The Bridge (Easy) #02_DF The Bridge 03 Hold at All Cost</filename>
+      <picture_link>scenpics/DF The Bridge (Easy)2.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>Not defined!</description>
+      <date>09/03/1945</date>
+      <time_of_day>13:15</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:20</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>2.98 Sq. km</map_area>
+         <map_width>1552 m</map_width>
+         <map_depth>1920 m</map_depth>
+      </Map_Size>
+      <region>Germany</region>
+      <environment>Town</environment>
+      <weather>Mist and Rain</weather>
+      <temperature>Cold</temperature>
+      <ground_condition>Wet</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFB v2.10 to v2.11</game_version>
+      <Modules_Required>
+         <module1>Downfall</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
    </Scenario>
 
    <Scenario>
@@ -236,13 +134,115 @@
       <temperature>Cold</temperature>
       <ground_condition>Damp</ground_condition>
       <early_intel>Neither</early_intel>
-      <game_version>CMFB v2.10</game_version>
+      <game_version>CMFB v2.10 to v2.11</game_version>
       <Modules_Required>
          <module1>Downfall</module1>
       </Modules_Required>
       <Mod_Tags>
       </Mod_Tags>
       <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #05]</number_in_campaign>
+         <battle_title>The Heights</battle_title>
+      </Title>
+      <filename>DF The Bridge (Easy) #05_DF The Bridge 06 The Heights</filename>
+      <picture_link>scenpics/DF The Bridge (Easy)5.bmp</picture_link>
+      <battle_type>Axis Attack</battle_type>
+      <description>Not defined!</description>
+      <date>14/03/1945</date>
+      <time_of_day>07:35</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>02:00</length>
+      <battle_size>Large</battle_size>
+      <Map_Size>
+         <map_area>1.608 Sq. km</map_area>
+         <map_width>1648 m</map_width>
+         <map_depth>976 m</map_depth>
+      </Map_Size>
+      <region>Germany</region>
+      <environment>Village</environment>
+      <weather>Mist</weather>
+      <temperature>Cold</temperature>
+      <ground_condition>Damp</ground_condition>
+      <early_intel>Allied Force</early_intel>
+      <game_version>CMFB v2.10 to v2.11</game_version>
+      <Modules_Required>
+         <module1>Downfall</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>9</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #06]</number_in_campaign>
+         <battle_title>Tunnel Vision</battle_title>
+      </Title>
+      <filename>DF The Bridge (Easy) #06_DF The Bridge 07 Tunnel Vision</filename>
+      <picture_link>scenpics/DF The Bridge (Easy)6.bmp</picture_link>
+      <battle_type>Axis Attack</battle_type>
+      <description>Not defined!</description>
+      <date>15/03/1945</date>
+      <time_of_day>11:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:40</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>1.248 Sq. km</map_area>
+         <map_width>736 m</map_width>
+         <map_depth>1696 m</map_depth>
+      </Map_Size>
+      <region>Germany</region>
+      <environment>Town</environment>
+      <weather>Heavy Rain</weather>
+      <temperature>Cold</temperature>
+      <ground_condition>Muddy</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFB v2.10 to v2.11</game_version>
+      <Modules_Required>
+         <module1>Downfall</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #04]</number_in_campaign>
+         <battle_title>Heister</battle_title>
+      </Title>
+      <filename>DF The Bridge (Easy) #04_DF The Bridge 05 Heister</filename>
+      <picture_link>scenpics/DF The Bridge (Easy)4.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>Not defined!</description>
+      <date>12/03/1945</date>
+      <time_of_day>14:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:30</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>1.905 Sq. km</map_area>
+         <map_width>1488 m</map_width>
+         <map_depth>1280 m</map_depth>
+      </Map_Size>
+      <region>Germany</region>
+      <environment>Town</environment>
+      <weather>Overcast</weather>
+      <temperature>Cold</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFB v2.10 to v2.11</game_version>
+      <Modules_Required>
+         <module1>Downfall</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
    </Scenario>
 
    </Scenario_List>

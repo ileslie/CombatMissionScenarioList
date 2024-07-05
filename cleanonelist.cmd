@@ -9,6 +9,10 @@ shift
 @echo.
 @echo Will clean generated directories
 FOR /D %%p IN ("%GAMENAME%\Scenarios\*.*" "%GAMENAME%\Campaigns\*.*" "%GAMENAME%\Maps\*.*" "%GAMENAME%\QBMaps\*.*") DO echo "%%p"
+
+Choice /C yn /M "Continue and delete all generated files"
+if %errorlevel%==2 exit /b 1
+
 @echo Cleaning...
 FOR /D %%p IN ("%GAMENAME%\Scenarios\*.*" "%GAMENAME%\Campaigns\*.*" "%GAMENAME%\Maps\*.*" "%GAMENAME%\QBMaps\*.*") DO rmdir "%%p" /s /q
 

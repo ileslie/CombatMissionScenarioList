@@ -9,29 +9,29 @@
 
    <Scenario>
       <Title>
-         <number_in_campaign>[Campaign Battle #01]</number_in_campaign>
-         <battle_title>Mountain Jam</battle_title>
+         <number_in_campaign>[Campaign Battle #07]</number_in_campaign>
+         <battle_title>G6 Balatonfkajar</battle_title>
       </Title>
-      <filename>FR Broken Shields #01_G2 Mountain Jam</filename>
-      <picture_link>scenpics/FR Broken Shields1.bmp</picture_link>
+      <filename>FR Broken Shields #07_G6 Balatonfkajar</filename>
+      <picture_link>scenpics/FR Broken Shields7.bmp</picture_link>
       <battle_type>Axis Attack</battle_type>
-      <description>1 Btn/Rgt &quot;norge&quot; fights to secure the first town along their supply route- Tarjan</description>
-      <date>03/01/1945</date>
-      <time_of_day>17:15</time_of_day>
+      <description>Not defined!</description>
+      <date>18/01/1945</date>
+      <time_of_day>08:50</time_of_day>
       <part_of_day>Dawn</part_of_day>
-      <length>01:40</length>
+      <length>01:30</length>
       <battle_size>Medium</battle_size>
       <Map_Size>
-         <map_area>3.371 Sq. km</map_area>
-         <map_width>2128 m</map_width>
-         <map_depth>1584 m</map_depth>
+         <map_area>5.27 Sq. km</map_area>
+         <map_width>2768 m</map_width>
+         <map_depth>1904 m</map_depth>
       </Map_Size>
       <region>Germany</region>
-      <environment>Town</environment>
+      <environment>Open</environment>
       <weather>Flurries</weather>
-      <temperature>Freezing</temperature>
+      <temperature>Extreme Cold</temperature>
       <ground_condition>Patchy Snow</ground_condition>
-      <early_intel>Axis Force</early_intel>
+      <early_intel>Neither</early_intel>
       <game_version>pre-release CMRT v2.10</game_version>
       <Modules_Required>
          <module1>Fire and Rubble</module1>
@@ -43,6 +43,82 @@
          <mod_tag>whitewash</mod_tag>
       </Mod_Tags>
       <size_modifier>7</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #00]</number_in_campaign>
+         <battle_title>Through the Woods</battle_title>
+      </Title>
+      <filename>FR Broken Shields #00_G1 Through the Woods</filename>
+      <picture_link>scenpics/FR Broken Shields0.bmp</picture_link>
+      <battle_type>Axis Attack</battle_type>
+      <description>1 Btn/Pnzrgr Regt 23 &quot;Norge&quot; Attempts to clear a path through the hills outside of Tarjan</description>
+      <date>01/01/1945</date>
+      <time_of_day>08:40</time_of_day>
+      <part_of_day>Dawn</part_of_day>
+      <length>01:10</length>
+      <battle_size>Small</battle_size>
+      <Map_Size>
+         <map_area>0.923 Sq. km</map_area>
+         <map_width>1648 m</map_width>
+         <map_depth>560 m</map_depth>
+      </Map_Size>
+      <region>Germany</region>
+      <environment>Forest</environment>
+      <weather>Thick Haze</weather>
+      <temperature>Freezing</temperature>
+      <ground_condition>Patchy Snow</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>pre-release CMRT v2.10</game_version>
+      <Modules_Required>
+         <module1>Fire and Rubble</module1>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>germany</mod_tag>
+         <mod_tag>hungary</mod_tag>
+         <mod_tag>snow</mod_tag>
+         <mod_tag>whitewash</mod_tag>
+      </Mod_Tags>
+      <size_modifier>4</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #09]</number_in_campaign>
+         <battle_title>G8 Szekesfehervar</battle_title>
+      </Title>
+      <filename>FR Broken Shields #09_G8 Szekesfehervar</filename>
+      <picture_link>scenpics/FR Broken Shields9.bmp</picture_link>
+      <battle_type>Axis Attack</battle_type>
+      <description>Not defined!</description>
+      <date>21/01/1945</date>
+      <time_of_day>10:40</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:20</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>0.371 Sq. km</map_area>
+         <map_width>400 m</map_width>
+         <map_depth>928 m</map_depth>
+      </Map_Size>
+      <region>Germany</region>
+      <environment>City</environment>
+      <weather>Clear</weather>
+      <temperature>Cold</temperature>
+      <ground_condition>Patchy Snow</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>pre-release CMRT v2.10</game_version>
+      <Modules_Required>
+         <module1>Fire and Rubble</module1>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>germany</mod_tag>
+         <mod_tag>hungary</mod_tag>
+         <mod_tag>snow</mod_tag>
+         <mod_tag>whitewash</mod_tag>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
    </Scenario>
 
    <Scenario>
@@ -85,82 +161,6 @@
 
    <Scenario>
       <Title>
-         <number_in_campaign>[Campaign Battle #11]</number_in_campaign>
-         <battle_title>G10 The Whirlwind</battle_title>
-      </Title>
-      <filename>FR Broken Shields #11_G10 The Whirlwind</filename>
-      <picture_link>scenpics/FR Broken Shields11.bmp</picture_link>
-      <battle_type>Meeting Engagement</battle_type>
-      <description>Not defined!</description>
-      <date>06/02/1945</date>
-      <time_of_day>11:00</time_of_day>
-      <part_of_day>Day</part_of_day>
-      <length>01:40</length>
-      <battle_size>Medium</battle_size>
-      <Map_Size>
-         <map_area>3.526 Sq. km</map_area>
-         <map_width>1520 m</map_width>
-         <map_depth>2320 m</map_depth>
-      </Map_Size>
-      <region>Germany</region>
-      <environment>Village</environment>
-      <weather>Blizzard</weather>
-      <temperature>Freezing</temperature>
-      <ground_condition>Light Snow</ground_condition>
-      <early_intel>Neither</early_intel>
-      <game_version>pre-release CMRT v2.10</game_version>
-      <Modules_Required>
-         <module1>Fire and Rubble</module1>
-      </Modules_Required>
-      <Mod_Tags>
-         <mod_tag>germany</mod_tag>
-         <mod_tag>hungary</mod_tag>
-         <mod_tag>snow</mod_tag>
-         <mod_tag>whitewash</mod_tag>
-      </Mod_Tags>
-      <size_modifier>7</size_modifier>
-   </Scenario>
-
-   <Scenario>
-      <Title>
-         <number_in_campaign>[Campaign Battle #06]</number_in_campaign>
-         <battle_title>Break Out</battle_title>
-      </Title>
-      <filename>FR Broken Shields #06_G6W Budapest Breakout</filename>
-      <picture_link>scenpics/FR Broken Shields6.bmp</picture_link>
-      <battle_type>Axis Probe</battle_type>
-      <description>Not defined!</description>
-      <date>10/01/1945</date>
-      <time_of_day>16:25</time_of_day>
-      <part_of_day>Dusk</part_of_day>
-      <length>01:10</length>
-      <battle_size>Small</battle_size>
-      <Map_Size>
-         <map_area>0.922 Sq. km</map_area>
-         <map_width>1280 m</map_width>
-         <map_depth>720 m</map_depth>
-      </Map_Size>
-      <region>Germany</region>
-      <environment>Forest</environment>
-      <weather>Flurries</weather>
-      <temperature>Freezing</temperature>
-      <ground_condition>Light Snow</ground_condition>
-      <early_intel>Neither</early_intel>
-      <game_version>pre-release CMRT v2.10</game_version>
-      <Modules_Required>
-         <module1>Fire and Rubble</module1>
-      </Modules_Required>
-      <Mod_Tags>
-         <mod_tag>germany</mod_tag>
-         <mod_tag>hungary</mod_tag>
-         <mod_tag>snow</mod_tag>
-         <mod_tag>whitewash</mod_tag>
-      </Mod_Tags>
-      <size_modifier>4</size_modifier>
-   </Scenario>
-
-   <Scenario>
-      <Title>
          <number_in_campaign>[Campaign Battle #04]</number_in_campaign>
          <battle_title>Storming the Castle</battle_title>
       </Title>
@@ -181,120 +181,6 @@
       <region>Germany</region>
       <environment>Open</environment>
       <weather>Light Snow</weather>
-      <temperature>Freezing</temperature>
-      <ground_condition>Patchy Snow</ground_condition>
-      <early_intel>Neither</early_intel>
-      <game_version>pre-release CMRT v2.10</game_version>
-      <Modules_Required>
-         <module1>Fire and Rubble</module1>
-      </Modules_Required>
-      <Mod_Tags>
-         <mod_tag>germany</mod_tag>
-         <mod_tag>hungary</mod_tag>
-         <mod_tag>snow</mod_tag>
-         <mod_tag>whitewash</mod_tag>
-      </Mod_Tags>
-      <size_modifier>7</size_modifier>
-   </Scenario>
-
-   <Scenario>
-      <Title>
-         <number_in_campaign>[Campaign Battle #07]</number_in_campaign>
-         <battle_title>G6 Balatonfkajar</battle_title>
-      </Title>
-      <filename>FR Broken Shields #07_G6 Balatonfkajar</filename>
-      <picture_link>scenpics/FR Broken Shields7.bmp</picture_link>
-      <battle_type>Axis Attack</battle_type>
-      <description>Not defined!</description>
-      <date>18/01/1945</date>
-      <time_of_day>08:50</time_of_day>
-      <part_of_day>Dawn</part_of_day>
-      <length>01:30</length>
-      <battle_size>Medium</battle_size>
-      <Map_Size>
-         <map_area>5.27 Sq. km</map_area>
-         <map_width>2768 m</map_width>
-         <map_depth>1904 m</map_depth>
-      </Map_Size>
-      <region>Germany</region>
-      <environment>Open</environment>
-      <weather>Flurries</weather>
-      <temperature>Extreme Cold</temperature>
-      <ground_condition>Patchy Snow</ground_condition>
-      <early_intel>Neither</early_intel>
-      <game_version>pre-release CMRT v2.10</game_version>
-      <Modules_Required>
-         <module1>Fire and Rubble</module1>
-      </Modules_Required>
-      <Mod_Tags>
-         <mod_tag>germany</mod_tag>
-         <mod_tag>hungary</mod_tag>
-         <mod_tag>snow</mod_tag>
-         <mod_tag>whitewash</mod_tag>
-      </Mod_Tags>
-      <size_modifier>7</size_modifier>
-   </Scenario>
-
-   <Scenario>
-      <Title>
-         <number_in_campaign>[Campaign Battle #10]</number_in_campaign>
-         <battle_title>G9 Pettend RR Embankment</battle_title>
-      </Title>
-      <filename>FR Broken Shields #10_G9 Pettend RR Embankment</filename>
-      <picture_link>scenpics/FR Broken Shields10.bmp</picture_link>
-      <battle_type>Meeting Engagement</battle_type>
-      <description>Not defined!</description>
-      <date>25/01/1945</date>
-      <time_of_day>09:10</time_of_day>
-      <part_of_day>Dawn</part_of_day>
-      <length>01:30</length>
-      <battle_size>Medium</battle_size>
-      <Map_Size>
-         <map_area>3.843 Sq. km</map_area>
-         <map_width>1728 m</map_width>
-         <map_depth>2224 m</map_depth>
-      </Map_Size>
-      <region>Germany</region>
-      <environment>Village</environment>
-      <weather>Flurries</weather>
-      <temperature>Freezing</temperature>
-      <ground_condition>Light Snow</ground_condition>
-      <early_intel>Neither</early_intel>
-      <game_version>pre-release CMRT v2.10</game_version>
-      <Modules_Required>
-         <module1>Fire and Rubble</module1>
-      </Modules_Required>
-      <Mod_Tags>
-         <mod_tag>germany</mod_tag>
-         <mod_tag>hungary</mod_tag>
-         <mod_tag>snow</mod_tag>
-         <mod_tag>whitewash</mod_tag>
-      </Mod_Tags>
-      <size_modifier>7</size_modifier>
-   </Scenario>
-
-   <Scenario>
-      <Title>
-         <number_in_campaign>[Campaign Battle #02]</number_in_campaign>
-         <battle_title>G3 Unleashed</battle_title>
-      </Title>
-      <filename>FR Broken Shields #02_G3 Unleashed</filename>
-      <picture_link>scenpics/FR Broken Shields2.bmp</picture_link>
-      <battle_type>Axis Attack</battle_type>
-      <description>Not defined!</description>
-      <date>03/01/1945</date>
-      <time_of_day>09:40</time_of_day>
-      <part_of_day>Day</part_of_day>
-      <length>01:30</length>
-      <battle_size>Medium</battle_size>
-      <Map_Size>
-         <map_area>5.317 Sq. km</map_area>
-         <map_width>2144 m</map_width>
-         <map_depth>2480 m</map_depth>
-      </Map_Size>
-      <region>Germany</region>
-      <environment>Open</environment>
-      <weather>Flurries</weather>
       <temperature>Freezing</temperature>
       <ground_condition>Patchy Snow</ground_condition>
       <early_intel>Neither</early_intel>
@@ -351,28 +237,28 @@
 
    <Scenario>
       <Title>
-         <number_in_campaign>[Campaign Battle #00]</number_in_campaign>
-         <battle_title>Through the Woods</battle_title>
+         <number_in_campaign>[Campaign Battle #10]</number_in_campaign>
+         <battle_title>G9 Pettend RR Embankment</battle_title>
       </Title>
-      <filename>FR Broken Shields #00_G1 Through the Woods</filename>
-      <picture_link>scenpics/FR Broken Shields0.bmp</picture_link>
-      <battle_type>Axis Attack</battle_type>
-      <description>1 Btn/Pnzrgr Regt 23 &quot;Norge&quot; Attempts to clear a path through the hills outside of Tarjan</description>
-      <date>01/01/1945</date>
-      <time_of_day>08:40</time_of_day>
+      <filename>FR Broken Shields #10_G9 Pettend RR Embankment</filename>
+      <picture_link>scenpics/FR Broken Shields10.bmp</picture_link>
+      <battle_type>Meeting Engagement</battle_type>
+      <description>Not defined!</description>
+      <date>25/01/1945</date>
+      <time_of_day>09:10</time_of_day>
       <part_of_day>Dawn</part_of_day>
-      <length>01:10</length>
-      <battle_size>Small</battle_size>
+      <length>01:30</length>
+      <battle_size>Medium</battle_size>
       <Map_Size>
-         <map_area>0.923 Sq. km</map_area>
-         <map_width>1648 m</map_width>
-         <map_depth>560 m</map_depth>
+         <map_area>3.843 Sq. km</map_area>
+         <map_width>1728 m</map_width>
+         <map_depth>2224 m</map_depth>
       </Map_Size>
       <region>Germany</region>
-      <environment>Forest</environment>
-      <weather>Thick Haze</weather>
+      <environment>Village</environment>
+      <weather>Flurries</weather>
       <temperature>Freezing</temperature>
-      <ground_condition>Patchy Snow</ground_condition>
+      <ground_condition>Light Snow</ground_condition>
       <early_intel>Neither</early_intel>
       <game_version>pre-release CMRT v2.10</game_version>
       <Modules_Required>
@@ -384,7 +270,45 @@
          <mod_tag>snow</mod_tag>
          <mod_tag>whitewash</mod_tag>
       </Mod_Tags>
-      <size_modifier>4</size_modifier>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #11]</number_in_campaign>
+         <battle_title>G10 The Whirlwind</battle_title>
+      </Title>
+      <filename>FR Broken Shields #11_G10 The Whirlwind</filename>
+      <picture_link>scenpics/FR Broken Shields11.bmp</picture_link>
+      <battle_type>Meeting Engagement</battle_type>
+      <description>Not defined!</description>
+      <date>06/02/1945</date>
+      <time_of_day>11:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:40</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>3.526 Sq. km</map_area>
+         <map_width>1520 m</map_width>
+         <map_depth>2320 m</map_depth>
+      </Map_Size>
+      <region>Germany</region>
+      <environment>Village</environment>
+      <weather>Blizzard</weather>
+      <temperature>Freezing</temperature>
+      <ground_condition>Light Snow</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>pre-release CMRT v2.10</game_version>
+      <Modules_Required>
+         <module1>Fire and Rubble</module1>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>germany</mod_tag>
+         <mod_tag>hungary</mod_tag>
+         <mod_tag>snow</mod_tag>
+         <mod_tag>whitewash</mod_tag>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
    </Scenario>
 
    <Scenario>
@@ -427,27 +351,65 @@
 
    <Scenario>
       <Title>
-         <number_in_campaign>[Campaign Battle #09]</number_in_campaign>
-         <battle_title>G8 Szekesfehervar</battle_title>
+         <number_in_campaign>[Campaign Battle #01]</number_in_campaign>
+         <battle_title>Mountain Jam</battle_title>
       </Title>
-      <filename>FR Broken Shields #09_G8 Szekesfehervar</filename>
-      <picture_link>scenpics/FR Broken Shields9.bmp</picture_link>
+      <filename>FR Broken Shields #01_G2 Mountain Jam</filename>
+      <picture_link>scenpics/FR Broken Shields1.bmp</picture_link>
       <battle_type>Axis Attack</battle_type>
-      <description>Not defined!</description>
-      <date>21/01/1945</date>
-      <time_of_day>10:40</time_of_day>
-      <part_of_day>Day</part_of_day>
-      <length>01:20</length>
+      <description>1 Btn/Rgt &quot;norge&quot; fights to secure the first town along their supply route- Tarjan</description>
+      <date>03/01/1945</date>
+      <time_of_day>17:15</time_of_day>
+      <part_of_day>Dawn</part_of_day>
+      <length>01:40</length>
       <battle_size>Medium</battle_size>
       <Map_Size>
-         <map_area>0.371 Sq. km</map_area>
-         <map_width>400 m</map_width>
-         <map_depth>928 m</map_depth>
+         <map_area>3.371 Sq. km</map_area>
+         <map_width>2128 m</map_width>
+         <map_depth>1584 m</map_depth>
       </Map_Size>
       <region>Germany</region>
-      <environment>City</environment>
-      <weather>Clear</weather>
-      <temperature>Cold</temperature>
+      <environment>Town</environment>
+      <weather>Flurries</weather>
+      <temperature>Freezing</temperature>
+      <ground_condition>Patchy Snow</ground_condition>
+      <early_intel>Axis Force</early_intel>
+      <game_version>pre-release CMRT v2.10</game_version>
+      <Modules_Required>
+         <module1>Fire and Rubble</module1>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>germany</mod_tag>
+         <mod_tag>hungary</mod_tag>
+         <mod_tag>snow</mod_tag>
+         <mod_tag>whitewash</mod_tag>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #02]</number_in_campaign>
+         <battle_title>G3 Unleashed</battle_title>
+      </Title>
+      <filename>FR Broken Shields #02_G3 Unleashed</filename>
+      <picture_link>scenpics/FR Broken Shields2.bmp</picture_link>
+      <battle_type>Axis Attack</battle_type>
+      <description>Not defined!</description>
+      <date>03/01/1945</date>
+      <time_of_day>09:40</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:30</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>5.317 Sq. km</map_area>
+         <map_width>2144 m</map_width>
+         <map_depth>2480 m</map_depth>
+      </Map_Size>
+      <region>Germany</region>
+      <environment>Open</environment>
+      <weather>Flurries</weather>
+      <temperature>Freezing</temperature>
       <ground_condition>Patchy Snow</ground_condition>
       <early_intel>Neither</early_intel>
       <game_version>pre-release CMRT v2.10</game_version>
@@ -460,7 +422,45 @@
          <mod_tag>snow</mod_tag>
          <mod_tag>whitewash</mod_tag>
       </Mod_Tags>
-      <size_modifier>6</size_modifier>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #06]</number_in_campaign>
+         <battle_title>Break Out</battle_title>
+      </Title>
+      <filename>FR Broken Shields #06_G6W Budapest Breakout</filename>
+      <picture_link>scenpics/FR Broken Shields6.bmp</picture_link>
+      <battle_type>Axis Probe</battle_type>
+      <description>Not defined!</description>
+      <date>10/01/1945</date>
+      <time_of_day>16:25</time_of_day>
+      <part_of_day>Dusk</part_of_day>
+      <length>01:10</length>
+      <battle_size>Small</battle_size>
+      <Map_Size>
+         <map_area>0.922 Sq. km</map_area>
+         <map_width>1280 m</map_width>
+         <map_depth>720 m</map_depth>
+      </Map_Size>
+      <region>Germany</region>
+      <environment>Forest</environment>
+      <weather>Flurries</weather>
+      <temperature>Freezing</temperature>
+      <ground_condition>Light Snow</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>pre-release CMRT v2.10</game_version>
+      <Modules_Required>
+         <module1>Fire and Rubble</module1>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>germany</mod_tag>
+         <mod_tag>hungary</mod_tag>
+         <mod_tag>snow</mod_tag>
+         <mod_tag>whitewash</mod_tag>
+      </Mod_Tags>
+      <size_modifier>4</size_modifier>
    </Scenario>
 
    </Scenario_List>

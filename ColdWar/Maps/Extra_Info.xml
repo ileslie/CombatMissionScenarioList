@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <scenarios>
-    <scenario author="information unavailable" filename="NTC Master Map Brown Pass.btt" stock="y"/>
-    <scenario author="information unavailable" filename="NTC Master Map North of Brown Pass.btt" stock="y"/>
-    <scenario author="information unavailable" filename="NTC Master Map Red Pass.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Soviet Campaign Alsfeld Master.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Soviet Campaign Eiterfeld Master.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Soviet Campaign Haunetal Master.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Soviet Campaign Lingelbach Master.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Soviet Campaign Mansbach Master.btt" stock="y"/>
-    <scenario author="information unavailable" filename="Soviet Campaign Neiderjossa Master.btt" stock="y"/>
+    <scenario author="Bil H" filename="NTC Master Map Brown Pass.btt" stock="y"/>
+    <scenario author="Bil H" filename="NTC Master Map North of Brown Pass.btt" stock="y"/>
+    <scenario author="Bil H" filename="NTC Master Map Red Pass.btt" stock="y"/>
+    <scenario author="The_Capt" filename="Soviet Campaign Alsfeld Master.btt" stock="y"/>
+    <scenario author="The_Capt" filename="Soviet Campaign Eiterfeld Master.btt" stock="y"/>
+    <scenario author="The_Capt" filename="Soviet Campaign Haunetal Master.btt" stock="y"/>
+    <scenario author="The_Capt" filename="Soviet Campaign Lingelbach Master.btt" stock="y"/>
+    <scenario author="The_Capt" filename="Soviet Campaign Mansbach Master.btt" stock="y"/>
+    <scenario author="The_Capt" filename="Soviet Campaign Neiderjossa Master.btt" stock="y"/>
     <scenario author="Dawntaker" filename="Starklos 4000 x 3000 - Blank.btt">
         <additional_info>Blank 4km by 3km map based on the area around a village called Starklos in Germany. Basic setup zones have been added to show which side each is supposed to be on. Modify as you wish. 
         </additional_info>
@@ -16,14 +16,14 @@
             <downloadurl primary="y" who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-cold-war/cm-cold-war-maps/cmcw-starklos/</downloadurl>
         </urls_list>
     </scenario>
-    <scenario author="information unavailable" filename="US Campaign Dollbach Master.btt" stock="y"/>
-    <scenario author="information unavailable" filename="US Campaign Elm Master.btt" stock="y"/>
-    <scenario author="information unavailable" filename="US Campaign Marborn Master.btt" stock="y"/>
-    <scenario author="information unavailable" filename="US Campaign Meerholz Master.btt" stock="y"/>
-    <scenario author="information unavailable" filename="US Campaign Neuhof Master.btt" stock="y"/>
-    <scenario author="information unavailable" filename="US Campaign Pilgerzell Master.btt" stock="y"/>
-    <scenario author="information unavailable" filename="US Campaign Schweben Master.btt" stock="y"/>
-    <scenario author="information unavailable" filename="US Campaign Wachtersbach Master.btt" stock="y"/>
+    <scenario author="The_Capt" filename="US Campaign Dollbach Master.btt" stock="y"/>
+    <scenario author="The_Capt" filename="US Campaign Elm Master.btt" stock="y"/>
+    <scenario author="The_Capt" filename="US Campaign Marborn Master.btt" stock="y"/>
+    <scenario author="The_Capt" filename="US Campaign Meerholz Master.btt" stock="y"/>
+    <scenario author="The_Capt" filename="US Campaign Neuhof Master.btt" stock="y"/>
+    <scenario author="The_Capt" filename="US Campaign Pilgerzell Master.btt" stock="y"/>
+    <scenario author="The_Capt" filename="US Campaign Schweben Master.btt" stock="y"/>
+    <scenario author="The_Capt" filename="US Campaign Wachtersbach Master.btt" stock="y"/>
 
 <!--    <scenario author="" filename=""> -->
 <!--        <additional_info> -->

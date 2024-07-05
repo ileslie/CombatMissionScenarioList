@@ -1,0 +1,419 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="Listing_Layout.xsl" ?>
+
+<Scenario_Listing>
+
+   <Scenario_List>
+
+   <containing_campaign>CP SoD Chapter IV Five Bridges</containing_campaign>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #05]</number_in_campaign>
+         <battle_title>FB The Breakout</battle_title>
+      </Title>
+      <filename>CP SoD Chapter IV Five Bridges #05_FB The Breakout</filename>
+      <picture_link>scenpics/CP SoD Chapter IV Five Bridges5.bmp</picture_link>
+      <battle_type>Axis Assault</battle_type>
+      <description>29/06/1944 The spearhead of Gruppe Hoffmeister starts the breakout from Bobruisk in northern direction along the Berezina west bank</description>
+      <date>29/06/1944</date>
+      <time_of_day>05:00</time_of_day>
+      <part_of_day>Dawn</part_of_day>
+      <length>04:00</length>
+      <battle_size>Large</battle_size>
+      <Map_Size>
+         <map_area>3.168 Sq. km</map_area>
+         <map_width>1664 m</map_width>
+         <map_depth>1904 m</map_depth>
+      </Map_Size>
+      <region>Soviet Union</region>
+      <environment>Village</environment>
+      <weather>Thick Haze</weather>
+      <temperature>Hot</temperature>
+      <ground_condition>Very Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMRT v2.10 to v2.13</game_version>
+      <Modules_Required>
+         <module1>Fire and Rubble</module1>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>tot-inf</mod_tag>
+      </Mod_Tags>
+      <size_modifier>9</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #10]</number_in_campaign>
+         <battle_title>FB Vital Message</battle_title>
+      </Title>
+      <filename>CP SoD Chapter IV Five Bridges #10_FB Vital Message</filename>
+      <picture_link>scenpics/CP SoD Chapter IV Five Bridges10.bmp</picture_link>
+      <battle_type>Axis Probe</battle_type>
+      <description>01/07/1944 A small team makes an desperate attempt to reach the German lines in order to report to the spearhead of 12th PD, that still hundreds of men will break out</description>
+      <date>01/07/1944</date>
+      <time_of_day>21:00</time_of_day>
+      <part_of_day>Dusk</part_of_day>
+      <length>00:30</length>
+      <battle_size>Tiny</battle_size>
+      <Map_Size>
+         <map_area>0.087 Sq. km</map_area>
+         <map_width>272 m</map_width>
+         <map_depth>320 m</map_depth>
+      </Map_Size>
+      <region>Soviet Union</region>
+      <environment>Forest</environment>
+      <weather>Clear</weather>
+      <temperature>Hot</temperature>
+      <ground_condition>Very Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMRT v2.10 to v2.13</game_version>
+      <Modules_Required>
+         <module1>Fire and Rubble</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>2</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #07]</number_in_campaign>
+         <battle_title>FB Swisslotsch Bridgehead</battle_title>
+      </Title>
+      <filename>CP SoD Chapter IV Five Bridges #07_FB Swisslotsch Bridgehead</filename>
+      <picture_link>scenpics/CP SoD Chapter IV Five Bridges7.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>30/06/1944 The last remains of KG Schmidt in a desperate situation north of the Swisslotsch River</description>
+      <date>30/06/1944</date>
+      <time_of_day>19:15</time_of_day>
+      <part_of_day>Dusk</part_of_day>
+      <length>02:00</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>0.588 Sq. km</map_area>
+         <map_width>816 m</map_width>
+         <map_depth>720 m</map_depth>
+      </Map_Size>
+      <region>Eastern Europe</region>
+      <environment>Village</environment>
+      <weather>Clear</weather>
+      <temperature>Extreme Heat</temperature>
+      <ground_condition>Very Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMRT v2.10 to v2.13</game_version>
+      <Modules_Required>
+         <module1>Fire and Rubble</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #04]</number_in_campaign>
+         <battle_title>FB False Friends</battle_title>
+      </Title>
+      <filename>CP SoD Chapter IV Five Bridges #04_FB False Friends</filename>
+      <picture_link>scenpics/CP SoD Chapter IV Five Bridges4.bmp</picture_link>
+      <battle_type>Meeting Engagement</battle_type>
+      <description>28/06/1944  While figuring out the escape route to the north, the Germans get a nasty surprise</description>
+      <date>28/06/1944</date>
+      <time_of_day>22:45</time_of_day>
+      <part_of_day>Night</part_of_day>
+      <length>00:30</length>
+      <battle_size>Tiny</battle_size>
+      <Map_Size>
+         <map_area>0.256 Sq. km</map_area>
+         <map_width>320 m</map_width>
+         <map_depth>800 m</map_depth>
+      </Map_Size>
+      <region>Soviet Union</region>
+      <environment>Village</environment>
+      <weather>Hazy</weather>
+      <temperature>Hot</temperature>
+      <ground_condition>Very Dry</ground_condition>
+      <early_intel>Allied Force</early_intel>
+      <game_version>CMRT v2.10 to v2.13</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>tot-inf</mod_tag>
+      </Mod_Tags>
+      <size_modifier>2</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #03]</number_in_campaign>
+         <battle_title>FB Railway Bridge</battle_title>
+      </Title>
+      <filename>CP SoD Chapter IV Five Bridges #03_FB Railway Bridge</filename>
+      <picture_link>scenpics/CP SoD Chapter IV Five Bridges3.bmp</picture_link>
+      <battle_type>Meeting Engagement</battle_type>
+      <description>28/06/1944 the last German units at the Eastbank of the Berezina try to fight their way towards the railway bridge and rescue theirselves before the bridge is blown up</description>
+      <date>28/06/1944</date>
+      <time_of_day>06:00</time_of_day>
+      <part_of_day>Dawn</part_of_day>
+      <length>01:40</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>1.016 Sq. km</map_area>
+         <map_width>1008 m</map_width>
+         <map_depth>1008 m</map_depth>
+      </Map_Size>
+      <region>Soviet Union</region>
+      <environment>Village</environment>
+      <weather>Hazy</weather>
+      <temperature>Hot</temperature>
+      <ground_condition>Very Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMRT v2.10 to v2.13</game_version>
+      <Modules_Required>
+         <module1>Fire and Rubble</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #08]</number_in_campaign>
+         <battle_title>FB Go West</battle_title>
+      </Title>
+      <filename>CP SoD Chapter IV Five Bridges #08_FB Go West</filename>
+      <picture_link>scenpics/CP SoD Chapter IV Five Bridges8.bmp</picture_link>
+      <battle_type>Axis Assault</battle_type>
+      <description>01/07/1944 The remains of KG Schmidt try to clear the way westwards along the Swisslotsch River</description>
+      <date>01/07/1944</date>
+      <time_of_day>07:30</time_of_day>
+      <part_of_day>Dawn</part_of_day>
+      <length>01:00</length>
+      <battle_size>Small</battle_size>
+      <Map_Size>
+         <map_area>0.087 Sq. km</map_area>
+         <map_width>320 m</map_width>
+         <map_depth>272 m</map_depth>
+      </Map_Size>
+      <region>Soviet Union</region>
+      <environment>Forest</environment>
+      <weather>Thick Haze</weather>
+      <temperature>Hot</temperature>
+      <ground_condition>Very Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMRT v2.10 to v2.13</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>4</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #02]</number_in_campaign>
+         <battle_title>FB Iron Hearts</battle_title>
+      </Title>
+      <filename>CP SoD Chapter IV Five Bridges #02_FB Iron Hearts</filename>
+      <picture_link>scenpics/CP SoD Chapter IV Five Bridges2.bmp</picture_link>
+      <battle_type>Meeting Engagement</battle_type>
+      <description>27/06/1944 Counterattack of a small German KG in order to help retreating German columns to escape to the railway bridge to Bobruisk</description>
+      <date>27/06/1944</date>
+      <time_of_day>19:00</time_of_day>
+      <part_of_day>Dusk</part_of_day>
+      <length>02:30</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>1.016 Sq. km</map_area>
+         <map_width>1008 m</map_width>
+         <map_depth>1008 m</map_depth>
+      </Map_Size>
+      <region>Soviet Union</region>
+      <environment>Forest</environment>
+      <weather>Hazy</weather>
+      <temperature>Extreme Heat</temperature>
+      <ground_condition>Very Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMRT v2.10 to v2.13</game_version>
+      <Modules_Required>
+         <module1>Fire and Rubble</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #09]</number_in_campaign>
+         <battle_title>FB Lipen Crossing</battle_title>
+      </Title>
+      <filename>CP SoD Chapter IV Five Bridges #09_FB Lipen Crossing</filename>
+      <picture_link>scenpics/CP SoD Chapter IV Five Bridges9.bmp</picture_link>
+      <battle_type>Axis Assault</battle_type>
+      <description>01/07/1944 The remains of KG Schmidt make the attempt to cross the Swisslotsch River south of Lipen in order to escape into the northern forest area</description>
+      <date>01/07/1944</date>
+      <time_of_day>17:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>02:30</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>1.049 Sq. km</map_area>
+         <map_width>1024 m</map_width>
+         <map_depth>1024 m</map_depth>
+      </Map_Size>
+      <region>Soviet Union</region>
+      <environment>Village</environment>
+      <weather>Thick Haze</weather>
+      <temperature>Extreme Heat</temperature>
+      <ground_condition>Very Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMRT v2.10 to v2.13</game_version>
+      <Modules_Required>
+         <module1>Fire and Rubble</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #01]</number_in_campaign>
+         <battle_title>FB Titowka Roadblock</battle_title>
+      </Title>
+      <filename>CP SoD Chapter IV Five Bridges #01_FB Titowka Roadblock</filename>
+      <picture_link>scenpics/CP SoD Chapter IV Five Bridges1.bmp</picture_link>
+      <battle_type>Axis Assault</battle_type>
+      <description>27/06/1944 Units of the German XXXV.AK make a desperate attempt to clear the road bridge near Titowka</description>
+      <date>27/06/1944</date>
+      <time_of_day>12:30</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>03:30</length>
+      <battle_size>Large</battle_size>
+      <Map_Size>
+         <map_area>2.996 Sq. km</map_area>
+         <map_width>2256 m</map_width>
+         <map_depth>1328 m</map_depth>
+      </Map_Size>
+      <region>Soviet Union</region>
+      <environment>Open</environment>
+      <weather>Hazy</weather>
+      <temperature>Extreme Heat</temperature>
+      <ground_condition>Very Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMRT v2.10 to v2.13</game_version>
+      <Modules_Required>
+         <module1>Fire and Rubble</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>9</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #06]</number_in_campaign>
+         <battle_title>FB Sloboda Crossing</battle_title>
+      </Title>
+      <filename>CP SoD Chapter IV Five Bridges #06_FB Sloboda Crossing</filename>
+      <picture_link>scenpics/CP SoD Chapter IV Five Bridges6.bmp</picture_link>
+      <battle_type>Axis Assault</battle_type>
+      <description>30/06/1944 The spearhead of Gruppe Hoffmeister tries to establish a bridgehead on the north bank of the River Swisslotsch</description>
+      <date>30/06/1944</date>
+      <time_of_day>10:00</time_of_day>
+      <part_of_day>Dawn</part_of_day>
+      <length>03:00</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>1.161 Sq. km</map_area>
+         <map_width>1008 m</map_width>
+         <map_depth>1152 m</map_depth>
+      </Map_Size>
+      <region>Eastern Europe</region>
+      <environment>Village</environment>
+      <weather>Thick Haze</weather>
+      <temperature>Extreme Heat</temperature>
+      <ground_condition>Very Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMRT v2.10 to v2.13</game_version>
+      <Modules_Required>
+         <module1>Fire and Rubble</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #11]</number_in_campaign>
+         <battle_title>FB The Escape</battle_title>
+      </Title>
+      <filename>CP SoD Chapter IV Five Bridges #11_FB The Escape</filename>
+      <picture_link>scenpics/CP SoD Chapter IV Five Bridges11.bmp</picture_link>
+      <battle_type>Axis Assault</battle_type>
+      <description>02/07/1944 The final and decisive attempt of Kampfgruppe Schmidt to break out and reach the own lines near the village of Bozok</description>
+      <date>02/07/1944</date>
+      <time_of_day>07:00</time_of_day>
+      <part_of_day>Dawn</part_of_day>
+      <length>04:00</length>
+      <battle_size>Large</battle_size>
+      <Map_Size>
+         <map_area>3.29 Sq. km</map_area>
+         <map_width>1632 m</map_width>
+         <map_depth>2016 m</map_depth>
+      </Map_Size>
+      <region>Eastern Europe</region>
+      <environment>Rough</environment>
+      <weather>Thick Haze</weather>
+      <temperature>Hot</temperature>
+      <ground_condition>Very Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMRT v2.10 to v2.13</game_version>
+      <Modules_Required>
+         <module1>Fire and Rubble</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>9</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #00]</number_in_campaign>
+         <battle_title>FB Rollbahn Clash</battle_title>
+      </Title>
+      <filename>CP SoD Chapter IV Five Bridges #00_FB Rollbahn Clash</filename>
+      <picture_link>scenpics/CP SoD Chapter IV Five Bridges0.bmp</picture_link>
+      <battle_type>Meeting Engagement</battle_type>
+      <description>26/06/1944 a hasty formed Kampfgruppe of Fussilier-Battalion 383 is to defend the Rollbahn Mogilev-Bobruisk</description>
+      <date>26/06/1944</date>
+      <time_of_day>09:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>03:00</length>
+      <battle_size>Large</battle_size>
+      <Map_Size>
+         <map_area>3.847 Sq. km</map_area>
+         <map_width>2128 m</map_width>
+         <map_depth>1808 m</map_depth>
+      </Map_Size>
+      <region>Soviet Union</region>
+      <environment>Forest</environment>
+      <weather>Thick Haze</weather>
+      <temperature>Hot</temperature>
+      <ground_condition>Very Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMRT v2.10 to v2.13</game_version>
+      <Modules_Required>
+         <module1>Fire and Rubble</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>9</size_modifier>
+   </Scenario>
+
+   </Scenario_List>
+</Scenario_Listing>

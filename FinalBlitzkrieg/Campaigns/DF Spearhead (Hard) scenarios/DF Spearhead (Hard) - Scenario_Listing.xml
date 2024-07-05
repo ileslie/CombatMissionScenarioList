@@ -32,7 +32,7 @@
       <temperature>Cold</temperature>
       <ground_condition>Damp</ground_condition>
       <early_intel>Neither</early_intel>
-      <game_version>CMFB v2.10</game_version>
+      <game_version>CMFB v2.10 to v2.11</game_version>
       <Modules_Required>
          <module1>Downfall</module1>
       </Modules_Required>
@@ -43,98 +43,30 @@
 
    <Scenario>
       <Title>
-         <number_in_campaign>[Campaign Battle #00]</number_in_campaign>
-         <battle_title>The Bridges</battle_title>
+         <number_in_campaign>[Campaign Battle #08]</number_in_campaign>
+         <battle_title>Koln</battle_title>
       </Title>
-      <filename>DF Spearhead (Hard) #00_DF Spearhead 01 The Bridges</filename>
-      <picture_link>scenpics/DF Spearhead (Hard)0.bmp</picture_link>
+      <filename>DF Spearhead (Hard) #08_DF Spearhead 09 Koln East</filename>
+      <picture_link>scenpics/DF Spearhead (Hard)8.bmp</picture_link>
       <battle_type>Allied Attack</battle_type>
       <description>Not defined!</description>
-      <date>24/02/1945</date>
-      <time_of_day>05:15</time_of_day>
-      <part_of_day>Night</part_of_day>
-      <length>00:55</length>
-      <battle_size>Medium</battle_size>
-      <Map_Size>
-         <map_area>0.86 Sq. km</map_area>
-         <map_width>1120 m</map_width>
-         <map_depth>768 m</map_depth>
-      </Map_Size>
-      <region>Germany</region>
-      <environment>Village</environment>
-      <weather>Heavy Rain</weather>
-      <temperature>Cold</temperature>
-      <ground_condition>Muddy</ground_condition>
-      <early_intel>Neither</early_intel>
-      <game_version>CMFB v2.10</game_version>
-      <Modules_Required>
-         <module1>Downfall</module1>
-      </Modules_Required>
-      <Mod_Tags>
-      </Mod_Tags>
-      <size_modifier>6</size_modifier>
-   </Scenario>
-
-   <Scenario>
-      <Title>
-         <number_in_campaign>[Campaign Battle #04]</number_in_campaign>
-         <battle_title>Autobahn</battle_title>
-      </Title>
-      <filename>DF Spearhead (Hard) #04_DF Spearhead 05 Autobahn</filename>
-      <picture_link>scenpics/DF Spearhead (Hard)4.bmp</picture_link>
-      <battle_type>Allied Attack</battle_type>
-      <description>Not defined!</description>
-      <date>27/02/1945</date>
-      <time_of_day>11:00</time_of_day>
+      <date>05/03/1945</date>
+      <time_of_day>14:20</time_of_day>
       <part_of_day>Day</part_of_day>
-      <length>01:30</length>
+      <length>02:00</length>
       <battle_size>Medium</battle_size>
       <Map_Size>
-         <map_area>2.977 Sq. km</map_area>
-         <map_width>2448 m</map_width>
-         <map_depth>1216 m</map_depth>
-      </Map_Size>
-      <region>Germany</region>
-      <environment>Open</environment>
-      <weather>Mist and Rain</weather>
-      <temperature>Cold</temperature>
-      <ground_condition>Wet</ground_condition>
-      <early_intel>Neither</early_intel>
-      <game_version>CMFB v2.10</game_version>
-      <Modules_Required>
-         <module1>Downfall</module1>
-      </Modules_Required>
-      <Mod_Tags>
-      </Mod_Tags>
-      <size_modifier>7</size_modifier>
-   </Scenario>
-
-   <Scenario>
-      <Title>
-         <number_in_campaign>[Campaign Battle #07]</number_in_campaign>
-         <battle_title>The Outer Ring</battle_title>
-      </Title>
-      <filename>DF Spearhead (Hard) #07_DF Spearhead 08 Koln West</filename>
-      <picture_link>scenpics/DF Spearhead (Hard)7.bmp</picture_link>
-      <battle_type>Allied Attack</battle_type>
-      <description>Not defined!</description>
-      <date>04/03/1945</date>
-      <time_of_day>14:00</time_of_day>
-      <part_of_day>Day</part_of_day>
-      <length>02:30</length>
-      <battle_size>Medium</battle_size>
-      <Map_Size>
-         <map_area>1.129 Sq. km</map_area>
-         <map_width>1120 m</map_width>
-         <map_depth>1008 m</map_depth>
+         <map_area>0.935 Sq. km</map_area>
+         <map_width>1392 m</map_width>
+         <map_depth>672 m</map_depth>
       </Map_Size>
       <region>Germany</region>
       <environment>City</environment>
-      <weather>Light Fog</weather>
+      <weather>Light Fog and Rain</weather>
       <temperature>Cold</temperature>
       <ground_condition>Damp</ground_condition>
       <early_intel>Neither</early_intel>
-      <game_version>CMFB v2.10</game_version>
+      <game_version>CMFB v2.10 to v2.11</game_version>
       <Modules_Required>
          <module1>Downfall</module1>
       </Modules_Required>
@@ -170,7 +102,145 @@
       <temperature>Cold</temperature>
       <ground_condition>Damp</ground_condition>
       <early_intel>Neither</early_intel>
-      <game_version>CMFB v2.10</game_version>
+      <game_version>CMFB v2.10 to v2.11</game_version>
+      <Modules_Required>
+         <module1>Downfall</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #00]</number_in_campaign>
+         <battle_title>The Bridges</battle_title>
+      </Title>
+      <filename>DF Spearhead (Hard) #00_DF Spearhead 01 The Bridges</filename>
+      <picture_link>scenpics/DF Spearhead (Hard)0.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>Not defined!</description>
+      <date>24/02/1945</date>
+      <time_of_day>05:15</time_of_day>
+      <part_of_day>Night</part_of_day>
+      <length>00:55</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>0.86 Sq. km</map_area>
+         <map_width>1120 m</map_width>
+         <map_depth>768 m</map_depth>
+      </Map_Size>
+      <region>Germany</region>
+      <environment>Village</environment>
+      <weather>Heavy Rain</weather>
+      <temperature>Cold</temperature>
+      <ground_condition>Muddy</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFB v2.10 to v2.11</game_version>
+      <Modules_Required>
+         <module1>Downfall</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #04]</number_in_campaign>
+         <battle_title>Autobahn</battle_title>
+      </Title>
+      <filename>DF Spearhead (Hard) #04_DF Spearhead 05 Autobahn</filename>
+      <picture_link>scenpics/DF Spearhead (Hard)4.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>Not defined!</description>
+      <date>27/02/1945</date>
+      <time_of_day>11:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:30</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>2.977 Sq. km</map_area>
+         <map_width>2448 m</map_width>
+         <map_depth>1216 m</map_depth>
+      </Map_Size>
+      <region>Germany</region>
+      <environment>Open</environment>
+      <weather>Mist and Rain</weather>
+      <temperature>Cold</temperature>
+      <ground_condition>Wet</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFB v2.10 to v2.11</game_version>
+      <Modules_Required>
+         <module1>Downfall</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #07]</number_in_campaign>
+         <battle_title>The Outer Ring</battle_title>
+      </Title>
+      <filename>DF Spearhead (Hard) #07_DF Spearhead 08 Koln West</filename>
+      <picture_link>scenpics/DF Spearhead (Hard)7.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>Not defined!</description>
+      <date>04/03/1945</date>
+      <time_of_day>14:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>02:30</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>1.129 Sq. km</map_area>
+         <map_width>1120 m</map_width>
+         <map_depth>1008 m</map_depth>
+      </Map_Size>
+      <region>Germany</region>
+      <environment>City</environment>
+      <weather>Light Fog</weather>
+      <temperature>Cold</temperature>
+      <ground_condition>Damp</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFB v2.10 to v2.11</game_version>
+      <Modules_Required>
+         <module1>Downfall</module1>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>city</mod_tag>
+         <mod_tag>rubble</mod_tag>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #05]</number_in_campaign>
+         <battle_title>Erft Kanal</battle_title>
+      </Title>
+      <filename>DF Spearhead (Hard) #05_DF Spearhead 06 Erft Kanal</filename>
+      <picture_link>scenpics/DF Spearhead (Hard)5.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>Not defined!</description>
+      <date>28/02/1945</date>
+      <time_of_day>04:45</time_of_day>
+      <part_of_day>Dusk</part_of_day>
+      <length>01:40</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>3.424 Sq. km</map_area>
+         <map_width>1408 m</map_width>
+         <map_depth>2432 m</map_depth>
+      </Map_Size>
+      <region>Germany</region>
+      <environment>Rough</environment>
+      <weather>Clear</weather>
+      <temperature>Cold</temperature>
+      <ground_condition>Damp</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFB v2.10 to v2.11</game_version>
       <Modules_Required>
          <module1>Downfall</module1>
       </Modules_Required>
@@ -204,49 +274,13 @@
       <temperature>Cold</temperature>
       <ground_condition>Wet</ground_condition>
       <early_intel>Neither</early_intel>
-      <game_version>CMFB v2.10</game_version>
+      <game_version>CMFB v2.10 to v2.11</game_version>
       <Modules_Required>
          <module1>Downfall</module1>
       </Modules_Required>
       <Mod_Tags>
       </Mod_Tags>
       <size_modifier>5</size_modifier>
-   </Scenario>
-
-   <Scenario>
-      <Title>
-         <number_in_campaign>[Campaign Battle #08]</number_in_campaign>
-         <battle_title>Koln</battle_title>
-      </Title>
-      <filename>DF Spearhead (Hard) #08_DF Spearhead 09 Koln East</filename>
-      <picture_link>scenpics/DF Spearhead (Hard)8.bmp</picture_link>
-      <battle_type>Allied Attack</battle_type>
-      <description>Not defined!</description>
-      <date>05/03/1945</date>
-      <time_of_day>14:20</time_of_day>
-      <part_of_day>Day</part_of_day>
-      <length>02:00</length>
-      <battle_size>Medium</battle_size>
-      <Map_Size>
-         <map_area>0.935 Sq. km</map_area>
-         <map_width>1392 m</map_width>
-         <map_depth>672 m</map_depth>
-      </Map_Size>
-      <region>Germany</region>
-      <environment>City</environment>
-      <weather>Light Fog and Rain</weather>
-      <temperature>Cold</temperature>
-      <ground_condition>Damp</ground_condition>
-      <early_intel>Neither</early_intel>
-      <game_version>CMFB v2.10</game_version>
-      <Modules_Required>
-         <module1>Downfall</module1>
-      </Modules_Required>
-      <Mod_Tags>
-         <mod_tag>city</mod_tag>
-         <mod_tag>rubble</mod_tag>
-      </Mod_Tags>
-      <size_modifier>7</size_modifier>
    </Scenario>
 
    <Scenario>
@@ -274,41 +308,7 @@
       <temperature>Cold</temperature>
       <ground_condition>Muddy</ground_condition>
       <early_intel>Neither</early_intel>
-      <game_version>CMFB v2.10</game_version>
-      <Modules_Required>
-         <module1>Downfall</module1>
-      </Modules_Required>
-      <Mod_Tags>
-      </Mod_Tags>
-      <size_modifier>7</size_modifier>
-   </Scenario>
-
-   <Scenario>
-      <Title>
-         <number_in_campaign>[Campaign Battle #05]</number_in_campaign>
-         <battle_title>Erft Kanal</battle_title>
-      </Title>
-      <filename>DF Spearhead (Hard) #05_DF Spearhead 06 Erft Kanal</filename>
-      <picture_link>scenpics/DF Spearhead (Hard)5.bmp</picture_link>
-      <battle_type>Allied Attack</battle_type>
-      <description>Not defined!</description>
-      <date>28/02/1945</date>
-      <time_of_day>04:45</time_of_day>
-      <part_of_day>Dusk</part_of_day>
-      <length>01:40</length>
-      <battle_size>Medium</battle_size>
-      <Map_Size>
-         <map_area>3.424 Sq. km</map_area>
-         <map_width>1408 m</map_width>
-         <map_depth>2432 m</map_depth>
-      </Map_Size>
-      <region>Germany</region>
-      <environment>Rough</environment>
-      <weather>Clear</weather>
-      <temperature>Cold</temperature>
-      <ground_condition>Damp</ground_condition>
-      <early_intel>Neither</early_intel>
-      <game_version>CMFB v2.10</game_version>
+      <game_version>CMFB v2.10 to v2.11</game_version>
       <Modules_Required>
          <module1>Downfall</module1>
       </Modules_Required>

@@ -139,38 +139,6 @@
 
    <Scenario>
       <Title>
-         <battle_title>Radzymin Master Map 4</battle_title>
-      </Title>
-      <filename>Radzymin Master Map 4</filename>
-      <picture_link>scenpics/Radzymin Master Map 4.bmp</picture_link>
-      <battle_type>Allied Attack</battle_type>
-      <description>Not defined!</description>
-      <date>02/08/1944</date>
-      <time_of_day>09:00</time_of_day>
-      <part_of_day>Day</part_of_day>
-      <length>00:30</length>
-      <battle_size>Medium</battle_size>
-      <Map_Size>
-         <map_area>6.083 Sq. km</map_area>
-         <map_width>2160 m</map_width>
-         <map_depth>2816 m</map_depth>
-      </Map_Size>
-      <region>Eastern Europe</region>
-      <environment>Open</environment>
-      <weather>Clear</weather>
-      <temperature>Warm</temperature>
-      <ground_condition>Dry</ground_condition>
-      <early_intel>Neither</early_intel>
-      <game_version>pre-release CMRT v1.00</game_version>
-      <Modules_Required>
-      </Modules_Required>
-      <Mod_Tags>
-      </Mod_Tags>
-      <size_modifier>5</size_modifier>
-   </Scenario>
-
-   <Scenario>
-      <Title>
          <battle_title>Radzymin Master Map 5</battle_title>
       </Title>
       <filename>Radzymin Master Map 5</filename>
@@ -199,6 +167,38 @@
       <Mod_Tags>
       </Mod_Tags>
       <size_modifier>5</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <battle_title>Run Real Time (H2H or Axis vs AI exit battle)</battle_title>
+      </Title>
+      <filename>Run</filename>
+      <picture_link>scenpics/Run.bmp</picture_link>
+      <battle_type>Meeting Engagement</battle_type>
+      <description>The stragglers must find their way across open farmland.</description>
+      <date>22/06/1944</date>
+      <time_of_day>20:00</time_of_day>
+      <part_of_day>Night</part_of_day>
+      <length>00:20</length>
+      <battle_size>Tiny</battle_size>
+      <Map_Size>
+         <map_area>0.128 Sq. km</map_area>
+         <map_width>400 m</map_width>
+         <map_depth>320 m</map_depth>
+      </Map_Size>
+      <region>Eastern Europe</region>
+      <environment>Open</environment>
+      <weather>Light Fog</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMRT v1.00 to v1.03</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>1</size_modifier>
    </Scenario>
 
    <Scenario>
@@ -236,25 +236,25 @@
 
    <Scenario>
       <Title>
-         <battle_title>Run Real Time (H2H or Axis vs AI exit battle)</battle_title>
+         <battle_title>Small Village in the Woods</battle_title>
       </Title>
-      <filename>Run</filename>
-      <picture_link>scenpics/Run.bmp</picture_link>
-      <battle_type>Meeting Engagement</battle_type>
-      <description>The stragglers must find their way across open farmland.</description>
+      <filename>Small Village in the Woods</filename>
+      <picture_link>scenpics/Small Village in the Woods.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>Not defined!</description>
       <date>22/06/1944</date>
-      <time_of_day>20:00</time_of_day>
-      <part_of_day>Night</part_of_day>
-      <length>00:20</length>
-      <battle_size>Tiny</battle_size>
+      <time_of_day>09:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:30</length>
+      <battle_size>Medium</battle_size>
       <Map_Size>
-         <map_area>0.128 Sq. km</map_area>
-         <map_width>400 m</map_width>
-         <map_depth>320 m</map_depth>
+         <map_area>0.246 Sq. km</map_area>
+         <map_width>512 m</map_width>
+         <map_depth>480 m</map_depth>
       </Map_Size>
-      <region>Eastern Europe</region>
+      <region>Soviet Union</region>
       <environment>Open</environment>
-      <weather>Light Fog</weather>
+      <weather>Clear</weather>
       <temperature>Warm</temperature>
       <ground_condition>Dry</ground_condition>
       <early_intel>Neither</early_intel>
@@ -263,7 +263,7 @@
       </Modules_Required>
       <Mod_Tags>
       </Mod_Tags>
-      <size_modifier>1</size_modifier>
+      <size_modifier>5</size_modifier>
    </Scenario>
 
    <Scenario>
@@ -597,10 +597,10 @@
 
    <Scenario>
       <Title>
-         <battle_title>Radzymin Master Map 3</battle_title>
+         <battle_title>Radzymin Master Map 4</battle_title>
       </Title>
-      <filename>Radzymin Master Map 3</filename>
-      <picture_link>scenpics/Radzymin Master Map 3.bmp</picture_link>
+      <filename>Radzymin Master Map 4</filename>
+      <picture_link>scenpics/Radzymin Master Map 4.bmp</picture_link>
       <battle_type>Allied Attack</battle_type>
       <description>Not defined!</description>
       <date>02/08/1944</date>
@@ -609,9 +609,9 @@
       <length>00:30</length>
       <battle_size>Medium</battle_size>
       <Map_Size>
-         <map_area>7.344 Sq. km</map_area>
-         <map_width>2816 m</map_width>
-         <map_depth>2608 m</map_depth>
+         <map_area>6.083 Sq. km</map_area>
+         <map_width>2160 m</map_width>
+         <map_depth>2816 m</map_depth>
       </Map_Size>
       <region>Eastern Europe</region>
       <environment>Open</environment>
@@ -629,34 +629,34 @@
 
    <Scenario>
       <Title>
-         <battle_title>Master Map 3</battle_title>
+         <battle_title>UrbanTrainingCenter</battle_title>
       </Title>
-      <filename>TTR master map 3</filename>
-      <picture_link>scenpics/TTR master map 3.bmp</picture_link>
-      <battle_type>Allied Attack</battle_type>
-      <description>Master Map 3</description>
-      <date>16/07/1944</date>
-      <time_of_day>11:00</time_of_day>
+      <filename>UrbanTrainingCenter_CMRT</filename>
+      <picture_link>scenpics/UrbanTrainingCenter_CMRT.bmp</picture_link>
+      <battle_type>Axis Attack</battle_type>
+      <description>Not defined!</description>
+      <date>04/06/2017</date>
+      <time_of_day>17:00</time_of_day>
       <part_of_day>Day</part_of_day>
-      <length>02:00</length>
-      <battle_size>Large</battle_size>
+      <length>01:00</length>
+      <battle_size>Tiny</battle_size>
       <Map_Size>
-         <map_area>6.675 Sq. km</map_area>
-         <map_width>2624 m</map_width>
-         <map_depth>2544 m</map_depth>
+         <map_area>0.339 Sq. km</map_area>
+         <map_width>544 m</map_width>
+         <map_depth>624 m</map_depth>
       </Map_Size>
-      <region>Eastern Europe</region>
-      <environment>Rough</environment>
+      <region>Soviet Union</region>
+      <environment>Village</environment>
       <weather>Clear</weather>
       <temperature>Warm</temperature>
-      <ground_condition>Damp</ground_condition>
+      <ground_condition>Dry</ground_condition>
       <early_intel>Neither</early_intel>
-      <game_version>CMRT v1.00 to v1.03</game_version>
+      <game_version>CMRT v2.00</game_version>
       <Modules_Required>
       </Modules_Required>
       <Mod_Tags>
       </Mod_Tags>
-      <size_modifier>9</size_modifier>
+      <size_modifier>3</size_modifier>
    </Scenario>
 
    <Scenario>
@@ -694,34 +694,34 @@
 
    <Scenario>
       <Title>
-         <battle_title>UrbanTrainingCenter</battle_title>
+         <battle_title>Woods Real Time (H2H or vs AI)</battle_title>
       </Title>
-      <filename>UrbanTrainingCenter_CMRT</filename>
-      <picture_link>scenpics/UrbanTrainingCenter_CMRT.bmp</picture_link>
-      <battle_type>Axis Attack</battle_type>
-      <description>Not defined!</description>
-      <date>04/06/2017</date>
-      <time_of_day>17:00</time_of_day>
-      <part_of_day>Day</part_of_day>
-      <length>01:00</length>
+      <filename>Woods</filename>
+      <picture_link>scenpics/Woods.bmp</picture_link>
+      <battle_type>Axis Probe</battle_type>
+      <description>The Stragglers find an isolated installation</description>
+      <date>22/06/1944</date>
+      <time_of_day>20:30</time_of_day>
+      <part_of_day>Dusk</part_of_day>
+      <length>00:15</length>
       <battle_size>Tiny</battle_size>
       <Map_Size>
-         <map_area>0.339 Sq. km</map_area>
-         <map_width>544 m</map_width>
-         <map_depth>624 m</map_depth>
+         <map_area>0.16 Sq. km</map_area>
+         <map_width>400 m</map_width>
+         <map_depth>400 m</map_depth>
       </Map_Size>
-      <region>Soviet Union</region>
-      <environment>Village</environment>
+      <region>Eastern Europe</region>
+      <environment>Forest</environment>
       <weather>Clear</weather>
       <temperature>Warm</temperature>
       <ground_condition>Dry</ground_condition>
       <early_intel>Neither</early_intel>
-      <game_version>CMRT v2.00</game_version>
+      <game_version>CMRT v1.00 to v1.03</game_version>
       <Modules_Required>
       </Modules_Required>
       <Mod_Tags>
       </Mod_Tags>
-      <size_modifier>3</size_modifier>
+      <size_modifier>1</size_modifier>
    </Scenario>
 
    <Scenario>
@@ -1486,38 +1486,6 @@
 
    <Scenario>
       <Title>
-         <battle_title>Woods Real Time (H2H or vs AI)</battle_title>
-      </Title>
-      <filename>Woods</filename>
-      <picture_link>scenpics/Woods.bmp</picture_link>
-      <battle_type>Axis Probe</battle_type>
-      <description>The Stragglers find an isolated installation</description>
-      <date>22/06/1944</date>
-      <time_of_day>20:30</time_of_day>
-      <part_of_day>Dusk</part_of_day>
-      <length>00:15</length>
-      <battle_size>Tiny</battle_size>
-      <Map_Size>
-         <map_area>0.16 Sq. km</map_area>
-         <map_width>400 m</map_width>
-         <map_depth>400 m</map_depth>
-      </Map_Size>
-      <region>Eastern Europe</region>
-      <environment>Forest</environment>
-      <weather>Clear</weather>
-      <temperature>Warm</temperature>
-      <ground_condition>Dry</ground_condition>
-      <early_intel>Neither</early_intel>
-      <game_version>CMRT v1.00 to v1.03</game_version>
-      <Modules_Required>
-      </Modules_Required>
-      <Mod_Tags>
-      </Mod_Tags>
-      <size_modifier>1</size_modifier>
-   </Scenario>
-
-   <Scenario>
-      <Title>
          <battle_title>FR Balatonfokajar MM</battle_title>
       </Title>
       <filename>FR Balatonfokajar MM</filename>
@@ -1619,42 +1587,42 @@
 
    <Scenario>
       <Title>
-         <battle_title>Map 2 Master</battle_title>
+         <battle_title>Master Map 3</battle_title>
       </Title>
-      <filename>TTR Master Map 2</filename>
-      <picture_link>scenpics/TTR Master Map 2.bmp</picture_link>
+      <filename>TTR master map 3</filename>
+      <picture_link>scenpics/TTR master map 3.bmp</picture_link>
       <battle_type>Allied Attack</battle_type>
-      <description>Build map 1</description>
-      <date>08/07/1944</date>
-      <time_of_day>12:30</time_of_day>
-      <part_of_day>Dawn</part_of_day>
-      <length>04:00</length>
-      <battle_size>Huge</battle_size>
+      <description>Master Map 3</description>
+      <date>16/07/1944</date>
+      <time_of_day>11:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>02:00</length>
+      <battle_size>Large</battle_size>
       <Map_Size>
-         <map_area>7.712 Sq. km</map_area>
-         <map_width>3856 m</map_width>
-         <map_depth>2000 m</map_depth>
+         <map_area>6.675 Sq. km</map_area>
+         <map_width>2624 m</map_width>
+         <map_depth>2544 m</map_depth>
       </Map_Size>
       <region>Eastern Europe</region>
       <environment>Rough</environment>
-      <weather>Overcast</weather>
-      <temperature>Cool</temperature>
-      <ground_condition>Wet</ground_condition>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Damp</ground_condition>
       <early_intel>Neither</early_intel>
       <game_version>CMRT v1.00 to v1.03</game_version>
       <Modules_Required>
       </Modules_Required>
       <Mod_Tags>
       </Mod_Tags>
-      <size_modifier>10</size_modifier>
+      <size_modifier>9</size_modifier>
    </Scenario>
 
    <Scenario>
       <Title>
-         <battle_title>Radzymin Master Map 1</battle_title>
+         <battle_title>Radzymin Master Map 2</battle_title>
       </Title>
-      <filename>Radzymin Master Map 1</filename>
-      <picture_link>scenpics/Radzymin Master Map 1.bmp</picture_link>
+      <filename>Radzymin Master Map 2</filename>
+      <picture_link>scenpics/Radzymin Master Map 2.bmp</picture_link>
       <battle_type>Allied Attack</battle_type>
       <description>Not defined!</description>
       <date>02/08/1944</date>
@@ -1663,9 +1631,9 @@
       <length>00:30</length>
       <battle_size>Medium</battle_size>
       <Map_Size>
-         <map_area>6.666 Sq. km</map_area>
-         <map_width>2480 m</map_width>
-         <map_depth>2688 m</map_depth>
+         <map_area>6.093 Sq. km</map_area>
+         <map_width>2720 m</map_width>
+         <map_depth>2240 m</map_depth>
       </Map_Size>
       <region>Eastern Europe</region>
       <environment>Open</environment>
@@ -2018,10 +1986,10 @@
 
    <Scenario>
       <Title>
-         <battle_title>Rad-Full-2</battle_title>
+         <battle_title>Radzymin Master Map 1</battle_title>
       </Title>
-      <filename>Rad-Full-2</filename>
-      <picture_link>scenpics/Rad-Full-2.bmp</picture_link>
+      <filename>Radzymin Master Map 1</filename>
+      <picture_link>scenpics/Radzymin Master Map 1.bmp</picture_link>
       <battle_type>Allied Attack</battle_type>
       <description>Not defined!</description>
       <date>02/08/1944</date>
@@ -2030,9 +1998,9 @@
       <length>00:30</length>
       <battle_size>Medium</battle_size>
       <Map_Size>
-         <map_area>32.444 Sq. km</map_area>
-         <map_width>5696 m</map_width>
-         <map_depth>5696 m</map_depth>
+         <map_area>6.666 Sq. km</map_area>
+         <map_width>2480 m</map_width>
+         <map_depth>2688 m</map_depth>
       </Map_Size>
       <region>Eastern Europe</region>
       <environment>Open</environment>
@@ -2082,27 +2050,27 @@
 
    <Scenario>
       <Title>
-         <battle_title>Map 1</battle_title>
+         <battle_title>Map 2 Master</battle_title>
       </Title>
-      <filename>TTR Master Map 1</filename>
-      <picture_link>scenpics/TTR Master Map 1.bmp</picture_link>
+      <filename>TTR Master Map 2</filename>
+      <picture_link>scenpics/TTR Master Map 2.bmp</picture_link>
       <battle_type>Allied Attack</battle_type>
       <description>Build map 1</description>
       <date>08/07/1944</date>
-      <time_of_day>05:30</time_of_day>
+      <time_of_day>12:30</time_of_day>
       <part_of_day>Dawn</part_of_day>
       <length>04:00</length>
       <battle_size>Huge</battle_size>
       <Map_Size>
-         <map_area>8.302 Sq. km</map_area>
-         <map_width>5520 m</map_width>
-         <map_depth>1504 m</map_depth>
+         <map_area>7.712 Sq. km</map_area>
+         <map_width>3856 m</map_width>
+         <map_depth>2000 m</map_depth>
       </Map_Size>
-      <region>Soviet Union</region>
+      <region>Eastern Europe</region>
       <environment>Rough</environment>
       <weather>Overcast</weather>
       <temperature>Cool</temperature>
-      <ground_condition>Damp</ground_condition>
+      <ground_condition>Wet</ground_condition>
       <early_intel>Neither</early_intel>
       <game_version>CMRT v1.00 to v1.03</game_version>
       <Modules_Required>
@@ -2279,34 +2247,34 @@
 
    <Scenario>
       <Title>
-         <battle_title>Small Village in the Woods</battle_title>
+         <battle_title>Swamp People Real Time (H2H or vs AI)</battle_title>
       </Title>
-      <filename>Small Village in the Woods</filename>
-      <picture_link>scenpics/Small Village in the Woods.bmp</picture_link>
-      <battle_type>Allied Attack</battle_type>
-      <description>Not defined!</description>
+      <filename>Swamp People</filename>
+      <picture_link>scenpics/Swamp People.bmp</picture_link>
+      <battle_type>Axis Probe</battle_type>
+      <description>The stragglers seek refuge tonight.</description>
       <date>22/06/1944</date>
-      <time_of_day>09:00</time_of_day>
-      <part_of_day>Day</part_of_day>
-      <length>00:30</length>
-      <battle_size>Medium</battle_size>
+      <time_of_day>20:00</time_of_day>
+      <part_of_day>Dusk</part_of_day>
+      <length>00:15</length>
+      <battle_size>Tiny</battle_size>
       <Map_Size>
-         <map_area>0.246 Sq. km</map_area>
-         <map_width>512 m</map_width>
-         <map_depth>480 m</map_depth>
+         <map_area>0.102 Sq. km</map_area>
+         <map_width>320 m</map_width>
+         <map_depth>320 m</map_depth>
       </Map_Size>
       <region>Soviet Union</region>
-      <environment>Open</environment>
-      <weather>Clear</weather>
+      <environment>Forest</environment>
+      <weather>Mist</weather>
       <temperature>Warm</temperature>
-      <ground_condition>Dry</ground_condition>
+      <ground_condition>Damp</ground_condition>
       <early_intel>Neither</early_intel>
       <game_version>CMRT v1.00 to v1.03</game_version>
       <Modules_Required>
       </Modules_Required>
       <Mod_Tags>
       </Mod_Tags>
-      <size_modifier>5</size_modifier>
+      <size_modifier>1</size_modifier>
    </Scenario>
 
    <Scenario>
@@ -2345,26 +2313,26 @@
 
    <Scenario>
       <Title>
-         <battle_title>Swamp People Real Time (H2H or vs AI)</battle_title>
+         <battle_title>Map 1</battle_title>
       </Title>
-      <filename>Swamp People</filename>
-      <picture_link>scenpics/Swamp People.bmp</picture_link>
-      <battle_type>Axis Probe</battle_type>
-      <description>The stragglers seek refuge tonight.</description>
-      <date>22/06/1944</date>
-      <time_of_day>20:00</time_of_day>
-      <part_of_day>Dusk</part_of_day>
-      <length>00:15</length>
-      <battle_size>Tiny</battle_size>
+      <filename>TTR Master Map 1</filename>
+      <picture_link>scenpics/TTR Master Map 1.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>Build map 1</description>
+      <date>08/07/1944</date>
+      <time_of_day>05:30</time_of_day>
+      <part_of_day>Dawn</part_of_day>
+      <length>04:00</length>
+      <battle_size>Huge</battle_size>
       <Map_Size>
-         <map_area>0.102 Sq. km</map_area>
-         <map_width>320 m</map_width>
-         <map_depth>320 m</map_depth>
+         <map_area>8.302 Sq. km</map_area>
+         <map_width>5520 m</map_width>
+         <map_depth>1504 m</map_depth>
       </Map_Size>
       <region>Soviet Union</region>
-      <environment>Forest</environment>
-      <weather>Mist</weather>
-      <temperature>Warm</temperature>
+      <environment>Rough</environment>
+      <weather>Overcast</weather>
+      <temperature>Cool</temperature>
       <ground_condition>Damp</ground_condition>
       <early_intel>Neither</early_intel>
       <game_version>CMRT v1.00 to v1.03</game_version>
@@ -2372,7 +2340,7 @@
       </Modules_Required>
       <Mod_Tags>
       </Mod_Tags>
-      <size_modifier>1</size_modifier>
+      <size_modifier>10</size_modifier>
    </Scenario>
 
    <Scenario>
@@ -2709,10 +2677,10 @@
 
    <Scenario>
       <Title>
-         <battle_title>Radzymin Master Map 2</battle_title>
+         <battle_title>Radzymin Master Map 3</battle_title>
       </Title>
-      <filename>Radzymin Master Map 2</filename>
-      <picture_link>scenpics/Radzymin Master Map 2.bmp</picture_link>
+      <filename>Radzymin Master Map 3</filename>
+      <picture_link>scenpics/Radzymin Master Map 3.bmp</picture_link>
       <battle_type>Allied Attack</battle_type>
       <description>Not defined!</description>
       <date>02/08/1944</date>
@@ -2721,9 +2689,9 @@
       <length>00:30</length>
       <battle_size>Medium</battle_size>
       <Map_Size>
-         <map_area>6.093 Sq. km</map_area>
-         <map_width>2720 m</map_width>
-         <map_depth>2240 m</map_depth>
+         <map_area>7.344 Sq. km</map_area>
+         <map_width>2816 m</map_width>
+         <map_depth>2608 m</map_depth>
       </Map_Size>
       <region>Eastern Europe</region>
       <environment>Open</environment>

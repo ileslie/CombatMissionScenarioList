@@ -9,127 +9,26 @@
 
    <Scenario>
       <Title>
-         <number_in_campaign>[Campaign Battle #02]</number_in_campaign>
-         <battle_title>Command Decisions</battle_title>
+         <number_in_campaign>[Campaign Battle #00]</number_in_campaign>
+         <battle_title>die Spitze</battle_title>
       </Title>
-      <filename>Kampfgruppe Peiper #02_KG Peiper Mission 2B</filename>
-      <picture_link>scenpics/Kampfgruppe Peiper2.bmp</picture_link>
-      <battle_type>Axis Probe</battle_type>
-      <description>KG Peiper is climbing the last hill to Stavelot when a voice cries out &quot;Halt!&quot; and shoots at the lead Panzer in the column.</description>
-      <date>17/12/1944</date>
-      <time_of_day>16:00</time_of_day>
-      <part_of_day>Dusk</part_of_day>
-      <length>00:40</length>
-      <battle_size>Tiny</battle_size>
-      <Map_Size>
-         <map_area>2.392 Sq. km</map_area>
-         <map_width>1424 m</map_width>
-         <map_depth>1680 m</map_depth>
-      </Map_Size>
-      <region>Ardennes</region>
-      <environment>Hills</environment>
-      <weather>Overcast</weather>
-      <temperature>Cold</temperature>
-      <ground_condition>Muddy</ground_condition>
-      <early_intel>Neither</early_intel>
-      <game_version>CMFB v1.00 to v1.01</game_version>
-      <Modules_Required>
-      </Modules_Required>
-      <Mod_Tags>
-      </Mod_Tags>
-      <size_modifier>2</size_modifier>
-   </Scenario>
-
-   <Scenario>
-      <Title>
-         <number_in_campaign>[Campaign Battle #09]</number_in_campaign>
-         <battle_title>Storm on Stoumont</battle_title>
-      </Title>
-      <filename>Kampfgruppe Peiper #09_KG Peiper Mission 5C</filename>
-      <picture_link>scenpics/Kampfgruppe Peiper9.bmp</picture_link>
-      <battle_type>Axis Assault</battle_type>
-      <description>KG Peiper attacks the village of Stoumont</description>
-      <date>18/12/1944</date>
-      <time_of_day>13:45</time_of_day>
-      <part_of_day>Day</part_of_day>
-      <length>02:00</length>
-      <battle_size>Huge</battle_size>
-      <Map_Size>
-         <map_area>3.321 Sq. km</map_area>
-         <map_width>2208 m</map_width>
-         <map_depth>1504 m</map_depth>
-      </Map_Size>
-      <region>Ardennes</region>
-      <environment>Village</environment>
-      <weather>Overcast</weather>
-      <temperature>Cold</temperature>
-      <ground_condition>Muddy</ground_condition>
-      <early_intel>Neither</early_intel>
-      <game_version>CMFB v1.00 to v1.01</game_version>
-      <Modules_Required>
-      </Modules_Required>
-      <Mod_Tags>
-         <mod_tag>stoumont</mod_tag>
-      </Mod_Tags>
-      <size_modifier>10</size_modifier>
-   </Scenario>
-
-   <Scenario>
-      <Title>
-         <number_in_campaign>[Campaign Battle #11]</number_in_campaign>
-         <battle_title>Lifeline</battle_title>
-      </Title>
-      <filename>Kampfgruppe Peiper #11_KG Peiper Mission 6A</filename>
-      <picture_link>scenpics/Kampfgruppe Peiper11.bmp</picture_link>
+      <filename>Kampfgruppe Peiper #00_KG Peiper Mission 1</filename>
+      <picture_link>scenpics/Kampfgruppe Peiper0.bmp</picture_link>
       <battle_type>Axis Attack</battle_type>
-      <description>American forces have retaken much of Stavelot, cutting off KG Paiper from a vital fuel supply line. KG Knittel attacks to reopen the line.</description>
-      <date>19/12/1944</date>
-      <time_of_day>13:00</time_of_day>
-      <part_of_day>Day</part_of_day>
-      <length>01:00</length>
+      <description>Lead elements of KG Peiper push north out of Honsfeld towards Bullingen.</description>
+      <date>17/12/1944</date>
+      <time_of_day>07:15</time_of_day>
+      <part_of_day>Dawn</part_of_day>
+      <length>00:45</length>
       <battle_size>Medium</battle_size>
       <Map_Size>
-         <map_area>3.069 Sq. km</map_area>
-         <map_width>1744 m</map_width>
-         <map_depth>1760 m</map_depth>
-      </Map_Size>
-      <region>Ardennes</region>
-      <environment>Hills</environment>
-      <weather>Overcast</weather>
-      <temperature>Freezing</temperature>
-      <ground_condition>Muddy</ground_condition>
-      <early_intel>Axis Force</early_intel>
-      <game_version>CMFB v1.00 to v1.01</game_version>
-      <Modules_Required>
-      </Modules_Required>
-      <Mod_Tags>
-         <mod_tag>stavelot</mod_tag>
-      </Mod_Tags>
-      <size_modifier>6</size_modifier>
-   </Scenario>
-
-   <Scenario>
-      <Title>
-         <number_in_campaign>[Campaign Battle #18]</number_in_campaign>
-         <battle_title>To the Meuse!</battle_title>
-      </Title>
-      <filename>Kampfgruppe Peiper #18_KG Peiper Mission 8D</filename>
-      <picture_link>scenpics/Kampfgruppe Peiper18.bmp</picture_link>
-      <battle_type>Axis Attack</battle_type>
-      <description>Having broken through American defenses at high speed, Kampfgruppe Peiper makes it to Werbomont before crashing into the last line of resistance.</description>
-      <date>19/12/1944</date>
-      <time_of_day>14:00</time_of_day>
-      <part_of_day>Day</part_of_day>
-      <length>02:00</length>
-      <battle_size>Large</battle_size>
-      <Map_Size>
-         <map_area>3.097 Sq. km</map_area>
-         <map_width>2304 m</map_width>
-         <map_depth>1344 m</map_depth>
+         <map_area>0.746 Sq. km</map_area>
+         <map_width>992 m</map_width>
+         <map_depth>752 m</map_depth>
       </Map_Size>
       <region>Ardennes</region>
       <environment>Open</environment>
-      <weather>Mist</weather>
+      <weather>Mist and Rain</weather>
       <temperature>Freezing</temperature>
       <ground_condition>Muddy</ground_condition>
       <early_intel>Neither</early_intel>
@@ -137,40 +36,6 @@
       <Modules_Required>
       </Modules_Required>
       <Mod_Tags>
-      </Mod_Tags>
-      <size_modifier>9</size_modifier>
-   </Scenario>
-
-   <Scenario>
-      <Title>
-         <number_in_campaign>[Campaign Battle #13]</number_in_campaign>
-         <battle_title>Lifeline</battle_title>
-      </Title>
-      <filename>Kampfgruppe Peiper #13_KG Peiper Mission 6C</filename>
-      <picture_link>scenpics/Kampfgruppe Peiper13.bmp</picture_link>
-      <battle_type>Axis Attack</battle_type>
-      <description>American forces have retaken much of Stavelot, cutting off KG Paiper from a vital fuel supply line. KG Knittel attacks to reopen the line.</description>
-      <date>19/12/1944</date>
-      <time_of_day>10:00</time_of_day>
-      <part_of_day>Day</part_of_day>
-      <length>01:00</length>
-      <battle_size>Medium</battle_size>
-      <Map_Size>
-         <map_area>3.069 Sq. km</map_area>
-         <map_width>1744 m</map_width>
-         <map_depth>1760 m</map_depth>
-      </Map_Size>
-      <region>Ardennes</region>
-      <environment>Hills</environment>
-      <weather>Mist</weather>
-      <temperature>Freezing</temperature>
-      <ground_condition>Muddy</ground_condition>
-      <early_intel>Axis Force</early_intel>
-      <game_version>CMFB v1.00 to v1.01</game_version>
-      <Modules_Required>
-      </Modules_Required>
-      <Mod_Tags>
-         <mod_tag>stavelot</mod_tag>
       </Mod_Tags>
       <size_modifier>6</size_modifier>
    </Scenario>
@@ -211,33 +76,68 @@
 
    <Scenario>
       <Title>
-         <number_in_campaign>[Campaign Battle #00]</number_in_campaign>
-         <battle_title>die Spitze</battle_title>
+         <number_in_campaign>[Campaign Battle #09]</number_in_campaign>
+         <battle_title>Storm on Stoumont</battle_title>
       </Title>
-      <filename>Kampfgruppe Peiper #00_KG Peiper Mission 1</filename>
-      <picture_link>scenpics/Kampfgruppe Peiper0.bmp</picture_link>
-      <battle_type>Axis Attack</battle_type>
-      <description>Lead elements of KG Peiper push north out of Honsfeld towards Bullingen.</description>
-      <date>17/12/1944</date>
-      <time_of_day>07:15</time_of_day>
-      <part_of_day>Dawn</part_of_day>
-      <length>00:45</length>
-      <battle_size>Medium</battle_size>
+      <filename>Kampfgruppe Peiper #09_KG Peiper Mission 5C</filename>
+      <picture_link>scenpics/Kampfgruppe Peiper9.bmp</picture_link>
+      <battle_type>Axis Assault</battle_type>
+      <description>KG Peiper attacks the village of Stoumont</description>
+      <date>18/12/1944</date>
+      <time_of_day>13:45</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>02:00</length>
+      <battle_size>Huge</battle_size>
       <Map_Size>
-         <map_area>0.746 Sq. km</map_area>
-         <map_width>992 m</map_width>
-         <map_depth>752 m</map_depth>
+         <map_area>3.321 Sq. km</map_area>
+         <map_width>2208 m</map_width>
+         <map_depth>1504 m</map_depth>
       </Map_Size>
       <region>Ardennes</region>
-      <environment>Open</environment>
-      <weather>Mist and Rain</weather>
-      <temperature>Freezing</temperature>
+      <environment>Village</environment>
+      <weather>Overcast</weather>
+      <temperature>Cold</temperature>
       <ground_condition>Muddy</ground_condition>
       <early_intel>Neither</early_intel>
       <game_version>CMFB v1.00 to v1.01</game_version>
       <Modules_Required>
       </Modules_Required>
       <Mod_Tags>
+         <mod_tag>stoumont</mod_tag>
+      </Mod_Tags>
+      <size_modifier>10</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #14]</number_in_campaign>
+         <battle_title>Lifeline</battle_title>
+      </Title>
+      <filename>Kampfgruppe Peiper #14_KG Peiper Mission 6D</filename>
+      <picture_link>scenpics/Kampfgruppe Peiper14.bmp</picture_link>
+      <battle_type>Axis Attack</battle_type>
+      <description>American forces have retaken much of Stavelot, cutting off KG Paiper from a vital fuel supply line. KG Knittel attacks to reopen the line.</description>
+      <date>19/12/1944</date>
+      <time_of_day>10:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:00</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>3.069 Sq. km</map_area>
+         <map_width>1744 m</map_width>
+         <map_depth>1760 m</map_depth>
+      </Map_Size>
+      <region>Ardennes</region>
+      <environment>Hills</environment>
+      <weather>Mist</weather>
+      <temperature>Freezing</temperature>
+      <ground_condition>Muddy</ground_condition>
+      <early_intel>Axis Force</early_intel>
+      <game_version>CMFB v1.00 to v1.01</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>stavelot</mod_tag>
       </Mod_Tags>
       <size_modifier>6</size_modifier>
    </Scenario>
@@ -255,6 +155,239 @@
       <time_of_day>14:00</time_of_day>
       <part_of_day>Day</part_of_day>
       <length>01:50</length>
+      <battle_size>Large</battle_size>
+      <Map_Size>
+         <map_area>3.097 Sq. km</map_area>
+         <map_width>2304 m</map_width>
+         <map_depth>1344 m</map_depth>
+      </Map_Size>
+      <region>Ardennes</region>
+      <environment>Open</environment>
+      <weather>Mist</weather>
+      <temperature>Freezing</temperature>
+      <ground_condition>Muddy</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFB v1.00 to v1.01</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>9</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #15]</number_in_campaign>
+         <battle_title>To the Meuse</battle_title>
+      </Title>
+      <filename>Kampfgruppe Peiper #15_KG Peiper Mission 7A</filename>
+      <picture_link>scenpics/Kampfgruppe Peiper15.bmp</picture_link>
+      <battle_type>Axis Attack</battle_type>
+      <description>The Germans have captured Stoumont Station, and are now striking west in order to effect a breakthrough in the direction of LIege on the Meuse river.</description>
+      <date>19/12/1944</date>
+      <time_of_day>13:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>02:00</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>2.195 Sq. km</map_area>
+         <map_width>2048 m</map_width>
+         <map_depth>1072 m</map_depth>
+      </Map_Size>
+      <region>Ardennes</region>
+      <environment>Forest</environment>
+      <weather>Heavy Fog</weather>
+      <temperature>Cold</temperature>
+      <ground_condition>Muddy</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFB v1.00 to v1.01</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #13]</number_in_campaign>
+         <battle_title>Lifeline</battle_title>
+      </Title>
+      <filename>Kampfgruppe Peiper #13_KG Peiper Mission 6C</filename>
+      <picture_link>scenpics/Kampfgruppe Peiper13.bmp</picture_link>
+      <battle_type>Axis Attack</battle_type>
+      <description>American forces have retaken much of Stavelot, cutting off KG Paiper from a vital fuel supply line. KG Knittel attacks to reopen the line.</description>
+      <date>19/12/1944</date>
+      <time_of_day>10:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:00</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>3.069 Sq. km</map_area>
+         <map_width>1744 m</map_width>
+         <map_depth>1760 m</map_depth>
+      </Map_Size>
+      <region>Ardennes</region>
+      <environment>Hills</environment>
+      <weather>Mist</weather>
+      <temperature>Freezing</temperature>
+      <ground_condition>Muddy</ground_condition>
+      <early_intel>Axis Force</early_intel>
+      <game_version>CMFB v1.00 to v1.01</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>stavelot</mod_tag>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #02]</number_in_campaign>
+         <battle_title>Command Decisions</battle_title>
+      </Title>
+      <filename>Kampfgruppe Peiper #02_KG Peiper Mission 2B</filename>
+      <picture_link>scenpics/Kampfgruppe Peiper2.bmp</picture_link>
+      <battle_type>Axis Probe</battle_type>
+      <description>KG Peiper is climbing the last hill to Stavelot when a voice cries out &quot;Halt!&quot; and shoots at the lead Panzer in the column.</description>
+      <date>17/12/1944</date>
+      <time_of_day>16:00</time_of_day>
+      <part_of_day>Dusk</part_of_day>
+      <length>00:40</length>
+      <battle_size>Tiny</battle_size>
+      <Map_Size>
+         <map_area>2.392 Sq. km</map_area>
+         <map_width>1424 m</map_width>
+         <map_depth>1680 m</map_depth>
+      </Map_Size>
+      <region>Ardennes</region>
+      <environment>Hills</environment>
+      <weather>Overcast</weather>
+      <temperature>Cold</temperature>
+      <ground_condition>Muddy</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFB v1.00 to v1.01</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>2</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #06]</number_in_campaign>
+         <battle_title>Rushing Stavelot</battle_title>
+      </Title>
+      <filename>Kampfgruppe Peiper #06_KG Peiper Mission 4C</filename>
+      <picture_link>scenpics/Kampfgruppe Peiper6.bmp</picture_link>
+      <battle_type>Axis Attack</battle_type>
+      <description>Instead of stopping for the night to rest and reorganize, Peiper decides to plunge into the gloomy unknown and immediately attack Stavelot.</description>
+      <date>17/12/1944</date>
+      <time_of_day>16:45</time_of_day>
+      <part_of_day>Dusk</part_of_day>
+      <length>01:30</length>
+      <battle_size>Small</battle_size>
+      <Map_Size>
+         <map_area>4.128 Sq. km</map_area>
+         <map_width>2064 m</map_width>
+         <map_depth>2000 m</map_depth>
+      </Map_Size>
+      <region>Ardennes</region>
+      <environment>Hills</environment>
+      <weather>Overcast</weather>
+      <temperature>Cold</temperature>
+      <ground_condition>Muddy</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFB v1.00 to v1.01</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>5</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #12]</number_in_campaign>
+         <battle_title>Lifeline</battle_title>
+      </Title>
+      <filename>Kampfgruppe Peiper #12_KG Peiper Mission 6B</filename>
+      <picture_link>scenpics/Kampfgruppe Peiper12.bmp</picture_link>
+      <battle_type>Axis Attack</battle_type>
+      <description>American forces have retaken much of Stavelot, cutting off KG Paiper from a vital fuel supply line. KG Knittel attacks to reopen the line.</description>
+      <date>19/12/1944</date>
+      <time_of_day>13:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:00</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>3.069 Sq. km</map_area>
+         <map_width>1744 m</map_width>
+         <map_depth>1760 m</map_depth>
+      </Map_Size>
+      <region>Ardennes</region>
+      <environment>Hills</environment>
+      <weather>Overcast</weather>
+      <temperature>Freezing</temperature>
+      <ground_condition>Muddy</ground_condition>
+      <early_intel>Axis Force</early_intel>
+      <game_version>CMFB v1.00 to v1.01</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>stavelot</mod_tag>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #03]</number_in_campaign>
+         <battle_title>Bridge over the Ambleve: Part 1</battle_title>
+      </Title>
+      <filename>Kampfgruppe Peiper #03_KG Peiper Mission 3</filename>
+      <picture_link>scenpics/Kampfgruppe Peiper3.bmp</picture_link>
+      <battle_type>Axis Probe</battle_type>
+      <description>KG Peiper makes an initial morning attack against the south bank of Stavelot.</description>
+      <date>18/12/1944</date>
+      <time_of_day>07:30</time_of_day>
+      <part_of_day>Night</part_of_day>
+      <length>00:45</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>1.08 Sq. km</map_area>
+         <map_width>1184 m</map_width>
+         <map_depth>912 m</map_depth>
+      </Map_Size>
+      <region>Ardennes</region>
+      <environment>Town</environment>
+      <weather>Mist</weather>
+      <temperature>Freezing</temperature>
+      <ground_condition>Muddy</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFB v1.00 to v1.01</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #18]</number_in_campaign>
+         <battle_title>To the Meuse!</battle_title>
+      </Title>
+      <filename>Kampfgruppe Peiper #18_KG Peiper Mission 8D</filename>
+      <picture_link>scenpics/Kampfgruppe Peiper18.bmp</picture_link>
+      <battle_type>Axis Attack</battle_type>
+      <description>Having broken through American defenses at high speed, Kampfgruppe Peiper makes it to Werbomont before crashing into the last line of resistance.</description>
+      <date>19/12/1944</date>
+      <time_of_day>14:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>02:00</length>
       <battle_size>Large</battle_size>
       <Map_Size>
          <map_area>3.097 Sq. km</map_area>
@@ -306,6 +439,40 @@
       <Mod_Tags>
       </Mod_Tags>
       <size_modifier>2</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #08]</number_in_campaign>
+         <battle_title>Storm on Stoumont</battle_title>
+      </Title>
+      <filename>Kampfgruppe Peiper #08_KG Peiper Mission 5B</filename>
+      <picture_link>scenpics/Kampfgruppe Peiper8.bmp</picture_link>
+      <battle_type>Axis Assault</battle_type>
+      <description>KG Peiper attacks the village of Stoumont</description>
+      <date>19/12/1944</date>
+      <time_of_day>07:20</time_of_day>
+      <part_of_day>Dawn</part_of_day>
+      <length>02:00</length>
+      <battle_size>Huge</battle_size>
+      <Map_Size>
+         <map_area>3.321 Sq. km</map_area>
+         <map_width>2208 m</map_width>
+         <map_depth>1504 m</map_depth>
+      </Map_Size>
+      <region>Ardennes</region>
+      <environment>Village</environment>
+      <weather>Mist</weather>
+      <temperature>Cold</temperature>
+      <ground_condition>Muddy</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFB v1.00 to v1.01</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>stoumont</mod_tag>
+      </Mod_Tags>
+      <size_modifier>10</size_modifier>
    </Scenario>
 
    <Scenario>
@@ -443,11 +610,11 @@
 
    <Scenario>
       <Title>
-         <number_in_campaign>[Campaign Battle #12]</number_in_campaign>
+         <number_in_campaign>[Campaign Battle #11]</number_in_campaign>
          <battle_title>Lifeline</battle_title>
       </Title>
-      <filename>Kampfgruppe Peiper #12_KG Peiper Mission 6B</filename>
-      <picture_link>scenpics/Kampfgruppe Peiper12.bmp</picture_link>
+      <filename>Kampfgruppe Peiper #11_KG Peiper Mission 6A</filename>
+      <picture_link>scenpics/Kampfgruppe Peiper11.bmp</picture_link>
       <battle_type>Axis Attack</battle_type>
       <description>American forces have retaken much of Stavelot, cutting off KG Paiper from a vital fuel supply line. KG Knittel attacks to reopen the line.</description>
       <date>19/12/1944</date>
@@ -473,173 +640,6 @@
          <mod_tag>stavelot</mod_tag>
       </Mod_Tags>
       <size_modifier>6</size_modifier>
-   </Scenario>
-
-   <Scenario>
-      <Title>
-         <number_in_campaign>[Campaign Battle #14]</number_in_campaign>
-         <battle_title>Lifeline</battle_title>
-      </Title>
-      <filename>Kampfgruppe Peiper #14_KG Peiper Mission 6D</filename>
-      <picture_link>scenpics/Kampfgruppe Peiper14.bmp</picture_link>
-      <battle_type>Axis Attack</battle_type>
-      <description>American forces have retaken much of Stavelot, cutting off KG Paiper from a vital fuel supply line. KG Knittel attacks to reopen the line.</description>
-      <date>19/12/1944</date>
-      <time_of_day>10:00</time_of_day>
-      <part_of_day>Day</part_of_day>
-      <length>01:00</length>
-      <battle_size>Medium</battle_size>
-      <Map_Size>
-         <map_area>3.069 Sq. km</map_area>
-         <map_width>1744 m</map_width>
-         <map_depth>1760 m</map_depth>
-      </Map_Size>
-      <region>Ardennes</region>
-      <environment>Hills</environment>
-      <weather>Mist</weather>
-      <temperature>Freezing</temperature>
-      <ground_condition>Muddy</ground_condition>
-      <early_intel>Axis Force</early_intel>
-      <game_version>CMFB v1.00 to v1.01</game_version>
-      <Modules_Required>
-      </Modules_Required>
-      <Mod_Tags>
-         <mod_tag>stavelot</mod_tag>
-      </Mod_Tags>
-      <size_modifier>6</size_modifier>
-   </Scenario>
-
-   <Scenario>
-      <Title>
-         <number_in_campaign>[Campaign Battle #08]</number_in_campaign>
-         <battle_title>Storm on Stoumont</battle_title>
-      </Title>
-      <filename>Kampfgruppe Peiper #08_KG Peiper Mission 5B</filename>
-      <picture_link>scenpics/Kampfgruppe Peiper8.bmp</picture_link>
-      <battle_type>Axis Assault</battle_type>
-      <description>KG Peiper attacks the village of Stoumont</description>
-      <date>19/12/1944</date>
-      <time_of_day>07:20</time_of_day>
-      <part_of_day>Dawn</part_of_day>
-      <length>02:00</length>
-      <battle_size>Huge</battle_size>
-      <Map_Size>
-         <map_area>3.321 Sq. km</map_area>
-         <map_width>2208 m</map_width>
-         <map_depth>1504 m</map_depth>
-      </Map_Size>
-      <region>Ardennes</region>
-      <environment>Village</environment>
-      <weather>Mist</weather>
-      <temperature>Cold</temperature>
-      <ground_condition>Muddy</ground_condition>
-      <early_intel>Neither</early_intel>
-      <game_version>CMFB v1.00 to v1.01</game_version>
-      <Modules_Required>
-      </Modules_Required>
-      <Mod_Tags>
-         <mod_tag>stoumont</mod_tag>
-      </Mod_Tags>
-      <size_modifier>10</size_modifier>
-   </Scenario>
-
-   <Scenario>
-      <Title>
-         <number_in_campaign>[Campaign Battle #06]</number_in_campaign>
-         <battle_title>Rushing Stavelot</battle_title>
-      </Title>
-      <filename>Kampfgruppe Peiper #06_KG Peiper Mission 4C</filename>
-      <picture_link>scenpics/Kampfgruppe Peiper6.bmp</picture_link>
-      <battle_type>Axis Attack</battle_type>
-      <description>Instead of stopping for the night to rest and reorganize, Peiper decides to plunge into the gloomy unknown and immediately attack Stavelot.</description>
-      <date>17/12/1944</date>
-      <time_of_day>16:45</time_of_day>
-      <part_of_day>Dusk</part_of_day>
-      <length>01:30</length>
-      <battle_size>Small</battle_size>
-      <Map_Size>
-         <map_area>4.128 Sq. km</map_area>
-         <map_width>2064 m</map_width>
-         <map_depth>2000 m</map_depth>
-      </Map_Size>
-      <region>Ardennes</region>
-      <environment>Hills</environment>
-      <weather>Overcast</weather>
-      <temperature>Cold</temperature>
-      <ground_condition>Muddy</ground_condition>
-      <early_intel>Neither</early_intel>
-      <game_version>CMFB v1.00 to v1.01</game_version>
-      <Modules_Required>
-      </Modules_Required>
-      <Mod_Tags>
-      </Mod_Tags>
-      <size_modifier>5</size_modifier>
-   </Scenario>
-
-   <Scenario>
-      <Title>
-         <number_in_campaign>[Campaign Battle #03]</number_in_campaign>
-         <battle_title>Bridge over the Ambleve: Part 1</battle_title>
-      </Title>
-      <filename>Kampfgruppe Peiper #03_KG Peiper Mission 3</filename>
-      <picture_link>scenpics/Kampfgruppe Peiper3.bmp</picture_link>
-      <battle_type>Axis Probe</battle_type>
-      <description>KG Peiper makes an initial morning attack against the south bank of Stavelot.</description>
-      <date>18/12/1944</date>
-      <time_of_day>07:30</time_of_day>
-      <part_of_day>Night</part_of_day>
-      <length>00:45</length>
-      <battle_size>Medium</battle_size>
-      <Map_Size>
-         <map_area>1.08 Sq. km</map_area>
-         <map_width>1184 m</map_width>
-         <map_depth>912 m</map_depth>
-      </Map_Size>
-      <region>Ardennes</region>
-      <environment>Town</environment>
-      <weather>Mist</weather>
-      <temperature>Freezing</temperature>
-      <ground_condition>Muddy</ground_condition>
-      <early_intel>Neither</early_intel>
-      <game_version>CMFB v1.00 to v1.01</game_version>
-      <Modules_Required>
-      </Modules_Required>
-      <Mod_Tags>
-      </Mod_Tags>
-      <size_modifier>6</size_modifier>
-   </Scenario>
-
-   <Scenario>
-      <Title>
-         <number_in_campaign>[Campaign Battle #15]</number_in_campaign>
-         <battle_title>To the Meuse</battle_title>
-      </Title>
-      <filename>Kampfgruppe Peiper #15_KG Peiper Mission 7A</filename>
-      <picture_link>scenpics/Kampfgruppe Peiper15.bmp</picture_link>
-      <battle_type>Axis Attack</battle_type>
-      <description>The Germans have captured Stoumont Station, and are now striking west in order to effect a breakthrough in the direction of LIege on the Meuse river.</description>
-      <date>19/12/1944</date>
-      <time_of_day>13:00</time_of_day>
-      <part_of_day>Day</part_of_day>
-      <length>02:00</length>
-      <battle_size>Medium</battle_size>
-      <Map_Size>
-         <map_area>2.195 Sq. km</map_area>
-         <map_width>2048 m</map_width>
-         <map_depth>1072 m</map_depth>
-      </Map_Size>
-      <region>Ardennes</region>
-      <environment>Forest</environment>
-      <weather>Heavy Fog</weather>
-      <temperature>Cold</temperature>
-      <ground_condition>Muddy</ground_condition>
-      <early_intel>Neither</early_intel>
-      <game_version>CMFB v1.00 to v1.01</game_version>
-      <Modules_Required>
-      </Modules_Required>
-      <Mod_Tags>
-      </Mod_Tags>
-      <size_modifier>7</size_modifier>
    </Scenario>
 
    </Scenario_List>

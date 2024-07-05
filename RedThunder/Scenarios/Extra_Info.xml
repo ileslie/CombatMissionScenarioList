@@ -1,143 +1,176 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <scenarios>
-	<scenario author="information unavailable" filename="A Trigger Line Test.btt" stock="y" />
-	<scenario author="information unavailable" filename="Angriff II.btt" stock="y" />
-	<scenario author="information unavailable" filename="Angriff.btt" stock="y" />
-	<scenario author="information unavailable" filename="Assault.btt" stock="y" />
-	<scenario author="information unavailable" filename="Augustow Plague Boil.btt" stock="y" />
-	<scenario author="information unavailable" filename="Baranovichi.btt" stock="y" />
+	<scenario author="Jaws" filename="Angriff II.btt" stock="y" />
+	<scenario author="Jaws" filename="Angriff.btt" stock="y">
+	    <urls_list>
+	        <infourl who="the Blitz">https://www.theblitz.club/scenarios/combat-mission-red-thunder/angriff/b-15.htm?action=scenario&amp;id=10846</infourl>
+	    </urls_list>
+	</scenario>
+	<scenario author="West" filename="Assault.btt" stock="y">
+	    <urls_list>
+	        <infourl who="the Blitz">https://www.theblitz.club/scenarios/combat-mission-red-thunder/assault/b-15.htm?action=scenario&amp;id=10915</infourl>
+	    </urls_list>
+	</scenario>
+	<scenario author="ASL Veteran" filename="Augustow Plague Boil.btt" stock="y">
+	    <urls_list>
+	        <infourl who="the Blitz">https://www.theblitz.club/scenarios/combat-mission-red-thunder/augustow-plague-boil/b-15.htm?action=scenario&amp;id=11108</infourl>
+	    </urls_list>
+	</scenario>
+	<scenario author="benpark" filename="Baranovichi.btt" stock="y">
+        <urls_list>
+            <infourl who="the Blitz">https://www.theblitz.club/scenarios/combat-mission-red-thunder/baranovichi/b-15.htm?action=scenario&amp;id=10826</infourl>
+        </urls_list>
+	</scenario>
 	<scenario author="Bootie" filename="Battle Royale.btt">
 		<urls_list>
-			<infourl who="theBlitz">https://www.theblitz.club/scenarios/combat-mission-red-thunder/b-15.htm?action=scenario&amp;id=10927</infourl>
+			<infourl who="the Blitz">https://www.theblitz.club/scenarios/combat-mission-red-thunder/b-15.htm?action=scenario&amp;id=10927</infourl>
 			<downloadurl primary="y" who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/battle-royale/</downloadurl>
-			<downloadurl who="theBlitz" primary="y">https://www.theblitz.club/scenarios/b-15.htm?action=download&amp;id=10927</downloadurl>
+			<downloadurl who="the Blitz" primary="y">https://www.theblitz.club/scenarios/b-15.htm?action=download&amp;id=10927</downloadurl>
 		</urls_list>
 	</scenario>
-	<scenario author="Pnzrldr" filename="Beutezug.btt" stock="y" />
-	<scenario author="information unavailable" filename="Blood &amp; Dust 2.btt"/>
-	<scenario author="information unavailable" filename="Blood &amp; Dust 3fin.btt"/>
-	<scenario author="information unavailable" filename="Bunkers Burning.btt" stock="y" />
-	<scenario author="information unavailable" filename="CMRT blood on the tracks.btt">
-		<urls_list>
-			<downloadurl who="Battle Front">https://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3225</downloadurl>
-		</urls_list>
+	<scenario author="Pnzrldr" filename="Beutezug.btt" stock="y">
+	    <urls_list>
+	        <infourl who="the Blitz">https://www.theblitz.club/scenarios/combat-mission-red-thunder/beutezug/b-15.htm?action=scenario&amp;id=10834</infourl>
+	    </urls_list>
+	</scenario>
+	<scenario author="Rico" filename="Blood &amp; Dust 2.btt">
+	    <urls_list>
+	        <infourl who="The Few Good Men Forum">https://www.thefewgoodmen.com/thefgmforum/threads/blood-dust-cmrt-tag-team-byte-battle-brawl-the-pools.23293/</infourl>
+	    </urls_list>
+	</scenario>
+	<scenario author="Rico" filename="Blood &amp; Dust 3fin.btt">
+        <urls_list>
+            <infourl who="The Few Good Men Forum">https://www.thefewgoodmen.com/thefgmforum/threads/blood-dust-cmrt-tag-team-byte-battle-brawl-the-pools.23293/</infourl>
+        </urls_list>
+    </scenario>
+	<scenario author="PanzerMike" filename="Bunkers Burning.btt" stock="y">
+	    <urls_list>
+	        <infourl who="the Blitz">https://www.theblitz.club/scenarios/combat-mission-red-thunder/bunkers-burning/b-15.htm?action=scenario&amp;id=11534</infourl>
+	    </urls_list>
 	</scenario>
 	<scenario author="PanzerMike" filename="CMRT Firebrigade von Saucken.btt">
 		<urls_list>
-			<downloadurl who="Battle Front">https://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3169</downloadurl>
-			<infourl who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/cmrt-firebrigade-von-saucken/</infourl>
-			<downloadurl who="Scenario Depot" primary="y">https://www.thefewgoodmen.com/tsd3/download/CMRT-Firebrigade-von-Saucken.zip</downloadurl>
+		    <infourl who="the Blitz">https://www.theblitz.club/scenarios/combat-mission-red-thunder/cmrt-firebrigade-von-saucken/b-15.htm?action=scenario&amp;id=10870</infourl>
+			<downloadurl primary="y" who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/cmrt-firebrigade-von-saucken/</downloadurl>
 		</urls_list>
 	</scenario>
 	<scenario author="PanzerMike" filename="CMRT Gates of Warsaw.btt">
 		<urls_list>
-			<infourl who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/gates-of-warsaw/</infourl>
-			<downloadurl who="Scenario Depot" primary="y">https://www.thefewgoodmen.com/tsd3/download/CMRT-Gates-of-Warsaw.zip</downloadurl>
-			<downloadurl who="Battle Front">https://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3222</downloadurl>
+		    <infourl who="the Blitz">https://www.theblitz.club/scenarios/combat-mission-red-thunder/cmrt-gates-of-warsaw/b-15.htm?action=scenario&amp;id=10925</infourl>
+			<downloadurl primary="y" who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/gates-of-warsaw/</downloadurl>
 		</urls_list>
 	</scenario>
 	<scenario author="PanzerMike" filename="CMRT Vorposten!.btt">
 		<urls_list>
-			<downloadurl who="Battle Front">https://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3213</downloadurl>
-			<infourl who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/cmrt-vorposten/</infourl>
-			<downloadurl who="Scenario Depot" primary="y">https://www.thefewgoodmen.com/tsd3/download/CMRT-Vorposten.zip</downloadurl>
+			<downloadurl primary="y" who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/cmrt-vorposten/</downloadurl>
 		</urls_list>
 	</scenario>
-	<scenario author="information unavailable" filename="Dawn Patrol.btt" stock="y" />
-	<scenario author="information unavailable" filename="Dead of Night .btt" stock="y" />
-	<scenario author="information unavailable" filename="DECAL TEST.btt" stock="y" />
+	<scenario author="Sgt Joch" filename="Dawn Patrol.btt" stock="y">
+	    <urls_list>
+	        <infourl who="the Blitz">https://www.theblitz.club/scenarios/combat-mission-red-thunder/dawn-patrol/b-15.htm?action=scenario&amp;id=10828</infourl>
+	    </urls_list>
+	</scenario>
+	<scenario author="Jons" filename="Dead of Night .btt" stock="y" />
 	<scenario author="Kevinkin" filename="Delaying Action at Ogledow.btt">
 		<urls_list>
-			<infourl who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/delaying-action-at-ogledow/</infourl>
-			<downloadurl who="Scenario Depot" primary="y">https://www.thefewgoodmen.com/tsd3/download/Delaying-Action-at-Ogledow..zip</downloadurl>
-			<downloadurl who="Battle Front">https://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3423</downloadurl>
+		    <infourl who="the Bltiz">https://www.theblitz.club/scenarios/combat-mission-red-thunder/delaying-action-at-ogledow/b-15.htm?action=scenario&amp;id=11075</infourl>
+			<downloadurl primary="y" who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/delaying-action-at-ogledow/</downloadurl>
 		</urls_list>
 	</scenario>
-	<scenario author="information unavailable" filename="Escaping the Noose.btt">
-		<urls_list>
-			<downloadurl who="Battle Front">https://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3185</downloadurl>
-		</urls_list>
+	<scenario author="ASL Veteran" filename="Eye of the Needle.btt" stock="y">
+	    <urls_list>
+	        <infourl who="the Blitz">https://www.theblitz.club/scenarios/combat-mission-red-thunder/eye-of-the-needle/b-15.htm?action=scenario&amp;id=11374</infourl>
+	    </urls_list>
 	</scenario>
-	<scenario author="information unavailable" filename="Eye of the Needle.btt" stock="y" />
-	<scenario author="Kevin Kinscherf" filename="Eyes for the Corps.btt">
+	<scenario author="Bootie" filename="Garden of the Iron Cross.btt">
+	    <additional_info>Transfered from the BF repository.
+	    </additional_info>
 		<urls_list>
-			<downloadurl who="Battle Front">https://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3424</downloadurl>
-		</urls_list>
-	</scenario>
-	<scenario author="information unavailable" filename="Garden of the Iron Cross.btt">
-		<urls_list>
-			<infourl who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/garden-of-the-iron-cross/</infourl>
-			<downloadurl who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/download/Garden-of-the-Iron-Cross.rar</downloadurl>
+		    <infourl who="the Blitz">https://www.theblitz.club/scenarios/combat-mission-red-thunder/garden-of-the-iron-cross/b-15.htm?action=scenario&amp;id=13741</infourl>
+			<downloadurl who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/garden-of-the-iron-cross/</downloadurl>
 		</urls_list>
 	</scenario>
 	<scenario author="information unavailable" filename="German Parade Ground.btt">
-		<urls_list>
-			<downloadurl who="Battle Front">https://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3212</downloadurl>
-		</urls_list>
+	    <additional_info>No known author or download location.</additional_info>
 	</scenario>
-	<scenario author="information unavailable" filename="Getting Ugly.btt" stock="y" />
-	<scenario author="information unavailable" filename="Gog and Magog.btt" stock="y" />
-	<scenario author="information unavailable" filename="Hunting for the Bug.btt" stock="y" />
+	<scenario author="TheVulture" filename="Getting Ugly.btt" stock="y">
+	    <urls_list>
+	        <infourl who="the Blitz">https://www.theblitz.club/scenarios/combat-mission-red-thunder/getting-ugly/b-15.htm?action=scenario&amp;id=11553</infourl>
+	    </urls_list>
+	</scenario>
+	<scenario author="ASL Veteran" filename="Gog and Magog.btt" stock="y">
+        <urls_list>
+            <infourl who="the Blitz">https://www.theblitz.club/scenarios/combat-mission-red-thunder/gog-and-magog/b-15.htm?action=scenario&amp;id=11504 </infourl>
+        </urls_list>
+    </scenario>
+	<scenario author="ASL Veteran " filename="Hunting for the Bug.btt" stock="y">
+        <urls_list>
+            <infourl who="the Blitz">https://www.theblitz.club/scenarios/combat-mission-red-thunder/hunting-for-the-bug/b-15.htm?action=scenario&amp;id=10829</infourl>
+        </urls_list>
+    </scenario>
 	<scenario author="information unavailable" filename="Infantry Tactics.btt">
-		<urls_list>
-			<downloadurl who="unknown">http://cmmods.greenasjade.net/mods/5400/details</downloadurl>
-		</urls_list>
+        <additional_info>No known author or download location.</additional_info>
 	</scenario>
 	<scenario author="information unavailable" filename="Jewel V2.btt">
-		<urls_list>
-			<downloadurl who="Battle Front">https://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3380</downloadurl>
-		</urls_list>
+        <additional_info>No known author or download location.</additional_info>
+        <urls_list>
+            <infourl who="the Blitz">https://www.theblitz.club/scenarios/combat-mission-red-thunder/jewel/b-15.htm?action=scenario&amp;id=10869</infourl>
+        </urls_list>
 	</scenario>
 	<scenario author="information unavailable" filename="Jewel.btt">
-		<urls_list>
-			<downloadurl who="Battle Front">https://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3131</downloadurl>
-		</urls_list>
+        <additional_info>No known author or download location.</additional_info>
+        <urls_list>
+            <infourl who="the Blitz">https://www.theblitz.club/scenarios/combat-mission-red-thunder/jewel/b-15.htm?action=scenario&amp;id=10869</infourl>
+        </urls_list>
 	</scenario>
 	<scenario author="Juju" filename="The railyard at Pitrovsk.btt">
 		<urls_list>
-			<downloadurl who="Battle Front">https://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3266</downloadurl>
-			<infourl who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/the-railyard-at-pitrovsk/</infourl>
-			<downloadurl who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/download/cmrt/cmrt_scenarios/Jujus-The-railyard-at-Pitrovsk.7z</downloadurl>
+			<downloadurl primary="y" who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/the-railyard-at-pitrovsk/</downloadurl>
 		</urls_list>
 	</scenario>
 	<scenario author="Michael Jones" filename="Last Sunrise ofer Antonov.btt">
 		<urls_list>
-			<infourl who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/last-sunrise-over-antonov/</infourl>
-			<downloadurl who="Scenario Depot" primary="y">https://www.thefewgoodmen.com/tsd3/download/Last-Sunrise-over-AntonovV2.5.zip</downloadurl>
-			<downloadurl who="Battle Front">https://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3334</downloadurl>
+		    <infourl who="the Blitz">https://www.theblitz.club/scenarios/combat-mission-red-thunder/last-sunrise-over-antonov/b-15.htm?action=scenario&amp;id=11105</infourl>
+			<downloadurl primary="y" who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/last-sunrise-over-antonov/</downloadurl>
 		</urls_list>
 	</scenario>
-	<scenario author="information unavailable" filename="Last sunrise over Antonov.btt">
+	<scenario author="Michael Jones" filename="Last sunrise over Antonov.btt">
 		<urls_list>
-			<downloadurl who="Battle Front">https://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3297</downloadurl>
+			<downloadurl who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/last-sunrise-over-antonov/</downloadurl>
 		</urls_list>
 	</scenario>
-	<scenario author="information unavailable" filename="Minsk Express.btt">
-		<urls_list>
-			<downloadurl who="Battle Front">https://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3195</downloadurl>
-		</urls_list>
+	<scenario author="Fredrik Wallin" filename="Minsk Express.btt">
+        <urls_list>
+            <infourl who="the Blitz">https://www.theblitz.club/scenarios/combat-mission-red-thunder/minsk-express/b-15.htm?action=scenario&amp;id=10880</infourl>
+            <downloadurl who="the Blitz">https://www.theblitz.club/scenarios/b-15.htm?action=download&amp;id=10880</downloadurl>
+        </urls_list>
 	</scenario>
-	<scenario author="information unavailable" filename="Myth of Invincibility.btt" stock="y" />
+	<scenario author="nik mond" filename="Myth of Invincibility.btt" stock="y">
+	    <urls_list>
+	        <infourl who="the Blitz">https://www.theblitz.club/scenarios/combat-mission-red-thunder/myth-of-invincibility/b-15.htm?action=scenario&amp;id=10851</infourl>
+	    </urls_list>
+	</scenario>
 	<scenario author="Apocal" filename="Nighttime Knockout.btt">
 		<urls_list>
-			<infourl who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/night-time-knockout/</infourl>
-			<downloadurl who="Scenario Depot" primary="y">https://www.thefewgoodmen.com/tsd3/download/Nighttime-Knockout.zip</downloadurl>
-			<downloadurl who="Battle Front">https://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3180</downloadurl>
+			<downloadurl who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/night-time-knockout/</downloadurl>
 		</urls_list>
 	</scenario>
-	<scenario author="information unavailable" filename="No Name Bridge.btt">
+	<scenario author="Kevin Kinscherf" filename="No Name Bridge.btt">
+        <urls_list>
+            <infourl who="the Blitz">https://www.theblitz.club/scenarios/combat-mission-red-thunder/no-name-bridge/b-15.htm?action=scenario&amp;id=11911</infourl>
+            <downloadurl who="the Blitz">https://www.theblitz.club/scenarios/b-15.htm?action=download&amp;id=11911</downloadurl>
+        </urls_list>
+	</scenario>
+	<scenario author="RepsolCBR" filename="No one escapes (2).btt">
 		<urls_list>
-			<downloadurl who="Battle Front">https://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3409</downloadurl>
+			<downloadurl who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/no-one-escapes/</downloadurl>
 		</urls_list>
 	</scenario>
-	<scenario author="information unavailable" filename="No one escapes (2).btt">
-		<urls_list>
-			<infourl who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/no-one-escapes/</infourl>
-			<downloadurl who="Scenario Depot" primary="y">https://www.thefewgoodmen.com/tsd3/download/No-one-escapes-2.rar</downloadurl>
-			<downloadurl who="Battle Front">https://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3263</downloadurl>
-		</urls_list>
+	<scenario author="Pete Wenman" filename="Red Hordes.btt" stock="y">
+	    <urls_list>
+	        <infourl who="the Blitz">https://www.theblitz.club/scenarios/combat-mission-red-thunder/red-hordes/b-15.htm?action=scenario&amp;id=14624</infourl>
+	    </urls_list>
 	</scenario>
-	<scenario author="information unavailable" filename="Red Hordes.btt" stock="y" />
 	<scenario author="raz_atoth" filename="Storm In the East 1.btt">
 		<urls_list>
 			<infourl who="the Blitz">https://www.theblitz.club/scenarios/combat-mission-red-thunder/storm-in-the-east-map-1-rounds-1-2/b-15.htm?action=scenario&amp;id=11150</infourl>
@@ -150,467 +183,423 @@
 			<downloadurl who="the Blitz">https://www.theblitz.club/scenarios/b-15.htm?action=download&amp;id=11213</downloadurl>
 		</urls_list>
 	</scenario>
-	<scenario author="George MC" filename="Studienka.btt" stock="y" />
-	<scenario author="information unavailable" filename="Tankovyi Desant.btt" stock="y" />
-	<scenario author="information unavailable" filename="The Passage.btt" stock="y" />
+	<scenario author="George MC" filename="Studienka.btt" stock="y">
+	    <urls_list>
+	        <infourl who="the Blitz">https://www.theblitz.club/scenarios/combat-mission-red-thunder/studienka/b-15.htm?action=scenario&amp;id=11052</infourl>
+	    </urls_list>
+	</scenario>
+	<scenario author="George MC" filename="Tankovyi Desant.btt" stock="y">
+	    <urls_list>
+	        <infourl who="the Blitz">https://www.theblitz.club/scenarios/combat-mission-red-thunder/tankovi-desant/b-15.htm?action=scenario&amp;id=10820</infourl>
+	    </urls_list>
+	</scenario>
+	<scenario author="ASL Veteran" filename="The Passage.btt" stock="y">
+	    <urls_list>
+	        <infourl who="the Blitz">https://www.theblitz.club/scenarios/combat-mission-red-thunder/the-passage/b-15.htm?action=scenario&amp;id=10818</infourl>
+	    </urls_list>
+	</scenario>
 	<scenario author="Michael Dorosh" filename="TWC Hill 621 Redux.btt">
 		<urls_list>
-			<infourl who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/twc-hill-621-redux/</infourl>
-			<downloadurl who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/download/TWC-Hill-621-Redux.zip</downloadurl>
+		    <infourl who="the Blitz">https://www.theblitz.club/scenarios/combat-mission-red-thunder/twc-hill-621-redux/b-15.htm?action=scenario&amp;id=10856</infourl>
+			<downloadurl who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/twc-hill-621-redux/</downloadurl>
 		</urls_list>
 	</scenario>
-	<scenario author="information unavailable" filename="Woroblin Bridgehead.btt" stock="y" />
-	<scenario author="information unavailable" filename="_TTBB 001.btt" stock="y" />
+	<scenario author="ASL Veteran" filename="Woroblin Bridgehead.btt" stock="y">
+	    <urls_list>
+	        <infourl who="the Blitz">https://www.theblitz.club/scenarios/combat-mission-red-thunder/the-woroblin-bridgehead/b-15.htm?action=scenario&amp;id=10876</infourl>
+	    </urls_list>
+	</scenario>
 	<scenario author="kevinkin" filename="Delaying Action at Ogledow Redux.btt">
 		<urls_list>
-			<infourl who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/delaying-action-at-ogledow-redux/</infourl>
-			<downloadurl who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/download/Delaying-Action-at-Ogledow-Redux.zip</downloadurl>
+		    <infourl who="the Blitz">https://www.theblitz.club/scenarios/combat-mission-red-thunder/delaying-action-at-ogledow-redux/b-15.htm?action=scenario&amp;id=13102</infourl>
+			<downloadurl who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/delaying-action-at-ogledow-redux/</downloadurl>
 		</urls_list>
 	</scenario>
 	<scenario author="GhostRider3/3" filename="Clash of Titans Reborn.btt">
 		<urls_list>
-			<infourl who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/clash-of-titans-reborn-v2/</infourl>
-			<downloadurl who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/download/CoT-Reborn-v2_2.zip</downloadurl>
+		    <infourl who="the Blitz">https://www.theblitz.club/scenarios/combat-mission-red-thunder/clash-of-titans-redux-2-final/b-15.htm?action=scenario&amp;id=11462</infourl>
+			<downloadurl who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/clash-of-titans-reborn-v2/</downloadurl>
 		</urls_list>
 	</scenario>
 	<scenario author="kevinkin" filename="SM-Restless Night German.btt">
 		<urls_list>
-			<infourl who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/sm-restless-night/</infourl>
-			<downloadurl who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/download/SM-Restless-Night.zip</downloadurl>
+			<downloadurl who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/sm-restless-night/</downloadurl>
 		</urls_list>
 	</scenario>
 	<scenario author="kevinkin" filename="SM-Railway Station 1 German.btt">
 		<urls_list>
-			<infourl who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/railway-station-1/</infourl>
-			<downloadurl who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/download/SM-Railway-Station.zip</downloadurl>
+			<downloadurl who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/railway-station-1/</downloadurl>
 		</urls_list>
 	</scenario>
 	<scenario author="kevinkin" filename="SM-Railway Station 1 Soviet.btt">
 		<urls_list>
-			<infourl who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/railway-station-1/</infourl>
+			<downloadurl primary="y" who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/railway-station-1/</downloadurl>
 			<downloadurl who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/download/SM-Railway-Station.zip</downloadurl>
 		</urls_list>
 	</scenario>
 	<scenario author="Michael Dorosh" filename="TWC GD - Panzergeist.btt">
 		<urls_list>
-			<infourl who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/panzergeist/</infourl>
-			<downloadurl who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/download/TWC-GD-Panzergeist.zip</downloadurl>
+		    <infourl who="the Blitz">https://www.theblitz.club/scenarios/combat-mission-red-thunder/twc-gd-panzergeist/b-15.htm?action=scenario&amp;id=10855</infourl>
+			<downloadurl primary="y" who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/panzergeist/</downloadurl>
 		</urls_list>
 	</scenario>
 	<scenario author="Michael Dorosh" filename="TWC Dash for the Bridge.btt">
 		<urls_list>
-			<infourl who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/twc-dash-for-the-bridge/</infourl>
-			<downloadurl who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/download/TWC-Dash-for-the-Bridge.zip</downloadurl>
+			<downloadurl primary="y" who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/twc-dash-for-the-bridge/</downloadurl>
 		</urls_list>
 	</scenario>
 	<scenario author="Michael Dorosh" filename="TWC GD - Delaying Action.btt">
 		<urls_list>
-			<infourl who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/twc-gd-delaying-action/</infourl>
-			<downloadurl who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/download/TWC-GD-Delaying-Action.zip</downloadurl>
+		    <infourl who="the Blitz">https://www.theblitz.club/scenarios/combat-mission-red-thunder/twc-gd-delaying-action/b-15.htm?action=scenario&amp;id=10854</infourl>
+			<downloadurl primary="y" who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/twc-gd-delaying-action/</downloadurl>
 		</urls_list>
 	</scenario>
 	<scenario author="Kohlenkau" filename="Rettet Soldat Reinhart.btt">
 		<urls_list>
-			<infourl who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/rettet-soldat-reinhart/</infourl>
-			<downloadurl who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/download/cmrt/cmrt_scenarios/Rettet-Soldat-Reinhart.rar</downloadurl>
+			<downloadurl primary="y" who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/rettet-soldat-reinhart/</downloadurl>
 		</urls_list>
 	</scenario>
 	<scenario author="Jinx" filename="Retaking of Koshtovnist.btt">
 		<urls_list>
-			<infourl who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/retaking-of-koshtovnist/</infourl>
-			<downloadurl who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/download/Retaking-of-Koshtovnist.zip</downloadurl>
+			<downloadurl primary="y" who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/retaking-of-koshtovnist/</downloadurl>
 		</urls_list>
 	</scenario>
 	<scenario author="Frank K" filename="Rabbit Ensnared.btt">
 		<urls_list>
-			<infourl who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/rabbit-ensnared/</infourl>
-			<downloadurl who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/download/Rabbit-Ensnared.zip</downloadurl>
+		    <infourl who="the Blitz">https://www.theblitz.club/scenarios/combat-mission-red-thunder/rabbit-ensnared/b-15.htm?action=scenario&amp;id=13065</infourl>
+			<downloadurl primary="y" who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/rabbit-ensnared/</downloadurl>
 		</urls_list>
 	</scenario>
 	<scenario author="Panzerde" filename="Panzer Marsch!.btt">
 		<urls_list>
-			<infourl who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/panzer-marsch/</infourl>
-			<downloadurl who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/download/Panzer-Marsch.zip</downloadurl>
+			<downloadurl primary="y" who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/panzer-marsch/</downloadurl>
 		</urls_list>
 	</scenario>
-	<scenario author="information unavailable" filename="One Last Trench.btt">
+	<scenario author="Bootie" filename="One Last Trench.btt">
+        <additional_info>Transfered from the BF repository.
+        </additional_info>
 		<urls_list>
-			<infourl who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/one-last-trench/</infourl>
-			<downloadurl who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/download/One-Last-Trench.zip</downloadurl>
+			<downloadurl who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/one-last-trench/</downloadurl>
 		</urls_list>
 	</scenario>
-	<scenario author="information unavailable" filename="Escaping the Noose.btt">
+	<scenario author="Bootie" filename="Escaping the Noose.btt">
+        <additional_info>Transfered from the BF repository.
+        </additional_info>
 		<urls_list>
-			<infourl who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/escaping-the-noose/</infourl>
-			<downloadurl who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/download/Escaping-the-Noose.zip</downloadurl>
+			<downloadurl who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/escaping-the-noose/</downloadurl>
 		</urls_list>
 	</scenario>
 	<scenario author="Andrew Bodicky" filename="Dash for the Bridge.btt">
 		<urls_list>
-			<infourl who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/dash-for-the-bridges/</infourl>
-			<downloadurl who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/download/Dash-for-the-Bridge.zip</downloadurl>
+			<downloadurl primary="y" who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/dash-for-the-bridges/</downloadurl>
 		</urls_list>
 	</scenario>
 	<scenario author="PanzerMike" filename="CMRT Fester Platz Polozk.btt">
 		<urls_list>
-			<infourl who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/fester-platz-polozk/</infourl>
-			<downloadurl who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/download/CMRT-Fester-Platz-Polozk_2.zip</downloadurl>
+			<downloadurl primary="y" who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/fester-platz-polozk/</downloadurl>
 		</urls_list>
 	</scenario>
 	<scenario author="Snake Eye" filename="CMRT blood on the tracks.btt">
 		<urls_list>
-			<infourl who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/blood-on-the-tracks/</infourl>
-			<downloadurl who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/download/cmrt/cmrt_scenarios/CMRT-blood-on-the-tracks.rar</downloadurl>
+		    <infourl who="the Blitz">https://www.theblitz.club/scenarios/combat-mission-red-thunder/cmrt-blood-on-the-tracks/b-15.htm?action=scenario&amp;id=13543</infourl>
+			<download primary="y" who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/blood-on-the-tracks/</download>
 		</urls_list>
 	</scenario>
 	<scenario author="Derfel" filename="Byte Thunder.btt">
 		<urls_list>
-			<infourl who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/byte-thunder/</infourl>
-			<downloadurl who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/download/Byte-Thunder.zip</downloadurl>
+		    <infourl who="the Blitz">https://www.theblitz.club/scenarios/combat-mission-red-thunder/byte-thunder/b-15.htm?action=scenario&amp;id=11548</infourl>
+			<downloadurl primary="y" who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/byte-thunder/</downloadurl>
 		</urls_list>
 	</scenario>
 	<scenario author="Shaffer" filename="Bonfire of the NKVD.btt">
 		<urls_list>
-			<infourl who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/bonfire-of-the-nkvd/</infourl>
-			<downloadurl who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/download/Bonfire-of-the-NKVD.zip</downloadurl>
+		    <infourl who="the Blitz">https://www.theblitz.club/scenarios/combat-mission-red-thunder/bonfire-of-the-nkvd/b-15.htm?action=scenario&amp;id=11531</infourl>
+			<downloadurl primary="y" who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/bonfire-of-the-nkvd/</downloadurl>
 		</urls_list>
 	</scenario>
 	<scenario author="Andrew Bodicky" filename="Block Busting in Bokruisk 1,1.btt">
 		<urls_list>
-			<infourl who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/blockbusting-in-bokruisk-sl-scenario-108/</infourl>
+		    <infourl who="the Blitz">https://www.theblitz.club/scenarios/combat-mission-red-thunder/block-busting-in-bokriusk/b-15.htm?action=scenario&amp;id=11064</infourl>
+			<downloadurl primary="y" who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/blockbusting-in-bokruisk-sl-scenario-108/</downloadurl>
 		</urls_list>
 	</scenario>
 	<scenario author="Scipio" filename="~ Ambush.btt">
 		<urls_list>
-			<infourl who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/ambush-2/</infourl>
-			<downloadurl who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/download/id_cmrt_ambush.zip</downloadurl>
+			<downloadurl primary="y" who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/ambush-2/</downloadurl>
 		</urls_list>
 	</scenario>
 	<scenario author="Kevin Kinscherf" filename="Dead Square.btt">
 		<urls_list>
-			<infourl who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/cmrt-dead-square/</infourl>
-			<downloadurl who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/download/Dead-Square.zip</downloadurl>
+		    <infourl who="the Blitz">https://www.theblitz.club/scenarios/combat-mission-red-thunder/dead-square/b-15.htm?action=scenario&amp;id=11532</infourl>
+			<downloadurl primary="y" who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/cmrt-dead-square/</downloadurl>
 		</urls_list>
 	</scenario>
 	<scenario author="Kevin Kinscherf" filename="Sacrifice in the Snow.btt">
 		<urls_list>
-			<infourl who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/sacrifice-in-the-snow/</infourl>
-			<downloadurl who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/download/Sacrifice-in-the-Snow.zip</downloadurl>
+		    <infourl who="the Blitz">https://www.theblitz.club/scenarios/combat-mission-red-thunder/sacrifice-in-the-snow/b-15.htm?action=scenario&amp;id=13013</infourl>
+			<downloadurl primary="y" who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/sacrifice-in-the-snow/</downloadurl>
 		</urls_list>
 	</scenario>
 	<scenario author="SeinfeldRules" filename="AD Soggy Bottom.btt">
 		<urls_list>
-			<infourl who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/ad-soggy-bottom/</infourl>
-			<downloadurl who="Scenario Depot">http://https://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/ad-soggy-bottom/</downloadurl>
+			<downloadurl primary="y" who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/ad-soggy-bottom/</downloadurl>
 		</urls_list>
 	</scenario>
 	<scenario author="SeinfeldRules" filename="AD Anno Domini.btt">
 		<urls_list>
-			<infourl who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/ad-anno-domini/</infourl>
-			<downloadurl who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/download/AD-Anno-Domini.zip</downloadurl>
+			<downloadurl primary="y" who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/ad-anno-domini/</downloadurl>
 		</urls_list>
 	</scenario>
 	<scenario author="rocketman" filename="The Last Resort (Sovies vs AI).btt">
 		<urls_list>
-			<infourl who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/the-last-resort/</infourl>
-			<downloadurl who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/download/The-Last-Resort.zip</downloadurl>
+			<downloadurl primary="y" who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/the-last-resort/</downloadurl>
 		</urls_list>
 	</scenario>
 	<scenario author="Kevin Kinscherf" filename="Frozen Rope.btt">
 		<urls_list>
-			<infourl who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/frozen-rope/</infourl>
-			<downloadurl who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/download/Frozen-Rope.zip</downloadurl>
+			<downloadurl primary="y" who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/frozen-rope/</downloadurl>
 		</urls_list>
 	</scenario>
 	<scenario author="Kevin Kinscherf" filename="A Lot too Late.btt">
 		<urls_list>
-			<infourl who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/a-lot-too-late/</infourl>
-			<downloadurl who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/download/A-Lot-too-Late.zip</downloadurl>
+		    <infourl who="the Blitz">https://www.theblitz.club/scenarios/combat-mission-red-thunder/a-lot-too-late/b-15.htm?action=scenario&amp;id=13603</infourl>
+			<downloadurl primary="y" who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/a-lot-too-late/</downloadurl>
 		</urls_list>
 	</scenario>
 	<scenario author="Kevin Kinscherf" filename="Happy New Year Major Bake.btt">
 		<urls_list>
-			<infourl who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/happy-new-year-major-bake/</infourl>
-			<downloadurl who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/download/Happy-New-Year-Major-Bake.zip</downloadurl>
+			<downloadurl primary="y" who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/happy-new-year-major-bake/</downloadurl>
 		</urls_list>
 	</scenario>
 	<scenario author="SeinfeldRules" filename="AD Pasture Land.btt">
 		<urls_list>
-			<infourl who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/ad-pasture-land/</infourl>
-			<downloadurl who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/download/AD-Pasture-Land.zip</downloadurl>
+			<downloadurl primary="y" who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/ad-pasture-land/</downloadurl>
 		</urls_list>
 	</scenario>
 	<scenario author="SeinfeldRules" filename="AD North of Studienka.btt">
 		<urls_list>
-			<infourl who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/ad-north-of-studienka/</infourl>
-			<downloadurl who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/download/AD-North-of-Studienka.zip</downloadurl>
+			<downloadurl primary="y" who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/ad-north-of-studienka/</downloadurl>
 		</urls_list>
 	</scenario>
 	<scenario author="SeinfeldRules" filename="AD Mine Mill Mountain.btt">
 		<urls_list>
-			<infourl who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/ad-mine-mill-mountain/</infourl>
-			<downloadurl who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/download/AD-Mine-Mill-Mountain.zip</downloadurl>
+			<downloadurl primary="y" who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/ad-mine-mill-mountain/</downloadurl>
 		</urls_list>
 	</scenario>
 	<scenario author="SeinfeldRules" filename="AD Into Lithuania.btt">
 		<urls_list>
-			<infourl who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/ad-into-lithuania/</infourl>
-			<downloadurl who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/download/AD-Into-Lithuania.zip</downloadurl>
+			<downloadurl primary="y" who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/ad-into-lithuania/</downloadurl>
 		</urls_list>
 	</scenario>
 	<scenario author="SeinfeldRules" filename="AD Farmyard Skirmish.btt">
 		<urls_list>
-			<infourl who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/ad-farmyard-skirmish/</infourl>
-			<downloadurl who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/download/AD-Farmyard-Skirmish.zip</downloadurl>
+			<downloadurl primary="y" who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/ad-farmyard-skirmish/</downloadurl>
 		</urls_list>
 	</scenario>
 	<scenario author="SeinfeldRules" filename="AD Gorbatzewich Roadblock.btt">
 		<urls_list>
-			<infourl who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/ad-gorbatzewich-roadbloc/</infourl>
-			<downloadurl who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/download/AD-Gorbatzewich-Roadblock.zip</downloadurl>
+			<downloadurl primary="y" who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/ad-gorbatzewich-roadbloc/</downloadurl>
 		</urls_list>
 	</scenario>
 	<scenario author="SeinfeldRules" filename="AD Assault Position.btt">
 		<urls_list>
-			<infourl who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/ad-assault-position/</infourl>
-			<downloadurl who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/download/AD-Assault-Position.zip</downloadurl>
+			<downloadurl primary="y" who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/ad-assault-position/</downloadurl>
 		</urls_list>
 	</scenario>
 	<scenario author="SeinfeldRules" filename="AD Hitting the Flank.btt">
 		<urls_list>
-			<infourl who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/ad-hitting-the-flank/</infourl>
-			<downloadurl who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/download/AD-Hitting-the-Flank.zip</downloadurl>
+			<downloadurl primary="y" who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/ad-hitting-the-flank/</downloadurl>
 		</urls_list>
 	</scenario>
 	<scenario author="Rokko" filename="CMRT Right Hook at Sopockinie.btt">
 		<urls_list>
-			<infourl who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/cmrt-right-hook-at-sopockinie/</infourl>
-			<downloadurl who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/download/CMRT-Right-Hook-at-Sopockinie.zip</downloadurl>
+		    <infourl who="the Blitz">https://www.theblitz.club/scenarios/combat-mission-red-thunder/right-hook-at-sopockinie/b-15.htm?action=scenario&amp;id=13034</infourl>
+			<downloadurl primary="y" who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/cmrt-right-hook-at-sopockinie/</downloadurl>
 		</urls_list>
 	</scenario>
 	<scenario author="Sonar" filename="Cutting the line.btt">
 		<urls_list>
-			<infourl who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/cutting-the-line/</infourl>
-			<downloadurl who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/download/Cutting-the-line.btt_.zip</downloadurl>
+			<downloadurl primary="y" who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/cutting-the-line/</downloadurl>
 		</urls_list>
 	</scenario>
 	<scenario author="SeinfeldRules" filename="AD Amongst the Ruins.btt">
 		<urls_list>
-			<infourl who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/ad-amongst-the-ruins/</infourl>
-			<downloadurl who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/download/AD-Amongst-the-Ruins.zip</downloadurl>
+			<downloadurl primary="y" who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/ad-amongst-the-ruins/</downloadurl>
 		</urls_list>
 	</scenario>
 	<scenario author="SeinfeldRules" filename="AD Interlock OP.btt">
 		<urls_list>
-			<infourl who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/ad-interlock-op/</infourl>
-			<downloadurl who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/download/cmrt/cmrt_scenarios/AD-Interlock-OP.zip</downloadurl>
+			<downloadurl primary="y" who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/ad-interlock-op/</downloadurl>
 		</urls_list>
 	</scenario>
 	<scenario author="GhostRider3/3" filename="Brandenburger Surprise.btt">
 		<urls_list>
-			<infourl who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/brandenburger-surprise/</infourl>
-			<downloadurl who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/download/Brandenburger-Surprise.zip</downloadurl>
+			<downloadurl primary="y" who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/brandenburger-surprise/</downloadurl>
 		</urls_list>
 	</scenario>
 	<scenario author="Egger" filename="Partisan Vodka.btt">
 		<urls_list>
-			<infourl who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/partisan-vodka/</infourl>
-			<downloadurl who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/download/Partisan-Vodka_Egger.zip</downloadurl>
+			<downloadurl primary="y" who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/partisan-vodka/</downloadurl>
 		</urls_list>
 	</scenario>
 	<scenario author="PanzerMike" filename="CMRT Train Spotting v11.btt">
 		<urls_list>
-			<infourl who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/cmrt-train-spotting/</infourl>
-			<downloadurl who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/download/CMRT-Train-Spotting.zip</downloadurl>
+			<downloadurl primary="y" who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/cmrt-train-spotting/</downloadurl>
 		</urls_list>
 	</scenario>
 	<scenario author="PanzerMike" filename="CMRT Gates of Warsaw Redux Final.btt">
 		<urls_list>
-			<infourl who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/cmrt-gates-of-warsaw-redux/</infourl>
-			<downloadurl who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/download/CMRT-Gates-of-Warsaw-Redux.zip</downloadurl>
+		    <infourl who="the Blitz">https://www.theblitz.club/scenarios/combat-mission-red-thunder/cmrt-gates-of-warsaw-redux/b-15.htm?action=scenario&amp;id=11467</infourl>
+			<downloadurl primary="y" who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/cmrt-gates-of-warsaw-redux/</downloadurl>
 		</urls_list>
 	</scenario>
 	<scenario author="Michael Dorosh" filename="TWC GD - Counterattack at Wilkowischken.btt">
 		<urls_list>
-			<infourl who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/twc-gd-counterattack-at-wilkowischken/</infourl>
-			<downloadurl who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/download/TWC-GD-Counterattack-at-Wilkowischken.zip</downloadurl>
+		    <infourl who="the Blitz">https://www.theblitz.club/scenarios/combat-mission-red-thunder/twc-gd-counterattack-at-wilkowischken/b-15.htm?action=scenario&amp;id=10853</infourl>
+			<downloadurl primary="y" who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/twc-gd-counterattack-at-wilkowischken/</downloadurl>
 		</urls_list>
 	</scenario>
 	<scenario author="George MC" filename="CMRT Carius at Malinava_v2.btt">
 		<urls_list>
-			<infourl who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/carius-at-malinova/</infourl>
-			<downloadurl who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/download/Carius-at-Malinava.zip</downloadurl>
+		    <infourl who="the Blitz">https://www.theblitz.club/scenarios/combat-mission-red-thunder/carius-at-malinava/b-15.htm?action=scenario&amp;id=11236</infourl>
+			<downloadurl primary="y" who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/carius-at-malinova/</downloadurl>
 		</urls_list>
 	</scenario>
 	<scenario author="George MC" filename="CMRT Der Ring Der 5 Panzer Division_v1.btt">
 		<urls_list>
-			<infourl who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/der-ring-der-5-panzer-division/</infourl>
-			<downloadurl who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/download/CMRT-Der-Ring-Der-5-Panzer-Division.zip</downloadurl>
+		    <infourl who="the Blitz">https://www.theblitz.club/scenarios/combat-mission-red-thunder/der-ring-der-5-panzer-division/b-15.htm?action=scenario&amp;id=11327</infourl>
+			<downloadurl primary="y" who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/der-ring-der-5-panzer-division/</downloadurl>
 		</urls_list>
 	</scenario>
 	<scenario author="Luke Wallace (LukeFF)" filename="Russian Parade Ground.btt">
-		<urls_list>
-			<downloadurl who="Battle Front">https://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3208</downloadurl>
-		</urls_list>
+       <additional_info>No known download location.</additional_info>
 	</scenario>
 	<scenario author="colin burke" filename="WW1 x.btt">
-		<urls_list>
-			<downloadurl who="Battle Front">https://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3517</downloadurl>
-		</urls_list>
+       <additional_info>No known download location.</additional_info>
 	</scenario>
 	<scenario author="colin burke" filename="WW1 z.btt">
-		<urls_list>
-			<downloadurl who="Battle Front">https://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3517</downloadurl>
-		</urls_list>
+       <additional_info>No known download location.</additional_info>
 	</scenario>
 	<scenario author="colin burke" filename="WW1MainBattle.btt">
-		<urls_list>
-			<downloadurl who="Battle Front">https://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3517</downloadurl>
-		</urls_list>
-	</scenario>
-	<scenario author="Gregory Keller (snake_eye)" filename="CMRT East Prussia Defence.btt">
-		<urls_list>
-			<downloadurl who="Battle Front">https://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3361</downloadurl>
-		</urls_list>
+       <additional_info>No known download location.</additional_info>
 	</scenario>
 	<scenario author="Kevin Kinscherf" filename="Eyes for the Corps1_1.btt">
-		<urls_list>
-			<downloadurl who="Battle Front">https://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3431</downloadurl>
-		</urls_list>
+       <urls_list>
+            <infourl who="the Blitz">https://www.theblitz.club/scenarios/combat-mission-red-thunder/eyes-for-the-corp/b-15.htm?action=scenario&amp;id=12184</infourl>
+            <downloadurl primary="y" who="the Blitz">https://www.theblitz.club/scenarios/b-15.htm?action=download&amp;id=12184</downloadurl>
+       </urls_list>
 	</scenario>
 	<scenario author="Christopher Nelson (Normal Dude)" filename="Monster Mash.btt">
 		<urls_list>
-			<downloadurl who="Battle Front">https://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3190</downloadurl>
+		    <infourl who="the Blitz">https://www.theblitz.club/scenarios/combat-mission-red-thunder/monster-mash/b-15.htm?action=scenario&amp;id=10875</infourl>
+			<downloadurl who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/monster-mash/</downloadurl>
 		</urls_list>
 	</scenario>
 	<scenario author="Kevin Kinscherf" filename="Never a Rest.btt">
-		<urls_list>
-			<downloadurl who="Battle Front">https://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3477</downloadurl>
-		</urls_list>
+       <additional_info>No known download location.</additional_info>
 	</scenario>
 	<scenario author="Tim Boucher" filename="Rossmann at Kodersdorf.btt">
-		<urls_list>
-			<downloadurl who="Battle Front">https://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3529</downloadurl>
-		</urls_list>
+       <additional_info>No known download location.</additional_info>
 	</scenario>
 	<scenario author="NightOps" filename="RDM - Woroblin Bridgehead.btt">
 		<urls_list>
-			<infourl who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/rdm-woroblin-bridgehead-v1-1/</infourl>
-			<downloadurl who="Scenario Depot">www.thefewgoodmen.com/tsd3/wp-content/uploads/2017/02/RDM-Woroblin-Bridgehead-V1.1.zip</downloadurl>
+			<downloadurl who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/rdm-woroblin-bridgehead-v1-1/</downloadurl>
 		</urls_list>
 	</scenario>
 	<scenario author="George MC" filename="Mission 6_1a_Himmelfahrt_v1.btt">
 		<urls_list>
-			<infourl who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/kampfgruppe-von-schroif-missions/</infourl>
-			<downloadurl who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/download/CMRT%20KGr%20von%20Schroif%20Missions.zip</downloadurl>
+			<downloadurl who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/kampfgruppe-von-schroif-missions/</downloadurl>
 		</urls_list>
 	</scenario>
 	<scenario author="George MC" filename="Mission 6_1b_Igelstellung_v1.btt">
 		<urls_list>
-			<infourl who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/kampfgruppe-von-schroif-missions/</infourl>
-			<downloadurl who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/download/CMRT%20KGr%20von%20Schroif%20Missions.zip</downloadurl>
+			<downloadurl who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/kampfgruppe-von-schroif-missions/</downloadurl>
 		</urls_list>
 	</scenario>
 	<scenario author="George MC" filename="Mission 6_1c_Himmelfahrt_v1.btt">
 		<urls_list>
-			<infourl who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/kampfgruppe-von-schroif-missions/</infourl>
-			<downloadurl who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/download/CMRT%20KGr%20von%20Schroif%20Missions.zip</downloadurl>
+			<downloadurl who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/kampfgruppe-von-schroif-missions/</downloadurl>
 		</urls_list>
 	</scenario>
 	<scenario author="George MC" filename="Mission 6_1d_Igelstellung_v1.btt">
 		<urls_list>
-			<infourl who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/kampfgruppe-von-schroif-missions/</infourl>
-			<downloadurl who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/download/CMRT%20KGr%20von%20Schroif%20Missions.zip</downloadurl>
+			<downloadurl primary="y" who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/kampfgruppe-von-schroif-missions/</downloadurl>
 		</urls_list>
 	</scenario>
 	<scenario author="George MC" filename="Mission1_gepanzerte Vorhut_v3.btt">
 		<urls_list>
-			<infourl who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/kampfgruppe-von-schroif-missions/</infourl>
-			<downloadurl who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/download/CMRT%20KGr%20von%20Schroif%20Missions.zip</downloadurl>
+			<downloadurl primary="y" who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/kampfgruppe-von-schroif-missions/</downloadurl>
 		</urls_list>
 	</scenario>
 	<scenario author="George MC" filename="Mission2a_Feuer und Bewegung_v2.btt">
 		<urls_list>
-			<infourl who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/kampfgruppe-von-schroif-missions/</infourl>
-			<downloadurl who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/download/CMRT%20KGr%20von%20Schroif%20Missions.zip</downloadurl>
+			<downloadurl primary="y" who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/kampfgruppe-von-schroif-missions/</downloadurl>
 		</urls_list>
 	</scenario>
 	<scenario author="George MC" filename="Mission2b_Feuer und Bewegung_v4.btt">
 		<urls_list>
-			<infourl who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/kampfgruppe-von-schroif-missions/</infourl>
-			<downloadurl who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/download/CMRT%20KGr%20von%20Schroif%20Missions.zip</downloadurl>
+			<downloadurl primary="y" who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/kampfgruppe-von-schroif-missions/</downloadurl>
 		</urls_list>
 	</scenario>
 	<scenario author="George MC" filename="Mission3a_Angriff gegen einen Brueckenkopf_v3.btt">
 		<urls_list>
-			<infourl who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/kampfgruppe-von-schroif-missions/</infourl>
-			<downloadurl who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/download/CMRT%20KGr%20von%20Schroif%20Missions.zip</downloadurl>
+			<downloadurl primary="y" who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/kampfgruppe-von-schroif-missions/</downloadurl>
 		</urls_list>
 	</scenario>
 	<scenario author="George MC" filename="Mission3b_Angriff gegen einen Brueckenkopf_v3.btt">
 		<urls_list>
-			<infourl who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/kampfgruppe-von-schroif-missions/</infourl>
-			<downloadurl who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/download/CMRT%20KGr%20von%20Schroif%20Missions.zip</downloadurl>
+			<downloadurl primary="y" who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/kampfgruppe-von-schroif-missions/</downloadurl>
 		</urls_list>
 	</scenario>
 	<scenario author="George MC" filename="Mission3c_Angriff gegen einen Brueckenkopf_v3.btt">
 		<urls_list>
-			<infourl who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/kampfgruppe-von-schroif-missions/</infourl>
-			<downloadurl who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/download/CMRT%20KGr%20von%20Schroif%20Missions.zip</downloadurl>
+			<downloadurl primary="y" who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/kampfgruppe-von-schroif-missions/</downloadurl>
 		</urls_list>
 	</scenario>
 	<scenario author="George MC" filename="Mission4a_Resupply Decisions_v2.btt">
 		<urls_list>
-			<infourl who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/kampfgruppe-von-schroif-missions/</infourl>
-			<downloadurl who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/download/CMRT%20KGr%20von%20Schroif%20Missions.zip</downloadurl>
+			<downloadurl primary="y" who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/kampfgruppe-von-schroif-missions/</downloadurl>
 		</urls_list>
 	</scenario>
 	<scenario author="George MC" filename="Mission4b_Resupply Decisions_v2.btt">
 		<urls_list>
-			<infourl who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/kampfgruppe-von-schroif-missions/</infourl>
-			<downloadurl who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/download/CMRT%20KGr%20von%20Schroif%20Missions.zip</downloadurl>
+			<downloadurl primary="y" who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/kampfgruppe-von-schroif-missions/</downloadurl>
 		</urls_list>
 	</scenario>
 	<scenario author="George MC" filename="Mission5_1_a_Panzer_Rettung_v2.btt">
 		<urls_list>
-			<infourl who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/kampfgruppe-von-schroif-missions/</infourl>
-			<downloadurl who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/download/CMRT%20KGr%20von%20Schroif%20Missions.zip</downloadurl>
+			<downloadurl primary="y" who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/kampfgruppe-von-schroif-missions/</downloadurl>
 		</urls_list>
 	</scenario>
 	<scenario author="George MC" filename="Mission5_1_b_Panzer_Rettung_v2.btt">
 		<urls_list>
-			<infourl who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/kampfgruppe-von-schroif-missions/</infourl>
-			<downloadurl who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/download/CMRT%20KGr%20von%20Schroif%20Missions.zip</downloadurl>
+			<downloadurl primary="y" who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/kampfgruppe-von-schroif-missions/</downloadurl>
 		</urls_list>
 	</scenario>
 	<scenario author="George MC" filename="Mission5_2a schnelle Truppen Angriffe_v2.btt">
 		<urls_list>
-			<infourl who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/kampfgruppe-von-schroif-missions/</infourl>
-			<downloadurl who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/download/CMRT%20KGr%20von%20Schroif%20Missions.zip</downloadurl>
+			<downloadurl primary="y" who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/kampfgruppe-von-schroif-missions/</downloadurl>
 		</urls_list>
 	</scenario>
 	<scenario author="George MC" filename="Mission5_2b schnelle Truppen Angriffe_v2.btt">
 		<urls_list>
-			<infourl who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/kampfgruppe-von-schroif-missions/</infourl>
-			<downloadurl who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/download/CMRT%20KGr%20von%20Schroif%20Missions.zip</downloadurl>
+			<downloadurl primary="y" who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/kampfgruppe-von-schroif-missions/</downloadurl>
 		</urls_list>
 	</scenario>
 	<scenario author="NightOps" filename="RDM - Angriff.btt">
 		<urls_list>
-			<infourl who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/rdm-angriff/</infourl>
-			<downloadurl who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/wp-content/uploads/2017/03/RDM-Angriff.zip</downloadurl>
+			<downloadurl primary="y" who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/rdm-angriff/</downloadurl>
 		</urls_list>
 	</scenario>
 	<scenario author="Macisle" filename="Radzy Award.btt">
 		<urls_list>
-			<infourl who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/the-radzy-award-v1/</infourl>
-			<downloadurl who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/download/Radzy-Award.zip</downloadurl>
+			<downloadurl primary="y" who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/the-radzy-award-v1/</downloadurl>
 		</urls_list>
 	</scenario>
 	<scenario author="Snake Eye" filename="CMRT-East-Prussia-Defence.btt">
 		<urls_list>
-			<infourl who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/east-prussia-defence/</infourl>
-			<downloadurl who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/download/cmrt/CMRT-East-Prussia-Defence.btt</downloadurl>
+		    <infourl who="the Blitz">https://www.theblitz.club/scenarios/combat-mission-red-thunder/cmrt-east-prussia-defence/b-15.htm?action=scenario&amp;id=12515</infourl>
+			<downloadurl who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/east-prussia-defence/</downloadurl>
 		</urls_list>
 	</scenario>
 	<scenario author="Flammenwerfer" filename="Churches of Glory.btt">
@@ -652,6 +641,12 @@
             <downloadurl primary="y" who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/firefights-real-time-battle-set/</downloadurl>
         </urls_list>
     </scenario>
+	<scenario author="Fredrocker" filename="FGM Dvinsk.btt">
+		<urls_list>
+			<infourl who="the Blitz">https://www.theblitz.club/scenarios/combat-mission-red-thunder/fgm-dvinsk/b-15.htm?action=scenario&amp;id=10847</infourl>
+			<downloadurl primary="y" who="the Blitz">https://www.theblitz.club/scenarios/b-15.htm?action=download&amp;id=10847</downloadurl>
+		</urls_list>
+	</scenario>
     <scenario author="Kevinkin" filename="Fords.btt">
         <urls_list>
             <downloadurl primary="y" who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/firefights-real-time-battle-set/</downloadurl>
@@ -674,11 +669,6 @@
             <downloadurl primary="y" who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/hill-227-cmrt/</downloadurl>
         </urls_list>
     </scenario>
-    <scenario author="author unknown" filename="Jewel.btt">
-        <urls_list>
-            <downloadurl who="Battle Front">https://www.battlefront.com/index.php?option=com_remository&amp;Itemid=314&amp;func=fileinfo&amp;id=3131</downloadurl>
-        </urls_list>
-    </scenario>
     <scenario author="semmes" filename="Kohima AIG.btt">
         <urls_list>
             <downloadurl primary="y" who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/kohima-cmrt/</downloadurl>
@@ -688,6 +678,7 @@
         <additional_info>H2H
         </additional_info>
         <urls_list>
+            <infourl who="the Blitz">https://www.theblitz.club/scenarios/combat-mission-red-thunder/kohima-v211/b-15.htm?action=scenario&amp;id=13648</infourl>
             <downloadurl primary="y" who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/kohima-cmrt/</downloadurl>
         </urls_list>
     </scenario>
@@ -718,6 +709,18 @@
             <downloadurl primary="y" who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/lezove-cmrt/</downloadurl>
         </urls_list>
     </scenario>
+	<scenario author="mirekm61" filename="MM Hill.btt">
+	    <urls_list>
+	        <infourl who="the Blitz">https://www.theblitz.club/scenarios/combat-mission-red-thunder/mm-hill/b-15.htm?action=scenario&amp;id=13495</infourl>
+	        <downloadurl who="the Blitz">https://www.theblitz.club/scenarios/b-15.htm?action=download&amp;id=13495</downloadurl>
+	    </urls_list>
+	</scenario>
+    <scenario author="mirekm61" filename="MM Rainy morning.btt">
+        <urls_list>
+            <infourl who="the Blitz">https://www.theblitz.club/scenarios/combat-mission-red-thunder/mm-rainy-morning/b-15.htm?action=scenario&amp;id=13494</infourl>
+            <downloadurl who="the Blitz">https://www.theblitz.club/scenarios/b-15.htm?action=download&amp;id=13494</downloadurl>
+        </urls_list>
+    </scenario>
     <scenario author="semmes" filename="Pav AIS p1.btt">
         <urls_list>
             <downloadurl primary="y" who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/cmrt-pavlivka/</downloadurl>
@@ -742,12 +745,8 @@
     </scenario>
     <scenario author="steiner14" filename="RT Behnke hilft (Behnke helps).btt">
         <urls_list>
+            <infourl who="the Blitz">https://www.theblitz.club/scenarios/combat-mission-red-thunder/behnke-hilft-behnke-helps/b-15.htm?action=scenario&amp;id=11461</infourl>
             <downloadurl primary="y" who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/behnke-hilft-behnke-helps/</downloadurl>
-        </urls_list>
-    </scenario>
-    <scenario author="Kevinkin" filename="Run.btt">
-        <urls_list>
-            <downloadurl primary="y" who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/firefights-real-time-battle-set/</downloadurl>
         </urls_list>
     </scenario>
     <scenario author="semmes" filename="Sevastopol AIG p1.btt">
@@ -798,7 +797,9 @@
         <additional_info>H2H
         </additional_info>
         <urls_list>
+            <infourl who="the Blitz">https://www.theblitz.club/scenarios/combat-mission-red-thunder/the-creek-v211/b-15.htm?action=scenario&amp;id=13654</infourl>
             <downloadurl primary="y" who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/the-creek-cmrt/</downloadurl>
+            <downloadurl who="the Blitz">https://www.theblitz.club/scenarios/b-15.htm?action=download&amp;id=13654</downloadurl>
         </urls_list>
     </scenario>
     <scenario author="semmes" filename="The Factory AIS.btt">
@@ -810,7 +811,9 @@
         <additional_info>H2H
         </additional_info>
         <urls_list>
+            <infourl who="the Blitz">https://www.theblitz.club/scenarios/combat-mission-red-thunder/the-factory-v211/b-15.htm?action=scenario&amp;id=13644</infourl>
             <downloadurl primary="y" who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/the-factory-cmrt/</downloadurl>
+            <infourl who="the Blitz">https://www.theblitz.club/scenarios/b-15.htm?action=download&amp;id=13644</infourl>
         </urls_list>
     </scenario>
     <scenario author="semmes" filename="The Hill AIS.btt">
@@ -822,7 +825,9 @@
         <additional_info>H2H
         </additional_info>
         <urls_list>
+            <infourl who="the Blitz">https://www.theblitz.club/scenarios/combat-mission-red-thunder/the-hill-v211/b-15.htm?action=scenario&amp;id=13904</infourl>
             <downloadurl primary="y" who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/the-hill-cmrt/</downloadurl>
+            <downloadurl who="the Blitz">https://www.theblitz.club/scenarios/b-15.htm?action=download&amp;id=13904</downloadurl>
         </urls_list>
     </scenario>
     <scenario author="semmes" filename="The Road AIG.btt">
@@ -837,14 +842,16 @@
             <downloadurl primary="y" who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/the-road-cmrt/</downloadurl>
         </urls_list>
     </scenario>
-    <scenario author="author unknown" filename="The Station AIG.btt">
+    <scenario author="semmes" filename="The Station AIG.btt">
         <urls_list>
             <downloadurl primary="y" who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/the-station-cmrt/</downloadurl>
         </urls_list>
     </scenario>
-    <scenario author="author unknown" filename="The Station H.btt">
+    <scenario author="semmes" filename="The Station H.btt">
         <urls_list>
+            <infourl who="the Blitz">https://www.theblitz.club/scenarios/combat-mission-red-thunder/the-station-v211/b-15.htm?action=scenario&amp;id=13773</infourl>
             <downloadurl primary="y" who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-red-thunder/cm-red-thunder-add-ons-scenarios/the-station-cmrt/</downloadurl>
+            <downloadurl who="the Blitz">https://www.theblitz.club/scenarios/b-15.htm?action=download&amp;id=13773</downloadurl>
         </urls_list>
     </scenario>
     <scenario author="semmes" filename="To the Factory  H.btt">
@@ -921,8 +928,16 @@
         </urls_list>
     </scenario>
     <scenario author="George MC" filename="BP1 Bridgehead at Rakow.btt" stock="y"/>
-    <scenario author="George MC" filename="BP1 Cat and Mouse.btt" stock="y"/>
-    <scenario author="George MC" filename="BP1 Deep Raid.btt" stock="y"/>
+    <scenario author="George MC" filename="BP1 Cat and Mouse.btt" stock="y">
+        <urls_list>
+            <infourl who="the Blitz">https://www.theblitz.club/scenarios/combat-mission-red-thunder/cat-and-mouse/b-15.htm?action=scenario&amp;]id=14335</infourl>
+        </urls_list>
+    </scenario>
+    <scenario author="George MC" filename="BP1 Deep Raid.btt" stock="y">
+        <urls_list>
+            <infourl who="the Blitz">https://www.theblitz.club/scenarios/combat-mission-red-thunder/cmfr-deep-raid/b-15.htm?action=scenario&amp;id=14375</infourl>
+        </urls_list>
+    </scenario>
     <scenario author="George MC" filename="BP1 Heart Of The Dying Sun.btt" stock="y"/>
     <scenario author="George MC" filename="BP1 Ill Met By Moonlight.btt" stock="y"/>
     <scenario author="George MC" filename="BP1 Lesson 1 SPW Scouts.btt" stock="y"/>
@@ -930,39 +945,117 @@
     <scenario author="George MC" filename="BP1 Lesson 3 SPW Hasty Attack.btt" stock="y"/>
     <scenario author="George MC" filename="BP1 Panzergrenadiere Im Hauptkampffeld.btt" stock="y"/>
     <scenario author="George MC" filename="BP1 Panzergruppe Fluegel.btt" stock="y"/>
-    <scenario author="George MC" filename="BP1 Polosa Deistviya.btt" stock="y"/>
+    <scenario author="George MC" filename="BP1 Polosa Deistviya.btt" stock="y">
+        <urls_list>
+            <infourl who="the Blitz">https://www.theblitz.club/scenarios/combat-mission-red-thunder/bp1-polosa-deistviga/b-15.htm?action=scenario&amp;id=14480</infourl>
+        </urls_list>
+    </scenario>
     <scenario author="George MC" filename="BP1 Tigers at Ogledow.btt" stock="y"/>
     <scenario author="George MC" filename="BP1 Tip Of The Spear.btt" stock="y"/>
-    <scenario author="author unknown" filename="FR A Debt Repaid.btt" stock="y"/>
-    <scenario author="author unknown" filename="FR Against the odds.btt" stock="y"/>
-    <scenario author="author unknown" filename="FR Arbeitslager.btt" stock="y"/>
-    <scenario author="author unknown" filename="FR Block Buster Redux.btt" stock="y"/>
-    <scenario author="author unknown" filename="FR Block Buster.btt" stock="y"/>
-    <scenario author="author unknown" filename="FR Feierabend.btt" stock="y"/>
-    <scenario author="author unknown" filename="FR Festung Posen.btt" stock="y"/>
-    <scenario author="author unknown" filename="FR Home.btt" stock="y"/>
-    <scenario author="author unknown" filename="FR Katabasis.btt" stock="y"/>
-    <scenario author="author unknown" filename="FR Mit Karacho.btt" stock="y"/>
-    <scenario author="author unknown" filename="FR Mountains of the Moon.btt" stock="y"/>
-    <scenario author="author unknown" filename="FR Now or Never.btt" stock="y"/>
-    <scenario author="author unknown" filename="FR Out for a Schwimm.btt" stock="y"/>
-    <scenario author="author unknown" filename="FR Prowlers.btt" stock="y"/>
-    <scenario author="author unknown" filename="FR Red Dawn.btt" stock="y"/>
-    <scenario author="author unknown" filename="FR Red Star A-Blazin.btt" stock="y"/>
-    <scenario author="author unknown" filename="FR Rescue That Beast.btt" stock="y"/>
-    <scenario author="author unknown" filename="FR Seelow Heights.btt" stock="y"/>
-    <scenario author="author unknown" filename="FR Snow for the Hungry.btt" stock="y"/>
-    <scenario author="author unknown" filename="FR The Last King of Berlin.btt" stock="y"/>
-    <scenario author="author unknown" filename="FR The Rites of Spring.btt" stock="y"/>
-    <scenario author="author unknown" filename="FR Vengeance.btt" stock="y"/>
-    <scenario author="author unknown" filename="FR Zitzewitz.btt" stock="y"/>	
+    <scenario author="ASL Veteran" filename="FR A Debt Repaid.btt" stock="y">
+        <urls_list>
+            <infourl who="the Blitz">https://www.theblitz.club/scenarios/combat-mission-red-thunder/fr-a-debt-repaid/b-15.htm?action=scenario&amp;id=13895</infourl>
+        </urls_list>
+    </scenario>
+    <scenario author="snake_eye" filename="FR Against the odds.btt" stock="y">
+        <urls_list>
+            <infourl who="the Blitz">https://www.theblitz.club/scenarios/combat-mission-red-thunder/fr-against-the-odds/b-15.htm?action=scenario&amp;id=13900</infourl>
+        </urls_list>
+    </scenario>
+    <scenario author="MikeyD" filename="FR Arbeitslager.btt" stock="y"/>
+    <scenario author="Heirloom_Tomato" filename="FR Block Buster Redux.btt" stock="y"/>
+    <scenario author="Heirloom_Tomato" filename="FR Block Buster.btt" stock="y">
+        <urls_list>
+            <infourl who="the Blitz">https://www.theblitz.club/scenarios/combat-mission-red-thunder/fr-block-buster/b-15.htm?action=scenario&amp;id=13896</infourl>
+        </urls_list>
+    </scenario>
+    <scenario author="George MC" filename="FR Feierabend.btt" stock="y">
+        <urls_list>
+            <infourl who="the Blitz">https://www.theblitz.club/scenarios/combat-mission-red-thunder/fr-feierabend/b-15.htm?action=scenario&amp;id=13919</infourl>
+        </urls_list>
+    </scenario>
+    <scenario author="MikeyD" filename="FR Festung Posen.btt" stock="y">
+        <urls_list>
+            <infourl who="the Blitz">https://www.theblitz.club/scenarios/combat-mission-red-thunder/festung-posen/b-15.htm?action=scenario&amp;id=13897</infourl>
+        </urls_list>
+    </scenario>
+    <scenario author="Heirloom_Tomato" filename="FR Home.btt" stock="y"/>
+    <scenario author="MikeyD" filename="FR Katabasis.btt" stock="y">
+        <urls_list>
+            <infourl who="the Blitz">https://www.theblitz.club/scenarios/combat-mission-red-thunder/fr-katabasis/b-15.htm?action=scenario&amp;id=13913</infourl>
+        </urls_list>
+    </scenario>
+    <scenario author="George MC" filename="FR Mit Karacho.btt" stock="y">
+        <urls_list>
+            <infourl who="the Blitz">https://www.theblitz.club/scenarios/combat-mission-red-thunder/fr-mit-karacho/b-15.htm?action=scenario&amp;id=13912</infourl>
+        </urls_list>
+    </scenario>
+    <scenario author="benpark" filename="FR Mountains of the Moon.btt" stock="y">
+        <urls_list>
+            <infourl who="the Blitz">https://www.theblitz.club/scenarios/combat-mission-red-thunder/fr-mountains-of-the-moon/b-15.htm?action=scenario&amp;id=13918</infourl>
+        </urls_list>
+    </scenario>
+    <scenario author="Ithikial_AU" filename="FR Now or Never.btt" stock="y">
+        <urls_list>
+            <infourl who="the Blitz">https://www.theblitz.club/scenarios/combat-mission-red-thunder/fr-now-or-never/b-15.htm?action=scenario&amp;id=14172</infourl>
+        </urls_list>
+    </scenario>
+    <scenario author="Heirloom_Tomato" filename="FR Out for a Schwimm.btt" stock="y"/>
+    <scenario author="PanzerMike" filename="FR Prowlers.btt" stock="y">
+        <urls_list>
+            <infourl who="the Blitz">https://www.theblitz.club/scenarios/combat-mission-red-thunder/fr-prowlers/b-15.htm?action=scenario&amp;id=13898</infourl>
+        </urls_list>
+    </scenario>
+    <scenario author="PanzerMike" filename="FR Red Dawn.btt" stock="y">
+        <urls_list>
+            <infourl who="the Blitz">https://www.theblitz.club/scenarios/combat-mission-red-thunder/fr-red-dawn/b-15.htm?action=scenario&amp;id=13891</infourl>
+        </urls_list>
+    </scenario>
+    <scenario author="slysniper" filename="FR Red Star A-Blazin.btt" stock="y">
+        <urls_list>
+            <infourl who="the Blitz">https://www.theblitz.club/scenarios/combat-mission-red-thunder/fr-red-star-a-blazin/b-15.htm?action=scenario&amp;id=14159</infourl>
+        </urls_list>
+    </scenario>
+    <scenario author="slysniper" filename="FR Rescue That Beast.btt" stock="y"/>
+    <scenario author="ASL Veteran" filename="FR Seelow Heights.btt" stock="y">
+        <urls_list>
+            <infourl who="the Blitz">https://www.theblitz.club/scenarios/combat-mission-red-thunder/fr-seelow-heights/b-15.htm?action=scenario&amp;id=14171</infourl>
+        </urls_list>
+    </scenario>
+    <scenario author="ASL Veteran" filename="FR Snow for the Hungry.btt" stock="y">
+        <urls_list>
+            <infourl who="the Blitz">https://www.theblitz.club/scenarios/combat-mission-red-thunder/fr-snow-for-the-hungry/b-15.htm?action=scenario&amp;id=13934</infourl>
+        </urls_list>
+    </scenario>
+    <scenario author="Ithikial_AU" filename="FR The Last King of Berlin.btt" stock="y">
+        <urls_list>
+            <infourl who="the Blitz">https://www.theblitz.club/scenarios/combat-mission-red-thunder/fr-the-last-king-of-berlin/b-15.htm?action=scenario&amp;id=13917</infourl>
+        </urls_list>
+    </scenario>
+    <scenario author="benpark" filename="FR The Rites of Spring.btt" stock="y">
+        <urls_list>
+            <infourl who="the Blitz">https://www.theblitz.club/scenarios/combat-mission-red-thunder/fr-the-rites-of-spring/b-15.htm?action=scenario&amp;id=13894</infourl>
+        </urls_list>
+    </scenario>
+    <scenario author="MikeyD" filename="FR Vengeance.btt" stock="y">
+        <urls_list>
+            <infourl who="the Blitz">https://www.theblitz.club/scenarios/combat-mission-red-thunder/fr-vengance/b-15.htm?action=scenario&amp;id=13901</infourl>
+        </urls_list>
+    </scenario>
+    <scenario author="Combatintman" filename="FR Zitzewitz.btt" stock="y"/>	
+    <scenario author="Timoshenko" filename="Where Forefathers Fought.btt">
+        <urls_list>
+            <infourl who="the Blitz">https://www.theblitz.club/scenarios/combat-mission-red-thunder/where-forefathers-fought/b-15.htm?action=scenario&amp;id=11362</infourl>
+            <downloadurl who="the Blitz">https://www.theblitz.club/scenarios/b-15.htm?action=download&amp;id=11362</downloadurl>
+        </urls_list>
+    </scenario>
 
 <!-- 	<scenario author="" filename=""> -->
 <!--        <additional_info> -->
 <!--        </additional_info> -->
 <!-- 		<urls_list> -->
 <!-- 			<infourl who="Scenario Depot"></infourl> -->
-<!-- 			<downloadurl who="Scenario Depot">http://</downloadurl> -->
+<!-- 			<downloadurl who="Scenario Depot">https://</downloadurl> -->
 <!-- 		</urls_list> -->
 <!-- 	</scenario> -->
 </scenarios>

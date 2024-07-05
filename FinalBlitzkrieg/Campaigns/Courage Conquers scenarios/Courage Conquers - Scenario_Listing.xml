@@ -9,72 +9,6 @@
 
    <Scenario>
       <Title>
-         <number_in_campaign>[Campaign Battle #07]</number_in_campaign>
-         <battle_title>Concentration Number Nine</battle_title>
-      </Title>
-      <filename>Courage Conquers #07_Courage Conquers Mission 6</filename>
-      <picture_link>scenpics/Courage Conquers7.bmp</picture_link>
-      <battle_type>Allied Attack</battle_type>
-      <description>Darkness is falling and Bastogne is mere miles away. Lead a historic dash through Assenois to reach the 101st!</description>
-      <date>26/12/1944</date>
-      <time_of_day>16:30</time_of_day>
-      <part_of_day>Dusk</part_of_day>
-      <length>01:30</length>
-      <battle_size>Medium</battle_size>
-      <Map_Size>
-         <map_area>3.564 Sq. km</map_area>
-         <map_width>1280 m</map_width>
-         <map_depth>2784 m</map_depth>
-      </Map_Size>
-      <region>Ardennes</region>
-      <environment>Open</environment>
-      <weather>Clear</weather>
-      <temperature>Freezing</temperature>
-      <ground_condition>Light Snow</ground_condition>
-      <early_intel>Allied Force</early_intel>
-      <game_version>CMFB v1.00 to v1.01</game_version>
-      <Modules_Required>
-      </Modules_Required>
-      <Mod_Tags>
-      </Mod_Tags>
-      <size_modifier>7</size_modifier>
-   </Scenario>
-
-   <Scenario>
-      <Title>
-         <number_in_campaign>[Campaign Battle #00]</number_in_campaign>
-         <battle_title>Hell for Leather</battle_title>
-      </Title>
-      <filename>Courage Conquers #00_Courage Conquers Mission 1</filename>
-      <picture_link>scenpics/Courage Conquers0.bmp</picture_link>
-      <battle_type>Allied Attack</battle_type>
-      <description>B/37 and B/53 kick off 4th Armored Divisions attack north to open a corridor to Bastogne</description>
-      <date>23/12/1944</date>
-      <time_of_day>11:50</time_of_day>
-      <part_of_day>Day</part_of_day>
-      <length>01:10</length>
-      <battle_size>Medium</battle_size>
-      <Map_Size>
-         <map_area>1.802 Sq. km</map_area>
-         <map_width>1408 m</map_width>
-         <map_depth>1280 m</map_depth>
-      </Map_Size>
-      <region>Ardennes</region>
-      <environment>Forest</environment>
-      <weather>Clear</weather>
-      <temperature>Freezing</temperature>
-      <ground_condition>Light Snow</ground_condition>
-      <early_intel>Neither</early_intel>
-      <game_version>CMFB v1.00 to v1.01</game_version>
-      <Modules_Required>
-      </Modules_Required>
-      <Mod_Tags>
-      </Mod_Tags>
-      <size_modifier>6</size_modifier>
-   </Scenario>
-
-   <Scenario>
-      <Title>
          <number_in_campaign>[Campaign Battle #06]</number_in_campaign>
          <battle_title>Crossroads</battle_title>
       </Title>
@@ -108,35 +42,101 @@
 
    <Scenario>
       <Title>
-         <number_in_campaign>[Campaign Battle #01]</number_in_campaign>
-         <battle_title>Bigonville</battle_title>
+         <number_in_campaign>[Campaign Battle #03]</number_in_campaign>
+         <battle_title>Spearhead</battle_title>
       </Title>
-      <filename>Courage Conquers #01_Courage Conquers Mission 2</filename>
-      <picture_link>scenpics/Courage Conquers1.bmp</picture_link>
+      <filename>Courage Conquers #03_Courage Conquers Mission 3</filename>
+      <picture_link>scenpics/Courage Conquers3.bmp</picture_link>
       <battle_type>Allied Attack</battle_type>
-      <description>A/37 and B/37 lead the attack to secure Bigonville.</description>
-      <date>24/12/1944</date>
-      <time_of_day>08:00</time_of_day>
+      <description>CCR elements conduct a hasty attack to push tanks forward as rapidly as possible while infantry remains to clear out the enemy</description>
+      <date>25/12/1944</date>
+      <time_of_day>12:00</time_of_day>
       <part_of_day>Day</part_of_day>
-      <length>01:50</length>
-      <battle_size>Large</battle_size>
+      <length>00:55</length>
+      <battle_size>Medium</battle_size>
       <Map_Size>
-         <map_area>1.537 Sq. km</map_area>
-         <map_width>1104 m</map_width>
-         <map_depth>1392 m</map_depth>
+         <map_area>1.175 Sq. km</map_area>
+         <map_width>1184 m</map_width>
+         <map_depth>992 m</map_depth>
       </Map_Size>
       <region>Ardennes</region>
-      <environment>Town</environment>
+      <environment>Village</environment>
       <weather>Clear</weather>
-      <temperature>Extreme Cold</temperature>
+      <temperature>Freezing</temperature>
       <ground_condition>Light Snow</ground_condition>
-      <early_intel>Neither</early_intel>
+      <early_intel>Allied Force</early_intel>
       <game_version>CMFB v1.00 to v1.01</game_version>
       <Modules_Required>
       </Modules_Required>
       <Mod_Tags>
       </Mod_Tags>
-      <size_modifier>9</size_modifier>
+      <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #05]</number_in_campaign>
+         <battle_title>Assault on Remoiville</battle_title>
+      </Title>
+      <filename>Courage Conquers #05_Courage Conquers Mission 4B</filename>
+      <picture_link>scenpics/Courage Conquers5.bmp</picture_link>
+      <battle_type>Allied Assault</battle_type>
+      <description>A/37 and A/53, supported by C/37 and C/53, assaults to clear out a battalion of Fallschirmjager defending Remoiville</description>
+      <date>25/12/1944</date>
+      <time_of_day>17:30</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:10</length>
+      <battle_size>Large</battle_size>
+      <Map_Size>
+         <map_area>1.581 Sq. km</map_area>
+         <map_width>1392 m</map_width>
+         <map_depth>1136 m</map_depth>
+      </Map_Size>
+      <region>Ardennes</region>
+      <environment>Town</environment>
+      <weather>Clear</weather>
+      <temperature>Freezing</temperature>
+      <ground_condition>Light Snow</ground_condition>
+      <early_intel>Allied Force</early_intel>
+      <game_version>CMFB v1.00 to v1.01</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>8</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #07]</number_in_campaign>
+         <battle_title>Concentration Number Nine</battle_title>
+      </Title>
+      <filename>Courage Conquers #07_Courage Conquers Mission 6</filename>
+      <picture_link>scenpics/Courage Conquers7.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>Darkness is falling and Bastogne is mere miles away. Lead a historic dash through Assenois to reach the 101st!</description>
+      <date>26/12/1944</date>
+      <time_of_day>16:30</time_of_day>
+      <part_of_day>Dusk</part_of_day>
+      <length>01:30</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>3.564 Sq. km</map_area>
+         <map_width>1280 m</map_width>
+         <map_depth>2784 m</map_depth>
+      </Map_Size>
+      <region>Ardennes</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Freezing</temperature>
+      <ground_condition>Light Snow</ground_condition>
+      <early_intel>Allied Force</early_intel>
+      <game_version>CMFB v1.00 to v1.01</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
    </Scenario>
 
    <Scenario>
@@ -207,68 +207,68 @@
 
    <Scenario>
       <Title>
-         <number_in_campaign>[Campaign Battle #05]</number_in_campaign>
-         <battle_title>Assault on Remoiville</battle_title>
+         <number_in_campaign>[Campaign Battle #00]</number_in_campaign>
+         <battle_title>Hell for Leather</battle_title>
       </Title>
-      <filename>Courage Conquers #05_Courage Conquers Mission 4B</filename>
-      <picture_link>scenpics/Courage Conquers5.bmp</picture_link>
-      <battle_type>Allied Assault</battle_type>
-      <description>A/37 and A/53, supported by C/37 and C/53, assaults to clear out a battalion of Fallschirmjager defending Remoiville</description>
-      <date>25/12/1944</date>
-      <time_of_day>17:30</time_of_day>
+      <filename>Courage Conquers #00_Courage Conquers Mission 1</filename>
+      <picture_link>scenpics/Courage Conquers0.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>B/37 and B/53 kick off 4th Armored Divisions attack north to open a corridor to Bastogne</description>
+      <date>23/12/1944</date>
+      <time_of_day>11:50</time_of_day>
       <part_of_day>Day</part_of_day>
       <length>01:10</length>
-      <battle_size>Large</battle_size>
-      <Map_Size>
-         <map_area>1.581 Sq. km</map_area>
-         <map_width>1392 m</map_width>
-         <map_depth>1136 m</map_depth>
-      </Map_Size>
-      <region>Ardennes</region>
-      <environment>Town</environment>
-      <weather>Clear</weather>
-      <temperature>Freezing</temperature>
-      <ground_condition>Light Snow</ground_condition>
-      <early_intel>Allied Force</early_intel>
-      <game_version>CMFB v1.00 to v1.01</game_version>
-      <Modules_Required>
-      </Modules_Required>
-      <Mod_Tags>
-      </Mod_Tags>
-      <size_modifier>8</size_modifier>
-   </Scenario>
-
-   <Scenario>
-      <Title>
-         <number_in_campaign>[Campaign Battle #03]</number_in_campaign>
-         <battle_title>Spearhead</battle_title>
-      </Title>
-      <filename>Courage Conquers #03_Courage Conquers Mission 3</filename>
-      <picture_link>scenpics/Courage Conquers3.bmp</picture_link>
-      <battle_type>Allied Attack</battle_type>
-      <description>CCR elements conduct a hasty attack to push tanks forward as rapidly as possible while infantry remains to clear out the enemy</description>
-      <date>25/12/1944</date>
-      <time_of_day>12:00</time_of_day>
-      <part_of_day>Day</part_of_day>
-      <length>00:55</length>
       <battle_size>Medium</battle_size>
       <Map_Size>
-         <map_area>1.175 Sq. km</map_area>
-         <map_width>1184 m</map_width>
-         <map_depth>992 m</map_depth>
+         <map_area>1.802 Sq. km</map_area>
+         <map_width>1408 m</map_width>
+         <map_depth>1280 m</map_depth>
       </Map_Size>
       <region>Ardennes</region>
-      <environment>Village</environment>
+      <environment>Forest</environment>
       <weather>Clear</weather>
       <temperature>Freezing</temperature>
       <ground_condition>Light Snow</ground_condition>
-      <early_intel>Allied Force</early_intel>
+      <early_intel>Neither</early_intel>
       <game_version>CMFB v1.00 to v1.01</game_version>
       <Modules_Required>
       </Modules_Required>
       <Mod_Tags>
       </Mod_Tags>
       <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #01]</number_in_campaign>
+         <battle_title>Bigonville</battle_title>
+      </Title>
+      <filename>Courage Conquers #01_Courage Conquers Mission 2</filename>
+      <picture_link>scenpics/Courage Conquers1.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>A/37 and B/37 lead the attack to secure Bigonville.</description>
+      <date>24/12/1944</date>
+      <time_of_day>08:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:50</length>
+      <battle_size>Large</battle_size>
+      <Map_Size>
+         <map_area>1.537 Sq. km</map_area>
+         <map_width>1104 m</map_width>
+         <map_depth>1392 m</map_depth>
+      </Map_Size>
+      <region>Ardennes</region>
+      <environment>Town</environment>
+      <weather>Clear</weather>
+      <temperature>Extreme Cold</temperature>
+      <ground_condition>Light Snow</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMFB v1.00 to v1.01</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>9</size_modifier>
    </Scenario>
 
    </Scenario_List>

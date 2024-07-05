@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="Listing_Layout.xsl" ?>
+
+<Scenario_Listing>
+
+   <Scenario_List>
+
+   <containing_campaign>Thunder Over Ponyri</containing_campaign>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #00]</number_in_campaign>
+         <battle_title>Thunder at Dawn: Assault on the 15th.</battle_title>
+      </Title>
+      <filename>Thunder Over Ponyri #00_Thunder At Dawn</filename>
+      <picture_link>scenpics/Thunder Over Ponyri0.bmp</picture_link>
+      <battle_type>Axis Assault</battle_type>
+      <description>Elements of the 86th Inf Div attempt to breach the Soviet Defensive lines held by the 15th Gds Inf Div along the Kursk/Orel railway at the beginning of Operation Citadel.</description>
+      <date>05/07/1944</date>
+      <time_of_day>05:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:00</length>
+      <battle_size>Large</battle_size>
+      <Map_Size>
+         <map_area>3.479 Sq. km</map_area>
+         <map_width>2528 m</map_width>
+         <map_depth>1376 m</map_depth>
+      </Map_Size>
+      <region>Eastern Europe</region>
+      <environment>Open</environment>
+      <weather>Light Fog</weather>
+      <temperature>Hot</temperature>
+      <ground_condition>Damp</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMRT v1.00 to v1.03</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>8</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #01]</number_in_campaign>
+         <battle_title>Blood on the Tracks: The Assault on Ponyri Station</battle_title>
+      </Title>
+      <filename>Thunder Over Ponyri #01_Blood On The Tracks</filename>
+      <picture_link>scenpics/Thunder Over Ponyri1.bmp</picture_link>
+      <battle_type>Axis Assault</battle_type>
+      <description>Resupplied and refitted elements of the 86th Inf Div attack the Sovist 307th Gds Inf Div at Ponyri Station</description>
+      <date>06/07/1944</date>
+      <time_of_day>05:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:00</length>
+      <battle_size>Large</battle_size>
+      <Map_Size>
+         <map_area>4.233 Sq. km</map_area>
+         <map_width>2496 m</map_width>
+         <map_depth>1696 m</map_depth>
+      </Map_Size>
+      <region>Eastern Europe</region>
+      <environment>Town</environment>
+      <weather>Mist and Rain</weather>
+      <temperature>Hot</temperature>
+      <ground_condition>Damp</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMRT v1.00 to v1.03</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>umlaut307</mod_tag>
+      </Mod_Tags>
+      <size_modifier>8</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #02]</number_in_campaign>
+         <battle_title>The Thin Gray Line: Holding Ponyri</battle_title>
+      </Title>
+      <filename>Thunder Over Ponyri #02_Thin Gray Line</filename>
+      <picture_link>scenpics/Thunder Over Ponyri2.bmp</picture_link>
+      <battle_type>Allied Assault</battle_type>
+      <description>The 86th Inf Div must hold Ponyri Station against strong enemy counter attacks as the Soviets desperately try and recapture the town</description>
+      <date>07/07/1944</date>
+      <time_of_day>14:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:00</length>
+      <battle_size>Large</battle_size>
+      <Map_Size>
+         <map_area>4.749 Sq. km</map_area>
+         <map_width>2800 m</map_width>
+         <map_depth>1696 m</map_depth>
+      </Map_Size>
+      <region>Eastern Europe</region>
+      <environment>Town</environment>
+      <weather>Hazy</weather>
+      <temperature>Hot</temperature>
+      <ground_condition>Damp</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMRT v1.00 to v1.03</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+         <mod_tag>umlaut307</mod_tag>
+      </Mod_Tags>
+      <size_modifier>8</size_modifier>
+   </Scenario>
+
+   </Scenario_List>
+</Scenario_Listing>

@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <scenarios>
-    <scenario author="author unknown" filename="BP1 Five Days One Summer #00_Mission1_The Toughest Mission_v5.btt" stock="y"/>
-    <scenario author="author unknown" filename="BP1 Five Days One Summer #01_Mission2a_The way to the Reich is open_v6.btt" stock="y"/>
-    <scenario author="author unknown" filename="BP1 Five Days One Summer #02_Mission2b_The way to the Reich is open_v4.btt" stock="y"/>
-    <scenario author="author unknown" filename="BP1 Five Days One Summer #03_Mission3a_Eliminate the enemy_v5.btt" stock="y"/>
-    <scenario author="author unknown" filename="BP1 Five Days One Summer #04_Mission3a1_Ill met at Dolbizna_v5.btt" stock="y"/>
-    <scenario author="author unknown" filename="BP1 Five Days One Summer #05_Mission3b_Eliminate the enemy_v4.btt" stock="y"/>
-    <scenario author="author unknown" filename="BP1 Five Days One Summer #06_Mission3b1_Stopping Batov_v3.btt" stock="y"/>
-    <scenario author="author unknown" filename="BP1 Five Days One Summer #07_Mission4a_Free the 560 Part 1_v4.btt" stock="y"/>
-    <scenario author="author unknown" filename="BP1 Five Days One Summer #08_Mission4b_Reopen the route Part 1_v4.btt" stock="y"/>
-    <scenario author="author unknown" filename="BP1 Five Days One Summer #09_DECISION_v2.btt" stock="y"/>
-    <scenario author="author unknown" filename="BP1 Five Days One Summer #10_Mission5a_Free the 560 Part 2_v6.btt" stock="y"/>
-    <scenario author="author unknown" filename="BP1 Five Days One Summer #11_Mission5b_Reopen the route Part 2_v11.btt" stock="y"/>
-    <scenario author="author unknown" filename="BP1 Five Days One Summer #12_Mission 5B1_Resupply_v2.btt" stock="y"/>
-    <scenario author="author unknown" filename="BP1 Five Days One Summer #13_Mission5B_2_Reopen the route Part 2_v2.btt" stock="y"/>
-    <scenario author="author unknown" filename="BP1 Five Days One Summer #14_Mission5c_Reopen the route Part 2_v4.btt" stock="y"/>
+    <scenario author="George MC" filename="BP1 Five Days One Summer #00_Mission1_The Toughest Mission_v5.btt" stock="y"/>
+    <scenario author="George MC" filename="BP1 Five Days One Summer #01_Mission2a_The way to the Reich is open_v6.btt" stock="y"/>
+    <scenario author="George MC" filename="BP1 Five Days One Summer #02_Mission2b_The way to the Reich is open_v4.btt" stock="y"/>
+    <scenario author="George MC" filename="BP1 Five Days One Summer #03_Mission3a_Eliminate the enemy_v5.btt" stock="y"/>
+    <scenario author="George MC" filename="BP1 Five Days One Summer #04_Mission3a1_Ill met at Dolbizna_v5.btt" stock="y"/>
+    <scenario author="George MC" filename="BP1 Five Days One Summer #05_Mission3b_Eliminate the enemy_v4.btt" stock="y"/>
+    <scenario author="George MC" filename="BP1 Five Days One Summer #06_Mission3b1_Stopping Batov_v3.btt" stock="y"/>
+    <scenario author="George MC" filename="BP1 Five Days One Summer #07_Mission4a_Free the 560 Part 1_v4.btt" stock="y"/>
+    <scenario author="George MC" filename="BP1 Five Days One Summer #08_Mission4b_Reopen the route Part 1_v4.btt" stock="y"/>
+    <scenario author="George MC" filename="BP1 Five Days One Summer #09_DECISION_v2.btt" stock="y"/>
+    <scenario author="George MC" filename="BP1 Five Days One Summer #10_Mission5a_Free the 560 Part 2_v6.btt" stock="y"/>
+    <scenario author="George MC" filename="BP1 Five Days One Summer #11_Mission5b_Reopen the route Part 2_v11.btt" stock="y"/>
+    <scenario author="George MC" filename="BP1 Five Days One Summer #12_Mission 5B1_Resupply_v2.btt" stock="y"/>
+    <scenario author="George MC" filename="BP1 Five Days One Summer #13_Mission5B_2_Reopen the route Part 2_v2.btt" stock="y"/>
+    <scenario author="George MC" filename="BP1 Five Days One Summer #14_Mission5c_Reopen the route Part 2_v4.btt" stock="y"/>
 </scenarios>

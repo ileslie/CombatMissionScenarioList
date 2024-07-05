@@ -9,95 +9,27 @@
 
    <Scenario>
       <Title>
-         <number_in_campaign>[Campaign Battle #01]</number_in_campaign>
-         <battle_title>Setting the Stage</battle_title>
+         <number_in_campaign>[Campaign Battle #10]</number_in_campaign>
+         <battle_title>Point 192.7</battle_title>
       </Title>
-      <filename>FR Breakthrough to Kovel #01_Setting the Stage</filename>
-      <picture_link>scenpics/FR Breakthrough to Kovel1.bmp</picture_link>
+      <filename>FR Breakthrough to Kovel #10_Point 192</filename>
+      <picture_link>scenpics/FR Breakthrough to Kovel10.bmp</picture_link>
       <battle_type>Axis Attack</battle_type>
-      <description>Stare Koszary 28.03.1944, the attack east towards Kovel continue.</description>
-      <date>28/03/1945</date>
-      <time_of_day>06:00</time_of_day>
+      <description>Moszczona 04.04.1944, the vital ground at point 192.7 has to be captured.</description>
+      <date>04/04/1945</date>
+      <time_of_day>11:30</time_of_day>
       <part_of_day>Day</part_of_day>
-      <length>01:40</length>
-      <battle_size>Large</battle_size>
+      <length>02:30</length>
+      <battle_size>Huge</battle_size>
       <Map_Size>
-         <map_area>7.603 Sq. km</map_area>
-         <map_width>3168 m</map_width>
-         <map_depth>2400 m</map_depth>
-      </Map_Size>
-      <region>Eastern Europe</region>
-      <environment>Village</environment>
-      <weather>Overcast</weather>
-      <temperature>Freezing</temperature>
-      <ground_condition>Patchy Snow</ground_condition>
-      <early_intel>Neither</early_intel>
-      <game_version>CMRT v2.10 to v2.13</game_version>
-      <Modules_Required>
-         <module1>Fire and Rubble</module1>
-      </Modules_Required>
-      <Mod_Tags>
-      </Mod_Tags>
-      <size_modifier>9</size_modifier>
-   </Scenario>
-
-   <Scenario>
-      <Title>
-         <number_in_campaign>[Campaign Battle #05]</number_in_campaign>
-         <battle_title>Czerkasy Railway Station</battle_title>
-      </Title>
-      <filename>FR Breakthrough to Kovel #05_Cerkazy Railroad Station</filename>
-      <picture_link>scenpics/FR Breakthrough to Kovel5.bmp</picture_link>
-      <battle_type>Allied Attack</battle_type>
-      <description>Czerkasy Railway Station 30.03.1944, defend the two panther tanks and the Station.</description>
-      <date>30/03/1945</date>
-      <time_of_day>19:15</time_of_day>
-      <part_of_day>Dusk</part_of_day>
-      <length>00:30</length>
-      <battle_size>Medium</battle_size>
-      <Map_Size>
-         <map_area>0.742 Sq. km</map_area>
-         <map_width>1104 m</map_width>
-         <map_depth>672 m</map_depth>
-      </Map_Size>
-      <region>Eastern Europe</region>
-      <environment>Open</environment>
-      <weather>Clear</weather>
-      <temperature>Extreme Cold</temperature>
-      <ground_condition>Patchy Snow</ground_condition>
-      <early_intel>Neither</early_intel>
-      <game_version>CMRT v2.10 to v2.13</game_version>
-      <Modules_Required>
-         <module1>Fire and Rubble</module1>
-      </Modules_Required>
-      <Mod_Tags>
-      </Mod_Tags>
-      <size_modifier>5</size_modifier>
-   </Scenario>
-
-   <Scenario>
-      <Title>
-         <number_in_campaign>[Campaign Battle #04]</number_in_campaign>
-         <battle_title>Ratsch Bum</battle_title>
-      </Title>
-      <filename>FR Breakthrough to Kovel #04_Ratsch Bum</filename>
-      <picture_link>scenpics/FR Breakthrough to Kovel4.bmp</picture_link>
-      <battle_type>Axis Attack</battle_type>
-      <description>Czerkasy 29.03.1944 The relief attempt towards Kovel continue.</description>
-      <date>29/03/1945</date>
-      <time_of_day>15:30</time_of_day>
-      <part_of_day>Day</part_of_day>
-      <length>02:00</length>
-      <battle_size>Large</battle_size>
-      <Map_Size>
-         <map_area>8 Sq. km</map_area>
-         <map_width>4000 m</map_width>
-         <map_depth>2000 m</map_depth>
+         <map_area>8.346 Sq. km</map_area>
+         <map_width>3200 m</map_width>
+         <map_depth>2608 m</map_depth>
       </Map_Size>
       <region>Eastern Europe</region>
       <environment>Open</environment>
       <weather>Heavy Fog</weather>
-      <temperature>Freezing</temperature>
+      <temperature>Extreme Cold</temperature>
       <ground_condition>Light Snow</ground_condition>
       <early_intel>Neither</early_intel>
       <game_version>CMRT v2.10 to v2.13</game_version>
@@ -106,7 +38,7 @@
       </Modules_Required>
       <Mod_Tags>
       </Mod_Tags>
-      <size_modifier>9</size_modifier>
+      <size_modifier>10</size_modifier>
    </Scenario>
 
    <Scenario>
@@ -145,6 +77,40 @@
 
    <Scenario>
       <Title>
+         <number_in_campaign>[Campaign Battle #03]</number_in_campaign>
+         <battle_title>Ratsch Bum</battle_title>
+      </Title>
+      <filename>FR Breakthrough to Kovel #03_Ratsch Bum Resupply</filename>
+      <picture_link>scenpics/FR Breakthrough to Kovel3.bmp</picture_link>
+      <battle_type>Axis Attack</battle_type>
+      <description>Czerkasy 29.03.1944 The relief attempt towards Kovel continue, the village Czerkasy has to be captured.</description>
+      <date>29/03/1945</date>
+      <time_of_day>15:30</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>02:00</length>
+      <battle_size>Huge</battle_size>
+      <Map_Size>
+         <map_area>8 Sq. km</map_area>
+         <map_width>4000 m</map_width>
+         <map_depth>2000 m</map_depth>
+      </Map_Size>
+      <region>Eastern Europe</region>
+      <environment>Open</environment>
+      <weather>Heavy Fog</weather>
+      <temperature>Extreme Cold</temperature>
+      <ground_condition>Light Snow</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMRT v2.10 to v2.13</game_version>
+      <Modules_Required>
+         <module1>Fire and Rubble</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>10</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
          <number_in_campaign>[Campaign Battle #00]</number_in_campaign>
          <battle_title>Viking Panzers</battle_title>
       </Title>
@@ -175,6 +141,40 @@
       <Mod_Tags>
       </Mod_Tags>
       <size_modifier>6</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #04]</number_in_campaign>
+         <battle_title>Ratsch Bum</battle_title>
+      </Title>
+      <filename>FR Breakthrough to Kovel #04_Ratsch Bum</filename>
+      <picture_link>scenpics/FR Breakthrough to Kovel4.bmp</picture_link>
+      <battle_type>Axis Attack</battle_type>
+      <description>Czerkasy 29.03.1944 The relief attempt towards Kovel continue.</description>
+      <date>29/03/1945</date>
+      <time_of_day>15:30</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>02:00</length>
+      <battle_size>Large</battle_size>
+      <Map_Size>
+         <map_area>8 Sq. km</map_area>
+         <map_width>4000 m</map_width>
+         <map_depth>2000 m</map_depth>
+      </Map_Size>
+      <region>Eastern Europe</region>
+      <environment>Open</environment>
+      <weather>Heavy Fog</weather>
+      <temperature>Freezing</temperature>
+      <ground_condition>Light Snow</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMRT v2.10 to v2.13</game_version>
+      <Modules_Required>
+         <module1>Fire and Rubble</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>9</size_modifier>
    </Scenario>
 
    <Scenario>
@@ -213,29 +213,29 @@
 
    <Scenario>
       <Title>
-         <number_in_campaign>[Campaign Battle #03]</number_in_campaign>
-         <battle_title>Ratsch Bum</battle_title>
+         <number_in_campaign>[Campaign Battle #08]</number_in_campaign>
+         <battle_title>Inferno in the Marshes</battle_title>
       </Title>
-      <filename>FR Breakthrough to Kovel #03_Ratsch Bum Resupply</filename>
-      <picture_link>scenpics/FR Breakthrough to Kovel3.bmp</picture_link>
+      <filename>FR Breakthrough to Kovel #08_Inferno in the Marshes</filename>
+      <picture_link>scenpics/FR Breakthrough to Kovel8.bmp</picture_link>
       <battle_type>Axis Attack</battle_type>
-      <description>Czerkasy 29.03.1944 The relief attempt towards Kovel continue, the village Czerkasy has to be captured.</description>
-      <date>29/03/1945</date>
-      <time_of_day>15:30</time_of_day>
-      <part_of_day>Day</part_of_day>
-      <length>02:00</length>
+      <description>Kruhel 04.04.1944,  LVI. Panzer Korps main attack towards Kovel begin.</description>
+      <date>04/04/1945</date>
+      <time_of_day>06:45</time_of_day>
+      <part_of_day>Dawn</part_of_day>
+      <length>02:30</length>
       <battle_size>Huge</battle_size>
       <Map_Size>
-         <map_area>8 Sq. km</map_area>
-         <map_width>4000 m</map_width>
-         <map_depth>2000 m</map_depth>
+         <map_area>9.032 Sq. km</map_area>
+         <map_width>3920 m</map_width>
+         <map_depth>2304 m</map_depth>
       </Map_Size>
       <region>Eastern Europe</region>
       <environment>Open</environment>
-      <weather>Heavy Fog</weather>
-      <temperature>Extreme Cold</temperature>
-      <ground_condition>Light Snow</ground_condition>
-      <early_intel>Neither</early_intel>
+      <weather>Clear</weather>
+      <temperature>Freezing</temperature>
+      <ground_condition>Patchy Snow</ground_condition>
+      <early_intel>Allied Force</early_intel>
       <game_version>CMRT v2.10 to v2.13</game_version>
       <Modules_Required>
          <module1>Fire and Rubble</module1>
@@ -243,6 +243,40 @@
       <Mod_Tags>
       </Mod_Tags>
       <size_modifier>10</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #01]</number_in_campaign>
+         <battle_title>Setting the Stage</battle_title>
+      </Title>
+      <filename>FR Breakthrough to Kovel #01_Setting the Stage</filename>
+      <picture_link>scenpics/FR Breakthrough to Kovel1.bmp</picture_link>
+      <battle_type>Axis Attack</battle_type>
+      <description>Stare Koszary 28.03.1944, the attack east towards Kovel continue.</description>
+      <date>28/03/1945</date>
+      <time_of_day>06:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:40</length>
+      <battle_size>Large</battle_size>
+      <Map_Size>
+         <map_area>7.603 Sq. km</map_area>
+         <map_width>3168 m</map_width>
+         <map_depth>2400 m</map_depth>
+      </Map_Size>
+      <region>Eastern Europe</region>
+      <environment>Village</environment>
+      <weather>Overcast</weather>
+      <temperature>Freezing</temperature>
+      <ground_condition>Patchy Snow</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMRT v2.10 to v2.13</game_version>
+      <Modules_Required>
+         <module1>Fire and Rubble</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>9</size_modifier>
    </Scenario>
 
    <Scenario>
@@ -270,40 +304,6 @@
       <temperature>Extreme Cold</temperature>
       <ground_condition>Patchy Snow</ground_condition>
       <early_intel>Neither</early_intel>
-      <game_version>CMRT v2.10 to v2.13</game_version>
-      <Modules_Required>
-         <module1>Fire and Rubble</module1>
-      </Modules_Required>
-      <Mod_Tags>
-      </Mod_Tags>
-      <size_modifier>10</size_modifier>
-   </Scenario>
-
-   <Scenario>
-      <Title>
-         <number_in_campaign>[Campaign Battle #08]</number_in_campaign>
-         <battle_title>Inferno in the Marshes</battle_title>
-      </Title>
-      <filename>FR Breakthrough to Kovel #08_Inferno in the Marshes</filename>
-      <picture_link>scenpics/FR Breakthrough to Kovel8.bmp</picture_link>
-      <battle_type>Axis Attack</battle_type>
-      <description>Kruhel 04.04.1944,  LVI. Panzer Korps main attack towards Kovel begin.</description>
-      <date>04/04/1945</date>
-      <time_of_day>06:45</time_of_day>
-      <part_of_day>Dawn</part_of_day>
-      <length>02:30</length>
-      <battle_size>Huge</battle_size>
-      <Map_Size>
-         <map_area>9.032 Sq. km</map_area>
-         <map_width>3920 m</map_width>
-         <map_depth>2304 m</map_depth>
-      </Map_Size>
-      <region>Eastern Europe</region>
-      <environment>Open</environment>
-      <weather>Clear</weather>
-      <temperature>Freezing</temperature>
-      <ground_condition>Patchy Snow</ground_condition>
-      <early_intel>Allied Force</early_intel>
       <game_version>CMRT v2.10 to v2.13</game_version>
       <Modules_Required>
          <module1>Fire and Rubble</module1>
@@ -349,28 +349,28 @@
 
    <Scenario>
       <Title>
-         <number_in_campaign>[Campaign Battle #10]</number_in_campaign>
-         <battle_title>Point 192.7</battle_title>
+         <number_in_campaign>[Campaign Battle #05]</number_in_campaign>
+         <battle_title>Czerkasy Railway Station</battle_title>
       </Title>
-      <filename>FR Breakthrough to Kovel #10_Point 192</filename>
-      <picture_link>scenpics/FR Breakthrough to Kovel10.bmp</picture_link>
-      <battle_type>Axis Attack</battle_type>
-      <description>Moszczona 04.04.1944, the vital ground at point 192.7 has to be captured.</description>
-      <date>04/04/1945</date>
-      <time_of_day>11:30</time_of_day>
-      <part_of_day>Day</part_of_day>
-      <length>02:30</length>
-      <battle_size>Huge</battle_size>
+      <filename>FR Breakthrough to Kovel #05_Cerkazy Railroad Station</filename>
+      <picture_link>scenpics/FR Breakthrough to Kovel5.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>Czerkasy Railway Station 30.03.1944, defend the two panther tanks and the Station.</description>
+      <date>30/03/1945</date>
+      <time_of_day>19:15</time_of_day>
+      <part_of_day>Dusk</part_of_day>
+      <length>00:30</length>
+      <battle_size>Medium</battle_size>
       <Map_Size>
-         <map_area>8.346 Sq. km</map_area>
-         <map_width>3200 m</map_width>
-         <map_depth>2608 m</map_depth>
+         <map_area>0.742 Sq. km</map_area>
+         <map_width>1104 m</map_width>
+         <map_depth>672 m</map_depth>
       </Map_Size>
       <region>Eastern Europe</region>
       <environment>Open</environment>
-      <weather>Heavy Fog</weather>
+      <weather>Clear</weather>
       <temperature>Extreme Cold</temperature>
-      <ground_condition>Light Snow</ground_condition>
+      <ground_condition>Patchy Snow</ground_condition>
       <early_intel>Neither</early_intel>
       <game_version>CMRT v2.10 to v2.13</game_version>
       <Modules_Required>
@@ -378,7 +378,7 @@
       </Modules_Required>
       <Mod_Tags>
       </Mod_Tags>
-      <size_modifier>10</size_modifier>
+      <size_modifier>5</size_modifier>
    </Scenario>
 
    </Scenario_List>

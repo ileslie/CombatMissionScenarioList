@@ -9,22 +9,55 @@
 
    <Scenario>
       <Title>
-         <number_in_campaign>[Campaign Battle #04]</number_in_campaign>
-         <battle_title>Pebble in My Shoe</battle_title>
+         <number_in_campaign>[Campaign Battle #03]</number_in_campaign>
+         <battle_title>Valley of the Headhunters</battle_title>
       </Title>
-      <filename>Ride of the 120th (March or Die) #04_Soviet Scenario 5</filename>
-      <picture_link>scenpics/Ride of the 120th (March or Die)4.bmp</picture_link>
-      <battle_type>Red Assault</battle_type>
-      <description>Soviet Assault to Clear Lingelbach</description>
-      <date>14/07/1980</date>
-      <time_of_day>14:00</time_of_day>
+      <filename>Ride of the 120th (March or Die) #03_Soviet Scenario 4A</filename>
+      <picture_link>scenpics/Ride of the 120th (March or Die)3.bmp</picture_link>
+      <battle_type>Blue Attack</battle_type>
+      <description>US Advance against Soviet Hasty Defence</description>
+      <date>14/07/1982</date>
+      <time_of_day>05:00</time_of_day>
       <part_of_day>Day</part_of_day>
+      <length>01:00</length>
+      <battle_size>Large</battle_size>
+      <Map_Size>
+         <map_area>16 Sq. km</map_area>
+         <map_width>4000 m</map_width>
+         <map_depth>4000 m</map_depth>
+      </Map_Size>
+      <region>Germany</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMCW v1.00 to v1.06</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>8</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #00]</number_in_campaign>
+         <battle_title>Greatest Dawn</battle_title>
+      </Title>
+      <filename>Ride of the 120th (March or Die) #00_Soviet Scenario 1</filename>
+      <picture_link>scenpics/Ride of the 120th (March or Die)0.bmp</picture_link>
+      <battle_type>Red Attack</battle_type>
+      <description>Soviet opening attack to clear the approach to initial objectives</description>
+      <date>13/07/1982</date>
+      <time_of_day>06:00</time_of_day>
+      <part_of_day>Dawn</part_of_day>
       <length>01:30</length>
       <battle_size>Large</battle_size>
       <Map_Size>
-         <map_area>6.016 Sq. km</map_area>
-         <map_width>3008 m</map_width>
-         <map_depth>2000 m</map_depth>
+         <map_area>15.064 Sq. km</map_area>
+         <map_width>5008 m</map_width>
+         <map_depth>3008 m</map_depth>
       </Map_Size>
       <region>Germany</region>
       <environment>Open</environment>
@@ -75,55 +108,22 @@
 
    <Scenario>
       <Title>
-         <number_in_campaign>[Campaign Battle #00]</number_in_campaign>
-         <battle_title>Greatest Dawn</battle_title>
+         <number_in_campaign>[Campaign Battle #05]</number_in_campaign>
+         <battle_title>Last Charge of the 120th</battle_title>
       </Title>
-      <filename>Ride of the 120th (March or Die) #00_Soviet Scenario 1</filename>
-      <picture_link>scenpics/Ride of the 120th (March or Die)0.bmp</picture_link>
-      <battle_type>Red Attack</battle_type>
-      <description>Soviet opening attack to clear the approach to initial objectives</description>
-      <date>13/07/1982</date>
-      <time_of_day>06:00</time_of_day>
-      <part_of_day>Dawn</part_of_day>
-      <length>01:30</length>
-      <battle_size>Large</battle_size>
-      <Map_Size>
-         <map_area>15.064 Sq. km</map_area>
-         <map_width>5008 m</map_width>
-         <map_depth>3008 m</map_depth>
-      </Map_Size>
-      <region>Germany</region>
-      <environment>Open</environment>
-      <weather>Clear</weather>
-      <temperature>Warm</temperature>
-      <ground_condition>Dry</ground_condition>
-      <early_intel>Axis Force</early_intel>
-      <game_version>CMCW v1.00 to v1.06</game_version>
-      <Modules_Required>
-      </Modules_Required>
-      <Mod_Tags>
-      </Mod_Tags>
-      <size_modifier>9</size_modifier>
-   </Scenario>
-
-   <Scenario>
-      <Title>
-         <number_in_campaign>[Campaign Battle #03]</number_in_campaign>
-         <battle_title>Valley of the Headhunters</battle_title>
-      </Title>
-      <filename>Ride of the 120th (March or Die) #03_Soviet Scenario 4A</filename>
-      <picture_link>scenpics/Ride of the 120th (March or Die)3.bmp</picture_link>
-      <battle_type>Blue Attack</battle_type>
-      <description>US Advance against Soviet Hasty Defence</description>
+      <filename>Ride of the 120th (March or Die) #05_Soviet Scenario 6</filename>
+      <picture_link>scenpics/Ride of the 120th (March or Die)5.bmp</picture_link>
+      <battle_type>Red Assault</battle_type>
+      <description>Final Soviet Assault on Outskirts of Alsfeld</description>
       <date>14/07/1982</date>
-      <time_of_day>05:00</time_of_day>
+      <time_of_day>18:00</time_of_day>
       <part_of_day>Day</part_of_day>
-      <length>01:00</length>
+      <length>02:00</length>
       <battle_size>Large</battle_size>
       <Map_Size>
-         <map_area>16 Sq. km</map_area>
-         <map_width>4000 m</map_width>
-         <map_depth>4000 m</map_depth>
+         <map_area>9.048 Sq. km</map_area>
+         <map_width>3008 m</map_width>
+         <map_depth>3008 m</map_depth>
       </Map_Size>
       <region>Germany</region>
       <environment>Open</environment>
@@ -136,7 +136,7 @@
       </Modules_Required>
       <Mod_Tags>
       </Mod_Tags>
-      <size_modifier>8</size_modifier>
+      <size_modifier>9</size_modifier>
    </Scenario>
 
    <Scenario>
@@ -174,29 +174,29 @@
 
    <Scenario>
       <Title>
-         <number_in_campaign>[Campaign Battle #05]</number_in_campaign>
-         <battle_title>Last Charge of the 120th</battle_title>
+         <number_in_campaign>[Campaign Battle #04]</number_in_campaign>
+         <battle_title>Pebble in My Shoe</battle_title>
       </Title>
-      <filename>Ride of the 120th (March or Die) #05_Soviet Scenario 6</filename>
-      <picture_link>scenpics/Ride of the 120th (March or Die)5.bmp</picture_link>
+      <filename>Ride of the 120th (March or Die) #04_Soviet Scenario 5</filename>
+      <picture_link>scenpics/Ride of the 120th (March or Die)4.bmp</picture_link>
       <battle_type>Red Assault</battle_type>
-      <description>Final Soviet Assault on Outskirts of Alsfeld</description>
-      <date>14/07/1982</date>
-      <time_of_day>18:00</time_of_day>
+      <description>Soviet Assault to Clear Lingelbach</description>
+      <date>14/07/1980</date>
+      <time_of_day>14:00</time_of_day>
       <part_of_day>Day</part_of_day>
-      <length>02:00</length>
+      <length>01:30</length>
       <battle_size>Large</battle_size>
       <Map_Size>
-         <map_area>9.048 Sq. km</map_area>
+         <map_area>6.016 Sq. km</map_area>
          <map_width>3008 m</map_width>
-         <map_depth>3008 m</map_depth>
+         <map_depth>2000 m</map_depth>
       </Map_Size>
       <region>Germany</region>
       <environment>Open</environment>
       <weather>Clear</weather>
       <temperature>Warm</temperature>
       <ground_condition>Dry</ground_condition>
-      <early_intel>Neither</early_intel>
+      <early_intel>Axis Force</early_intel>
       <game_version>CMCW v1.00 to v1.06</game_version>
       <Modules_Required>
       </Modules_Required>

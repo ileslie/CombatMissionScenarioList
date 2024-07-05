@@ -1,469 +1,469 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <scenarios>
-	<scenario author="information unavailable" filename="!WachtAmRhein-1.btt" stock="y"/>
-	<scenario author="information unavailable" filename="A December Morning 182m.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Aachen (1200 X 1040) 156a1.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Aachen (1200 X 1040) 156a2.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Aachen (1200 X 1040) 156p.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Aachen-Mid City (400 X 400) 161m.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Aachen-Ostfriedhof Cemetery 176m.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Aachen-The Factories 175m.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Baraque de Fraiture (1168 X 1456) 163a.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Baraque de Fraiture (1168 X 1456) 163b.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Baraque de Fraiture (1168 X 1456) 163p.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Break the Siege (1008 X 1008) 081a1.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Break the Siege (1008 X 1008) 081a2.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Break the Siege (1008 X 1008) 081p.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Breaking The Line (672 X 512) 084m.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Breaking The Line (672 X 512) 168a1.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Breaking The Line (672 X 512) 168a2.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Breaking The Line (672 X 512) 168p.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Chaumont (2064 X 2048) 096a1.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Chaumont (2064 X 2048) 096a2.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Chaumont (2064 X 2048) 096p.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Cheneux (1696 X 752) 083a1.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Cheneux (1696 X 752) 083a2.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Cheneux (1696 X 752) 083p.btt" stock="y"/>
-	<scenario author="information unavailable" filename="City (400 X 336) 120a1.btt" stock="y"/>
-	<scenario author="information unavailable" filename="City (400 X 336) 120a2.btt" stock="y"/>
-	<scenario author="information unavailable" filename="City (400 X 336) 120p.btt" stock="y"/>
-	<scenario author="information unavailable" filename="City (832 X 800) 057a1.btt" stock="y"/>
-	<scenario author="information unavailable" filename="City (832 X 800) 057a2.btt" stock="y"/>
-	<scenario author="information unavailable" filename="City (832 X 800) 057p.btt" stock="y"/>
-	<scenario author="information unavailable" filename="City (832 X 800) 058m.btt" stock="y"/>
-	<scenario author="information unavailable" filename="City-Damaged (832 X 800) 055a1.btt" stock="y"/>
-	<scenario author="information unavailable" filename="City-Damaged (832 X 800) 055a2.btt" stock="y"/>
-	<scenario author="information unavailable" filename="City-Damaged (832 X 800) 055p.btt" stock="y"/>
-	<scenario author="information unavailable" filename="City-Damaged (832 X 800) 059m.btt" stock="y"/>
-	<scenario author="information unavailable" filename="City-Damaged (832 X 800) 060a1.btt" stock="y"/>
-	<scenario author="information unavailable" filename="City-Damaged (832 X 800) 060a2.btt" stock="y"/>
-	<scenario author="information unavailable" filename="City-Damaged (832 X 800) 060p.btt" stock="y"/>
-	<scenario author="information unavailable" filename="City-Damaged (912 X 512) 064a1.btt" stock="y"/>
-	<scenario author="information unavailable" filename="City-Damaged (912 X 512) 064a2.btt" stock="y"/>
-	<scenario author="information unavailable" filename="City-Damaged (912 X 512) 064p.btt" stock="y"/>
-	<scenario author="information unavailable" filename="City-Damaged (912 X 512) 065m.btt" stock="y"/>
-	<scenario author="information unavailable" filename="City-Damaged (976 X 544) 061a1.btt" stock="y"/>
-	<scenario author="information unavailable" filename="City-Damaged (976 X 544) 061a2.btt" stock="y"/>
-	<scenario author="information unavailable" filename="City-Damaged (976 X 544) 061p.btt" stock="y"/>
-	<scenario author="information unavailable" filename="City-Damaged (976 X 544) 062 m.btt" stock="y"/>
-	<scenario author="information unavailable" filename="City-Water (912 X 800) 066a1.btt" stock="y"/>
-	<scenario author="information unavailable" filename="City-Water (912 X 800) 066a2.btt" stock="y"/>
-	<scenario author="information unavailable" filename="City-Water (912 X 800) 066p.btt" stock="y"/>
-	<scenario author="information unavailable" filename="City-Water (912 X 800) 067m.btt" stock="y"/>
-	<scenario author="information unavailable" filename="CMBO Chance Encounter (832 X 800) 113m.btt" stock="y"/>
-	<scenario author="information unavailable" filename="CMBO Classic Riesberg (544 X 688) 189m.btt" stock="y"/>
-	<scenario author="information unavailable" filename="CMBO Classic Riesberg (912 X 688) 186a1.btt" stock="y"/>
-	<scenario author="information unavailable" filename="CMBO Classic Riesberg (912 X 688) 186a2.btt" stock="y"/>
-	<scenario author="information unavailable" filename="CMBO Classic Riesberg (912 X 688) 186p.btt" stock="y"/>
-	<scenario author="information unavailable" filename="CMBO Classic Wiltz (960 X 880) 052m.btt" stock="y"/>
-	<scenario author="information unavailable" filename="CMBO Classic Wiltz (960 X 880) 098a1.btt" stock="y"/>
-	<scenario author="information unavailable" filename="CMBO Classic Wiltz (960 X 880) 098a2.btt" stock="y"/>
-	<scenario author="information unavailable" filename="CMBO Classic Wiltz (960 X 880) 098p.btt" stock="y"/>
-	<scenario author="information unavailable" filename="CMBO Classic Wiltz-Revised (1152 X 960) 185m.btt" stock="y"/>
-    <scenario author="author unknown" filename="DF Elsdorf (1280x1040) Assault.btt" stock="y"/>
-    <scenario author="author unknown" filename="DF Elsdorf (1280x1040) Attack.btt" stock="y"/>
-    <scenario author="author unknown" filename="DF Elsdorf (1280x1040) Probe.btt" stock="y"/>
-    <scenario author="author unknown" filename="DF Elsdorf (1920x1920) ME.btt" stock="y"/>
-    <scenario author="author unknown" filename="DF Elsfdorf North (1920x1360) Assault.btt" stock="y"/>
-    <scenario author="author unknown" filename="DF Elsfdorf North (1920x1360) Attack.btt" stock="y"/>
-    <scenario author="author unknown" filename="DF Elsfdorf North (1920x1360) Probe.btt" stock="y"/>
-    <scenario author="author unknown" filename="DF Erft Kanal (1200x1488) Assault.btt" stock="y"/>
-    <scenario author="author unknown" filename="DF Erft Kanal (1200x1488) Attack.btt" stock="y"/>
-    <scenario author="author unknown" filename="DF Erft Kanal (1200x1488) Probe.btt" stock="y"/>
-    <scenario author="author unknown" filename="DF Erft Kanal (2608x2608) ME.btt" stock="y"/>
-    <scenario author="author unknown" filename="DF Grouvin (1728x1728) Assault.btt" stock="y"/>
-    <scenario author="author unknown" filename="DF Grouvin (1728x1728) Attack.btt" stock="y"/>
-    <scenario author="author unknown" filename="DF Grouvin (1728x1728) Probe.btt" stock="y"/>
-    <scenario author="author unknown" filename="DF Heister (1168x736) Assault.btt" stock="y"/>
-    <scenario author="author unknown" filename="DF Heister (1168x736) Attack.btt" stock="y"/>
-    <scenario author="author unknown" filename="DF Heister (1168x736) Probe.btt" stock="y"/>
-    <scenario author="author unknown" filename="DF Heister (1648x1696) ME.btt" stock="y"/>
-    <scenario author="author unknown" filename="DF Koln (1920x592) ME.btt" stock="y"/>
-    <scenario author="author unknown" filename="DF Koln (960x1008) Assault.btt" stock="y"/>
-    <scenario author="author unknown" filename="DF Koln (960x1008) Attack.btt" stock="y"/>
-    <scenario author="author unknown" filename="DF Koln (960x1008) Probe.btt" stock="y"/>
-    <scenario author="author unknown" filename="DF Kranenburg (1024x1200) Assault.btt" stock="y"/>
-    <scenario author="author unknown" filename="DF Kranenburg (1024x1200) Attack.btt" stock="y"/>
-    <scenario author="author unknown" filename="DF Kranenburg (1024x1200) Probe.btt" stock="y"/>
-    <scenario author="author unknown" filename="DF Kranenburg (1472x1472) ME.btt" stock="y"/>
-    <scenario author="author unknown" filename="DF Kranenburg Fields (2182x720) Assault.btt" stock="y"/>
-    <scenario author="author unknown" filename="DF Kranenburg Fields (2182x720) Attack.btt" stock="y"/>
-    <scenario author="author unknown" filename="DF Kranenburg Fields (2182x720) Probe.btt" stock="y"/>
-    <scenario author="author unknown" filename="DF Kranenburg Fields (3936x720) ME.btt" stock="y"/>
-    <scenario author="author unknown" filename="DF Metal on Metal (2272x1856) ME.btt" stock="y"/>
-    <scenario author="author unknown" filename="DF Montebourg (1600x1520) Assault.btt" stock="y"/>
-    <scenario author="author unknown" filename="DF Montebourg (1600x1520) Attack.btt" stock="y"/>
-    <scenario author="author unknown" filename="DF Montebourg (1600x1520) Probe.btt" stock="y"/>
-    <scenario author="author unknown" filename="DF Reichswald (912x1184) Assault.btt" stock="y"/>
-    <scenario author="author unknown" filename="DF Reichswald (912x1184) Attack.btt" stock="y"/>
-    <scenario author="author unknown" filename="DF Reichswald (912x1184) Probe.btt" stock="y"/>
-    <scenario author="author unknown" filename="DF Remagen (1552x1920) Assault.btt" stock="y"/>
-    <scenario author="author unknown" filename="DF Remagen (1552x1920) Attack.btt" stock="y"/>
-    <scenario author="author unknown" filename="DF Remagen (1552x1920) Probe.btt" stock="y"/>
-    <scenario author="author unknown" filename="DF Rethem (2544x1728) Assault.btt" stock="y"/>
-    <scenario author="author unknown" filename="DF Rethem (2544x1728) Attack.btt" stock="y"/>
-    <scenario author="author unknown" filename="DF Rethem (2544x1728) Probe.btt" stock="y"/>
-    <scenario author="author unknown" filename="DF Stommeln (1248x1008) Assault.btt" stock="y"/>
-    <scenario author="author unknown" filename="DF Stommeln (1248x1008) Attack.btt" stock="y"/>
-    <scenario author="author unknown" filename="DF Stommeln (1248x1008) Probe.btt" stock="y"/>
-    <scenario author="author unknown" filename="DF Wohlendorf (1040x1040) Assault.btt" stock="y"/>
-    <scenario author="author unknown" filename="DF Wohlendorf (1040x1040) Attack.btt" stock="y"/>
-    <scenario author="author unknown" filename="DF Wohlendorf (1040x1040) Probe.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Custer's Stand (1952 X 1280) 085a1.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Custer's Stand (1952 X 1280) 085a2.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Custer's Stand (1952 X 1280) 085p.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Cutline (800 X 800) 157m.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Ferme Diedenhove (1008 X 1072) 009a1.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Ferme Diedenhove (1008 X 1072) 009a2.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Ferme Diedenhove (1008 X 1072) 009p.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Ferme Diedenhove (1008 X 1072) 010m.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Forest-Rough (608 X 672) 178m.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Forest-Rough (912 X 800) 183m.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Forest-Rural (800 X 624) 108a1.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Forest-Rural (800 X 624) 108a2.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Forest-Rural (800 X 624) 108p.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Forest-Rural (832 X 496) 143m.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Foy (1072 X 1200) 166a1.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Foy (1072 X 1200) 166a2.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Foy (1072 X 1200) 166p.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Hamlet Grosshau 169a1.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Hamlet Grosshau 169a2.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Hamlet Grosshau 169p.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Hills-Forest (1504 X 1200) 107a1.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Hills-Forest (1504 X 1200) 107a2.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Hills-Forest (1504 X 1200) 107p.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Hills-Forest-Water (608 X 400) 162m.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Hills-Forest-Water (704 X 912) 006m.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Hills-Rural (656 X 608) 138m.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Hills-Rural (736 X 1008) 122m.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Hills-Rural (736 X 1008) 123a1.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Hills-Rural (736 X 1008) 123a2.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Hills-Rural (736 X 1008) 123p.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Hills-Rural (896 X 464) 137m.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Hills-Town-Water (1120 X 736) 021a1.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Hills-Town-Water (1120 X 736) 021a2.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Hills-Town-Water (1120 X 736) 021p.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Hills-Town-Water-Damaged (1120 X 736) 022a1.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Hills-Town-Water-Damaged (1120 X 736) 022a2.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Hills-Town-Water-Damaged (1120 X 736) 022p.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Hills-Village (1008 X 1120) 002m.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Hills-Village (1200 X 1200) 001a1.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Hills-Village (1200 X 1200) 001a2.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Hills-Village (1200 X 1200) 001p.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Hills-Village-Damage (1008 X 1120) 015m.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Hills-Village-Damage (1200 X1200) 016a1.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Hills-Village-Damage (1200 X1200) 016a2.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Hills-Village-Damage (1200 X1200) 016p.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Hills-Water (1040 X 960) 127a1.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Hills-Water (1040 X 960) 127a2.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Hills-Water (1040 X 960) 127p.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Hills-Water (1040 X 960) 128m.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Hills-Water (704 X 912) 005a1.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Hills-Water (704 X 912) 005a2.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Hills-Water (704 X 912) 005p.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Hills-Water (800 X 800) 113a1.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Hills-Water (800 X 800) 113a2.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Hills-Water (800 X 800) 113p.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Hills-Water (848 X 480) 134m.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Hills-Water (848 X 480) 135a1.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Hills-Water (848 X 480) 135a2.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Hills-Water (848 X 480) 135p.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Hofen (2672 X 1200) 087a1.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Hofen (2672 X 1200) 087a2.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Hofen (2672 X 1200) 087p.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Hot Time In Hatten 165a.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Hot Time In Hatten 165b.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Hot Time In Hatten 165p.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Huge Forest-Rough (2144 X 1920) 056a1.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Huge Forest-Rough (2144 X 1920) 056a2.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Huge Forest-Rough (2144 X 1920) 056p.btt" stock="y"/>
-	<scenario author="information unavailable" filename="La Gleize (1600 X 2000) 094m.btt" stock="y"/>
-	<scenario author="information unavailable" filename="La Gleize (1600 X 2000) 095a1.btt" stock="y"/>
-	<scenario author="information unavailable" filename="La Gleize (1600 X 2000) 095a2.btt" stock="y"/>
-	<scenario author="information unavailable" filename="La Gleize (1600 X 2000) 095p.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Lanzerath (1568 X 1200) 153a1.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Lanzerath (1568 X 1200) 153a2.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Lanzerath (1568 X 1200) 153p.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Lutrebois (1472 X 1088) 158a1.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Lutrebois (1472 X 1088) 158a2.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Lutrebois (1472 X 1088) 158p.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Marnach (1712 X 1504) 131a1.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Marnach (1712 X 1504) 131a2.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Marnach (1712 X 1504) 131p.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Meijel Mayhem (2704 X 1744) 180m.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Monschau (2400 X 1200) 086a1.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Monschau (2400 X 1200) 086a2.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Monschau (2400 X 1200) 086p.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Noville (1200 X 1200) 167a1.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Noville (1200 X 1200) 167a2.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Noville (1200 X 1200) 167p.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Noville (2000 X 2000) 168m.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Open (1056 X 1088) 126a1.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Open (1056 X 1088) 126a2.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Open (1056 X 1088) 126p.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Open-Forest (1008 X 800) 003a1.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Open-Forest (1008 X 800) 003a2.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Open-Forest (1008 X 800) 003p.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Open-Forest (1008 X 800) 004m.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Open-Forest (704 X 912) 011m.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Open-Forest (704 X 912) 012a1.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Open-Forest (704 X 912) 012a2.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Open-Forest (704 X 912) 012p.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Open-Forest (800 X 512) 017a1.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Open-Forest (800 X 512) 017a2.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Open-Forest (800 X 512) 017p.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Open-Forest (800 X 512) 018m.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Open-Forest (800 X 800) 173m.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Open-Hills (1008 X 1120) 008m.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Open-Rural (1552 X 640) 099m.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Open-Rural (576 X 912) 049m.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Open-Rural (576 X 912) 070m.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Open-Rural (576 X 912) 071a1.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Open-Rural (576 X 912) 071a2.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Open-Rural (576 X 912) 071p.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Open-Rural (688 X 1072) 024m.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Open-Rural (753 X 496) 072m.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Open-Rural (753 X 496) 073a1.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Open-Rural (753 X 496) 073a2.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Open-Rural (753 X 496) 073p.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Open-Rural (800 X 608) 023m.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Open-Rural-Damaged (800 X 608) 026m.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Open-Village (1232 X 784) 050a1.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Open-Village (1232 X 784) 050a2.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Open-Village (1232 X 784) 050p.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Open-Village (1232 X 784) 051m.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Open-Village (560 X 672) 194m.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Open-Village (832 X 400) 196m.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Open-Village (895 X 1200) 106a1.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Open-Village (895 X 1200) 106a2.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Open-Village (895 X 1200) 106p.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Open-Water (688 X 1072) 109a1.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Open-Water (688 X 1072) 109a2.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Open-Water (688 X 1072) 109p.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Poteau (1104 X 1056) 088m.btt" stock="y"/>
-	<scenario author="information unavailable" filename="River of Blood (1280 X 1008) 090a1.btt" stock="y"/>
-	<scenario author="information unavailable" filename="River of Blood (1280 X 1008) 090a2.btt" stock="y"/>
-	<scenario author="information unavailable" filename="River of Blood (1280 X 1008) 090p.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Rocherath &amp; Krinkelt (1808 X 2304) 089a1.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Rocherath &amp; Krinkelt (1808 X 2304) 089a2.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Rocherath &amp; Krinkelt (1808 X 2304) 089p.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Rough-Forest-Water (1200 X 1200) 198m.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Rough-Hills-Water (656 X 512) 124m.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Rough-Hills-Water (656 X 512) 125a1.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Rough-Hills-Water (656 X 512) 125a2.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Rough-Hills-Water (656 X 512) 125p.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Rough-Hills-Water (944 X 560) 068a1.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Rough-Hills-Water (944 X 560) 068a2.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Rough-Hills-Water (944 X 560) 068p.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Rough-Town (1040 X 960) 130a1.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Rough-Town (1040 X 960) 130a2.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Rough-Town (1040 X 960) 130p.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Rough-Town-Water (1168 X 704) 044a1.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Rough-Town-Water (1168 X 704) 044a2.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Rough-Town-Water (1168 X 704) 044p.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Rough-Town-Water (1408 X 704) 045m.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Rough-Town-Water-Damaged (1168 X 704) 046a1.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Rough-Town-Water-Damaged (1168 X 704) 046a2.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Rough-Town-Water-Damaged (1168 X 704) 046p.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Rough-Town-Water-Damaged (1408 X 704) 047m.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Rough-Village (1120 X 1120) 129a1.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Rough-Village (1120 X 1120) 129a2.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Rough-Village (1120 X 1120) 129p.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Schmidt (688 X 1008) 155m.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Singling (1008 X 684) 154a1.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Singling (1008 X 684) 154a2.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Singling (1008 X 684) 154p.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Small City (224 X 512) 174a1.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Small City (224 X 512) 174a2.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Small City (224 X 512) 174p.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Small City (512 X 304) 121m.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Small City-Damage (512 X 304) 152m.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Small Forest (544 X 560) 115m.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Small Forest (544 X 560) 116a1.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Small Forest (544 X 560) 116a2.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Small Forest (544 X 560) 116p.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Small Forest-Hills (576 X 528) 142m.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Small Forest-Hills (608 X 512) 013a1.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Small Forest-Hills (608 X 512) 013a2.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Small Forest-Hills (608 X 512) 013p.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Small Forest-Hills-Damaged (608 X 512) 014a1.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Small Forest-Hills-Damaged (608 X 512) 014a2.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Small Forest-Hills-Damaged (608 X 512) 014p.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Small Forest-Rural (400 X 608) 184m.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Small Forest-Rural (448 X 368) 111a1.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Small Forest-Rural (448 X 368) 111a2.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Small Forest-Rural (448 X 368) 111p.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Small Hills-Rural (512 X 400) 073m.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Small Hills-Rural (512 X 400) 074a1.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Small Hills-Rural (512 X 400) 074a2.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Small Hills-Rural (512 X 400) 074p.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Small Hills-Water (576 X 528) 118m.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Small Hills-Water (576 X 528) 119a1.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Small Hills-Water (576 X 528) 119a2.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Small Hills-Water (576 X 528) 119p.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Small Open (608 x 400) 179m.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Small Open-Forest (320 X 512) 020a1.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Small Open-Forest (320 X 512) 020a2.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Small Open-Forest (320 X 512) 020p.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Small Open-Rural (576 X 720) 117m.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Small Open-Rural (576 X 720) 118a1.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Small Open-Rural (576 X 720) 118a2.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Small Open-Rural (576 X 720) 118p.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Small Rough-Hills-Water (400 X 608) 159a1.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Small Rough-Hills-Water (400 X 608) 159a2.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Small Rough-Hills-Water (400 X 608) 159p.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Small Rough-Water (704 X 496) 102m.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Small Rough-Water (704 X 496) 103a1.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Small Rough-Water (704 X 496) 103a2.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Small Rough-Water (704 X 496) 103p.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Small Town (384 X 592) 075m.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Small Town (384 X 592) 076a1.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Small Town (384 X 592) 076a2.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Small Town (384 X 592) 076p.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Small Town (400 X 640) 069a1.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Small Town (400 X 640) 069a2.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Small Town (400 X 640) 069p.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Small Town (544 X 672) 077m.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Small Town-Damaged (544 X 672) 078m.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Small Village (496 X 496) 082m.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Small Village (544 X 672) 032m.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Small Village-Damaged (544 X 672) 033m.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Small Village-Forest (448 X 480) 188m.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Small Village-Hills (384 x 592) 146m.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Small Village-Hills (384 x 592) 147a1.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Small Village-Hills (384 x 592) 147a2.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Small Village-Hills (384 x 592) 147p.btt" stock="y"/>
-	<scenario author="information unavailable" filename="St Vith (2000 X 2544) 097a1.btt" stock="y"/>
-	<scenario author="information unavailable" filename="St Vith (2000 X 2544) 097a2.btt" stock="y"/>
-	<scenario author="information unavailable" filename="St Vith (2000 X 2544) 097p.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Stavelot (1040 X 2000) 080m.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Stavelot (2000 X 1200) 063a1.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Stavelot (2000 X 1200) 063a2.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Stavelot (2000 X 1200) 063p.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Stavelot Town (688 X 656) 181m.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Stoumont (1584 X 1344) 093a1.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Stoumont (1584 X 1344) 093a2.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Stoumont (1584 X 1344) 093p.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Tiny City (336 X 352) 191m.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Tiny City Damaged (416 X 432) 202m.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Tiny City-Damaged (336 X 512) 105a1.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Tiny City-Damaged (336 X 512) 105a2.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Tiny City-Damaged (336 X 512) 105p.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Tiny City-Damaged (336 X 512) 190m.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Tiny Forest (400 X 512) 112a1.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Tiny Forest (400 X 512) 112a2.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Tiny Forest (400 X 512) 112p.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Tiny Forest-Rough (336 X 352) 192m.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Tiny Hills (400 X 352) 199m.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Tiny Hills-Damage (480 X 480) 151m.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Tiny Open (304 X 304) 200m.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Tiny Open-Forest (320 X 512) 034a1.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Tiny Open-Forest (320 X 512) 034a2.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Tiny Open-Forest (320 X 512) 034p.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Tiny Open-Forest-Damaged (320 X 512) 035a1.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Tiny Open-Forest-Damaged (320 X 512) 035a2.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Tiny Open-Forest-Damaged (320 X 512) 035p.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Tiny Open-Rural (528 X 384) 100m.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Tiny Rough-Hills-Water (400 X 512) 160a1.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Tiny Rough-Hills-Water (400 X 512) 160a2.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Tiny Rough-Hills-Water (400 X 512) 160p.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Tiny Rough-Water (240 X 208) 152a1.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Tiny Rough-Water (240 X 208) 152a2.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Tiny Rough-Water (240 X 208) 152p.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Tiny Village (480 X 480) 104m.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Tiny Village (528 X 384) 101a1.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Tiny Village (528 X 384) 101a2.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Tiny Village (528 X 384) 101p.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Tiny Village-Damage (480 X 480) 030m.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Tiny Village-Damaged (480 X 480) 031m.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Tiny Village-Hills (288 X 640) 110a1.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Tiny Village-Hills (288 X 640) 110a2.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Tiny Village-Hills (288 X 640) 110p.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Tiny Village-Water (288 X 640) 187m.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Tiny Village-Water-Damaged (288 X 640) 201m.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Town (336 X 672) 197m.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Town (752 X 672) 079a1.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Town (752 X 672) 079a2.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Town (752 X 672) 079p.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Town-Damage (1104 X 1200) 132m.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Town-Damage (1104 X 1200) 133a1.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Town-Damage (1104 X 1200) 133a2.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Town-Damage (1104 X 1200) 133p.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Town-Forest (768 X 560) 037a1.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Town-Forest (768 X 560) 037a2.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Town-Forest (768 X 560) 037p.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Town-Forest-Damaged (768 X 560) 039a1.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Town-Forest-Damaged (768 X 560) 039a2.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Town-Forest-Damaged (768 X 560) 039p.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Town-Forest-Damaged (800 X 608) 047a1.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Town-Forest-Damaged (800 X 608) 047a2.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Town-Forest-Damaged (800 X 608) 047p.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Town-Hills (704 X 704) 172a1.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Town-Hills (704 X 704) 172a2.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Town-Hills (704 X 704) 172p.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Town-Rural (400 X 640) 036a1.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Town-Rural (400 X 640) 036a2.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Town-Rural (400 X 640) 036p.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Town-Rural-Damaged (400 X 640) 038a1.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Town-Rural-Damaged (400 X 640) 038a2.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Town-Rural-Damaged (400 X 640) 038p.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Town-Water (1408 X 1152) 042m.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Town-Water (800 X 608) 144m.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Town-Water (800 X 608) 145a1.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Town-Water (800 X 608) 145a2.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Town-Water (800 X 608) 145p.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Town-Water-Damaged (1408 X 1152) 043m.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Verdenne (1376 X 1008) 019a1.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Verdenne (1376 X 1008) 019a2.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Verdenne (1376 X 1008) 019p.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Village Forest-Water (560 X 656) 170a1.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Village Forest-Water (560 X 656) 170a2.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Village Forest-Water (560 X 656) 170p.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Village Forest-Water (704 X 800) 171m.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Village-Forest (592 X 1008) 139m.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Village-Forest (800 X 640) 195m.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Village-Forest-Damanged (800 X 1072) 041a1.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Village-Forest-Damanged (800 X 1072) 041a2.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Village-Forest-Damanged (800 X 1072) 041p.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Village-Forest-Water (800 X 1072) 040a1.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Village-Forest-Water (800 X 1072) 040a2.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Village-Forest-Water (800 X 1072) 040p.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Village-Hills (1008 X 1200) 007a1.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Village-Hills (1008 X 1200) 007a2.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Village-Hills (1008 X 1200) 007p.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Village-Hills (672 X 560) 053a1.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Village-Hills (672 X 560) 053a2.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Village-Hills (672 X 560) 053p.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Village-Hills-Damage (672 X 560) 054a1.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Village-Hills-Damage (672 X 560) 054a2.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Village-Hills-Damage (672 X 560) 054p.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Village-Open (736 X 912) 140a1.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Village-Open (736 X 912) 140a2.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Village-Open (736 X 912) 140m.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Village-Open (736 X 912) 140p.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Village-Open (736 X 912) 150m.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Village-Open (800 X 688) 136m.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Village-Open-Damage (736 X 912) 148a1.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Village-Open-Damage (736 X 912) 148a2.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Village-Open-Damage (736 X 912) 148p.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Village-Open-Damage (736 X 912) 149m.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Village-Rough (560 X 672) 193m.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Village-Rural (928 X 544) 048m.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Village-Water (560 X 1072) 025a1.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Village-Water (560 X 1072) 025a2.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Village-Water (560 X 1072) 025p.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Village-Water (576 X 720) 028a1.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Village-Water (576 X 720) 028a2.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Village-Water (576 X 720) 028p.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Village-Water-Damaged (560 X 1072) 027a1.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Village-Water-Damaged (560 X 1072) 027a2.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Village-Water-Damaged (560 X 1072) 027p.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Village-Water-Damaged (576 X 720) 029a1.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Village-Water-Damaged (576 X 720) 029a2.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Village-Water-Damaged (576 X 720) 029p.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Wax Museum (2800 X 1696) 164a.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Wax Museum (2800 X 1696) 164b.btt" stock="y"/>
-	<scenario author="information unavailable" filename="Wax Museum (2800 X 1696) 164p.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="!WachtAmRhein-1.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="A December Morning 182m.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Aachen (1200 X 1040) 156a1.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Aachen (1200 X 1040) 156a2.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Aachen (1200 X 1040) 156p.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Aachen-Mid City (400 X 400) 161m.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Aachen-Ostfriedhof Cemetery 176m.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Aachen-The Factories 175m.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Baraque de Fraiture (1168 X 1456) 163a.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Baraque de Fraiture (1168 X 1456) 163b.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Baraque de Fraiture (1168 X 1456) 163p.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Break the Siege (1008 X 1008) 081a1.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Break the Siege (1008 X 1008) 081a2.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Break the Siege (1008 X 1008) 081p.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Breaking The Line (672 X 512) 084m.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Breaking The Line (672 X 512) 168a1.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Breaking The Line (672 X 512) 168a2.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Breaking The Line (672 X 512) 168p.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Chaumont (2064 X 2048) 096a1.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Chaumont (2064 X 2048) 096a2.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Chaumont (2064 X 2048) 096p.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Cheneux (1696 X 752) 083a1.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Cheneux (1696 X 752) 083a2.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Cheneux (1696 X 752) 083p.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="City (400 X 336) 120a1.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="City (400 X 336) 120a2.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="City (400 X 336) 120p.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="City (832 X 800) 057a1.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="City (832 X 800) 057a2.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="City (832 X 800) 057p.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="City (832 X 800) 058m.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="City-Damaged (832 X 800) 055a1.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="City-Damaged (832 X 800) 055a2.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="City-Damaged (832 X 800) 055p.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="City-Damaged (832 X 800) 059m.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="City-Damaged (832 X 800) 060a1.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="City-Damaged (832 X 800) 060a2.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="City-Damaged (832 X 800) 060p.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="City-Damaged (912 X 512) 064a1.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="City-Damaged (912 X 512) 064a2.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="City-Damaged (912 X 512) 064p.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="City-Damaged (912 X 512) 065m.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="City-Damaged (976 X 544) 061a1.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="City-Damaged (976 X 544) 061a2.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="City-Damaged (976 X 544) 061p.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="City-Damaged (976 X 544) 062 m.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="City-Water (912 X 800) 066a1.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="City-Water (912 X 800) 066a2.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="City-Water (912 X 800) 066p.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="City-Water (912 X 800) 067m.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="CMBO Chance Encounter (832 X 800) 113m.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="CMBO Classic Riesberg (544 X 688) 189m.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="CMBO Classic Riesberg (912 X 688) 186a1.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="CMBO Classic Riesberg (912 X 688) 186a2.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="CMBO Classic Riesberg (912 X 688) 186p.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="CMBO Classic Wiltz (960 X 880) 052m.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="CMBO Classic Wiltz (960 X 880) 098a1.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="CMBO Classic Wiltz (960 X 880) 098a2.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="CMBO Classic Wiltz (960 X 880) 098p.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="CMBO Classic Wiltz-Revised (1152 X 960) 185m.btt" stock="y"/>
+    <scenario author="benpark" filename="DF Elsdorf (1280x1040) Assault.btt" stock="y"/>
+    <scenario author="benpark" filename="DF Elsdorf (1280x1040) Attack.btt" stock="y"/>
+    <scenario author="benpark" filename="DF Elsdorf (1280x1040) Probe.btt" stock="y"/>
+    <scenario author="benpark" filename="DF Elsdorf (1920x1920) ME.btt" stock="y"/>
+    <scenario author="benpark" filename="DF Elsfdorf North (1920x1360) Assault.btt" stock="y"/>
+    <scenario author="benpark" filename="DF Elsfdorf North (1920x1360) Attack.btt" stock="y"/>
+    <scenario author="benpark" filename="DF Elsfdorf North (1920x1360) Probe.btt" stock="y"/>
+    <scenario author="benpark" filename="DF Erft Kanal (1200x1488) Assault.btt" stock="y"/>
+    <scenario author="benpark" filename="DF Erft Kanal (1200x1488) Attack.btt" stock="y"/>
+    <scenario author="benpark" filename="DF Erft Kanal (1200x1488) Probe.btt" stock="y"/>
+    <scenario author="benpark" filename="DF Erft Kanal (2608x2608) ME.btt" stock="y"/>
+    <scenario author="benpark" filename="DF Grouvin (1728x1728) Assault.btt" stock="y"/>
+    <scenario author="benpark" filename="DF Grouvin (1728x1728) Attack.btt" stock="y"/>
+    <scenario author="benpark" filename="DF Grouvin (1728x1728) Probe.btt" stock="y"/>
+    <scenario author="benpark" filename="DF Heister (1168x736) Assault.btt" stock="y"/>
+    <scenario author="benpark" filename="DF Heister (1168x736) Attack.btt" stock="y"/>
+    <scenario author="benpark" filename="DF Heister (1168x736) Probe.btt" stock="y"/>
+    <scenario author="benpark" filename="DF Heister (1648x1696) ME.btt" stock="y"/>
+    <scenario author="benpark" filename="DF Koln (1920x592) ME.btt" stock="y"/>
+    <scenario author="benpark" filename="DF Koln (960x1008) Assault.btt" stock="y"/>
+    <scenario author="benpark" filename="DF Koln (960x1008) Attack.btt" stock="y"/>
+    <scenario author="benpark" filename="DF Koln (960x1008) Probe.btt" stock="y"/>
+    <scenario author="benpark" filename="DF Kranenburg (1024x1200) Assault.btt" stock="y"/>
+    <scenario author="benpark" filename="DF Kranenburg (1024x1200) Attack.btt" stock="y"/>
+    <scenario author="benpark" filename="DF Kranenburg (1024x1200) Probe.btt" stock="y"/>
+    <scenario author="benpark" filename="DF Kranenburg (1472x1472) ME.btt" stock="y"/>
+    <scenario author="benpark" filename="DF Kranenburg Fields (2182x720) Assault.btt" stock="y"/>
+    <scenario author="benpark" filename="DF Kranenburg Fields (2182x720) Attack.btt" stock="y"/>
+    <scenario author="benpark" filename="DF Kranenburg Fields (2182x720) Probe.btt" stock="y"/>
+    <scenario author="benpark" filename="DF Kranenburg Fields (3936x720) ME.btt" stock="y"/>
+    <scenario author="benpark" filename="DF Metal on Metal (2272x1856) ME.btt" stock="y"/>
+    <scenario author="benpark" filename="DF Montebourg (1600x1520) Assault.btt" stock="y"/>
+    <scenario author="benpark" filename="DF Montebourg (1600x1520) Attack.btt" stock="y"/>
+    <scenario author="benpark" filename="DF Montebourg (1600x1520) Probe.btt" stock="y"/>
+    <scenario author="benpark" filename="DF Reichswald (912x1184) Assault.btt" stock="y"/>
+    <scenario author="benpark" filename="DF Reichswald (912x1184) Attack.btt" stock="y"/>
+    <scenario author="benpark" filename="DF Reichswald (912x1184) Probe.btt" stock="y"/>
+    <scenario author="benpark" filename="DF Remagen (1552x1920) Assault.btt" stock="y"/>
+    <scenario author="benpark" filename="DF Remagen (1552x1920) Attack.btt" stock="y"/>
+    <scenario author="benpark" filename="DF Remagen (1552x1920) Probe.btt" stock="y"/>
+    <scenario author="benpark" filename="DF Rethem (2544x1728) Assault.btt" stock="y"/>
+    <scenario author="benpark" filename="DF Rethem (2544x1728) Attack.btt" stock="y"/>
+    <scenario author="benpark" filename="DF Rethem (2544x1728) Probe.btt" stock="y"/>
+    <scenario author="benpark" filename="DF Stommeln (1248x1008) Assault.btt" stock="y"/>
+    <scenario author="benpark" filename="DF Stommeln (1248x1008) Attack.btt" stock="y"/>
+    <scenario author="benpark" filename="DF Stommeln (1248x1008) Probe.btt" stock="y"/>
+    <scenario author="benpark" filename="DF Wohlendorf (1040x1040) Assault.btt" stock="y"/>
+    <scenario author="benpark" filename="DF Wohlendorf (1040x1040) Attack.btt" stock="y"/>
+    <scenario author="benpark" filename="DF Wohlendorf (1040x1040) Probe.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Custer's Stand (1952 X 1280) 085a1.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Custer's Stand (1952 X 1280) 085a2.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Custer's Stand (1952 X 1280) 085p.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Cutline (800 X 800) 157m.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Ferme Diedenhove (1008 X 1072) 009a1.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Ferme Diedenhove (1008 X 1072) 009a2.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Ferme Diedenhove (1008 X 1072) 009p.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Ferme Diedenhove (1008 X 1072) 010m.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Forest-Rough (608 X 672) 178m.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Forest-Rough (912 X 800) 183m.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Forest-Rural (800 X 624) 108a1.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Forest-Rural (800 X 624) 108a2.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Forest-Rural (800 X 624) 108p.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Forest-Rural (832 X 496) 143m.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Foy (1072 X 1200) 166a1.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Foy (1072 X 1200) 166a2.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Foy (1072 X 1200) 166p.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Hamlet Grosshau 169a1.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Hamlet Grosshau 169a2.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Hamlet Grosshau 169p.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Hills-Forest (1504 X 1200) 107a1.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Hills-Forest (1504 X 1200) 107a2.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Hills-Forest (1504 X 1200) 107p.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Hills-Forest-Water (608 X 400) 162m.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Hills-Forest-Water (704 X 912) 006m.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Hills-Rural (656 X 608) 138m.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Hills-Rural (736 X 1008) 122m.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Hills-Rural (736 X 1008) 123a1.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Hills-Rural (736 X 1008) 123a2.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Hills-Rural (736 X 1008) 123p.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Hills-Rural (896 X 464) 137m.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Hills-Town-Water (1120 X 736) 021a1.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Hills-Town-Water (1120 X 736) 021a2.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Hills-Town-Water (1120 X 736) 021p.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Hills-Town-Water-Damaged (1120 X 736) 022a1.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Hills-Town-Water-Damaged (1120 X 736) 022a2.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Hills-Town-Water-Damaged (1120 X 736) 022p.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Hills-Village (1008 X 1120) 002m.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Hills-Village (1200 X 1200) 001a1.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Hills-Village (1200 X 1200) 001a2.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Hills-Village (1200 X 1200) 001p.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Hills-Village-Damage (1008 X 1120) 015m.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Hills-Village-Damage (1200 X1200) 016a1.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Hills-Village-Damage (1200 X1200) 016a2.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Hills-Village-Damage (1200 X1200) 016p.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Hills-Water (1040 X 960) 127a1.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Hills-Water (1040 X 960) 127a2.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Hills-Water (1040 X 960) 127p.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Hills-Water (1040 X 960) 128m.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Hills-Water (704 X 912) 005a1.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Hills-Water (704 X 912) 005a2.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Hills-Water (704 X 912) 005p.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Hills-Water (800 X 800) 113a1.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Hills-Water (800 X 800) 113a2.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Hills-Water (800 X 800) 113p.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Hills-Water (848 X 480) 134m.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Hills-Water (848 X 480) 135a1.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Hills-Water (848 X 480) 135a2.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Hills-Water (848 X 480) 135p.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Hofen (2672 X 1200) 087a1.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Hofen (2672 X 1200) 087a2.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Hofen (2672 X 1200) 087p.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Hot Time In Hatten 165a.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Hot Time In Hatten 165b.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Hot Time In Hatten 165p.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Huge Forest-Rough (2144 X 1920) 056a1.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Huge Forest-Rough (2144 X 1920) 056a2.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Huge Forest-Rough (2144 X 1920) 056p.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="La Gleize (1600 X 2000) 094m.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="La Gleize (1600 X 2000) 095a1.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="La Gleize (1600 X 2000) 095a2.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="La Gleize (1600 X 2000) 095p.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Lanzerath (1568 X 1200) 153a1.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Lanzerath (1568 X 1200) 153a2.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Lanzerath (1568 X 1200) 153p.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Lutrebois (1472 X 1088) 158a1.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Lutrebois (1472 X 1088) 158a2.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Lutrebois (1472 X 1088) 158p.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Marnach (1712 X 1504) 131a1.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Marnach (1712 X 1504) 131a2.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Marnach (1712 X 1504) 131p.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Meijel Mayhem (2704 X 1744) 180m.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Monschau (2400 X 1200) 086a1.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Monschau (2400 X 1200) 086a2.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Monschau (2400 X 1200) 086p.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Noville (1200 X 1200) 167a1.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Noville (1200 X 1200) 167a2.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Noville (1200 X 1200) 167p.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Noville (2000 X 2000) 168m.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Open (1056 X 1088) 126a1.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Open (1056 X 1088) 126a2.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Open (1056 X 1088) 126p.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Open-Forest (1008 X 800) 003a1.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Open-Forest (1008 X 800) 003a2.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Open-Forest (1008 X 800) 003p.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Open-Forest (1008 X 800) 004m.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Open-Forest (704 X 912) 011m.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Open-Forest (704 X 912) 012a1.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Open-Forest (704 X 912) 012a2.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Open-Forest (704 X 912) 012p.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Open-Forest (800 X 512) 017a1.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Open-Forest (800 X 512) 017a2.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Open-Forest (800 X 512) 017p.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Open-Forest (800 X 512) 018m.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Open-Forest (800 X 800) 173m.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Open-Hills (1008 X 1120) 008m.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Open-Rural (1552 X 640) 099m.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Open-Rural (576 X 912) 049m.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Open-Rural (576 X 912) 070m.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Open-Rural (576 X 912) 071a1.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Open-Rural (576 X 912) 071a2.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Open-Rural (576 X 912) 071p.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Open-Rural (688 X 1072) 024m.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Open-Rural (753 X 496) 072m.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Open-Rural (753 X 496) 073a1.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Open-Rural (753 X 496) 073a2.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Open-Rural (753 X 496) 073p.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Open-Rural (800 X 608) 023m.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Open-Rural-Damaged (800 X 608) 026m.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Open-Village (1232 X 784) 050a1.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Open-Village (1232 X 784) 050a2.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Open-Village (1232 X 784) 050p.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Open-Village (1232 X 784) 051m.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Open-Village (560 X 672) 194m.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Open-Village (832 X 400) 196m.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Open-Village (895 X 1200) 106a1.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Open-Village (895 X 1200) 106a2.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Open-Village (895 X 1200) 106p.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Open-Water (688 X 1072) 109a1.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Open-Water (688 X 1072) 109a2.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Open-Water (688 X 1072) 109p.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Poteau (1104 X 1056) 088m.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="River of Blood (1280 X 1008) 090a1.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="River of Blood (1280 X 1008) 090a2.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="River of Blood (1280 X 1008) 090p.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Rocherath &amp; Krinkelt (1808 X 2304) 089a1.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Rocherath &amp; Krinkelt (1808 X 2304) 089a2.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Rocherath &amp; Krinkelt (1808 X 2304) 089p.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Rough-Forest-Water (1200 X 1200) 198m.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Rough-Hills-Water (656 X 512) 124m.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Rough-Hills-Water (656 X 512) 125a1.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Rough-Hills-Water (656 X 512) 125a2.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Rough-Hills-Water (656 X 512) 125p.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Rough-Hills-Water (944 X 560) 068a1.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Rough-Hills-Water (944 X 560) 068a2.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Rough-Hills-Water (944 X 560) 068p.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Rough-Town (1040 X 960) 130a1.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Rough-Town (1040 X 960) 130a2.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Rough-Town (1040 X 960) 130p.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Rough-Town-Water (1168 X 704) 044a1.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Rough-Town-Water (1168 X 704) 044a2.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Rough-Town-Water (1168 X 704) 044p.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Rough-Town-Water (1408 X 704) 045m.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Rough-Town-Water-Damaged (1168 X 704) 046a1.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Rough-Town-Water-Damaged (1168 X 704) 046a2.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Rough-Town-Water-Damaged (1168 X 704) 046p.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Rough-Town-Water-Damaged (1408 X 704) 047m.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Rough-Village (1120 X 1120) 129a1.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Rough-Village (1120 X 1120) 129a2.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Rough-Village (1120 X 1120) 129p.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Schmidt (688 X 1008) 155m.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Singling (1008 X 684) 154a1.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Singling (1008 X 684) 154a2.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Singling (1008 X 684) 154p.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Small City (224 X 512) 174a1.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Small City (224 X 512) 174a2.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Small City (224 X 512) 174p.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Small City (512 X 304) 121m.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Small City-Damage (512 X 304) 152m.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Small Forest (544 X 560) 115m.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Small Forest (544 X 560) 116a1.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Small Forest (544 X 560) 116a2.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Small Forest (544 X 560) 116p.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Small Forest-Hills (576 X 528) 142m.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Small Forest-Hills (608 X 512) 013a1.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Small Forest-Hills (608 X 512) 013a2.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Small Forest-Hills (608 X 512) 013p.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Small Forest-Hills-Damaged (608 X 512) 014a1.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Small Forest-Hills-Damaged (608 X 512) 014a2.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Small Forest-Hills-Damaged (608 X 512) 014p.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Small Forest-Rural (400 X 608) 184m.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Small Forest-Rural (448 X 368) 111a1.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Small Forest-Rural (448 X 368) 111a2.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Small Forest-Rural (448 X 368) 111p.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Small Hills-Rural (512 X 400) 073m.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Small Hills-Rural (512 X 400) 074a1.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Small Hills-Rural (512 X 400) 074a2.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Small Hills-Rural (512 X 400) 074p.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Small Hills-Water (576 X 528) 118m.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Small Hills-Water (576 X 528) 119a1.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Small Hills-Water (576 X 528) 119a2.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Small Hills-Water (576 X 528) 119p.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Small Open (608 x 400) 179m.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Small Open-Forest (320 X 512) 020a1.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Small Open-Forest (320 X 512) 020a2.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Small Open-Forest (320 X 512) 020p.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Small Open-Rural (576 X 720) 117m.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Small Open-Rural (576 X 720) 118a1.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Small Open-Rural (576 X 720) 118a2.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Small Open-Rural (576 X 720) 118p.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Small Rough-Hills-Water (400 X 608) 159a1.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Small Rough-Hills-Water (400 X 608) 159a2.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Small Rough-Hills-Water (400 X 608) 159p.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Small Rough-Water (704 X 496) 102m.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Small Rough-Water (704 X 496) 103a1.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Small Rough-Water (704 X 496) 103a2.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Small Rough-Water (704 X 496) 103p.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Small Town (384 X 592) 075m.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Small Town (384 X 592) 076a1.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Small Town (384 X 592) 076a2.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Small Town (384 X 592) 076p.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Small Town (400 X 640) 069a1.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Small Town (400 X 640) 069a2.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Small Town (400 X 640) 069p.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Small Town (544 X 672) 077m.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Small Town-Damaged (544 X 672) 078m.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Small Village (496 X 496) 082m.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Small Village (544 X 672) 032m.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Small Village-Damaged (544 X 672) 033m.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Small Village-Forest (448 X 480) 188m.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Small Village-Hills (384 x 592) 146m.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Small Village-Hills (384 x 592) 147a1.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Small Village-Hills (384 x 592) 147a2.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Small Village-Hills (384 x 592) 147p.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="St Vith (2000 X 2544) 097a1.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="St Vith (2000 X 2544) 097a2.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="St Vith (2000 X 2544) 097p.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Stavelot (1040 X 2000) 080m.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Stavelot (2000 X 1200) 063a1.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Stavelot (2000 X 1200) 063a2.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Stavelot (2000 X 1200) 063p.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Stavelot Town (688 X 656) 181m.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Stoumont (1584 X 1344) 093a1.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Stoumont (1584 X 1344) 093a2.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Stoumont (1584 X 1344) 093p.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Tiny City (336 X 352) 191m.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Tiny City Damaged (416 X 432) 202m.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Tiny City-Damaged (336 X 512) 105a1.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Tiny City-Damaged (336 X 512) 105a2.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Tiny City-Damaged (336 X 512) 105p.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Tiny City-Damaged (336 X 512) 190m.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Tiny Forest (400 X 512) 112a1.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Tiny Forest (400 X 512) 112a2.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Tiny Forest (400 X 512) 112p.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Tiny Forest-Rough (336 X 352) 192m.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Tiny Hills (400 X 352) 199m.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Tiny Hills-Damage (480 X 480) 151m.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Tiny Open (304 X 304) 200m.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Tiny Open-Forest (320 X 512) 034a1.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Tiny Open-Forest (320 X 512) 034a2.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Tiny Open-Forest (320 X 512) 034p.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Tiny Open-Forest-Damaged (320 X 512) 035a1.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Tiny Open-Forest-Damaged (320 X 512) 035a2.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Tiny Open-Forest-Damaged (320 X 512) 035p.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Tiny Open-Rural (528 X 384) 100m.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Tiny Rough-Hills-Water (400 X 512) 160a1.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Tiny Rough-Hills-Water (400 X 512) 160a2.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Tiny Rough-Hills-Water (400 X 512) 160p.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Tiny Rough-Water (240 X 208) 152a1.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Tiny Rough-Water (240 X 208) 152a2.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Tiny Rough-Water (240 X 208) 152p.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Tiny Village (480 X 480) 104m.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Tiny Village (528 X 384) 101a1.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Tiny Village (528 X 384) 101a2.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Tiny Village (528 X 384) 101p.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Tiny Village-Damage (480 X 480) 030m.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Tiny Village-Damaged (480 X 480) 031m.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Tiny Village-Hills (288 X 640) 110a1.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Tiny Village-Hills (288 X 640) 110a2.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Tiny Village-Hills (288 X 640) 110p.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Tiny Village-Water (288 X 640) 187m.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Tiny Village-Water-Damaged (288 X 640) 201m.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Town (336 X 672) 197m.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Town (752 X 672) 079a1.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Town (752 X 672) 079a2.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Town (752 X 672) 079p.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Town-Damage (1104 X 1200) 132m.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Town-Damage (1104 X 1200) 133a1.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Town-Damage (1104 X 1200) 133a2.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Town-Damage (1104 X 1200) 133p.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Town-Forest (768 X 560) 037a1.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Town-Forest (768 X 560) 037a2.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Town-Forest (768 X 560) 037p.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Town-Forest-Damaged (768 X 560) 039a1.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Town-Forest-Damaged (768 X 560) 039a2.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Town-Forest-Damaged (768 X 560) 039p.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Town-Forest-Damaged (800 X 608) 047a1.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Town-Forest-Damaged (800 X 608) 047a2.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Town-Forest-Damaged (800 X 608) 047p.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Town-Hills (704 X 704) 172a1.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Town-Hills (704 X 704) 172a2.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Town-Hills (704 X 704) 172p.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Town-Rural (400 X 640) 036a1.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Town-Rural (400 X 640) 036a2.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Town-Rural (400 X 640) 036p.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Town-Rural-Damaged (400 X 640) 038a1.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Town-Rural-Damaged (400 X 640) 038a2.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Town-Rural-Damaged (400 X 640) 038p.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Town-Water (1408 X 1152) 042m.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Town-Water (800 X 608) 144m.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Town-Water (800 X 608) 145a1.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Town-Water (800 X 608) 145a2.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Town-Water (800 X 608) 145p.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Town-Water-Damaged (1408 X 1152) 043m.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Verdenne (1376 X 1008) 019a1.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Verdenne (1376 X 1008) 019a2.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Verdenne (1376 X 1008) 019p.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Village Forest-Water (560 X 656) 170a1.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Village Forest-Water (560 X 656) 170a2.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Village Forest-Water (560 X 656) 170p.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Village Forest-Water (704 X 800) 171m.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Village-Forest (592 X 1008) 139m.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Village-Forest (800 X 640) 195m.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Village-Forest-Damanged (800 X 1072) 041a1.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Village-Forest-Damanged (800 X 1072) 041a2.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Village-Forest-Damanged (800 X 1072) 041p.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Village-Forest-Water (800 X 1072) 040a1.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Village-Forest-Water (800 X 1072) 040a2.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Village-Forest-Water (800 X 1072) 040p.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Village-Hills (1008 X 1200) 007a1.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Village-Hills (1008 X 1200) 007a2.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Village-Hills (1008 X 1200) 007p.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Village-Hills (672 X 560) 053a1.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Village-Hills (672 X 560) 053a2.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Village-Hills (672 X 560) 053p.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Village-Hills-Damage (672 X 560) 054a1.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Village-Hills-Damage (672 X 560) 054a2.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Village-Hills-Damage (672 X 560) 054p.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Village-Open (736 X 912) 140a1.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Village-Open (736 X 912) 140a2.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Village-Open (736 X 912) 140m.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Village-Open (736 X 912) 140p.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Village-Open (736 X 912) 150m.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Village-Open (800 X 688) 136m.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Village-Open-Damage (736 X 912) 148a1.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Village-Open-Damage (736 X 912) 148a2.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Village-Open-Damage (736 X 912) 148p.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Village-Open-Damage (736 X 912) 149m.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Village-Rough (560 X 672) 193m.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Village-Rural (928 X 544) 048m.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Village-Water (560 X 1072) 025a1.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Village-Water (560 X 1072) 025a2.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Village-Water (560 X 1072) 025p.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Village-Water (576 X 720) 028a1.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Village-Water (576 X 720) 028a2.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Village-Water (576 X 720) 028p.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Village-Water-Damaged (560 X 1072) 027a1.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Village-Water-Damaged (560 X 1072) 027a2.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Village-Water-Damaged (560 X 1072) 027p.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Village-Water-Damaged (576 X 720) 029a1.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Village-Water-Damaged (576 X 720) 029a2.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Village-Water-Damaged (576 X 720) 029p.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Wax Museum (2800 X 1696) 164a.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Wax Museum (2800 X 1696) 164b.btt" stock="y"/>
+	<scenario author="Mark Ezra" filename="Wax Museum (2800 X 1696) 164p.btt" stock="y"/>
     <scenario author="Mark Ezra" filename="Another Road To Wiltz V4-QB.btt">
         <urls_list>
             <downloadurl primary="y" who="Scenario Depot">https://www.thefewgoodmen.com/tsd3/cm-final-blitzkrieg/cm-final-blitzkrieg-maps/cmfb-v4-another-road-to-wiltz-scen-qb/</downloadurl>

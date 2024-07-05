@@ -57,8 +57,43 @@
     <scenario author="benpark" filename="FR Broken Shields.cam" stock="y"/>
     <scenario author="benpark" filename="FR Night at the Opera Axis.cam" stock="y"/>
     <scenario author="benpark" filename="FR Night at the Opera Soviet.cam" stock="y"/>
-    <scenario author="benpark" filename="FR The Battle of Tukums.cam" stock="y"/>
+    <scenario author="Ithikial_AU" filename="FR The Battle of Tukums.cam" stock="y"/>
     <scenario author="benpark" filename="FR To Berlin.cam" stock="y"/>
+    <scenario author="Mr.X" filename="CP SoD Chapter I Partisans Land.cam">
+        <additional_info>Download links for campaigns found on the community forum are the responsibility of the author. 
+        </additional_info>
+        <urls_list>
+            <downloadurl who="Battle Front Community">https://community.battlefront.com/topic/143421-first-fanmade-campaignpack-summer-of-destruction-is-released-no-charge/</downloadurl>
+        </urls_list>
+    </scenario>
+    <scenario author="Mr.X" filename="CP SoD Chapter II Into Hell.cam">
+        <additional_info>Download links for campaigns found on the community forum are the responsibility of the author. 
+        </additional_info>
+        <urls_list>
+            <downloadurl who="Battle Front Community">https://community.battlefront.com/topic/143421-first-fanmade-campaignpack-summer-of-destruction-is-released-no-charge/</downloadurl>
+        </urls_list>
+    </scenario>
+    <scenario author="Mr.X" filename="CP SoD Chapter III Our Father.cam">
+        <additional_info>Download links for campaigns found on the community forum are the responsibility of the author. 
+        </additional_info>
+        <urls_list>
+            <downloadurl who="Battle Front Community">https://community.battlefront.com/topic/143421-first-fanmade-campaignpack-summer-of-destruction-is-released-no-charge/</downloadurl>
+        </urls_list>
+    </scenario>
+    <scenario author="Mr.X" filename="CP SoD Chapter IV Five Bridges.cam">
+        <additional_info>Download links for campaigns found on the community forum are the responsibility of the author. 
+        </additional_info>
+        <urls_list>
+            <downloadurl who="Battle Front Community">https://community.battlefront.com/topic/143421-first-fanmade-campaignpack-summer-of-destruction-is-released-no-charge/</downloadurl>
+        </urls_list>
+    </scenario>
+    <scenario author="Mr.X" filename="CP SoD Chapter V Tiger Trail.cam">
+        <additional_info>Download links for campaigns found on the community forum are the responsibility of the author. 
+        </additional_info>
+        <urls_list>
+            <downloadurl who="Battle Front Community">https://community.battlefront.com/topic/143421-first-fanmade-campaignpack-summer-of-destruction-is-released-no-charge/</downloadurl>
+        </urls_list>
+    </scenario>
     
 <!-- 	<scenario author="" filename=""> -->
 <!-- 		<urls_list> -->

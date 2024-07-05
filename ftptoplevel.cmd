@@ -39,7 +39,7 @@ echo put *.png>> ftpcmd.dat
 
 echo bye>> ftpcmd.dat
 
-"c:\Program Files (x86)\WinSCP\WinSCP.com" /ini=null /log=sftp.log /script=ftpcmd.dat
+"c:\Program Files (x86)\WinSCP\WinSCP.com" /ini=nul /log=sftp.log /script=ftpcmd.dat
 del ftpcmd.dat
 
 :end

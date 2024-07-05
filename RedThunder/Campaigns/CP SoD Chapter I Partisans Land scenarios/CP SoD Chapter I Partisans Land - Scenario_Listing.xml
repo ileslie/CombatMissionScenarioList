@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="Listing_Layout.xsl" ?>
+
+<Scenario_Listing>
+
+   <Scenario_List>
+
+   <containing_campaign>CP SoD Chapter I Partisans Land</containing_campaign>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #05]</number_in_campaign>
+         <battle_title>PL Decision-Battle</battle_title>
+      </Title>
+      <filename>CP SoD Chapter I Partisans Land #05_PL Decision Battle</filename>
+      <picture_link>scenpics/CP SoD Chapter I Partisans Land5.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>Only useable as a decision-battle between two missions of the campaign &quot;Partisans Land&quot;</description>
+      <date>22/06/1944</date>
+      <time_of_day>12:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>00:10</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>0.043 Sq. km</map_area>
+         <map_width>208 m</map_width>
+         <map_depth>208 m</map_depth>
+      </Map_Size>
+      <region>Soviet Union</region>
+      <environment>Open</environment>
+      <weather>Clear</weather>
+      <temperature>Hot</temperature>
+      <ground_condition>Very Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMRT v2.10 to v2.13</game_version>
+      <Modules_Required>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>4</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #02]</number_in_campaign>
+         <battle_title>PL Belovs War</battle_title>
+      </Title>
+      <filename>CP SoD Chapter I Partisans Land #02_PL Belovs War</filename>
+      <picture_link>scenpics/CP SoD Chapter I Partisans Land2.bmp</picture_link>
+      <battle_type>Axis Attack</battle_type>
+      <description>03/06/1944 Partisans have captured the fortified village of Bor - the Rollbahn Lepel-Orscha is interrupted and Axis Forces will start a counter attack </description>
+      <date>22/06/1944</date>
+      <time_of_day>17:15</time_of_day>
+      <part_of_day>Dusk</part_of_day>
+      <length>03:00</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>1.452 Sq. km</map_area>
+         <map_width>1296 m</map_width>
+         <map_depth>1120 m</map_depth>
+      </Map_Size>
+      <region>Soviet Union</region>
+      <environment>Rough</environment>
+      <weather>Thick Haze</weather>
+      <temperature>Extreme Heat</temperature>
+      <ground_condition>Very Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMRT v2.10 to v2.13</game_version>
+      <Modules_Required>
+         <module1>Fire and Rubble</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #03]</number_in_campaign>
+         <battle_title>PL Ghost Forest</battle_title>
+      </Title>
+      <filename>CP SoD Chapter I Partisans Land #03_PL Ghost Forest</filename>
+      <picture_link>scenpics/CP SoD Chapter I Partisans Land3.bmp</picture_link>
+      <battle_type>Axis Attack</battle_type>
+      <description>05/06/1944 The new formed Kampfgruppe Gribner is ordered to fight its way into the dense forest south of the Lepel-Orscha Rollbahn</description>
+      <date>22/06/1944</date>
+      <time_of_day>06:00</time_of_day>
+      <part_of_day>Dawn</part_of_day>
+      <length>03:30</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>1.113 Sq. km</map_area>
+         <map_width>1008 m</map_width>
+         <map_depth>1104 m</map_depth>
+      </Map_Size>
+      <region>Soviet Union</region>
+      <environment>Forest</environment>
+      <weather>Thick Haze</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Damp</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMRT v2.10 to v2.13</game_version>
+      <Modules_Required>
+         <module1>Fire and Rubble</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #06]</number_in_campaign>
+         <battle_title>PL The Castle</battle_title>
+      </Title>
+      <filename>CP SoD Chapter I Partisans Land #06_PL The Castle</filename>
+      <picture_link>scenpics/CP SoD Chapter I Partisans Land6.bmp</picture_link>
+      <battle_type>Axis Attack</battle_type>
+      <description>07/06/1944 Kampfgruppe Gribner starts its final assault to destroy the partisans main camp deep in the forest south of the Lepel-Orscha Rollbahn</description>
+      <date>22/06/1944</date>
+      <time_of_day>10:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>04:00</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>1.064 Sq. km</map_area>
+         <map_width>1056 m</map_width>
+         <map_depth>1008 m</map_depth>
+      </Map_Size>
+      <region>Soviet Union</region>
+      <environment>Forest</environment>
+      <weather>Clear</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Wet</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMRT v2.10 to v2.13</game_version>
+      <Modules_Required>
+         <module1>Fire and Rubble</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #01]</number_in_campaign>
+         <battle_title>PL Bridge Guard</battle_title>
+      </Title>
+      <filename>CP SoD Chapter I Partisans Land #01_PL Bridge Guard</filename>
+      <picture_link>scenpics/CP SoD Chapter I Partisans Land1.bmp</picture_link>
+      <battle_type>Meeting Engagement</battle_type>
+      <description>02/06/1944 A Company of GR 279 meets attacking partisan units on the Rollbahn Lepel - Orscha</description>
+      <date>22/06/1944</date>
+      <time_of_day>18:45</time_of_day>
+      <part_of_day>Dusk</part_of_day>
+      <length>01:40</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>0.482 Sq. km</map_area>
+         <map_width>912 m</map_width>
+         <map_depth>528 m</map_depth>
+      </Map_Size>
+      <region>Soviet Union</region>
+      <environment>Rough</environment>
+      <weather>Thick Haze</weather>
+      <temperature>Hot</temperature>
+      <ground_condition>Very Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMRT v2.10 to v2.13</game_version>
+      <Modules_Required>
+         <module1>Fire and Rubble</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #00]</number_in_campaign>
+         <battle_title>PL Plane Crash</battle_title>
+      </Title>
+      <filename>CP SoD Chapter I Partisans Land #00_PL Plane Crash</filename>
+      <picture_link>scenpics/CP SoD Chapter I Partisans Land0.bmp</picture_link>
+      <battle_type>Meeting Engagement</battle_type>
+      <description>30/05/1944 A small Local Population Combat Unit is ordered to search and secure important documents at the scene of a plane crash</description>
+      <date>22/06/1944</date>
+      <time_of_day>06:30</time_of_day>
+      <part_of_day>Dawn</part_of_day>
+      <length>00:40</length>
+      <battle_size>Small</battle_size>
+      <Map_Size>
+         <map_area>0.102 Sq. km</map_area>
+         <map_width>320 m</map_width>
+         <map_depth>320 m</map_depth>
+      </Map_Size>
+      <region>Soviet Union</region>
+      <environment>Forest</environment>
+      <weather>Light Fog</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMRT v2.10 to v2.13</game_version>
+      <Modules_Required>
+         <module1>Fire and Rubble</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>3</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #08]</number_in_campaign>
+         <battle_title>PL Final Job</battle_title>
+      </Title>
+      <filename>CP SoD Chapter I Partisans Land #08_PL Final Job</filename>
+      <picture_link>scenpics/CP SoD Chapter I Partisans Land8.bmp</picture_link>
+      <battle_type>Meeting Engagement</battle_type>
+      <description>07/06/1944 A mixed Axis Jagdkommando chases the fleeing brigade staff in the deep swampy forests</description>
+      <date>22/06/1944</date>
+      <time_of_day>18:45</time_of_day>
+      <part_of_day>Dusk</part_of_day>
+      <length>00:40</length>
+      <battle_size>Small</battle_size>
+      <Map_Size>
+         <map_area>0.106 Sq. km</map_area>
+         <map_width>368 m</map_width>
+         <map_depth>288 m</map_depth>
+      </Map_Size>
+      <region>Soviet Union</region>
+      <environment>Forest</environment>
+      <weather>Dense Fog</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Muddy</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMRT v2.10 to v2.13</game_version>
+      <Modules_Required>
+         <module1>Fire and Rubble</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>3</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #04]</number_in_campaign>
+         <battle_title>PL Hunting Day</battle_title>
+      </Title>
+      <filename>CP SoD Chapter I Partisans Land #04_PL Hunting Day</filename>
+      <picture_link>scenpics/CP SoD Chapter I Partisans Land4.bmp</picture_link>
+      <battle_type>Axis Attack</battle_type>
+      <description>06/06/1944 Parts of Kampfgruppe Gribner attacking the partisans positions from south direction</description>
+      <date>22/06/1944</date>
+      <time_of_day>09:00</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>02:00</length>
+      <battle_size>Small</battle_size>
+      <Map_Size>
+         <map_area>0.269 Sq. km</map_area>
+         <map_width>480 m</map_width>
+         <map_depth>560 m</map_depth>
+      </Map_Size>
+      <region>Soviet Union</region>
+      <environment>Forest</environment>
+      <weather>Dense Fog</weather>
+      <temperature>Hot</temperature>
+      <ground_condition>Muddy</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMRT v2.10 to v2.13</game_version>
+      <Modules_Required>
+         <module1>Fire and Rubble</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>5</size_modifier>
+   </Scenario>
+
+   <Scenario>
+      <Title>
+         <number_in_campaign>[Campaign Battle #07]</number_in_campaign>
+         <battle_title>PL The Camp</battle_title>
+      </Title>
+      <filename>CP SoD Chapter I Partisans Land #07_PL The Camp</filename>
+      <picture_link>scenpics/CP SoD Chapter I Partisans Land7.bmp</picture_link>
+      <battle_type>Axis Attack</battle_type>
+      <description>07/06/1944 Kampfgruppe Gribner starts its final assault to destroy the partisans main camp deep in the forest south of the Lepel-Orscha Rollbahn</description>
+      <date>22/06/1944</date>
+      <time_of_day>04:30</time_of_day>
+      <part_of_day>Dawn</part_of_day>
+      <length>04:00</length>
+      <battle_size>Medium</battle_size>
+      <Map_Size>
+         <map_area>1.064 Sq. km</map_area>
+         <map_width>1056 m</map_width>
+         <map_depth>1008 m</map_depth>
+      </Map_Size>
+      <region>Soviet Union</region>
+      <environment>Forest</environment>
+      <weather>Thick Haze</weather>
+      <temperature>Warm</temperature>
+      <ground_condition>Wet</ground_condition>
+      <early_intel>Neither</early_intel>
+      <game_version>CMRT v2.10 to v2.13</game_version>
+      <Modules_Required>
+         <module1>Fire and Rubble</module1>
+      </Modules_Required>
+      <Mod_Tags>
+      </Mod_Tags>
+      <size_modifier>7</size_modifier>
+   </Scenario>
+
+   </Scenario_List>
+</Scenario_Listing>

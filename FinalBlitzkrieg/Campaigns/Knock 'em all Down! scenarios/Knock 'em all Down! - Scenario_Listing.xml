@@ -9,28 +9,28 @@
 
    <Scenario>
       <Title>
-         <number_in_campaign>[Campaign Battle #05]</number_in_campaign>
-         <battle_title>Aachen- Endgame</battle_title>
+         <number_in_campaign>[Campaign Battle #01]</number_in_campaign>
+         <battle_title>Aachen- The Underpass</battle_title>
       </Title>
-      <filename>Knock &apos;em all Down! #05_Aachen Endgame</filename>
-      <picture_link>scenpics/Knock &apos;em all Down!5.bmp</picture_link>
-      <battle_type>Allied Attack</battle_type>
-      <description>The endgame in the rubble of Aachen</description>
-      <date>16/10/1944</date>
-      <time_of_day>08:20</time_of_day>
+      <filename>Knock &apos;em all Down! #01_Aachen The Underpass</filename>
+      <picture_link>scenpics/Knock &apos;em all Down!1.bmp</picture_link>
+      <battle_type>Allied Assault</battle_type>
+      <description>G Company crosses the rail line into Aachen through Rothe Erde</description>
+      <date>15/10/1944</date>
+      <time_of_day>14:00</time_of_day>
       <part_of_day>Day</part_of_day>
-      <length>03:30</length>
-      <battle_size>Large</battle_size>
+      <length>01:50</length>
+      <battle_size>Medium</battle_size>
       <Map_Size>
-         <map_area>1.138 Sq. km</map_area>
-         <map_width>1248 m</map_width>
-         <map_depth>912 m</map_depth>
+         <map_area>1.082 Sq. km</map_area>
+         <map_width>1040 m</map_width>
+         <map_depth>1040 m</map_depth>
       </Map_Size>
       <region>Germany</region>
       <environment>City</environment>
-      <weather>Overcast</weather>
-      <temperature>Cool</temperature>
-      <ground_condition>Wet</ground_condition>
+      <weather>Light Rain</weather>
+      <temperature>Cold</temperature>
+      <ground_condition>Damp</ground_condition>
       <early_intel>Neither</early_intel>
       <game_version>CMFB v1.00 to v1.01</game_version>
       <Modules_Required>
@@ -41,34 +41,34 @@
          <mod_tag>aachen</mod_tag>
          <mod_tag>rubble</mod_tag>
       </Mod_Tags>
-      <size_modifier>9</size_modifier>
+      <size_modifier>7</size_modifier>
    </Scenario>
 
    <Scenario>
       <Title>
-         <number_in_campaign>[Campaign Battle #04]</number_in_campaign>
-         <battle_title>Aachen- Ghosts in the Mist</battle_title>
+         <number_in_campaign>[Campaign Battle #00]</number_in_campaign>
+         <battle_title>Aachen- Crawling from the Wreckage</battle_title>
       </Title>
-      <filename>Knock &apos;em all Down! #04_Aachen Ghosts in the Mist LOSS</filename>
-      <picture_link>scenpics/Knock &apos;em all Down!4.bmp</picture_link>
-      <battle_type>Allied Attack</battle_type>
-      <description>E Company battles through the Ostfriedhof cemetery as night falls</description>
+      <filename>Knock &apos;em all Down! #00_Aachen Crawling from the Wreckage</filename>
+      <picture_link>scenpics/Knock &apos;em all Down!0.bmp</picture_link>
+      <battle_type>Allied Assault</battle_type>
+      <description>F Company moves to wrest control of the industrial area NE of Aachen from a desperate, dug-in enemy.</description>
       <date>15/10/1944</date>
-      <time_of_day>17:50</time_of_day>
-      <part_of_day>Dusk</part_of_day>
-      <length>01:30</length>
+      <time_of_day>13:30</time_of_day>
+      <part_of_day>Day</part_of_day>
+      <length>01:50</length>
       <battle_size>Medium</battle_size>
       <Map_Size>
-         <map_area>0.384 Sq. km</map_area>
-         <map_width>800 m</map_width>
-         <map_depth>480 m</map_depth>
+         <map_area>1.289 Sq. km</map_area>
+         <map_width>1104 m</map_width>
+         <map_depth>1168 m</map_depth>
       </Map_Size>
       <region>Germany</region>
       <environment>City</environment>
-      <weather>Light Fog and Rain</weather>
-      <temperature>Cool</temperature>
-      <ground_condition>Muddy</ground_condition>
-      <early_intel>Neither</early_intel>
+      <weather>Overcast</weather>
+      <temperature>Cold</temperature>
+      <ground_condition>Dry</ground_condition>
+      <early_intel>Allied Force</early_intel>
       <game_version>CMFB v1.00 to v1.01</game_version>
       <Modules_Required>
       </Modules_Required>
@@ -120,29 +120,29 @@
 
    <Scenario>
       <Title>
-         <number_in_campaign>[Campaign Battle #00]</number_in_campaign>
-         <battle_title>Aachen- Crawling from the Wreckage</battle_title>
+         <number_in_campaign>[Campaign Battle #05]</number_in_campaign>
+         <battle_title>Aachen- Endgame</battle_title>
       </Title>
-      <filename>Knock &apos;em all Down! #00_Aachen Crawling from the Wreckage</filename>
-      <picture_link>scenpics/Knock &apos;em all Down!0.bmp</picture_link>
-      <battle_type>Allied Assault</battle_type>
-      <description>F Company moves to wrest control of the industrial area NE of Aachen from a desperate, dug-in enemy.</description>
-      <date>15/10/1944</date>
-      <time_of_day>13:30</time_of_day>
+      <filename>Knock &apos;em all Down! #05_Aachen Endgame</filename>
+      <picture_link>scenpics/Knock &apos;em all Down!5.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>The endgame in the rubble of Aachen</description>
+      <date>16/10/1944</date>
+      <time_of_day>08:20</time_of_day>
       <part_of_day>Day</part_of_day>
-      <length>01:50</length>
-      <battle_size>Medium</battle_size>
+      <length>03:30</length>
+      <battle_size>Large</battle_size>
       <Map_Size>
-         <map_area>1.289 Sq. km</map_area>
-         <map_width>1104 m</map_width>
-         <map_depth>1168 m</map_depth>
+         <map_area>1.138 Sq. km</map_area>
+         <map_width>1248 m</map_width>
+         <map_depth>912 m</map_depth>
       </Map_Size>
       <region>Germany</region>
       <environment>City</environment>
       <weather>Overcast</weather>
-      <temperature>Cold</temperature>
-      <ground_condition>Dry</ground_condition>
-      <early_intel>Allied Force</early_intel>
+      <temperature>Cool</temperature>
+      <ground_condition>Wet</ground_condition>
+      <early_intel>Neither</early_intel>
       <game_version>CMFB v1.00 to v1.01</game_version>
       <Modules_Required>
       </Modules_Required>
@@ -152,7 +152,7 @@
          <mod_tag>aachen</mod_tag>
          <mod_tag>rubble</mod_tag>
       </Mod_Tags>
-      <size_modifier>7</size_modifier>
+      <size_modifier>9</size_modifier>
    </Scenario>
 
    <Scenario>
@@ -194,28 +194,28 @@
 
    <Scenario>
       <Title>
-         <number_in_campaign>[Campaign Battle #01]</number_in_campaign>
-         <battle_title>Aachen- The Underpass</battle_title>
+         <number_in_campaign>[Campaign Battle #03]</number_in_campaign>
+         <battle_title>Aachen- Ghosts in the Mist</battle_title>
       </Title>
-      <filename>Knock &apos;em all Down! #01_Aachen The Underpass</filename>
-      <picture_link>scenpics/Knock &apos;em all Down!1.bmp</picture_link>
-      <battle_type>Allied Assault</battle_type>
-      <description>G Company crosses the rail line into Aachen through Rothe Erde</description>
+      <filename>Knock &apos;em all Down! #03_Aachen Ghosts in the Mist</filename>
+      <picture_link>scenpics/Knock &apos;em all Down!3.bmp</picture_link>
+      <battle_type>Allied Attack</battle_type>
+      <description>E Company battles through the Ostfriedhof cemetery as night falls</description>
       <date>15/10/1944</date>
-      <time_of_day>14:00</time_of_day>
-      <part_of_day>Day</part_of_day>
-      <length>01:50</length>
+      <time_of_day>17:50</time_of_day>
+      <part_of_day>Dusk</part_of_day>
+      <length>01:30</length>
       <battle_size>Medium</battle_size>
       <Map_Size>
-         <map_area>1.082 Sq. km</map_area>
-         <map_width>1040 m</map_width>
-         <map_depth>1040 m</map_depth>
+         <map_area>0.384 Sq. km</map_area>
+         <map_width>800 m</map_width>
+         <map_depth>480 m</map_depth>
       </Map_Size>
       <region>Germany</region>
       <environment>City</environment>
-      <weather>Light Rain</weather>
-      <temperature>Cold</temperature>
-      <ground_condition>Damp</ground_condition>
+      <weather>Light Fog and Rain</weather>
+      <temperature>Cool</temperature>
+      <ground_condition>Muddy</ground_condition>
       <early_intel>Neither</early_intel>
       <game_version>CMFB v1.00 to v1.01</game_version>
       <Modules_Required>
@@ -231,11 +231,11 @@
 
    <Scenario>
       <Title>
-         <number_in_campaign>[Campaign Battle #03]</number_in_campaign>
+         <number_in_campaign>[Campaign Battle #04]</number_in_campaign>
          <battle_title>Aachen- Ghosts in the Mist</battle_title>
       </Title>
-      <filename>Knock &apos;em all Down! #03_Aachen Ghosts in the Mist</filename>
-      <picture_link>scenpics/Knock &apos;em all Down!3.bmp</picture_link>
+      <filename>Knock &apos;em all Down! #04_Aachen Ghosts in the Mist LOSS</filename>
+      <picture_link>scenpics/Knock &apos;em all Down!4.bmp</picture_link>
       <battle_type>Allied Attack</battle_type>
       <description>E Company battles through the Ostfriedhof cemetery as night falls</description>
       <date>15/10/1944</date>

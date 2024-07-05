@@ -75,27 +75,27 @@
 
    <Scenario>
       <Title>
-         <number_in_campaign>[Campaign Battle #02]</number_in_campaign>
-         <battle_title>The Plains of Gela</battle_title>
+         <number_in_campaign>[Campaign Battle #04]</number_in_campaign>
+         <battle_title>Chiesa Madre</battle_title>
       </Title>
-      <filename>The Fleeting Moment #02_IT 03 Plains of Gela v17</filename>
-      <picture_link>scenpics/The Fleeting Moment2.bmp</picture_link>
+      <filename>The Fleeting Moment #04_IT 05 Chiesa Madre v10</filename>
+      <picture_link>scenpics/The Fleeting Moment4.bmp</picture_link>
       <battle_type>Axis Attack</battle_type>
-      <description>The Livorno Battlegroup must slip around the Americans and continue on to Gela</description>
+      <description>The Livorno Battlegroup retakes the centre of Gela</description>
       <date>11/07/1943</date>
-      <time_of_day>09:00</time_of_day>
+      <time_of_day>16:00</time_of_day>
       <part_of_day>Day</part_of_day>
-      <length>00:50</length>
-      <battle_size>Large</battle_size>
+      <length>01:10</length>
+      <battle_size>Small</battle_size>
       <Map_Size>
-         <map_area>1.784 Sq. km</map_area>
-         <map_width>1104 m</map_width>
-         <map_depth>1616 m</map_depth>
+         <map_area>0.083 Sq. km</map_area>
+         <map_width>304 m</map_width>
+         <map_depth>272 m</map_depth>
       </Map_Size>
       <region>Italy</region>
-      <environment>Open</environment>
+      <environment>City</environment>
       <weather>Clear</weather>
-      <temperature>Warm</temperature>
+      <temperature>Hot</temperature>
       <ground_condition>Very Dry</ground_condition>
       <early_intel>Axis Force</early_intel>
       <game_version>CMFI v1.00</game_version>
@@ -103,7 +103,7 @@
       </Modules_Required>
       <Mod_Tags>
       </Mod_Tags>
-      <size_modifier>7</size_modifier>
+      <size_modifier>4</size_modifier>
    </Scenario>
 
    <Scenario>
@@ -174,27 +174,27 @@
 
    <Scenario>
       <Title>
-         <number_in_campaign>[Campaign Battle #04]</number_in_campaign>
-         <battle_title>Chiesa Madre</battle_title>
+         <number_in_campaign>[Campaign Battle #02]</number_in_campaign>
+         <battle_title>The Plains of Gela</battle_title>
       </Title>
-      <filename>The Fleeting Moment #04_IT 05 Chiesa Madre v10</filename>
-      <picture_link>scenpics/The Fleeting Moment4.bmp</picture_link>
+      <filename>The Fleeting Moment #02_IT 03 Plains of Gela v17</filename>
+      <picture_link>scenpics/The Fleeting Moment2.bmp</picture_link>
       <battle_type>Axis Attack</battle_type>
-      <description>The Livorno Battlegroup retakes the centre of Gela</description>
+      <description>The Livorno Battlegroup must slip around the Americans and continue on to Gela</description>
       <date>11/07/1943</date>
-      <time_of_day>16:00</time_of_day>
+      <time_of_day>09:00</time_of_day>
       <part_of_day>Day</part_of_day>
-      <length>01:10</length>
-      <battle_size>Small</battle_size>
+      <length>00:50</length>
+      <battle_size>Large</battle_size>
       <Map_Size>
-         <map_area>0.083 Sq. km</map_area>
-         <map_width>304 m</map_width>
-         <map_depth>272 m</map_depth>
+         <map_area>1.784 Sq. km</map_area>
+         <map_width>1104 m</map_width>
+         <map_depth>1616 m</map_depth>
       </Map_Size>
       <region>Italy</region>
-      <environment>City</environment>
+      <environment>Open</environment>
       <weather>Clear</weather>
-      <temperature>Hot</temperature>
+      <temperature>Warm</temperature>
       <ground_condition>Very Dry</ground_condition>
       <early_intel>Axis Force</early_intel>
       <game_version>CMFI v1.00</game_version>
@@ -202,7 +202,7 @@
       </Modules_Required>
       <Mod_Tags>
       </Mod_Tags>
-      <size_modifier>4</size_modifier>
+      <size_modifier>7</size_modifier>
    </Scenario>
 
    </Scenario_List>
